@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Learning Object: Page 2</title>
+<script>
+	var pg_csslibs = ['']; // CSS Libs for this Page
+	var pg_jslibs = ['']; // JS Libs for this Page
+	var isindex = false;
+</script>
+<script type="text/javascript" src="../global/js/settings.js"></script><!-- LO settings -->
+<script type="text/javascript" src="../../../js/settings.js"></script><!-- Course Settings -->
+<style>
+</style>
+</head>
+<body>
+<div id="appContent">
+
+        
+        <h2>Text Versions</h2>
+        <p>For anything that requires a version besides native interactives and images, such as interactive elements, native interactives, eLL interactives, and videos. Simply wrap the div in the following code. The text version file should be saved to "textversion" folder in the module and should only contain the content with html markup (no html, head or body tags).  Examples can be seen throughout the cheatsheet.</p>
+        
+        <h3>Wrapping Div:</h3>
+        <pre>
+&lt;div class=&quot;text_version&quot; data-src=&quot;textversion/pagename_txta.htm&quot;&gt;
+    Interactive content div here.
+&lt;/div&gt;
+        </pre>
+        
+        <h3>Example Text Version File:</h3>
+        <pre>
+&lt;p&gt;This is the text version for this interactive.&lt;/p&gt;
+&lt;p&gt;I can have any content in here.&lt;/p&gt;
+        </pre>
+        
+        <hr/>
+        
+        
+        <h2>One-Off Interactive</h2>
+        <p>For interactives that are inside the interactive folder that will be loaded into an iframe as a one-off or custom interactive</p>
+        
+        
+        <div class="interactive" data-src="../../../../cheatsheet/interactive/GriddedResponse/index.htm:680:555">
+        	This is the text version.
+        </div>
+        
+        <pre>
+&lt;div class=&quot;interactive&quot; data-src=&quot;interactive/GriddedResponse/index.htm:680:555&quot;&gt;
+    This is the text version.
+&lt;/div&gt;
+        </pre>                  
+
+        <div class="alert alert-info">
+        	<strong>Optional:</strong><br/>
+            "notext" after the width to hide the text version button<br/>
+            data-src="link/to/item/index.htm:width:height:notext
+        </div>
+		
+		
+</div>
+</body>
+</html> 

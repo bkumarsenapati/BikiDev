@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.12 Functional Notation">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>If f(x) = -5x, then f(3)=__________</label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>5</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>If g(x) = 2x - 1, then g(4)=__________</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>5</credit>
+			</blank>
+	</item>
+</assessment>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.14 Lab">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Please refer to the assignment box of the lesson.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

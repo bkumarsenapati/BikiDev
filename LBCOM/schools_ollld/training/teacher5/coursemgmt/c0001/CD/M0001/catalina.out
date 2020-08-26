@@ -1,0 +1,3299 @@
+Sep 17, 2012 5:27:33 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Sep 17, 2012 5:27:33 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 803 ms
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.0.25
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardHost getDeployer
+INFO: Create Host deployer for direct deployment ( non-jmx ) 
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Processing Context configuration file URL file:/home/oh/jakarta-tomcat-5.0.25/conf/Catalina/localhost/LBRT.xml
+Sep 17, 2012 5:27:34 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT/WEB-INF/lib/servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Processing Context configuration file URL file:/home/oh/jakarta-tomcat-5.0.25/conf/Catalina/localhost/manager.xml
+Sep 17, 2012 5:27:34 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Processing Context configuration file URL file:/home/oh/jakarta-tomcat-5.0.25/conf/Catalina/localhost/LBCOM.xml
+Sep 17, 2012 5:27:34 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(/home/oh/jakarta-tomcat-5.0.25/webapps/LBCOM/WEB-INF/lib/servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 17, 2012 5:27:35 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Processing Context configuration file URL file:/home/oh/jakarta-tomcat-5.0.25/conf/Catalina/localhost/admin.xml
+Sep 17, 2012 5:27:35 AM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.util.LocalStrings', returnNull=true
+Sep 17, 2012 5:27:35 AM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.struts.action.ActionResources', returnNull=true
+Sep 17, 2012 5:27:35 AM org.apache.struts.util.PropertyMessageResources <init>
+INFO: Initializing, config='org.apache.webapp.admin.ApplicationResources', returnNull=true
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Processing Context configuration file URL file:/home/oh/jakarta-tomcat-5.0.25/conf/Catalina/localhost/balancer.xml
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /servlets-examples from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/servlets-examples
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /LBRT-OLD from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT-OLD
+Sep 17, 2012 5:27:37 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT-OLD/WEB-INF/lib/servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path  from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/ROOT
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /tomcat-docs from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/tomcat-docs
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /jsp-examples from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/jsp-examples
+Sep 17, 2012 5:27:37 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /LBRT_2010 from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT_2010
+Sep 17, 2012 5:27:37 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT_2010/WEB-INF/lib/servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 17, 2012 5:27:38 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /LBRT_2011 from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT_2011
+Sep 17, 2012 5:27:38 AM org.apache.catalina.loader.WebappClassLoader validateJarFile
+INFO: validateJarFile(/home/oh/jakarta-tomcat-5.0.25/webapps/LBRT_2011/WEB-INF/lib/servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+Sep 17, 2012 5:27:38 AM org.apache.catalina.core.StandardHostDeployer install
+INFO: Installing web application at context path /webdav from URL file:/home/oh/jakarta-tomcat-5.0.25/webapps/webdav
+Sep 17, 2012 5:27:38 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Sep 17, 2012 5:27:38 AM org.apache.jk.common.ChannelSocket init
+INFO: JK2: ajp13 listening on /0.0.0.0:8009
+Sep 17, 2012 5:27:38 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=1/14  config=/home/oh/jakarta-tomcat-5.0.25/conf/jk2.properties
+Sep 17, 2012 5:27:38 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5092 ms
+AbandonedObjectPool is used (org.apache.commons.dbcp.AbandonedObjectPool@d5c0f9)
+   LogAbandoned: false
+   RemoveAbandoned: true
+   RemoveAbandonedTimeout: 60
+passWord...teacher
+select user_type from lb_users where userid='teacher1' and password='teacher' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+Topic frame...courseName...null
+teacherId...teacher1...schoolId...mahoning....sessionId...D253A165C4D1008480153E8D6DFE22B9
+passWord...teacher
+select user_type from lb_users where userid='teacher1' and password='teacher' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+teacherId...teacher1...schoolId...mahoning....sessionId...9CFC63ACED6B0F5899E0D17E2E488D60
+AbandonedObjectPool is used (org.apache.commons.dbcp.AbandonedObjectPool@1057305)
+   LogAbandoned: false
+   RemoveAbandoned: true
+   RemoveAbandonedTimeout: 60
+passWord...calculus
+select user_type from lb_users where userid='kmiller' and password='calculus' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+Topic frame...courseName...null
+AbandonedObjectPool is used (org.apache.commons.dbcp.AbandonedObjectPool@157b39f)
+   LogAbandoned: false
+   RemoveAbandoned: true
+   RemoveAbandonedTimeout: 2
+passWord...10jobs11
+select user_type from lb_users where userid='careerteacher' and password='10jobs11' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+classId...C000
+Forums.......mahoning
+Forums.......careerteacher
+classId....C000
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...false
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Topic frame...courseName...null
+school countis...10
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+classId...C000
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+classId...C000
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+File or directory does not exist.
+Topic frame...courseName...null
+passWord...10jobs11
+select user_type from lb_users where userid='careerteacher' and password='10jobs11' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-88972F09C2B333256E829640ED0676C9
+classId...C000
+school countis...10
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='MAhoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+Forums.......mahoning
+Forums.......12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+Topic frame...courseName...null
+teacherId...kmiller...schoolId...mahoning....sessionId...kmiller
+teacherId...12bjohnstone...schoolId...mahoning....sessionId...03A7C1CA40831344F8AEE1B1C368004A
+passWord...crump53
+select user_type from lb_users where userid='edwardcrump' and password='crump53' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...edwardcrump
+passWord...channell12
+select user_type from lb_users where userid='slteacher' and password='channell12' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...shannon319
+select user_type from lb_users where userid='christophershannon' and password='shannon319' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christophershannon
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christophershannon
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christophershannon
+passWord...davis114
+select user_type from lb_users where userid='katherinedavis' and password='davis114' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...katherinedavis
+passWord...davis114
+select user_type from lb_users where userid='aarondavis' and password='davis114' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...downie114
+select user_type from lb_users where userid='austindownie' and password='downie114' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...jaecke1910
+select user_type from lb_users where userid='shannonjaecke' and password='jaecke1910' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...austindownie
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+Forums.......mahoning
+Forums.......austindownie
+passWord...tillis1020
+select user_type from lb_users where userid='jermainetillis' and password='tillis1020' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jermainetillis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+Forums.......mahoning
+Forums.......shannonjaecke
+Grades..jermainetillis
+Topic frame...courseName...null
+Forums.......mahoning
+Forums.......jermainetillis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...austindownie
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+Topic frame...courseName...null
+Topic frame...courseName...null
+school countis...10
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christophershannon
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+passWord...jaecke1910
+select user_type from lb_users where userid='shannonjaecke' and password='jaecke1910' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jermainetillis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+The status is updated
+passWord...garman47
+select user_type from lb_users where userid='donaldgarman' and password='garman47' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+...................................In StuModeSel...null
+submissionNo...1
+attempts...1
+count...1
+...................................In StuModeSel...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...donaldgarman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...veda60
+select user_type from lb_users where userid='p12bdavenport' and password='veda60' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...p12bdavenport
+Topic frame...courseName...null
+grids..calendar
+grids..calendar.........student
+grids..calendarstudent
+Calendar...selDate...null
+passWord...JackReel1
+select user_type from lb_users where userid='mrreel1' and password='JackReel1' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+passWord...murphy1313
+select user_type from lb_users where userid='michellemurphy' and password='murphy1313' and schoolid='boardman' and status=1
+mode...student
+userFlag...true
+passWord...murphy1313
+select user_type from lb_users where userid='michellemurphy' and password='murphy1313' and schoolid='boardman' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-boardman,Userid-0A88CCFEE26201D0ED33866EA99AA507
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...boardman
+Student studentId...michellemurphy
+teacherId...michellemurphy...schoolId...boardman....sessionId...0A88CCFEE26201D0ED33866EA99AA507
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jermainetillis
+passWord...lola1606
+select user_type from lb_users where userid='mrsmartin' and password='lola1606' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jermainetillis
+Topic frame...courseName...null
+passWord...guide07
+select user_type from lb_users where userid='cjones' and password='guide07' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+Topic frame...courseName...null
+school countis...10
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+passWord...sher60
+select user_type from lb_users where userid='sl11dsherman' and password='sher60' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+Error:  -Corrupt form data: premature ending
+The status is updated
+passWord...cent51
+select user_type from lb_users where userid='07hcentric' and password='cent51' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...lola1606
+select user_type from lb_users where userid='mrsmartin' and password='lola1606' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+teacherId...mrsmartin...schoolId...mahoning....sessionId...701169912AF75D4464DB524B431F17F4
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...07hcentric
+Topic frame...courseName...null
+grids..calendar
+grids..calendar.........student
+grids..calendarstudent
+Calendar...selDate...null
+GGGGGGGGGGGGG
+type...student
+Topic frame...courseName...null
+utype...student
+folder_path..../home/oh//jakarta-tomcat-5.0.25/webapps/LBCOM/DMS/files/sl12aedwards
+f_len..1
+Grades..sl12aedwards
+Topic frame...courseName...null
+Forums.......mahoning
+Forums.......sl12aedwards
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...crump53
+select user_type from lb_users where userid='edwardcrump' and password='crump53' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...07hcentric
+passWord...lola1606
+select user_type from lb_users where userid='mrsmartin' and password='lola1606' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...edwardcrump
+same user trying to lagin twice-Schoolid-mahoning,Userid-6977A203F20ADAC8AFA8E71505003623
+passWord...lola1606
+select user_type from lb_users where userid='mrsmartin' and password='lola1606' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-6977A203F20ADAC8AFA8E71505003623
+teacherId...cjones...schoolId...mahoning....sessionId...8124FC8D38167B5036E7A082C8F75AF4
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+teacherId...sl12aedwards...schoolId...mahoning....sessionId...9F108205B8A7B1D09FD65FFC0193F360
+passWord...crump53
+select user_type from lb_users where userid='edwardcrump' and password='crump53' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...edwardcrump
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+teacherId...12bjohnstone...schoolId...mahoning....sessionId...1225755A67D0515B52807C36E3BFF7CB
+teacherId...12bjohnstone...schoolId...mahoning....sessionId...1225755A67D0515B52807C36E3BFF7CB
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...akron11
+select user_type from lb_users where userid='catalano12' and password='akron11' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+school countis...10
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...catalano12
+passWord...niles9
+select user_type from lb_users where userid='george12' and password='niles9' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+passWord...field09
+select user_type from lb_users where userid='adams12' and password='field09' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...adams12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+Error: SQL in CourseHome.jspTable 'lbcomrtdb.mahoning_C002_c0020_workdocs' doesn't exist
+Topic frame...courseName...null
+teacherId...sl12aedwards...schoolId...mahoning....sessionId...7410F541F34DFAFE63D734F8F0B9E354
+school countis...10
+passWord...calculus
+select user_type from lb_users where userid='kmiller' and password='calculus' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+Topic frame...courseName...null
+passWord...warren08
+select user_type from lb_users where userid='smith12' and password='warren08' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+passWord...youngstown10
+select user_type from lb_users where userid='moore12' and password='youngstown10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+passWord...uplc10
+select user_type from lb_users where userid='butler12' and password='uplc10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+Topic frame...courseName...null
+teacherId...kmiller...schoolId...mahoning....sessionId...4AA0A726FB1E99D960AC4AFC6613DDEE
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...warren08
+select user_type from lb_users where userid='smith12' and password='warren08' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+passWord...highland12
+select user_type from lb_users where userid='plute12' and password='highland12' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+passWord...cloverleaf12
+select user_type from lb_users where userid='hannahs12' and password='cloverleaf12' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...hannahs12
+passWord...eshe32
+select user_type from lb_users where userid='07deshenbaugh' and password='eshe32' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+Topic frame...courseName...null
+Error:  -Corrupt form data: premature ending
+The status is updated
+passWord...bweidner
+select user_type from lb_users where userid='10bweidner' and password='bweidner' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...shannonjaecke
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10bweidner
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10bweidner
+teacherId...sl12aedwards...schoolId...mahoning....sessionId...F0B977C33612F4D232065AFF71B9A23F
+teacherId...sl12aedwards...schoolId...mahoning....sessionId...F0B977C33612F4D232065AFF71B9A23F
+passWord...tchatman
+select user_type from lb_users where userid='10tchatman' and password='tchatman' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+passWord...mtrammell
+select user_type from lb_users where userid='10mtrammell' and password='mtrammell' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10tchatman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...07deshenbaugh
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10mtrammell
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+teacherId...shannonjaecke...schoolId...mahoning....sessionId...EB6E085038577CE94D784B79B903A39F
+passWord...nmccall
+select user_type from lb_users where userid='10nmccall' and password='nmccall' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10nmccall
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...07deshenbaugh
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+passWord...123777
+select user_type from lb_users where userid='thatmoody' and password='123777' and schoolid='smoody' and status=1
+Else.....123777
+teacherId...aarondavis...schoolId...mahoning....sessionId...DA7E21247F388AF518B22B6B253802AD
+passWord...DAVIS114
+select user_type from lb_users where userid='aarondavis' and password='DAVIS114' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...96333
+select user_type from lb_users where userid='10nauticam' and password='96333' and schoolid='mychs' and status=1
+Else.....96333
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...smoody
+select user_type from lb_users where userid='10smoody' and password='smoody' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+passWord...nmorgan
+select user_type from lb_users where userid='10nmorgan' and password='nmorgan' and schoolid='mychs' and status=1
+Else.....nmorgan
+passWord...nmorgan
+select user_type from lb_users where userid='10nmorgan' and password='nmorgan' and schoolid='mychs' and status=1
+Else.....nmorgan
+Error in CourseHome.jsp:  -null
+Error in CourseHome.jsp:  -null
+SQL Error in CourseHome.jspAlready closed.
+Error: SQL in CourseHome.jspCommunications link failure
+
+Last packet sent to the server was 1 ms ago.
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+passWord...whit36
+select user_type from lb_users where userid='09ewhitfield' and password='whit36' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Error: SQL in CourseHome.jspConnection is closed.
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...aarondavis...schoolId...mahoning....sessionId...36C836A68027601A6F6881B5BC6CD708
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10smoody
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+Topic frame...courseName...null
+passWord...nmorgan
+select user_type from lb_users where userid='10nmorgan' and password='nmorgan' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+passWord...davis114
+select user_type from lb_users where userid='aarondavis' and password='davis114' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10nmorgan
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondavis
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10nmorgan
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+passWord...sher60
+select user_type from lb_users where userid='sl11dsherman' and password='sher60' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+passWord...john81
+select user_type from lb_users where userid='12bjohsntone' and password='john81' and schoolid='Mahoning' and status=1
+Else.....john81
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...donaldgarman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...donaldgarman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christophershannon
+teacherId...donaldgarman...schoolId...mahoning....sessionId...E47FD5B012F3CC1FF05B64DF0E92129C
+Topic frame...courseName...null
+passWord...mchs*p
+select user_type from lb_users where userid='mchs' and password='mchs*p' and schoolid='mchs' and status=1
+mode...admin
+userFlag...true
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...adams12
+teacherId...katherinedavis...schoolId...mahoning....sessionId...85823A560C12028A5EE2168EE7CCF80D
+Forums.......mahoning
+Forums.......sl12aedwards
+teacherId...austindownie...schoolId...mahoning....sessionId...FB07B0253210517B8F94BB55CF25E217
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+teacherId...Admin...schoolId...mchs....sessionId...C241DA23B366E7E5955D1256CB7A2CD2
+passWord...12mchs13
+select user_type from lb_users where userid='mrdangler' and password='12mchs13' and schoolid='mchs' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+classId...C000
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+examtype...all
+&&&&........examType...AS
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+&&&&........examType...AS
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+examtype...all
+&&&&........examType...AS
+Error:  -Corrupt form data: premature ending
+Error:  -Corrupt form data: premature ending
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+examtype...all
+&&&&........examType...AS
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+school countis...10
+passWord...rnorman
+select user_type from lb_users where userid='10rnorman' and password='rnorman' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10rnorman
+Error:  -Corrupt form data: premature ending
+The status is updated
+passWord...dill14
+select user_type from lb_users where userid='aarondill' and password='dill14' and schoolid='mahoninig' and status=1
+Else.....dill14
+passWord...tokarsky1220
+select user_type from lb_users where userid='lindseytokarsky' and password='tokarsky1220' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...jones1410
+select user_type from lb_users where userid='nathanjones' and password='jones1410' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...dothard
+select user_type from lb_users where userid='12adothard' and password='dothard' and schoolid='MCCTC' and status=1
+mode...student
+userFlag...true
+passWord...dill14
+select user_type from lb_users where userid='aarondill' and password='dill14' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nathanjones
+passWord...metzger1013
+select user_type from lb_users where userid='johnnymetzger' and password='metzger1013' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+passWord...boyd102
+select user_type from lb_users where userid='jamesboyd' and password='boyd102' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...aarondill
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...lindseytokarsky
+passWord...schreiber1919
+select user_type from lb_users where userid='sumnerschreiber' and password='schreiber1919' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sumnerschreiber
+Topic frame...courseName...null
+Topic frame...courseName...null
+teacherId...sumnerschreiber...schoolId...mahoning....sessionId...A2BC15F8F31290FEE5CCAC740ADB6645
+passWord...mcintosh1213
+select user_type from lb_users where userid='lesliemcintosh' and password='mcintosh1213' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...johnnymetzger
+teacherId...sumnerschreiber...schoolId...mahoning....sessionId...A2BC15F8F31290FEE5CCAC740ADB6645
+teacherId...aarondill...schoolId...mahoning....sessionId...0E26640B9323198805BC3A0C75BC8179
+teacherId...aarondill...schoolId...mahoning....sessionId...0E26640B9323198805BC3A0C75BC8179
+passWord...mcintosh1213
+select user_type from lb_users where userid='lesliemcintosh' and password='mcintosh1213' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...mcintosh1213
+select user_type from lb_users where userid='lesliemcintosh' and password='mcintosh1213' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...ziadeh1126
+select user_type from lb_users where userid='kyleziadeh' and password='ziadeh1126' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...schuler1919
+select user_type from lb_users where userid='sethschuler' and password='schuler1919' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-4B6D593EC511FE8D5620FDE372855CB9
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...lesliemcintosh
+passWord...vargas1922
+select user_type from lb_users where userid='sierravargas' and password='vargas1922' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...shirley
+select user_type from lb_users where userid='12cshirley' and password='shirley' and schoolid='MCCTC' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sierravargas
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12cshirley
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12cshirley
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sethschuler
+passWord...reble12
+select user_type from lb_users where userid='12treble' and password='reble12' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12treble
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+The status  updation is failed in cmgmt/student/changecoursestatus.jsp
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+passWord...deramo134
+select user_type from lb_users where userid='markderamo' and password='deramo134' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sierravargas
+passWord...Reynolds318
+select user_type from lb_users where userid='cheyennereynolds' and password='Reynolds318' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...markderamo
+Forums.......mahoning
+Forums.......johnnymetzger
+passWord...mtrammell
+select user_type from lb_users where userid='10mtrammell' and password='mtrammell' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+passWord...patterson
+select user_type from lb_users where userid='12rpatterson' and password='patterson' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10mtrammell
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...kyleziadeh
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+passWord...ferguson
+select user_type from lb_users where userid='12jferguson' and password='ferguson' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12rpatterson
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12jferguson
+passWord...reynolds318
+select user_type from lb_users where userid='cheyennereynolds' and password='reynolds318' and schoolid='mohoning' and status=1
+Else.....reynolds318
+passWord...oliver
+select user_type from lb_users where userid='12soliver' and password='oliver' and schoolid='MCCTC' and status=1
+mode...student
+userFlag...true
+passWord...oliver
+select user_type from lb_users where userid='12soliver' and password='oliver' and schoolid='MCCTC' and status=1
+mode...student
+userFlag...true
+Error:  -Corrupt form data: premature ending
+The status is updated
+passWord...patterson
+select user_type from lb_users where userid='12rpatterson' and password='patterson' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mcctc,Userid-80B6775F3C2FD03125C429F5CEC40A60
+teacherId...12cshirley...schoolId...mcctc....sessionId...C22B54FA0AE89B3329999429CC561737
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12rpatterson
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+Grades..kyleziadeh
+Topic frame...courseName...null
+passWord...ferguson
+select user_type from lb_users where userid='12jferguson' and password='ferguson' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mcctc,Userid-CFE27D80D933456BB0338A4F72978A9D
+passWord...bruce12
+select user_type from lb_users where userid='12dbruce' and password='bruce12' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+Forums.......mahoning
+Forums.......jamesboyd
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12jferguson
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12soliver
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12dbruce
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12rpatterson
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12treble
+passWord...watkins1123
+select user_type from lb_users where userid='kodywatkins' and password='watkins1123' and schoolid='boardman' and status=1
+mode...student
+userFlag...true
+passWord...07tutor08
+select user_type from lb_users where userid='kflanery' and password='07tutor08' and schoolid='norcat' and status=1
+mode...teacher
+userFlag...true
+passWord...lrushton
+select user_type from lb_users where userid='10lrushton' and password='lrushton' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+classId...C000
+passWord...amicone181
+select user_type from lb_users where userid='robertamicone' and password='amicone181' and schoolid='maoning' and status=1
+Else.....amicone181
+passWord...reynolds318
+select user_type from lb_users where userid='cheyennereynolds' and password='reynolds318' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...boardman
+Student studentId...kodywatkins
+passWord...amicone181
+select user_type from lb_users where userid='robertamicone' and password='amicone181' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...cheyennereynolds...schoolId...mahoning....sessionId...4939E3BD2808FF9172C4005CA1EC9876
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12jferguson
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10lrushton
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12rpatterson
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12soliver
+passWord...reynolds318
+select user_type from lb_users where userid='cheyennereynolds' and password='reynolds318' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...cheyennereynolds
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...robertamicone
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12soliver
+Forums.......mahoning
+Forums.......johnnymetzger
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...cheyennereynolds
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...johnnymetzger
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12jferguson
+Error:  -Corrupt form data: premature ending
+The status is updated
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12adothard
+Forums.......mahoning
+Forums.......sl12aedwards
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10smoody
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10smoody
+Topic frame...courseName...null
+passWord...aziz98
+select user_type from lb_users where userid='sl12baziz' and password='aziz98' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...robertamicone
+Forums.......mahoning
+Forums.......12bjohnstone
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...robertamicone
+passWord...heas93
+select user_type from lb_users where userid='12bheasley' and password='heas93' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+Error:  -Corrupt form data: premature ending
+Topic frame...courseName...null
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...lindseytokarsky
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bheasley
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12treble
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+examtype...all
+&&&&........examType...AS
+passWord...ball15
+select user_type from lb_users where userid='sl11sball' and password='ball15' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+select e.exam_name,c.user_id,e.from_date,e.to_date,curdate() t ,curtime() ct from exam_tbl as e inner join mahoning_cescores as c on e.exam_id=c.work_id and e.school_id='mahoning' and c.work_id='e0507' and e.course_id='c0005' and c.school_id='mahoning' and c.report_status>=0 order by c.user_id
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_07msteg as ss where schoolid='mahoning' and username='07msteg' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_08rmetts as ss where schoolid='mahoning' and username='08rmetts' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_09dbistarkey as ss where schoolid='mahoning' and username='09dbistarkey' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_09ewhitfield as ss where schoolid='mahoning' and username='09ewhitfield' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_09hcolbert as ss where schoolid='mahoning' and username='09hcolbert' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_10awilliams as ss where schoolid='mahoning' and username='10awilliams' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_10tericsson as ss where schoolid='mahoning' and username='10tericsson' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_11cgrosso as ss where schoolid='mahoning' and username='11cgrosso' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_11kpontuti as ss where schoolid='mahoning' and username='11kpontuti' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12brichards as ss where schoolid='mahoning' and username='12brichards' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12clopez as ss where schoolid='mahoning' and username='12clopez' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12mbarns as ss where schoolid='mahoning' and username='12mbarns' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12tgilkinson as ss where schoolid='mahoning' and username='12tgilkinson' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12twallace as ss where schoolid='mahoning' and username='12twallace' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_12zcossack as ss where schoolid='mahoning' and username='12zcossack' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_C000_vstudent as ss where schoolid='mahoning' and username='C000_vstudent' and exam_id='e0507' order by fname,lname
+select sp.username,sp.fname,sp.lname, ss.end_date from studentprofile as sp inner join mahoning_student1 as ss where schoolid='mahoning' and username='student1' and exam_id='e0507' order by fname,lname
+The status is updated
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bheasley
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+Error: SQL in CourseHome.jspConnection is closed.
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...lindseytokarsky
+passWord...boyd102
+select user_type from lb_users where userid='jamesboyd' and password='boyd102' and schoolid='maoning' and status=1
+Else.....boyd102
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+This entry is there already
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11sball
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12dbruce
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12dbruce
+passWord...greenford06
+select user_type from lb_users where userid='srutana06' and password='greenford06' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12baziz
+passWord...ferguson
+select user_type from lb_users where userid='12jferguson' and password='ferguson' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mcctc,Userid-CFE27D80D933456BB0338A4F72978A9D
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+passWord...hall23
+select user_type from lb_users where userid='11shall' and password='hall23' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12jferguson
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11shall
+Error:  -Corrupt form data: premature ending
+The status is updated
+teacherId...slteacher...schoolId...mahoning....sessionId...D75E3468A11A27C1DB22C9529C507451
+Error:  -Corrupt form data: premature ending
+The status is updated
+passWord...sher60
+select user_type from lb_users where userid='sl11dsherman' and password='sher60' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11shall
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11shall
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sierravargas
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...cheyennereynolds
+passWord...jgibbs
+select user_type from lb_users where userid='10jgibbs' and password='jgibbs' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sierravargas
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+Error:  -Corrupt form data: premature ending
+The status is updated
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10lrushton
+passWord...abby98
+select user_type from lb_users where userid='mrssturgeon' and password='abby98' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10jgibbs
+passWord...reble12
+select user_type from lb_users where userid='12treble' and password='reble12' and schoolid='mcctc' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mcctc
+Student studentId...12treble
+The status is updated
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10bweidner
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+passWord...rawa82
+select user_type from lb_users where userid='11drawahneh' and password='rawa82' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...rawa82
+select user_type from lb_users where userid='11drawahneh' and password='rawa82' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-97A89615A88D77C5A0AF832EFCCE3477
+Topic frame...courseName...null
+Topic frame...courseName...null
+teacherId...10bweidner...schoolId...mchs....sessionId...A83917120BB1E3F179DE74EFB0483857
+school countis...10
+passWord...rawa82
+select user_type from lb_users where userid='11drawahneh' and password='rawa82' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-97A89615A88D77C5A0AF832EFCCE3477
+passWord...rawa82
+select user_type from lb_users where userid='11drawahneh' and password='rawa82' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-97A89615A88D77C5A0AF832EFCCE3477
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11drawahneh
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11shall
+passWord...aziz98
+select user_type from lb_users where userid='sl12baziz' and password='aziz98' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...catalano12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12baziz
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nathanjones
+passWord...07tutor08
+select user_type from lb_users where userid='kflanery' and password='07tutor08' and schoolid='norcat' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nathanjones
+passWord...07tutor08
+select user_type from lb_users where userid='kflanery' and password='07tutor08' and schoolid='norcat' and status=1
+mode...teacher
+userFlag...true
+same user trying to lagin twice-Schoolid-norcat,Userid-C76367E043CFF71C91E83BFD36E0553D
+Topic frame...courseName...null
+school countis...10
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sethschuler
+school countis...10
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...lindseytokarsky
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...kyleziadeh
+teacherId...lindseytokarsky...schoolId...mahoning....sessionId...B6B1428CD272375442AE177FA3B4E6E8
+Topic frame...courseName...null
+grids..calendar
+grids..calendar.........student
+grids..calendarstudent
+Calendar...selDate...null
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+examtype...all
+&&&&........examType...AS
+Grades..kyleziadeh
+Topic frame...courseName...null
+GGGGGGGGGGGGG
+type...student
+Topic frame...courseName...null
+utype...student
+folder_path..../home/oh//jakarta-tomcat-5.0.25/webapps/LBCOM/DMS/files/kyleziadeh
+f_len..1
+Forums.......mahoning
+Forums.......sethschuler
+classId...C000
+Forums.......mahoning
+Forums.......mrssturgeon
+classId....C000
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...false
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+school countis...10
+passWord...06mcctcmw07
+select user_type from lb_users where userid='mcctcmw06' and password='06mcctcmw07' and schoolid='mcctc' and status=1
+mode...teacher
+userFlag...true
+classId...C000
+passWord...calculus
+select user_type from lb_users where userid='kmiller' and password='calculus' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+school countis...10
+passWord...boyd102
+select user_type from lb_users where userid='jamesboyd' and password='boyd102' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+Topic frame...courseName...null
+passWord...aziz98
+select user_type from lb_users where userid='sl12baziz' and password='aziz98' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...plute12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...cheyennereynolds
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sethschuler
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...cheyennereynolds
+passWord...thom42
+select user_type from lb_users where userid='12sthomas' and password='thom42' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sthomas
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10nmorgan
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sthomas
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sethschuler
+Topic frame...courseName...null
+passWord...aziz98
+select user_type from lb_users where userid='sl12baziz' and password='aziz98' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...markderamo
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11drawahneh
+&&&&........examType...AS
+Forums.......mahoning
+Forums.......markderamo
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sthomas
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10lrushton
+The status is updated
+The status in SubmitScore.jsp is updated
+passWord...ball15
+select user_type from lb_users where userid='sl11sball' and password='ball15' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...kyleziadeh...schoolId...mahoning....sessionId...A60A36B359182CCAE5476605F03C6CE6
+passWord...ball15
+select user_type from lb_users where userid='sl11sball' and password='ball15' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-D804C79023801136F07A0B5A90D04613
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11sball
+The status is updated
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11sball
+teacherId...markderamo...schoolId...mahoning....sessionId...EF366D470B533CD86359986AEDA9A468
+teacherId...12soliver...schoolId...mcctc....sessionId...06402D813B8090C257013E7B0397FC63
+Forums.......mahoning
+Forums.......mrssturgeon
+classId....C000
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...false
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Before...........If...true
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12baziz
+passWord...deramo134
+select user_type from lb_users where userid='markderamo' and password='deramo134' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...markderamo...schoolId...mahoning....sessionId...34B1C3FDCB35DD27732A4527FCB27230
+passWord...deramo134
+select user_type from lb_users where userid='markderamo' and password='deramo134' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Forums.......mahoning
+Forums.......markderamo
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...markderamo
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...catalano12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jamesboyd
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...catalano12
+passWord...12mchs13
+select user_type from lb_users where userid='mrdangler' and password='12mchs13' and schoolid='mchs' and status=1
+mode...teacher
+userFlag...true
+classId...C000
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...catalano12
+teacherId...10rnorman...schoolId...mchs....sessionId...D8290519126840EFF9817CAB44B1BD01
+teacherId...robertamicone...schoolId...mahoning....sessionId...3A5701441299CE058E49C3B7282C09D4
+passWord...11tutor12
+select user_type from lb_users where userid='jcicero' and password='11tutor12' and schoolid='norcat' and status=1
+mode...teacher
+userFlag...true
+classId...C000
+passWord...uplc10
+select user_type from lb_users where userid='butler12' and password='uplc10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-norcat,Userid-8165EB2311B1D5549DC3343F9997A14A
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+passWord...minn88
+select user_type from lb_users where userid='12mminnow' and password='minn88' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+Forums.......mahoning
+Forums.......markderamo
+passWord...minn88
+select user_type from lb_users where userid='12mminnow' and password='minn88' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-5271A444C6D9A697987FFA15CE66750A
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nathanjones
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+teacherId...nathanjones...schoolId...mahoning....sessionId...646FCA5392C59113413054E522C942BB
+teacherId...cheyennereynolds...schoolId...mahoning....sessionId...580680EEFA7A8CF15EFC3B1B484E6940
+teacherId...markderamo...schoolId...mahoning....sessionId...299119B7F342CDDE14889101CD94A14D
+teacherId...johnnymetzger...schoolId...mahoning....sessionId...2EB454935BDAF90F77D38F07FA56DFC2
+teacherId...jamesboyd...schoolId...mahoning....sessionId...A44B4D3480DFFE864713B0C6350426C1
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+passWord...minn88
+select user_type from lb_users where userid='12mminnow' and password='minn88' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-5271A444C6D9A697987FFA15CE66750A
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+The status is updated
+passWord...cloverleaf12
+select user_type from lb_users where userid='hannahs12' and password='cloverleaf12' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+passWord...popovich316
+select user_type from lb_users where userid='christopherpopovich' and password='popovich316' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+The status is not updated
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...christopherpopovich
+teacherId...christopherpopovich...schoolId...mahoning....sessionId...2EE12D816853D238BC162008A40AB359
+passWord...jenkins310
+select user_type from lb_users where userid='coltonjenkins' and password='jenkins310' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...coltonjenkins
+passWord...clark133
+select user_type from lb_users where userid='matthewclark' and password='clark133' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+teacherId...matthewclark...schoolId...mahoning....sessionId...18CF81F19687B251EB51316D7D4084CA
+examtype...all
+passWord...cordova103
+select user_type from lb_users where userid='josephcordova' and password='cordova103' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+&&&&........examType...EX
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...george12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...josephcordova
+passWord...danzo44
+select user_type from lb_users where userid='dylandanzo' and password='danzo44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...dylandanzo
+passWord...ravotti1418
+select user_type from lb_users where userid='nicoleravotti' and password='ravotti1418' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...bailing22
+select user_type from lb_users where userid='brittanybailing' and password='bailing22' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...kubala1411
+select user_type from lb_users where userid='nicholaskubala' and password='kubala1411' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicholaskubala
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...brittanybailing
+passWord...delullo44
+select user_type from lb_users where userid='dantedelullo' and password='delullo44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...delullo44
+select user_type from lb_users where userid='dantedelullo' and password='delullo44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+examtype...all
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...dantedelullo
+examtype...all
+&&&&........examType...EX
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...dylandanzo
+passWord...coryea33
+select user_type from lb_users where userid='courtneycoryea' and password='coryea33' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+school countis...10
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...courtneycoryea
+examtype...all
+Forums.......mahoning
+Forums.......courtneycoryea
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+passWord...bailing22
+select user_type from lb_users where userid='brittanybailing' and password='bailing22' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-1B628D068CE686D00BA57097B220D075
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...brittanybailing
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...courtneycoryea
+school countis...10
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...josephcordova
+Topic frame...courseName...null
+Forums.......mahoning
+Forums.......brittanybailing
+classId...C000
+passWord...capl07
+select user_type from lb_users where userid='12tcaplinger' and password='capl07' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...sher60
+select user_type from lb_users where userid='sl11dsherman' and password='sher60' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...sher60
+select user_type from lb_users where userid='sl11dsherman' and password='sher60' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-212DFF1C9606427D9D0F6C8426E17541
+passWord...coryea33
+select user_type from lb_users where userid='courtneycoryea' and password='coryea33' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-535BC46910B2826A419ADA52CD9046E1
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+passWord...wise2623
+select user_type from lb_users where userid='zacharywise' and password='wise2623' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...brittanybailing
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...zacharywise
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+classId...C000
+examtype...all
+&&&&........examType...QZ
+File or directory does not exist.
+File or directory does not exist.
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl11dsherman
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...hannahs12
+Error: SQL in CourseHome.jspTable 'lbcomrtdb.norcat_C000_c0089_workdocs' doesn't exist
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...adams12
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+aClassId...C000
+aClassId...in Imp create AssignC000
+classId...C000
+File or directory does not exist.
+Topic frame...courseName...null
+examtype...all
+&&&&........examType...AS
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...zacharywise
+examtype...all
+checked value...is...Lessons.html
+...............
+path...M0034/Integrated Math III
+workId is..M0034
+docName...Integrated Math III
+categoryId....CD
+del.....22222222AV
+&&&&........examType...AS
+&&&&........examType...AS
+classId...C000
+aClassId...C000
+checked value...is...Lessons.html
+...............
+path...M0034/Integrated_Math-III
+workId is..M0034
+docName...Integrated Math III
+categoryId....CD
+del.....22222222UV
+I am hereeee
+aClassId...in Imp create AssignC000
+classId...C000
+aClassId...C000
+aClassId...in Imp create AssignC000
+classId...C000
+Topic frame...courseName...null
+grids..calendar
+grids..calendar.........student
+grids..calendarstudent
+Calendar...selDate...null
+Exception in AddEditAssignment.class at the end is...java.lang.IllegalStateException
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+Exception in AddEditAssignment.class at the end is...java.lang.IllegalStateException
+classId...C000
+aClassId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+Topic frame...courseName...null
+passWord...blin97
+select user_type from lb_users where userid='10bblinsky' and password='blin97' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...blin97
+select user_type from lb_users where userid='10bblinsky' and password='blin97' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-970419650080689213B8437067B77AB3
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11shall
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10bblinsky
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='training' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10bblinsky
+teacherId...student1...schoolId...training....sessionId...87F0B3CA8F589E4A5D6265592877656F
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...dylandanzo
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11drawahneh
+passWord...teacher
+select user_type from lb_users where userid='teacher1' and password='teacher' and schoolid='training' and status=1
+mode...teacher
+userFlag...true
+teacherId...10bblinsky...schoolId...mahoning....sessionId...970419650080689213B8437067B77AB3
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+Forums.......mahoning
+Forums.......12tcaplinger
+classId...C000
+GGGGGGGGGGGGG
+type...student
+Topic frame...courseName...null
+utype...student
+folder_path..../home/oh//jakarta-tomcat-5.0.25/webapps/LBCOM/DMS/files/12tcaplinger
+f_len..1
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+passWord...awest1
+select user_type from lb_users where userid='10awest' and password='awest1' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+This entry is there already
+examtype...all
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10awest
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+...................................In StuModeSel...null
+submissionNo...1
+attempts...1
+count...1
+...................................In StuModeSel...null
+passWord...a.west1
+select user_type from lb_users where userid='10a.west' and password='a.west1' and schoolid='mchs' and status=1
+Else.....a.west1
+The status  updation is failed in cmgmt/student/changecoursestatus.jsp
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10awest
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12tcaplinger
+passWord...edwa59
+select user_type from lb_users where userid='sl12aedwards' and password='edwa59' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+classId...C000
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+passWord...youngstown10
+select user_type from lb_users where userid='moore12' and password='youngstown10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10awest
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+teacherId...teacher1...schoolId...training....sessionId...75081E68A69642CA2DAD84FEDAE33C14
+passWord...dill50
+select user_type from lb_users where userid='11adilling' and password='dill50' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...teacher
+select user_type from lb_users where userid='teacher2' and password='teacher' and schoolid='training' and status=1
+mode...teacher
+userFlag...true
+teacherId...moore12...schoolId...norcat....sessionId...30A9EB5B14A67CB1B34E8A3665B6C691
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+teacherId...12tcaplinger...schoolId...mahoning....sessionId...B1A24D9B35BE1D6647338A47A82DC0EF
+teacherId...teacher2...schoolId...training....sessionId...DCCDE44705A516933E0759BCC6AFD78C
+passWord...youngstown10
+select user_type from lb_users where userid='moore12' and password='youngstown10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+passWord...step55
+select user_type from lb_users where userid='11nstepo' and password='step55' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+passWord...colb30
+select user_type from lb_users where userid='10hcolbert' and password='colb30' and schoolid='mahoning' and status=1
+Else.....colb30
+teacherId...11nstepo...schoolId...mahoning....sessionId...CD8AA775AE1C31E47B01AD6F9FACA622
+passWord...bart25
+select user_type from lb_users where userid='12cbartosh' and password='bart25' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+passWord...bart25
+select user_type from lb_users where userid='12cbartosh' and password='bart25' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-60A53F9C50397B7006658FD44B609BDD
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...colb30
+select user_type from lb_users where userid='10hcolbert' and password='colb30' and schoolid='mahoning' and status=1
+Else.....colb30
+classId...C000
+teacherId...student1...schoolId...mahoning....sessionId...4D7EDA184527444A291B6A44D195470E
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12mminnow
+teacherId...12mminnow...schoolId...mahoning....sessionId...5271A444C6D9A697987FFA15CE66750A
+teacherId...12cbartosh...schoolId...mahoning....sessionId...60A53F9C50397B7006658FD44B609BDD
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+Forums.......mahoning
+Forums.......nicoleravotti
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...colb30
+select user_type from lb_users where userid='09hcolbert' and password='colb30' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicholaskubala
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...09hcolbert
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...student1
+Topic frame...courseName...null
+passWord...bart25
+select user_type from lb_users where userid='12cbartosh' and password='bart25' and schoolid='manhoning' and status=1
+Else.....bart25
+teacherId...student1...schoolId...mahoning....sessionId...5D92864723E7EA7E0B59DE926722AF23
+Topic frame...courseName...null
+passWord...step55
+select user_type from lb_users where userid='11nstepo' and password='step55' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+passWord...bart25
+select user_type from lb_users where userid='12cbartosh' and password='bart25' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicholaskubala
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11nstepo
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+teacherId...11nstepo...schoolId...mahoning....sessionId...8E2D597BBF0B4029B0BD2D1452993463
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='training' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...training
+Student studentId...student1
+examtype...all
+teacherId...student1...schoolId...training....sessionId...25F50557CB5072BEEF952A5475FAE018
+&&&&........examType...AS
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12cbartosh
+Error:  -Corrupt form data: premature ending
+The status is updated
+&&&&........examType...QZ
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicholaskubala
+classId...C000
+The exception1 in AssignManyToMany.jsp is.....Column 'category_id' cannot be null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11adilling
+Grades..kmiller
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicholaskubala
+Topic frame...courseName...null
+Topic frame...courseName...null
+school countis...10
+passWord...step55
+select user_type from lb_users where userid='11nstepo' and password='step55' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11nstepo
+The exception1 in showassignments.jsp is.....Table 'lbcomrtdb.null_null_null_workdocs' doesn't exist
+teacherId...11nstepo...schoolId...mahoning....sessionId...AB7E6EBDEC08D419173C3D978B93961A
+The exception1 in showassignments.jsp is.....Table 'lbcomrtdb.null_null_null_workdocs' doesn't exist
+The exception1 in showassignments.jsp is.....Table 'lbcomrtdb.null_null_null_workdocs' doesn't exist
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...JackReel1
+select user_type from lb_users where userid='mrreel1' and password='JackReel1' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+school countis...10
+Topic frame...courseName...null
+school countis...10
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...student1
+The status is updated
+teacherId...student1...schoolId...mahoning....sessionId...27661FE086664B675E6BCB14BEFC7F33
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...moore12
+Topic frame...courseName...null
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+teacherId...11adilling...schoolId...mahoning....sessionId...AD450477DDCF5A7B94A9F4D2D97A4EDC
+passWord...uplc10
+select user_type from lb_users where userid='butler12' and password='uplc10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+passWord...uplc10
+select user_type from lb_users where userid='butler12' and password='uplc10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...adams12
+Forums.......mahoning
+Forums.......nicoleravotti
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12baziz
+passWord...11tutor12
+select user_type from lb_users where userid='jcicero' and password='11tutor12' and schoolid='norcat' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...nicoleravotti
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12cbartosh
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...smith12
+passWord...UPLC10
+select user_type from lb_users where userid='buler12' and password='UPLC10' and schoolid='NORCAT' and status=1
+Else.....UPLC10
+Topic frame...courseName...null
+passWord...uplc10
+select user_type from lb_users where userid='butler12' and password='uplc10' and schoolid='norcat' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...butler12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+Topic frame...courseName...null
+classId...C000
+passWord...bmoses
+select user_type from lb_users where userid='10bmoses' and password='bmoses' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10bmoses
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-90F84B8D341879D4F5835632412AD4EA
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+Grades..adams12
+Topic frame...courseName...null
+Top.jsp........studentId...12cbartosh......schoolId..mahoning...nbid...N0000006
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12cbartosh
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-90F84B8D341879D4F5835632412AD4EA
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-90F84B8D341879D4F5835632412AD4EA
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...nicoleravotti...schoolId...mahoning....sessionId...60E254685846ABC53B7049DB53E8FDB1
+same user trying to lagin twice-Schoolid-mahoning,Userid-90F84B8D341879D4F5835632412AD4EA
+passWord...drak76
+select user_type from lb_users where userid='10ldrake' and password='drak76' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-90F84B8D341879D4F5835632412AD4EA
+classId...C000
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...10ldrake
+passWord...calculus
+select user_type from lb_users where userid='kmiller' and password='calculus' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bjohnstone
+passWord...tnewsome
+select user_type from lb_users where userid='10tnewsome' and password='tnewsome' and schoolid='mchs' and status=1
+mode...student
+userFlag...true
+teacherId...courtneycoryea...schoolId...mahoning....sessionId...535BC46910B2826A419ADA52CD9046E1
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mchs
+Student studentId...10tnewsome
+teacherId...zacharywise...schoolId...mahoning....sessionId...C7175EB7FD308100635E36DE005563B7
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+Error:  -Corrupt form data: premature ending
+The status is updated
+Forums.......norcat
+Forums.......adams12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...C000_vstudent
+Topic frame...courseName...null
+Error:  -Corrupt form data: premature ending
+The status is updated
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...C000_vstudent
+**************************
+Student sessionStatus...null
+Student schoolId...norcat
+Student studentId...hannahs12
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12bheasley
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...C000_vstudent
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...p12bdavenport
+passWord...testa1120
+select user_type from lb_users where userid='katilyntesta' and password='testa1120' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+Topic frame...courseName...null
+passWord...harm93
+select user_type from lb_users where userid='12sharmon' and password='harm93' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...katilyntesta
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sharmon
+Topic frame...courseName...null
+passWord...nard85
+select user_type from lb_users where userid='11fnardone' and password='nard85' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sharmon
+Topic frame...courseName...null
+passWord...kelleck1011
+select user_type from lb_users where userid='jacobkelleck' and password='kelleck1011' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sharmon
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...jacobkelleck
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...11fnardone
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...hannahs12...schoolId...norcat....sessionId...E371829FABD2C3FF78AFCB3D0911E27B
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Error:  -Corrupt form data: premature ending
+teacherId...hannahs12...schoolId...norcat....sessionId...E371829FABD2C3FF78AFCB3D0911E27B
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...hannahs12...schoolId...norcat....sessionId...E371829FABD2C3FF78AFCB3D0911E27B
+Error:  -Corrupt form data: premature ending
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+Error:  -Corrupt form data: premature ending
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+teacherId...kmiller...schoolId...mahoning....sessionId...C9A66D61FC130384791C9FA87D9B66F6
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...slagle1019
+select user_type from lb_users where userid='josephslagle' and password='slagle1019' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...slagle1019
+select user_type from lb_users where userid='josephslagle' and password='slagle1019' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...slagle1019
+select user_type from lb_users where userid='josephslagle' and password='slagle1019' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...belu44
+select user_type from lb_users where userid='12bbelus' and password='belu44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...santiago419
+select user_type from lb_users where userid='dionsantiago' and password='santiago419' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...perry116
+select user_type from lb_users where userid='alexperry' and password='perry116' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...morr57
+select user_type from lb_users where userid='11gmorris' and password='morr57' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...sl12aedwards
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...santiago419
+select user_type from lb_users where userid='dionsantiago' and password='santiago419' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+The status is updated
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...perry116
+select user_type from lb_users where userid='alexperry' and password='perry116' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+The status is updated
+teacherId...moore12...schoolId...norcat....sessionId...EE16795CFFC374E87E5D65E70C088DF9
+The status is updated
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...aras131
+select user_type from lb_users where userid='mohammadaras' and password='aras131' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...santiago419
+select user_type from lb_users where userid='dionsantiago' and password='santiago419' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...fcox32
+select user_type from lb_users where userid='francescacox' and password='fcox32' and schoolid='mahoning' and status=1
+Else.....fcox32
+passWord...belu44
+select user_type from lb_users where userid='12bbelus' and password='belu44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...10jobs11
+select user_type from lb_users where userid='careerteacher' and password='10jobs11' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...john81
+select user_type from lb_users where userid='12bjohnstone' and password='john81' and schoolid='Mahoning' and status=1
+mode...student
+userFlag...true
+passWord...fcox32
+select user_type from lb_users where userid='francescacox' and password='fcox32' and schoolid='mahoning' and status=1
+Else.....fcox32
+passWord...fcox32
+select user_type from lb_users where userid='francescacox' and password='fcox32' and schoolid='mahoning' and status=1
+Else.....fcox32
+**************************
+Student sessionStatus...null
+Student schoolId...mahoning
+Student studentId...12sharmon
+passWord...student
+select user_type from lb_users where userid='student1' and password='student' and schoolid='training' and status=1
+mode...student
+userFlag...true
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...belu44
+select user_type from lb_users where userid='12bbelus' and password='belu44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...york1125
+select user_type from lb_users where userid='kaylayork' and password='york1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...mccormick1113
+select user_type from lb_users where userid='kaitlynmccormick' and password='mccormick1113' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...12mchs13
+select user_type from lb_users where userid='mrdangler' and password='12mchs13' and schoolid='mchs' and status=1
+mode...teacher
+userFlag...true
+passWord...mccormick1113
+select user_type from lb_users where userid='kaitlynmccormick' and password='mccormick1113' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...santiago419
+select user_type from lb_users where userid='dionsantiago' and password='santiago419' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...10jobs11
+select user_type from lb_users where userid='careerteacher' and password='10jobs11' and schoolid='mahoning' and status=1
+mode...teacher
+userFlag...true
+passWord...mccormick1113
+select user_type from lb_users where userid='kaitlynmccormick' and password='mccormick1113' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...mccormick1113
+select user_type from lb_users where userid='kaitlynmccormick' and password='mccormick1113' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...YORK1125
+select user_type from lb_users where userid='kaylayork' and password='YORK1125' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-1718CB74271BE4B362142249D0497706
+passWord...12mchs13
+select user_type from lb_users where userid='mrdangler' and password='12mchs13' and schoolid='mchs' and status=1
+mode...teacher
+userFlag...true
+same user trying to lagin twice-Schoolid-mahoning,Userid-D901CB734AD9551A11329F8153DFC3FD
+passWord...belu44
+select user_type from lb_users where userid='12bbelus' and password='belu44' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+passWord...mccormick1113
+select user_type from lb_users where userid='kaitlynmccormick' and password='mccormick1113' and schoolid='mahoning' and status=1
+mode...student
+userFlag...true
+same user trying to lagin twice-Schoolid-mchs,Userid-06FE0E7444B2DAB60C77A26E4B66EAD7
+same user trying to lagin twice-Schoolid-mahoning,Userid-CD0AD8048A3933FEE0081C7B850FDB57

@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Course Materials</title>
+
+<!-- Print CSS -->
+<link rel="stylesheet" href="../styles/print.css" type="text/css" media="print" />
+
+<!-- <![if !(IE 6)]> -->
+<link rel="stylesheet" type="text/css" href="../styles/main.css" />
+<!-- <![endif]> -->
+
+<!--[if IE 7]>
+	<link href="../styles/ie7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<!--[if IE]>
+<link href="../styles/ie.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+</head>
+
+<body>
+<div id="fixedBox">
+  <div id="insideBox">
+    <div class="floatLeft">
+      <h1>&nbsp;</h1>
+    </div>
+    <div class="floatRight"> <a href="javascript: history.go(-1)" title="go to previous page"><img src="../styles/genimages/back_icon.gif" width="60" height="20" alt="" /></a><a href="javascript:window.print()" title="print page"><img src="../styles/genimages/print.gif" width="20" height="20" alt="" /></a> </div>
+  </div>
+</div>
+<div id="content">
+  <div id="inside_content">
+    <h2>Course Materials</h2>
+    <p>Study Forge</p>
+    <p>Often students and parents ask for extra practice or examples to supplement the AP Calculus BC on-line material. This course covers, at an intense level, all of the concepts tested on the College Board AP Calculus BC Exam and provides all the lessons that you will need to gain a comprehensive understanding of Calculus. However, there are times when extra practice can be both necessary and beneficial. We recommend that you purchase one of the following review books. You can purchase these books on-line at <a href='http://l.flvsgl.com/GSL08380251bdb411df814a99b4569b077aa' target='_blank'>Amazon</a> and most book stores. These texts can also be found at your local library.</p>
+    <ol>
+      <li>Steps to a 5: AP Calculus BC</li>
+      <li>The Princeton Review for AP Calculus BC</li>
+      <li>Barron's AP Calculus BC</li>
+    </ol>
+    <p>The books will act as an <strong>extra</strong> resource. By purchasing and using the books, you will gain a more solid foundation in Calculus.  The final module in this course requires that you complete a practice exam.  Please reach out to your instructor regarding which resource he or she would like you to use.  Free resources exist on the <a href='http://apcentral.collegeboard.com/apc/members/exam/exam_information/8031.html' target='_blank'>AP Central Website</a> and in the following website: <a href='http://l.flvsgl.com/GSL0db8122b519303fe3fab1bcb105e58786' target='_blank'>AP* Practice Exams</a>.</p>
+    <p>Free Downloads:</p>
+    <ul>
+      <li><a href='http://l.flvsgl.com/GSL0869661dc2b389f908be584232ecc1c77' target='_blank'>Adobe Flash Player</a></li>
+      <li><a href='http://l.flvsgl.com/GSL036ced62605405a3ea18e13ce5a964c10/' target='_blank'>Java</a></li>
+      <li><a href='http://l.flvsgl.com/GSL0bc5464352129a0b0e3c38400d69decc1' target='_blank'>Windows Media Real Player</a></li>
+      <li><a href='http://l.flvsgl.com/GSL0e9a4b4ec956d423c93404b191a2ccce4/' target='_blank'>Apple iTunes</a></li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>

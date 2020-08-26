@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.08 Literal">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The formula to find the perimeter of a rectangle is: P = 2W + 2L.  
+
+To solve for &quot; W &quot; in this formula, which steps should be followed?</label>
+			<choice>
+				<choicelabel>Subtract 2L from both sides of the equation, then subtract 2 from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Subtract 2L from both sides of the equation, then divide both sides of the equation by 2.</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides of the equation by 2L, then subtract 2 from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides of the equation by 2L + 2.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Distance = rate &amp;#42; time
+
+In the equation  D = r &amp;#42; t,  to solve for  &quot;r&quot;,  one should:</label>
+			<choice>
+				<choicelabel>Subtract &quot;t&quot; from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides of the equation by &quot;t&quot;.</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply both sides of the equation by &quot;t&quot;.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Add a negative &quot;t&quot; to both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0035/educator_algebra1/pictures/M4images/04.06literal1.gif&gt;
+
+To solve for b in this formula, the first step is to:</label>
+			<choice>
+				<choicelabel>Subtract 3 from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides of the equation by 3.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply both sides of the equation by 3.</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Add a -3 to both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve for b
+
+&lt;img src=/webdav/res0035/educator_algebra1/pictures/M4images/04.06literal1.gif&gt;</label>
+			<choice>
+				<choicelabel>3A - a - c = b</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-c / 3 = b</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>A - c / 3 = b</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3 - c = b</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The formula to find the area of a triangle is:
+&lt;img src=/webdav/res0035/educator_algebra1/pictures/M4images/04.06literal2.gif&gt;
+
+To solve for &quot; h &quot; in this formula, the first step is to:</label>
+			<choice>
+				<choicelabel>Subtract 1/2 from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides of the equation by 2.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply both sides of the equation by 2.</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Add -1/2 to both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve for &quot; h &quot;
+
+&lt;img src=/webdav/res0035/educator_algebra1/pictures/M4images/04.06literal2.gif&gt;</label>
+			<choice>
+				<choicelabel>2a - b = h</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1/2a - b = h</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>a - b / 2 = h</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>2a / b = h</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0035/educator_algebra1/pictures/M4images/04.06literal3.gif&gt;
+
+To solve for &quot; m &quot; in the formula shown above, you should:</label>
+			<choice>
+				<choicelabel>Divide both sides of the equation by c squared.</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Subtract c squared from both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply both sides of the equation by c squared.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Add a negative c squared to both sides of the equation.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

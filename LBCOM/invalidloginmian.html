@@ -1,0 +1,230 @@
+
+<html>
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="javascript" src="validationscripts.js"></script>
+<script language="JavaScript">
+
+function validate(frm){
+
+	if(trim(frm.schoolid.value)==""){
+		alert("School Id  should be entered.");
+		frm.schoolid.focus();
+		return false;
+		}
+	if(trim(frm.userid.value)==""){
+		alert("User ID should be entered.");
+		frm.userid.focus();
+		return false;
+	}
+
+	if(trim(frm.password.value)==""){
+		alert("Password should be entered.");
+		frm.password.focus();
+		return false;
+	}
+
+	if (frm.logintype[0].checked)
+	{
+		frm.mode.value="S";
+	}
+	
+	if (frm.logintype[1].checked)
+	{
+		frm.mode.value="T";
+	}
+
+	if (frm.logintype[2].checked)
+	{
+		frm.mode.value="A";
+	}	
+
+	return true;
+}
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+
+<table id="Table_01" width="776" height="350" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td colspan="2" height="156" align="left" valign="top" background="images/main_01.gif">
+
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="117" align="left" valign="top">
+                            <p><a href="trail.htm"><img src="images/30free_trail.gif" width="282" height="156" border="0"></a></p>
+                        </td>
+                        <td width="130" align="center" valign="top">
+                            <p align="center">
+                            <a href="/LBCOM/studentAdmin/studentlogin.html" target="_parent"><img src="images/students_login.jpg" width="128" height="142" border="0"></a></p>
+                        </td>
+                        <td width="20">
+                            <p>&nbsp;</p>
+                        </td>
+                        <td width="130" align="center" valign="top">
+                            <p align="center">
+                            <a href="/LBCOM/asm/index.jsp" target="_parent"><img src="images/teachers_login.jpg" width="128" height="142" border="0"></a></p>
+                        </td>
+                        <td width="20">
+                            <p>&nbsp;</p>
+                        </td>
+                        <td width="130" align="center" valign="top">
+                            <p align="center">
+                            <a href="/LBCOM/schoolAdmin/adminlogin.html" target="_parent"><img src="images/admin_login.jpg" width="128" height="142" border="0"></a></p>
+                        </td>
+                    </tr>
+                </table>
+</td>
+	</tr>
+	<tr>
+		<td width="253" height="216" align="left" valign="top" bgcolor="white" rowspan="2">
+            <div align="left">
+			
+			<form name="newhomepage" method="post" target="_parent" action="/LBCOM/ValidUser" onsubmit="return validate(this);">
+
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="243" bgcolor="#8FCEE9" height="216" align="center" valign="top">
+                                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                        <tr>
+                                                            <td width="243">                                                                                                <table border="0" cellpadding="0" cellspacing="5" width="100%">
+                                        <tr>
+                                            <td width="253" align="left" valign="bottom" colspan="2">
+                                                    <p><span style="font-size:10pt;"><font face="Arial"><b>&nbsp;Registered 
+                        users sign-in here :</b></font></span></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="253" align="left" valign="middle" colspan="2">
+                        <p>&nbsp;</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="77" align="left" valign="top" height="28">
+                                                <p><font face="Arial" color="#333333"><b><span style="font-size:10pt;">&nbsp;School&nbsp;ID 
+                                                </span></b></font></p>
+                                            </td>
+                                            <td width="176" align="left" valign="middle" height="28">
+                                                <p align="center"><font color="#333333"><span style="font-size:10pt;"><INPUT tabIndex=1 type="text" value="" name=schoolid size="15" maxlength="25"></span></font></p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="77" height="29" align="left" valign="top">
+                                                <p><font face="Arial" color="#333333"><b><span style="font-size:10pt;">&nbsp;User 
+                                                ID</span></b></font></p>
+                                            </td>
+                                            <td width="176" height="29" align="left" valign="middle">
+                                                <p align="center"><font color="#333333"><span style="font-size:10pt;"><INPUT tabIndex=2 type="text" value="" name=userid size="15" maxlength="25"></span></font></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="77" height="25" align="left" valign="top">
+                                                <p><font face="Arial" color="#333333"><b><span style="font-size:10pt;">&nbsp;Password</span></b></font></p>
+                                            </td>
+                                            <td width="176" height="25" align="left" valign="middle">
+                                                <p align="center"><font color="#333333"><span style="font-size:10pt;"><INPUT tabIndex=3 type="password" value="" name=password size="15" maxlength="14"></span></font></p>
+                                            </td>
+                                        </tr>
+                                    </table>                                                                                    </td>
+                                                        </tr>
+                                            <tr>
+                                                            <td width="984">                                                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                                    <tr>
+                                                        <td width="22" height="18" bgcolor="#FF933B">                                                <p><font face="Arial"><span style="font-size:8pt;"><input type="radio" id="logintype" name="logintype" value="student" tabindex="4" checked></span></font></p>
+                                                        </td>
+                                                        <td width="51" height="18" bgcolor="#FF933B">                                                    <p><font face="Arial"><span style="font-size:8pt;">Student 
+                                                            </span></font></p>
+                                          
+                                                        </td>
+                                                        <td width="20" height="18" bgcolor="#47B1FD">                                                <p><font face="Arial"><span style="font-size:8pt;"><input type="radio" id="logintype" name="logintype" value="teacher" tabindex="5"></span></font></p>
+                                                        </td>
+                                                        <td width="53" height="18" bgcolor="#47B1FD">                                                    <p><font face="Arial"><span style="font-size:8pt;">Teacher</span></font></p>
+                                          
+                                                        </td>
+                                                        <td width="15" height="18" bgcolor="#FDC043">                                                <p><font face="Arial"><span style="font-size:8pt;"><input type="radio" id="logintype" name="logintype" value="admin" tabindex="6" ></span></font></p>
+                                                        </td>
+                                                        <td width="82" height="18" bgcolor="#FDC043">                                                    <p><font face="Arial"><span style="font-size:8pt;">School 
+                                                            Admin</span></font></p>
+                                          
+                                                        </td>
+                                                    </tr>
+                                                    	
+                                                  </table>
+                                                            </td>
+                                            </tr>
+                                <tr>
+                                                            <td width="253">                                                <p align="center"><span style="font-size:10pt;"><b><font face="Arial"><br><input type=image src="images/hsn/login.gif" width="71" height="24" border="0"></font></b></span></p>
+                                                            </td>
+                                </tr>
+                                                    </table>
+</td>
+                    </tr>
+                    <tr>
+                        <td width="243" height="11" background="images/main_04.gif">
+                        
+                        </td>
+                    </tr>
+                </table>
+				<input type="hidden" name="mode" value="">
+                </form>
+            </div>
+</td>
+		<td align="left" valign="top" bgcolor="white">
+                                        <table border="0" cellpadding="0" cellspacing="0" width="98%" align="center">
+                                            <tr>
+                                                <td width="503" background="images/talh_21_1.gif">
+                                                    <p align="center">&nbsp;</p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="500" align="center" height="171">                        
+
+<font face="Arial" color="red"><b><span style="FONT-SIZE: 12pt">Invalid Login</span></b></font><font face="Arial"><b><span style="FONT-SIZE: 12pt">
+
+</span></b></font><font face="Arial" color="red"><b><span style="FONT-SIZE: 12pt">Please Login again<br>
+</span></b></font><br>
+&nbsp;<table align="center" width="380">
+<TR>
+<TD vAlign=top align=middle width=21 height="11">
+<P><b><font face="Century Gothic">&gt;&gt;</font></b></P></TD>
+<TD vAlign="middle" align=left width="349" height="11">
+<P><FONT face=Arial><SPAN style="FONT-SIZE: 10pt">Did you forget 
+your</SPAN></FONT><FONT face=Arial color=black><SPAN style="FONT-SIZE: 10pt"> 
+School ID / User ID or Password ?</SPAN></FONT></P></TD></TR>
+<TR>
+<TD vAlign=top align=middle width=21 height="7">
+<P><b><font face="Century Gothic">&gt;&gt;</font></b></P></TD>
+<TD vAlign="middle" align=left width="349" height="7">
+<P><FONT face=Arial color=black><SPAN style="FONT-SIZE: 10pt">Did you&nbsp;select 
+your appropriate role ?</SPAN></FONT></P></TD></TR>
+<TR>
+<TD vAlign=top align=middle width=21 height="10">
+<P><b><font face="Century Gothic">&gt;&gt;</font></b></P></TD>
+<TD vAlign="middle" align=left width="349" height="10">
+<P><FONT face=Arial><SPAN style="FONT-SIZE: 10pt">Are&nbsp;you registered 
+with&nbsp;Hotschools.net ?</SPAN></FONT></P></TD></TR>
+                </table>
+
+</td>
+                                            </tr>
+                                        </table>
+</td>
+
+	</tr>
+	<tr>
+		<td align="left" valign="bottom" bgcolor="white">
+                        <p align="center"><span style="font-size:10pt;"><font face="Arial">First 
+                        time users should see  
+                        </font><b><a href="tech.html#browsers"><span style="font-size:10pt;"><font color="blue" face="Arial">[Browser 
+                        specific Requirements]</font></span></a></b></span></p>
+</td>
+
+	</tr>
+</table>
+
+</body>
+</html>

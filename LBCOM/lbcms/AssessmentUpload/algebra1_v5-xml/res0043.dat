@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.15 Quiz 3">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>4</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>These ordered pairs are representative of a function. (True/False)&lt;br&gt;&lt;br&gt;[(1,3),(5,7),(7,10),(5,11)] </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>These ordered pairs are representative of a function.  (True/False)&lt;br&gt;&lt;br&gt;[(1,3),(5,7),(7,10),(4,11)] </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>If f(x)=2x, then f(3) equals what?</label>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>If f(x)=2x, then f(4) equals what?</label>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>If g(x) = x - 5, then g(0) equals what?</label>
+			<choice>
+				<choicelabel>-5</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>If g(x) = x - 5, then g(1) equals what?</label>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>If f(x) = 3x and g(x) = x - 2, then f(4) + g(6) equals what?</label>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>If f(x) = 3x and g(x) = x - 2, then f(3) + g(6) equals what?</label>
+			<choice>
+				<choicelabel>7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>13</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q3_3.gif&gt;&lt;br&gt;&lt;br&gt;The domain of the mapping above is 3,7,8,10.  (true/false)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q3_3.gif&gt;&lt;br&gt;&lt;br&gt;The domain of the mapping above is 2,6,5. (True/False)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q4_4a.gif&gt;&lt;br&gt;&lt;br&gt;The relation that you see in the graph above is a function.  (True/False)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q4_4a.gif&gt;&lt;br&gt;&lt;br&gt;The relation that you see in the graph above is &lt;b&gt;not&lt;/b&gt; a function. &lt;br&gt;(True/False)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q4_4b.gif&gt;&lt;br&gt;&lt;br&gt;The relation that you see in graph above is a function. (True/False)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+		<label>&lt;img src=/webdav/res0043/educator_algebra1/pictures/M4images/A1M4Q4_4b.gif&gt;&lt;br&gt;&lt;br&gt;The relation that you see in the graph above is not a function. (True/False)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

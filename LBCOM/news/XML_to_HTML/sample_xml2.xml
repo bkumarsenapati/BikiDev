@@ -1,0 +1,18 @@
+ <CATALOG>
+  <CD>
+  <TITLE>My Title 1</TITLE> 
+  <ARTIST>Artist1</ARTIST> 
+  <COUNTRY>IND</COUNTRY> 
+  <COMPANY>Hyderabad</COMPANY> 
+  <PRICE>7.80</PRICE> 
+  <YEAR>1987</YEAR> 
+  </CD>
+ <CD>
+  <TITLE>My Title 2</TITLE> 
+  <ARTIST>Artist2</ARTIST> 
+  <COUNTRY>IND</COUNTRY> 
+  <COMPANY>Chennai</COMPANY> 
+  <PRICE>8.20</PRICE> 
+  <YEAR>1987</YEAR> 
+  </CD>
+  </CATALOG>

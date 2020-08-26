@@ -1,0 +1,158 @@
+<html><head>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<!--[if IE]>
+<style type="text/css">
+*{font-family: Lucida Sans Unicode, Math1, Math2, Math3, Math4, Math5, MT Extra, CMSY10, Symbol,arial;}</style><![endif]-->
+<script language='javascript' src='/LBCOM/validationscripts.js'></script>
+<script language='javascript' src='/LBCOM/common/evaluation.js'></script>
+<!-- TinyMCE --> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/tiny_mce.js"></script> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/plugins/asciimath/js/ASCIIMathMLwFallback.js"></script> <script type="text/javascript"> var AMTcgiloc = "http://demo.learnbeyond.com/cgi-bin/mimetex.cgi";  //change me </script>  <script type="text/javascript" src="/LBCOM/common/tinymce.js"></script>  <script> callTiny(); </script> <!-- /TinyMCE -->
+<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js'></script> <script type="text/javascript">$(document).ready(function(){$('#ar').click(function(){var len = document.q_paper.elements.length; 	var k=0; 	for(var i = 0 ; i< len;i++){ 	if(document.q_paper.elements[i].type =='checkbox') 	{ 		k++; 	} 	if(document.q_paper.elements[i].type =='textarea'){ 	document.getElementById(document.q_paper.elements[i].id).value=tinyMCE.get(document.q_paper.elements[i].id).getContent(); 	if(document.getElementById(document.q_paper.elements[i].id).value!='') 	{ 		setMark_oth('Q'+k,'san'); 			} 	}}});});setInterval(function () {parent.mid_f.document.q_paper.ar.click();}, 10000);</script>
+ </head>
+<body oncontextmenu='return false;' link='#FFFFFF' alink='#FFFFFF' vlink='#FFFFFF' leftmargin=0 topmargin=0>
+<form name='q_paper' enctype='multipart/form-data' action='/LBCOM/exam/SubmitShtAnsFiles.jsp?examid=e0243' method='post'>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P1'>Page - 1</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q1Q010' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q1' value='1' onclick="checkMarked(this,'Q010',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='1'><font face='Arial' size='2'>1</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Decide if you think each statement below is TRUE or FALSE.<br>The speaker in the poem would agree mathematicians, like poets, can appreciate the beauty of the stars.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q010' value=1 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q010' value=2 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q2Q011' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q2' value='2' onclick="checkMarked(this,'Q011',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='2'><font face='Arial' size='2'>2</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Explain what bothers the writerwhat does his final question mean? Use details from the text to support your answer.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q011' onblur="setMark_oth('Q2',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ011' style='visibility:hidden'><input type='text' id='MQ011' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,1.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q011_f' size='20'> <input type='file' name='Q011_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q3Q012' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q3' value='3' onclick="checkMarked(this,'Q012',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='3'><font face='Arial' size='2'>3</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Decide if you think each statement below is TRUE or FALSE.<br>The writer would agree with this quotation:<br><div><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><div>The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them. William Lawrence Bragg</div></blockquote></div></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q012' value=1 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q012' value=2 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q4Q013' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q4' value='4' onclick="checkMarked(this,'Q013',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='4'><font face='Arial' size='2'>4</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Then, explain your choice by using specific details from ‘«£The Telltale Wishbone.‘«ÿ</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 5.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q013' onblur="setMark_oth('Q4',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ013' style='visibility:hidden'><input type='text' id='MQ013' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,5.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q013_f' size='20'> <input type='file' name='Q013_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q5Q014' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q5' value='5' onclick="checkMarked(this,'Q014',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='5'><font face='Arial' size='2'>5</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The only help available to you while running the software is from your instructor.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q014' value=1 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q014' value=2 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P2'>Page - 2</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q6Q015' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q6' value='6' onclick="checkMarked(this,'Q015',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='6'><font face='Arial' size='2'>6</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Which of the following would be the best substitute for ‘«£perfect silence‘«ÿ in the last line of the poem?</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q015' value=1 onclick="setMark('Q6')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Awe
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q015' value=2 onclick="setMark('Q6')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Surprise
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q015' value=3 onclick="setMark('Q6')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Confusion
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q015' value=4 onclick="setMark('Q6')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Despair
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q7Q016' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q7' value='7' onclick="checkMarked(this,'Q016',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='7'><font face='Arial' size='2'>7</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>What do the words and phrases below, from lines 1-3 of the poem, have in common?<br><div><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><div><div>‘«£proofs,‘«ÿ ‘«£figures,‘«ÿ ‘«£ranged in columns,‘«ÿ ‘«£charts and diagrams,‘«ÿ</div><div>‘«£add, divide, and measure‘«ÿ</div></div></blockquote><br /></div></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q016' value=1 onclick="setMark('Q7')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>They are all words that astronomers use to describe stars.
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q016' value=2 onclick="setMark('Q7')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>They are all words that are used in mathematical calculations.
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q016' value=3 onclick="setMark('Q7')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>They are a poetic way of talking about scientific exploration of space.
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q016' value=4 onclick="setMark('Q7')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>They are the reasons for the applause the astronomer receives.
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q8Q017' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q8' value='8' onclick="checkMarked(this,'Q017',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='8'><font face='Arial' size='2'>8</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Reread this sentence from the first paragraph of the text:<div>?·<br><div><blockquote style="margin: 0px 0px 0px 40px; border: none; padding: 0px;"><div>I loved the rattling of the cans and the whir of the compressor; I thought that all of New York&#39;s trash might be squeezed into a single, capacious truck.</div></blockquote><div><br /></div>Based on its use in context, the word capacious most likely means</div><br></div></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 1.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q017' value=1 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>playful
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q017' value=2 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>having a shell
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q017' value=3 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>mechanical
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q017' value=4 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>roomy
+</td></tr></table><br>
+<input type='hidden' id='ar' name='ar' value='submit'>
+     </form>
+</body>
+<SCRIPT LANGUAGE='JavaScript'>
+   var frm=document.q_paper;
+   var qIds=new Array();
+   var qType=new Array();
+
+   qIds[0]='Q010'; 
+ qType[0]=2; 
+   qIds[1]='Q011'; 
+ qType[1]=6; 
+   qIds[2]='Q012'; 
+ qType[2]=2; 
+   qIds[3]='Q013'; 
+ qType[3]=6; 
+   qIds[4]='Q014'; 
+ qType[4]=2; 
+   qIds[5]='Q015'; 
+ qType[5]=0; 
+   qIds[6]='Q016'; 
+ qType[6]=0; 
+   qIds[7]='Q017'; 
+ qType[7]=0; 
+var arr=new Array();	
+var maxarr=new Array();	
+arr[0]="-";		
+maxarr[0]="2";	
+</SCRIPT>	
+</html>

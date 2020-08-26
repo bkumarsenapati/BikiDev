@@ -1,0 +1,102 @@
+
+<html>
+<head>
+<title>.:: Welcome to www.learnbeyond.net ::.</title>
+<script>
+function ltrim ( s ) {
+	return s.replace( /^\s*/, "" );
+}
+function rtrim ( s ){	
+	return s.replace( /\s*$/, "" );
+}
+function trim ( s ) {
+	return rtrim(ltrim(s));
+}
+function show_key(the_value)
+{
+var the_key=".0123456789";
+var the_char;
+var len=the_value.length;
+if(the_value=="")
+return false;
+for(var i=0;i<len;i++){
+the_char=the_value.charAt(i);
+if(the_key.indexOf(the_char)==-1)
+return false;
+}}
+
+function verify(m,max){
+var kk=0;
+var txt= document.getElementsByName(m.name);
+var tFldId=document.getElementById(m.id);
+   if(tFldId.readOnly==false)	{
+for(var i=0;i<txt.length;i++)
+if(txt[i]==m){
+   var kk=i;
+	 break;
+   }
+   if(isNaN(m.value)) {
+	   alert('Type in number');
+	   txt[kk].select();
+   }else if(m.value>max) { 
+	   alert('Maximum points for this answer is '+max);
+	   txt[kk].select();
+   }else { 
+	  if(m.value!=""){ 
+	  				  calc();
+		   for(var j=0;j<txt.length;j++){
+			if(trim(txt[j].value)==""){
+			 txt[j].focus();
+			 break;
+			}
+			}
+					}
+	   }
+		  }
+ }function calc(){
+     
+var len,win,q,tot,temp;
+var ar;
+tot=0;
+for(var i=0;i<arr.length;i++) {
+q=arr[i];
+win=document.anssheet.elements[q];
+len=win.length;
+ar=new Array(len);
+if(!win.length) {
+  if (trim(win.value)=='')
+tot=parseFloat(tot+0);
+  else 
+    tot=parseFloat(tot+parseFloat(win.value));
+}else {
+  for(var j=0;j<len;j++) 
+     if (trim(win[j].value)=='')
+          ar[j]=0;
+     else
+          ar[j]=win[j].value;
+  for(j=0;j<len-1;j++) {
+     for(var k=j+1;k<len;k++) {
+          if (parseInt(ar[j])<parseInt(ar[k])) {
+             temp=ar[j];
+             ar[j]=ar[k];
+             ar[k]=temp;
+           }
+      }
+    }
+for(j=0;j<maxarr[i];j++) {
+if((ar[j]=='')||(!ar[j]))
+   tot=parseFloat(tot+0)
+else 
+   	tot=parseFloat(tot+parseFloat(ar[j]));
+
+}
+}
+}
+if (isNaN(tot))
+   alert('Enter proper values');
+else
+    parent.third.document.sub.marks.value=tot;
+}</script>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+</head>
+<body><form name='anssheet' >

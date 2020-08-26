@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.10 HONORS Lab">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Attach your document using the browse button or copy and paste your text into the box below.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

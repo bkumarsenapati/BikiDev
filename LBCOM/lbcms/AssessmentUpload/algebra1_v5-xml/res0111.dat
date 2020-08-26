@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.09D Lab Discussion">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Submit the date on which you posted your score in the discussion area and which of the three games you liked the best and why.</label>
+		<credit>10
+</credit>
+	</item>
+</assessment>

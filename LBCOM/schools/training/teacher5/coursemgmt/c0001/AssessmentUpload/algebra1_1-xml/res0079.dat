@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.08 Quiz 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Find the principal root.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_1.gif&gt;__________</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Find the principal root.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_2.gif&gt;__________</label>
+			<blank>
+				<accepted>60</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Find the principal root.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_3.gif&gt;__________</label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Find the principal root.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_4.gif&gt;__________</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Find the principal root.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_5.gif&gt;__________</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>For questions 6-10, simplify completely&lt;br&gt;Fraction and decimal answers will be considered incorrect. &lt;br&gt;&lt;br&gt;Please use sqrt (lowercase) for square root. &lt;br&gt;Use the caret key (^) for powers. Example: x^2 (x squared).&lt;br&gt;Do not put any spaces in your answer. For example if the answer is 5 times the square root of 3, you should type 5sqrt3.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_7.gif&gt;__________</label>
+			<blank>
+				<accepted>2sqrt2</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_6.gif&gt;__________</label>
+			<blank>
+				<accepted>4sqrt2</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_8.gif&gt;__________</label>
+			<blank>
+				<accepted>3xy^3</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_9.gif&gt;__________</label>
+			<blank>
+				<accepted>2asqrt6ab</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_10.gif&gt;__________</label>
+			<blank>
+				<accepted>4ysqrtx</accepted>
+				<credit>1.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Essay</type>
+		<label>Divide and simplify. Fraction and decimal answers will be considered incorrect. &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0079/educator_algebra1/pictures/M6images/A1M6Q2_11.gif&gt;</label>
+		<credit>10.0</credit>
+	</item>
+</assessment>

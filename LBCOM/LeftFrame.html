@@ -1,0 +1,149 @@
+<HTML>
+<HEAD>
+<TITLE>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2900.2627" name=GENERATOR></HEAD>
+<BODY bgColor=#429edf leftMargin=0 topMargin=0 marginheight="0" marginwidth="0">
+
+<TABLE height="100%" cellSpacing=0 cellPadding=0 width=134 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top align=left width=994 height=357>
+      <TABLE id=Table_01 height=400 cellSpacing=0 cellPadding=0 width=134 
+      border=0>
+        <TBODY>
+        <TR>
+          <TD><IMG height=28 TITLE="" src="images/teach_general.gif" 
+            width=134 border=0></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('profile');" 
+            href="javascript://"><IMG height=26 TITLE=Profile 
+            src="images/teach_mprofile.gif" width=134 
+        border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('organizer');" 
+            href="javascript://"><IMG height=25 TITLE=Organizer 
+            src="images/teach_org.gif" width=134 border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('notice');" href="javascript://"><IMG 
+            height=26 TITLE="Notice Board" src="images/teach_nboard.gif" 
+            width=134 border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('personaldocs')" 
+            href="javascript://"><IMG height=25 TITLE="Personal Documents" 
+            src="images/teach_perdocs.gif" width=134 
+border=0></A></TD></TR>
+        <TR>
+          <TD><IMG height=26 TITLE="" src="images/teach_lmgmt.gif" 
+            width=134 border=0></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('courseware');" 
+            href="javascript://"><IMG height=25 TITLE="Courseware Manager" 
+            src="images/teach_cwmanager.gif" width=134 
+        border=0></A></TD></TR>
+
+		<TR>
+          <TD><A onclick="return handler('contineo');" href="javascript://" target="main">Content</A></TD></TR>
+
+
+        <TR>
+          <TD><A onclick="return handler('qeditor');" 
+            href="javascript://"><IMG height=26 TITLE="Question Editor" 
+            src="images/teach_qeditor.gif" width=134 
+border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('gradebook');" 
+            href="javascript://"><IMG height=25 TITLE="Grade Book" 
+            src="images/teach_gbook.gif" width=134 border=0></A></TD></TR>
+        <TR>
+          <TD><IMG height=26 TITLE="" src="images/teach_comm.gif" 
+            width=134 border=0></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('chat');" href="javascript://"><IMG 
+            height=25 TITLE=Chat src="images/teach_chat.gif" width=134 
+            border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('mail');" href="javascript://"><IMG 
+            height=26 TITLE=Email src="images/teach_email.gif" width=134 
+            border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return handler('bboards');" 
+            href="javascript://"><IMG height=25 TITLE=Forums 
+            src="images/teach_bboard.gif" width=134 border=0></A></TD></TR>
+        <TR>
+          <TD><A onclick="return netmeet();" href="javascript://"><IMG 
+            height=26 TITLE=eClassroom src="images/teach_eclass.gif" 
+            width=134 border=0></A></TD></TR>
+        <TR>
+          <TD height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD vAlign=bottom align=middle height=32>
+            <P align=center>&nbsp;</P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=center align=middle width=994>
+	<!-- BEGIN Help Center Live Code, ? Michael Bird 2004 -->
+<div id="HCLInitiate" style="position:absolute; z-index:1; top: 40%; left:40%; visibility: hidden;">
+<a href="javascript:initiate_accept()"><img src="//www.hotschools.net/~ranjan/hcl/inc/skins/default/images/lh/initiate.gif" border="0"></a>
+<br><a href="javascript:initiate_decline()">
+<img src="//www.hotschools.net/~ranjan/hcl/inc/skins/default/images/lh/initiate_close.gif" border="0"></a></div>
+<script type="text/javascript" language="javascript" src="//www.hotschools.net/~ranjan/hcl/lh/live.php?department=Hotschools"></script>
+<!-- END Help Center Live Code, ? Michael Bird 2004 -->
+      <P></P></TD></TR>
+<!--  <TR>
+    <TD vAlign=bottom align=middle width=994>
+      <P align=center><A href="http://www.hotschools.net/" target=_blank><IMG 
+      height=42 TITLE="Powered By - Hotschools.net" src="../images/hsn/poweredby.gif" width=131 
+      border=0></A></P></TD></TR>-->
+	  </TBODY></TABLE>
+
+<SCRIPT language=JavaScript>
+<!--
+function handler(anc){
+	var email=parent.emailid;
+	var schoolid=parent.schoolid;
+
+	if(anc=="profile")
+		parent.main.location.href="/LBCOM/teacherAdmin/modifyTeacherReg.jsp?mode=modify";
+	else if(anc=="organizer")
+		parent.main.location.href="/LBCOM/teacherAdmin.organizer.CalAppoint?purpose=teacher&userid="+email;
+	else if(anc=='personaldocs')
+		parent.main.location.href="FilesAndDocuments.jsp?emailid="+email+"&schoolid="+schoolid;
+	else if(anc=='notice')
+		parent.main.location.href="/LBCOM/studentAdmin/PublicFrame.jsp?emailid="+email+"&schoolid="+schoolid;
+	else if(anc=='courseware')
+		parent.main.location.href="/LBCOM/coursemgmt/teacher/CoursesList.jsp";
+	else if(anc=='qeditor')
+		parent.main.location.href="/LBCOM/exam/QuestionEditorFrames.jsp?mode=qe";
+	else if(anc=='gradebook')
+		parent.main.location.href="/LBCOM/exam/QuestionEditorFrames.jsp?mode=gb";
+	else if(anc=='chat')
+		window.open('ShowCourse.jsp' ,'nmwindow','status=0,resizable=no,toolbar=no,menubar=no,titlebar=no,scrollbars=yes,width=750,height=500');
+	else if(anc=='mail')
+		parent.main.location.href="/LBCOM/Commonmail/MailForm.jsp?schoolid="+schoolid+"&userid="+email+"&r1=teacher";
+	else if(anc=='bboards')
+		parent.main.location.href="/LBCOM/teacherAdmin/ShowDirTopics.jsp?schoolid="+schoolid+"&emailid="+email;
+
+	else if(anc=='contineo'){
+		var w=window.open("/contineo/pages/welcome.jsp?uId=testschool@ranga");
+		w.focus();
+	}
+	return false;
+}
+
+function netmeet(){
+   if(navigator.userAgent.indexOf('Linux') != -1){    
+        alert("Your Operating System is Linux \n   So, this application can't be launched for you");
+		return false;
+   }
+   else if(navigator.userAgent.indexOf('Mac') != -1){   
+        alert("Your Operating System is Macintosh \n   So, this application can't be launched for you");
+		return false;
+   }
+   else{
+	window.open('/LBCOM/nm/GenerateNetId.jsp' ,'nmwindow','status=0,resizable=no,toolbar=no,menubar=no,titlebar=no,scrollbars=yes,width=750,height=500');
+   }
+}
+
+//-->
+</SCRIPT>
+</BODY></HTML>

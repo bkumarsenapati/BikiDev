@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="04.01 Science and Rebirth">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>2</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>4</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>4</give>
+		</group>
+	</distribution>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Why do developing nations tend to be more heavily affected by pandemics than developed nations?</label>
+			<choice>
+				<choicelabel>Developing nations are unable to resist the social problems of plague.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Developing nations lack the resources to control the spread of disease.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Developed nations place the burden of prevention on the developing nations.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Developed nations are able to use armies to block borders and prevent spreading.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Use the map on H1N1 confirmed cases below to answer the following question&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g1_q2.jpg&apos; Alt=&apos;A global map shows the number of confirmed cases of H1N1 flu in 2009. The key has six shades. The lightest shade equals one or more confirmed case. The second darkest shade equals five or more confirmed cases. The third darkest shade equals 50 or more confirmed cases. The fourth darkest shade equals 500 or more confirmed cases. The fifth darkest shade equals 5,000 or more confirmed cases, and the sixth darkest shade equals 50,000 or more confirmed cases. Most of the African countries had 50 or less confirmed cases, with the exception being the North African and southeastern coastal areas. All of North America except Greenland, most of South America, Europe, Asia, and the Pacific countries have between 500 and 50,000 confirmed cases.&apos;/&gt;&lt;Br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;What does this map indicate about the dispersion of H1N1 cases in 2009?</label>
+			<choice>
+				<choicelabel>The developing countries were affected more than the developed countries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The developed countries were affected more than the developing countries.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The developed and developing countries were affected similarly.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Both developed and developing countries were hit evenly.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Use the map on H1N1 confirmed cases below to answer the following question&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g1_q3.jpg&apos; Alt=&apos;A global map shows the number of confirmed cases of H1N1 flu in 2009. The key has six shades. The lightest shade equals one or more confirmed case. The second darkest shade equals five or more confirmed cases. The third darkest shade equals 50 or more confirmed cases. The fourth darkest shade equals 500 or more confirmed cases. The fifth darkest shade equals 5,000 or more confirmed cases, and the sixth darkest shade equals 50,000 or more confirmed cases. Most of the African countries had 50 or less confirmed countries, with the exception being the North African and southeastern coastal areas. All of North America except Greenland, most of South America, Europe, Asia, and the Pacific countries have between 500 and 50,000 confirmed cases.&apos;/&gt;&lt;br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;What might account for the fact that developed countries were more affected than developing countries during the H1N1 pandemic?</label>
+			<choice>
+				<choicelabel>People in developed countries tend to use more antibiotics.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Developing countries were avoiding consuming contaminated food.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>People in developed countries travel more and exposed more people. </choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Developing countries were able to use large armies to prevent exposure.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Use the map on world life expectancy to answer the following question&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g1_q4.jpg&apos; Alt=&apos;A global map shows average life expectancies in 2010. The key shows a range from 40 years to 80 years. All of Sub Saharan Africa has a life expectancy of sixty years or less, as do Iran, Afghanistan, Pakistan, and some countries in Southeast Asia. North African and Middle Eastern life expectancies mostly fall between 70 to 75 years, while virtually all of South, East, and Southeast Asian as well as Eastern Europe and Russia have life expectancies of 65 to 75 years. This excludes Australia, Japan, and New Zealand, which have life expectancies of over eighty years. Most Western European countries also have life expectancies of 80 years. All North American countries except Greenland have a life expectancy of at least 75 years, while most of Central and South America has a life expectancy between 65 and 75 years.&apos;/&gt;&lt;br /&gt;Creative Commons Attribution-Share Alike 3.0 Unported&lt;br /&gt;&lt;Br /&gt;Which of the following is the most likely culprit for why Africa has such a low life expectancy rate compared to almost everywhere else?</label>
+			<choice>
+				<choicelabel>The spread of the AIDS virus</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The spread of SARS</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The spread of Asian flu</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The spread of H1N1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Use the following map showing the spread of the H1N1 pandemic in 2009 to answer the question below&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g1_q5.jpg&apos; Alt=&apos;The map shows the entire world, with different colors showing deaths and infections from the H1N1 virus (dark blue), confirmed infections (blue), and unconfirmed infections (light blue). Between the dark blue and blue sections of the map, almost the entire world is covered.&apos;/&gt;&lt;br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;In Medieval Europe, it took a few years for the Black Death to consume all of Europe. In 2009 the H1N1 disease spread all over the world in a few months. Considering the information on the map, how might the H1N1 virus have spread so quickly throughout the world?</label>
+			<choice>
+				<choicelabel>The virus was spread throughout the world by flocks of migratory birds.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The virus was spread throughout the world via international airline travel.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The virus was spread throughout the world via contaminated meat.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The virus was spread throughout the world by infected street rats.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g1_q6.jpg&apos; Alt=&apos;Black and white line graph showing the number of casualties caused by the Spanish flu pandemic from 1918 to 1919.  The cities shown are New York, London, Paris and Berlin. The flu reached its peak during the autumn months of 1918.&apos;/&gt;&lt;BR /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;Which nation had the highest number of casualties resulting from the Spanish flu pandemic in October of 1918?</label>
+			<choice>
+				<choicelabel>the United Kingdom</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the United States</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Germany</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>France</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>How could the spread of AIDS in Africa affect the economies of that continent?</label>
+			<choice>
+				<choicelabel>a rise in national economic growth rates</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a reduction in imports and a rise in exports</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a rise in the number of health care professionals</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> a drop in the number and productivity of workers</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.9.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Why are people who are affected by communicable diseases told not to travel on airplanes?</label>
+			<choice>
+				<choicelabel>The high altitude contributes to the spread of the disease.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The pressurized cabin can result in death for people infected.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The dry air in the cabin makes the symptoms more severe.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The tight cabin space makes it easier for the disease to spread.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the following excerpt from Boccaccio&apos;s &lt;em&gt;The Decameron&lt;/em&gt; to answer the following question&#58;&lt;br /&gt;&lt;Br /&gt;In the year of our Lord 1348, there happened at Florence, the finest city in all Italy a most terrible plague; which, whether owing to the influence of the planets, or that it was sent from God as a just punishment for our sins, had broken out some years before in the Levant (Middle East) and, after passing from place to place, and making incredible havoc all the way, had now reached the west&#8230;&lt;Br /&gt;&lt;br /&gt;[The plague] occasioned various fears and devices amongst those who survived, all tending to the same uncharitable and cruel end; which was, to avoid the sick and everything that had been near them, expecting by that means to save themselves. Some [held] it best to live temperately and to avoid excesses of all kinds&#8230;and&#8230;they shut themselves up from the rest of the world&#8230;Others maintained free living to be a better preservative and would balk no passion or appetite they wished to gratify, drinking and reveling incessantly from tavern to tavern&#8230;yet strenuously avoiding, with all this brutal indulgence, to come near the infected.&#8212; Public Domain&lt;br /&gt;&lt;Br /&gt;According to Boccaccio, what did some people believe to be the cause of the plague?</label>
+			<choice>
+				<choicelabel>corrupt bishops</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the sins of some</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>climate change</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>drunkenness </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the following excerpt from Boccaccio&apos;s &lt;em&gt;The Decameron&lt;/em&gt; to answer the following question&#58;&lt;br /&gt;&lt;Br /&gt;In the year of our Lord 1348, there happened at Florence, the finest city in all Italy a most terrible plague; which, whether owing to the influence of the planets, or that it was sent from God as a just punishment for our sins, had broken out some years before in the Levant (Middle East) and, after passing from place to place, and making incredible havoc all the way, had now reached the west&#8230;&lt;br /&gt;&lt;br /&gt;[The plague] occasioned various fears and devices amongst those who survived, all tending to the same uncharitable and cruel end; which was, to avoid the sick and everything that had been near them, expecting by that means to save themselves. Some [held] it best to live temperately and to avoid excesses of all kinds&#8230;and&#8230;they shut themselves up from the rest of the world&#8230;Others maintained free living to be a better preservative and would balk no passion or appetite they wished to gratify, drinking and reveling incessantly from tavern to tavern&#8230;yet strenuously avoiding, with all this brutal indulgence, to come near the infected.&#8212; Public Domain&lt;br /&gt;&lt;Br /&gt;How does Boccaccio let you know that he recognized that the plague spread widely from one location to another?</label>
+			<choice>
+				<choicelabel>He states that it was caused by rats.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He states that it caused reckless behavior.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He states that it spread from the Middle East.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He states that people did not avoid the sick. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the following excerpt from Boccaccio&apos;s &lt;em&gt;The Decameron&lt;/em&gt; to answer the following question&#58;&lt;br /&gt;&lt;Br /&gt;In the year of our Lord 1348, there happened at Florence, the finest city in all Italy a most terrible plague; which, whether owing to the influence of the planets, or that it was sent from God as a just punishment for our sins, had broken out some years before in the Levant (Middle East) and, after passing from place to place, and making incredible havoc all the way, had now reached the west&#8230; &lt;br /&gt;&lt;br /&gt;[The plague] occasioned various fears and devices amongst those who survived, all tending to the same uncharitable and cruel end; which was, to avoid the sick and everything that had been near them, expecting by that means to save themselves. Some [held] it best to live temperately and to avoid excesses of all kinds&#8230;and&#8230;they shut themselves up from the rest of the world&#8230;Others maintained free living to be a better preservative and would balk no passion or appetite they wished to gratify, drinking and reveling incessantly from tavern to tavern&#8230;yet strenuously avoiding, with all this brutal indulgence, to come near the infected.&#8212; Public Domain&lt;br /&gt;&lt;Br /&gt;Based on the passage, which argument would Boccaccio make regarding the actions of the flagellants? </label>
+			<choice>
+				<choicelabel>He would think their actions sinful because they accused God.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He would think they were right because the Church was corrupt.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He would think they were right because human sin may have caused the plague.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He would think they were wrong because he thought the planets caused the plague. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the woodcut below to answer the following question&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g2_q4.jpg&apos; Alt=&apos;Black and white engraving image with multiple skeletons dancing. There are three dancing in the center with another skeleton on the left playing the flute and wearing a cape. The skeleton on the ground is rising from a grave and being unveiled with his arm outstretched to the air.&apos;/&gt;&lt;Br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;Which of the following does this image of the Black Death era represent?</label>
+			<choice>
+				<choicelabel>flagellation</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Danse Macabre</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prayer</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>forced quarantine</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the woodcut below to answer the following question&#58;&lt;br /&gt;&lt;br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g2_q5.jpg&apos; alt=&apos;Black and white engraving of a man in a traditional abbots robe who is looking upward and holding a book with his left hand while his right arm extends and pushes the back of a skeleton. The skeleton is holding a sword over his shoulder and tugging at the mans robe with his left fist.&apos;/&gt;&lt;Br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;In the picture, the skeleton is wearing a religious hat. Which of the following statements best describes the meaning of this image? </label>
+			<choice>
+				<choicelabel>The Church saves good Christians</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The Church corruption may have caused the plague.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Death is natural part of life.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Death takes even the religiously devoted. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use the woodcut below to answer the following question&#58;&lt;br /&gt;&lt;Br /&gt;&lt;img src=&apos;/webdav/res0034/educator_whist/v12/module04/0401_g2_q6.jpg&apos; alt=&apos;Black and white engraving of a man in a traditional abbots robe who is looking upward and holding a book with his left hand while his right arm extends and pushes the back of a skeleton. The skeleton is holding a sword over his shoulder and tugging at the mans robe with his left fist.&apos;/&gt;&lt;Br /&gt;Public Domain&lt;br /&gt;&lt;br /&gt;Why is there such a contrast between the expressions on the faces of the two figures?</label>
+			<choice>
+				<choicelabel>because the man is afraid of death, but Death is happy to have another victim</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>because the man is resisting Death, who is struggling to bring him along</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>because Death is sad to see a frightened man die in his prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>because Death feels good at having so many souls to take with him</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;table border=&quot;1&quot; summary=&apos;A cause and effect table. The table is divided into two columns. The column on the left is labeled &quot;cause&quot;; the column on the right is labeled &quot;effect.&quot; Under causes there is one cell that is empty. Under the effect label there is one cell that reads &quot;Split in Western Christian church that led to two rival popes before the church reunited.&apos; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;221&quot; valign=&quot;top&quot;&gt;&lt;p&gt;&lt;strong&gt;Cause&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;td width=&quot;221&quot; valign=&quot;top&quot;&gt;&lt;p&gt;&lt;strong&gt;Effect&lt;/strong&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td width=&quot;221&quot; valign=&quot;top&quot;&gt;&lt;p&gt; &lt;/p&gt;&lt;/td&gt;&lt;td width=&quot;221&quot; valign=&quot;top&quot;&gt;&lt;p&gt;Split in Western Christian church that led to two rival   popes before the church reunited.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;br /&gt;&lt;Br /&gt;Which of the following completes the cause and effect table?</label>
+			<choice>
+				<choicelabel>Council of Constantinople of 867</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The Great Schism of 1054</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The Hundred Years War of 1337</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The Great Schism of 1378</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="SS.912.W.2.14"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which of the following was &lt;strong&gt;NOT&lt;/strong&gt; an effect of the Great Famine of 1315?</label>
+			<choice>
+				<choicelabel>Food prices rose dramatically in the first year of the famine.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It led to the starvation and death of over one million people by 1317.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Most farms were almost completely unable to produce food until 1325.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Southern European countries were more heavily affected than Northern Europe.</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

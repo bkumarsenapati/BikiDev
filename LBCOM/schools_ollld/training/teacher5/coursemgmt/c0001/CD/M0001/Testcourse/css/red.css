@@ -1,0 +1,53 @@
+.main_table2 { width: 820px; height: 100%; padding: 3px; border: 2px solid #FFFFFF; border-collapse:collapse; font-family : Arial, Helvetica, Verdana, sans-serif;  padding: 0px; border-spacing: 0px;}
+
+.main_table2_th { background: #874525; width: 100%; height: 79px; text-align: Center; vertical-align: bottom; } 
+
+.main_table2_tb { background: #E6E6E6; width: 100%; height: 5px; text-align: Center; } 
+
+.main_table2_te { background: #874525; width: 100%; height: 55px; text-align: Right; }
+
+.main_table2_tc { background: #FFFFFF; width: 100%; height: 100%; text-align: center; vertical-align: top; }
+
+.main_table2_copy { background: #874525; width: 100%; height: 21px; text-align: Center; vertical-align: Middle;font-family : Arial, Helvetica, Verdana, sans-serif;  padding: 0px; border-spacing: 0px; font:12px;color:white; } 
+
+.home_table { width: 100%; border: 0px; border-collapse:collapse; font-family : Arial, Helvetica, Verdana, sans-serif; }
+
+.home_table_th { background: #874525; width: 100%; height: 79px; text-align: Center; vertical-align: bottom; } 
+
+.home_table_tb { background: #E6E6E6; width: 100%; height: 5px; text-align: Center; } 
+
+.home_table_te { background: #874525; width: 100%; height: 55px; text-align: right; vertical-align: top;}
+
+.home_table_tc { background: #FFFFFF; width: 100%; height: 100%; text-align: justify; vertical-align: top; text-align: Center;}
+
+
+.title_table { width: 100%; height: 100%; border: 0px; border-collapse:collapse; vertical-align: bottom; padding: 0px; border-spacing: 0px; }
+.title_table_c1 { width: 100%; height: 100%; border: 0px; border-collapse:collapse; vertical-align: middle; text-align: left; padding: 0px; font-smooth: always; padding: 10px;  font-size:28px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; color: #FFFFFF; font-weight: bold; vertical-align: bottom;}
+.title_table_c2 { width: 114px; height: 100%; border: 0px; border-collapse:collapse; vertical-align: bottom; text-align: right; padding: 0px;}
+
+.bottom_table { width: 100%; height: 100%; border: 0px; border-collapse:collapse; vertical-align: top; text-align: right; padding: 0px; border-spacing: 0px; }
+.bottom_table_c1 { width: 100%; height: 100%; border: 0px; border-collapse:collapse; vertical-align: top; text-align: right; padding: 0px; }
+.bottom_table_c2 { width: 100%; height: 100%; border: 0px; border-collapse:collapse; vertical-align: top; text-align: right; padding: 0px; }
+
+
+.units_table {width: 96%; border: 0px; border-spacing: 8; border-collapse:collapse; background-repeat: repeat-x; }
+.units_table_cl {padding: 6px; vertical-align: bottom; text-align: left; font-size:14px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-weight: bold; color: #000000;   }
+
+.select { background-color: #FFFFFF; letter-spacing: 1px; font:14px; font-family : Arial, Geneva, Verdana, Helvetica, sans-serif; color: #000000; }
+
+
+.home_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.home_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }
+
+.previous_button  { display: block; width: 85px; height: 39px; background: url("../images/pre_grey.png") no-repeat 0 0;  }
+.previous_button:hover { background: url("../images/pre_orange.png") no-repeat 0 0;  }
+
+.next_button  { display: block; width: 72px; height: 39px; background: url("../images/next_grey.png") no-repeat 0 0;  }
+.next_button:hover { background: url("../images/next_orange.png") no-repeat 0 0;  }
+
+.slides_table { margin-top:5px; width: 100%; border-collapse:collapse;}
+.slides_table_tl { padding: 6px; vertical-align: bottom; text-align: left; background-image: url(../images/course_08.jpg); font-size:14px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; font-weight: bold; color: #000000;   }
+.slides_table_t2 { height: 100%;  }
+
+
+.slides_frame { border-top: 0px; border-left: 0px; border-right: 0px; border-bottom: 0px; width: 100%; height: 300px;}

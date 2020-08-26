@@ -1,0 +1,508 @@
+.colormenu{
+  width: 920px;
+  margin: 5px auto; padding: 10px;	  
+  list-style: none;
+  counter-reset: li;
+  background: #fff;
+  margin-left:155px;
+  border:none;
+    
+}
+
+*:focus {outline: none;}
+
+.colormenu:before,
+.colormenu:after {
+  content: "";
+  display: table;
+  border:none;
+}
+
+.colormenu:after {
+border:none;
+  clear: both;
+}
+
+.colormenu {
+  zoom:1;
+}
+
+/* -------------------------------- */        
+
+.colormenu li {
+  position: relative;
+  float: left;
+  cursor: pointer;
+  height: 120px; width: 200px;
+  margin: 15px 0 0 15px;
+  color: #000000;
+  background:fff;
+   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+} 
+
+.colormenu li:hover, .colormenu li:focus{
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.2)), to(rgba(255,255,255,0)));
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -moz-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -ms-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -o-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+}
+
+.colormenu .cover{
+  z-index: 2;
+}
+
+.colormenu .cover:focus{
+  outline: 0;
+}
+
+/* -------------------------------- */
+
+.colormenu li::after{
+
+  content: counter(li);
+  counter-increment: li;
+  font: italic bold 10px serif, georgia;
+  position: absolute;
+  
+  opacity: 0;
+  -webkit-transition: all .2s ease-out;
+  -moz-transition: all .2s ease-out;
+  -ms-transition: all .2s ease-out; 
+  -o-transition: all .2s ease-out;  
+  transition: all .2s ease-out;    
+}      
+
+.colormenu li:hover::after, .colormenu li:focus::after{
+  font-size: 90px;
+  opacity: .5; 
+  color:#000000;
+  margin-left:-210px;
+  margin-top:1px;
+  width:200px;
+  
+ 
+  
+}
+
+.colormenu .cover::after{
+  z-index: -1;
+}
+
+/* -------------------------------- */       
+
+
+
+/* -------------------------------- */       
+ 
+
+.colormenu li:nth-child(1),
+.colormenu li:nth-child(1) .content,
+.colormenu li:nth-child(1) .close{
+  background-color: #f5dab5;
+}         
+
+.colormenu li:nth-child(2),
+.colormenu li:nth-child(2) .content,
+.colormenu li:nth-child(2) .close{
+  background-color: #dfb49d;
+}   
+
+.colormenu li:nth-child(3),
+.colormenu li:nth-child(3) .content,
+.colormenu li:nth-child(3) .close{
+  background-color: #fcbe88;   
+}
+
+.colormenu li:nth-child(4),
+.colormenu li:nth-child(4) .content,
+.colormenu li:nth-child(4) .close{
+  background-color: #fce3e3;    
+}
+
+.colormenu li:nth-child(9),
+.colormenu li:nth-child(9) .content,
+.colormenu li:nth-child(9) .close{
+  background-color: #e4f0b8;
+  
+ 
+}
+
+.colormenu li:nth-child(10),
+.colormenu li:nth-child(10).content,
+.colormenu li:nth-child(10) .close{
+  background-color: #e6f7a9;
+}
+
+.colormenu li:nth-child(11),
+.colormenu li:nth-child(11) .content,
+.colormenu li:nth-child(11) .close{
+  background-color: #e1fa85;;     
+}
+
+.colormenu li:nth-child(12),
+.colormenu li:nth-child(12) .content,
+.colormenu li:nth-child(12) .close{
+  background-color: #cef394;
+}
+
+.colormenu li:nth-child(5),
+.colormenu li:nth-child(5) .content,
+.colormenu li:nth-child(5) .close{
+  background-color: #d8e6d9;
+}
+.colormenu li:nth-child(6),
+.colormenu li:nth-child(6) .content,
+.colormenu li:nth-child(6) .close{
+  background-color: #9eb9fd
+}
+.colormenu li:nth-child(7),
+.colormenu li:nth-child(7) .content,
+.colormenu li:nth-child(7) .close{
+  background-color: #b2dcff;
+}
+.colormenu li:nth-child(8),
+.colormenu li:nth-child(8) .content,
+.colormenu li:nth-child(8) .close{
+  background-color: #d1faf9;
+}
+
+
+
+
+
+/* -------------------------------- */
+
+.colormenu .content{
+  opacity: 0; display: none\9;
+  overflow: visible;
+  font: 12px Arial, Helvetica;
+  position: absolute;
+  height: 100%; width: 100%; /* Ideally: height: 100%; width: 100%; but works at it should just in FF */
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -ms-transition: all .3s ease-out; 
+  -o-transition: all .3s ease-out;  
+  transition: all .3s ease-out; 
+      
+}  
+
+.colormenu .expanded{
+  opacity: .95; display: block\9;
+  overflow: visible;
+  padding: 10px;
+  margin-top:-120px;
+  border-color: #FFFFFF;
+  height: 100px; width: 180px; /* Cover the entire area */
+   background:fff;
+ 
+  
+}
+
+
+
+
+/* -------------------------------- */    
+
+.colormenu .title{
+  
+  height: 100%; width: 100%;
+  text-align: left;
+  font: italic bold 1.6em/120px 'trebuchet MS', Arial, helvetica;
+  color:#000000;
+  opacity: .6;
+}
+
+.colormenu li:hover .title{
+  opacity: .8;
+}    
+
+/* -------------------------------- */
+
+.colormenu .close {
+  display: none;
+  border: 5px solid #000000;
+  color: #000000;
+  cursor: pointer;
+  height: 40px; width: 40px;
+  font: bold 20px/40px arial, helvetica;
+  position: absolute;
+  text-align: center;
+  top: -20px; right: -20px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;      
+}
+
+.colormenu .cover .close{
+  display: block;
+  border-color:#FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+.colormenu1{
+ width: 920px;
+  margin: 10px auto; padding: 0px;	  
+  list-style: none;
+  counter-reset: li;
+  background: #fff;
+ 
+  border:none;
+
+  
+}
+
+
+
+.colormenu1:before,
+.colormenu1:after {
+  content: "";
+  display: table;
+  border:none;
+}
+
+.colormenu1:after {
+
+  clear: both;
+}
+
+.colormenu1 {
+  zoom:1;
+}
+
+/* -------------------------------- */        
+
+.colormenu1 li {
+  position: relative;
+  float: left;
+  cursor: pointer;
+  height: 80px; width: 850px;
+  
+  margin: 10px 0 0 50px;
+  color: #000000;
+  background:fff;
+   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1) inset;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+} 
+
+.colormenu1 li:hover, .colormenu1 li:focus{
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255,255,255,.2)), to(rgba(255,255,255,0)));
+  background-image: -webkit-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -moz-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -ms-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: -o-linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+  background-image: linear-gradient(top, rgba(255,255,255,.2), rgba(255,255,255,0));
+}
+
+.colormenu1 .cover{
+  z-index: 1;
+}
+
+.colormenu1 .cover:focus{
+  outline: 0;
+}
+
+/* -------------------------------- */
+
+.colormenu1 li::after{
+  content: counter(li);
+  counter-increment: li;
+  font: italic bold 10px serif, georgia;
+  position: absolute;
+  background-image: url(../images/k.gif); background-position:center;
+ 
+  height:100%; width:40%;
+  background-repeat:no-repeat;
+  
+  opacity: 0;
+  -webkit-transition: all .2s ease-out;
+  -moz-transition: all .2s ease-out;
+  -ms-transition: all .2s ease-out; 
+  -o-transition: all .2s ease-out;  
+  transition: all .2s ease-out;    
+}      
+
+.colormenu1 li:hover::after, .colormenu1 li:focus::after{
+  font-size: 0px;
+  opacity: .5; 
+  color:#f5dab5;
+  margin-left:-210px;
+  margin-top:1px;
+  width:200px;
+ 
+  
+}
+
+.colormenu1 .cover::after{
+  z-index: -1;
+}
+
+/* -------------------------------- */       
+
+
+
+/* -------------------------------- */       
+ 
+
+.colormenu1 li:nth-child(1),
+.colormenu1 li:nth-child(1) .content,
+.colormenu1 li:nth-child(1) .close{
+  background-color: #f5dab5;
+}         
+
+.colormenu1 li:nth-child(2),
+.colormenu1 li:nth-child(2) .content,
+.colormenu1 li:nth-child(2) .close{
+  background-color: #dfb49d;
+}   
+
+.colormenu1 li:nth-child(3),
+.colormenu1 li:nth-child(3) .content,
+.colormenu1 li:nth-child(3) .close{
+  background-color: #fcbe88;   
+}
+
+.colormenu1 li:nth-child(4),
+.colormenu1 li:nth-child(4) .content,
+.colormenu1 li:nth-child(4) .close{
+  background-color: #fce3e3;    
+}
+
+.colormenu1 li:nth-child(9),
+.colormenu1 li:nth-child(9) .content,
+.colormenu1 li:nth-child(9) .close{
+  background-color: #e4f0b8;
+  
+ 
+}
+
+.colormenu1 li:nth-child(10),
+.colormenu1 li:nth-child(10).content,
+.colormenu1 li:nth-child(10) .close{
+  background-color: #e6f7a9;
+}
+
+.colormenu1 li:nth-child(11),
+.colormenu1 li:nth-child(11) .content,
+.colormenu1 li:nth-child(11) .close{
+  background-color: #e1fa85;;     
+}
+
+.colormenu1 li:nth-child(12),
+.colormenu1 li:nth-child(12) .content,
+.colormenu1 li:nth-child(12) .close{
+  background-color: #cef394;
+}
+
+.colormenu1 li:nth-child(5),
+.colormenu1 li:nth-child(5) .content,
+.colormenu1 li:nth-child(5) .close{
+  background-color: #d8e6d9;
+}
+.colormenu1 li:nth-child(6),
+.colormenu1 li:nth-child(6) .content,
+.colormenu1 li:nth-child(6) .close{
+  background-color: #9eb9fd
+}
+.colormenu1 li:nth-child(7),
+.colormenu1 li:nth-child(7) .content,
+.colormenu1 li:nth-child(7) .close{
+  background-color: #b2dcff;
+}
+.colormenu1 li:nth-child(8),
+.colormenu1 li:nth-child(8) .content,
+.colormenu1 li:nth-child(8) .close{
+  background-color: #d1faf9;
+}
+
+
+
+
+
+/* -------------------------------- */
+
+.colormenu1 .content{
+  opacity: 0; display: none\9;
+  overflow: visible;
+  font: 12px Arial, Helvetica;
+  position: absolute;
+  height: 100%; width: 100%; /* Ideally: height: 100%; width: 100%; but works at it should just in FF */
+  -webkit-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -ms-transition: all .3s ease-out; 
+  -o-transition: all .3s ease-out;  
+  transition: all .3s ease-out; 
+      
+}  
+
+.colormenu1 .expanded{
+  opacity: .95; display: block\9;
+  overflow: visible;
+  
+  margin-top:-80px;
+  border-color: #FFFFFF;
+  height: 80px; width: 850px; /* Cover the entire area */
+   background:fff;
+ 
+  
+}
+
+
+
+
+/* -------------------------------- */    
+
+.colormenu1 .title{
+  
+  height: 100%; width: 100%;
+  text-align: center;
+  
+  font: italic bold 1.8em/80px 'trebuchet MS', Arial, helvetica;
+  color:#000000;
+  opacity: .6;
+ 
+}
+
+.colormenu1 li:hover .title{
+  opacity: .8;
+}    
+
+/* -------------------------------- */
+
+.colormenu1 .close {
+  display: none;
+  border: 5px solid #000000;
+  color: #000000;
+  cursor: pointer;
+  height: 40px; width: 40px;
+  font: bold 20px/40px arial, helvetica;
+  position: absolute;
+  text-align: center;
+  top: -20px; right: -20px;
+  -moz-border-radius: 40px;
+  -webkit-border-radius: 40px;
+  border-radius: 40px;      
+}
+
+.colormenu1 .cover .close{
+  display: block;
+  border-color:#FFFFFF;
+}
+

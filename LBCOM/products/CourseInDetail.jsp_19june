@@ -1,0 +1,107 @@
+<%@ page import="java.sql.*,coursemgmt.ExceptionsFile" %>
+<jsp:useBean id="con1" scope="page" class="sqlbean.DbBean"/>
+<%
+//String connectionURL = "jdbc:mysql://localhost:4306/work_lb";
+Connection connection = null;
+Statement statement = null;
+ResultSet rs = null;
+String cid,imagePath,image,mode="",sessid=null;
+mode=request.getParameter("mode");
+sessid=(String)session.getAttribute("initiate");
+if(mode==null)
+{
+	mode="";
+}
+%>
+<html>
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Learn Beyound</title>
+<link rel="stylesheet" type="text/css" href="images/style.css" />
+</head>
+
+<body>
+<%
+       try
+	   {
+		connection=con1.getConnection();
+		statement = connection.createStatement();
+		cid=request.getParameter("courseid");
+		rs = statement.executeQuery("select * from lb_course_catalog where course_id='"+cid+"'");
+		while (rs.next()) {
+			image="images/courseimages/"+rs.getString("image_path");
+%>
+<form name="addToForm"  method="post">
+<center>
+<br>
+<br>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="60%" bordercolorlight="#C0C0C0">
+  <tr>
+    <td width="100%" height="114">
+    <table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" id="AutoNumber2" style="border-collapse: collapse">
+      <tr>
+        <td width="714" height="123">
+        <table border="1" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="200%" height="19" colspan="3">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+              <tr>
+                <td width="50%"><font face="Verdana" size="2" color="#FF0000">
+                <b><%=rs.getString("title")%></b></font>&nbsp;</td>
+                <td width="50%" align="right">
+			<a href="CourseIndex.jsp"><font face="verdana" size="2"><b>Back</b></font></a></td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          <tr>
+            <td width="24%" height="390" rowspan="2" align="center"><img border="0" src="<%= image%>"></td>
+            <td width="176%" height="397" colspan="2">
+				<font face="Verdana" size="2" color="blue"><%=rs.getString("description")%></font>
+				
+				<p align="center">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+          </tr>
+          <tr>
+            <td width="42%" height="9" align="left">
+				<font face="Verdana" size="2" color="brown"><b>Cost : $<%= rs.getString("cost")%></b></font></td>
+            <td width="134%" height="9" align="right">
+				<a href="/LBRT/products.ShoppingServlet?action=AddCourse&cid=<%=rs.getString("course_id")%>">
+				<font face="Verdana" size="2"><b>Add to Cart</b></font></a></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+</form>
+<% }
+ }
+		catch(Exception e)
+        {
+         ExceptionsFile.postException("CourseInDetail.jsp","operations on database","Exception",e.getMessage());	 
+         System.out.println("Error in CourseInDetail.jsp:---" + e.getMessage());
+        }
+        finally{     //closes the database connections at the end
+		   try{
+			if(rs!=null)
+				rs.close();
+			if(statement!=null)
+				statement.close();
+			if(connection!=null && !connection.isClosed())
+				connection.close();
+		   }catch(SQLException se){
+			 ExceptionsFile.postException("CourseInDetail.jsp","closing statement object","SQLException",se.getMessage());	 
+			 System.out.println("Exception in CourseInDetail.jsp"+se.getMessage());
+		}
+	}
+	
+%>
+</body>
+</html>

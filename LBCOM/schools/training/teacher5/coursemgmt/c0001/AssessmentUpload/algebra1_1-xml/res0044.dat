@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.16 Problems">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Joe is 5 years older than Sally.  In 15 years Joe will be 3 times as old as Sally is now.  How old is Sally now?  Hint: Write Joe&apos;s age now in terms of Sally&apos;s age now.  Then write Joe&apos;s age in 15 years using the expression you just wrote for Joe&apos;s age now.  Then using S for Sally&apos;s age now, write the equation in only one variable &quot;S&quot; and solve it.</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>30</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>45</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The length of a rectangle is 3 more than twice its width.  The perimeter is 48 feet.  Find the width.  Hint:  You did this in Module 3 Assignment 5.  Now you have to write the equation and solve it.</label>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>7</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>21</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>5 times the first of 3 consecutive even integers is 14 more than 3 times the second.  What is the third consecutive integer?</label>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>14</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>18</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>15 more than 4 times a number is 6 more than 5 times the number.  Find the number.</label>
+			<choice>
+				<choicelabel>21/9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-9/21</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Martha and Sally had lunch together on Tuesday.  Sally paid $2 more than Martha.  If the total bill was $5.64, how much did Sally pay for her lunch?</label>
+			<choice>
+				<choicelabel>$1.82</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$2.00</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$3.64</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$3.82</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$7.64</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Bob paid 3 less than Tim for his lunch at a local pizza parlor.  Together they spent $7.80.  How much did Bob spend for his lunch?</label>
+			<choice>
+				<choicelabel>$2.40</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$4.50</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$4.80</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$5.40</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>$8.40</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>There were 6 more women on a committee than men.  If the committee was made up of 30 people, how many men were on the committee?</label>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>30</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>36</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Three consecutive integers have the sum of 153.  What is the second integer?</label>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>51</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>52</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>53</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>54</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The sum of 3 consecutive even integers is 54.  What is the first consecutive integer?</label>
+			<choice>
+				<choicelabel>13</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>14</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>17</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>An airplane flies at a rate of 356 km/h.  If the plane travels a total distance of 1424 km, how long was it in the air?</label>
+			<choice>
+				<choicelabel>3.56 hours</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 hours</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4.24 hours</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 hours</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>14.2 hours</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

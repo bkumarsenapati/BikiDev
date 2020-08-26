@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.08 Solving by Factoring">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve by Factoring: 3x&lt;sup&gt;2&lt;/sup&gt; = -9x  
+
+What are the solutions for x?</label>
+			<choice>
+				<choicelabel>x = 3, x = 9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0, x = 3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0, x = -3</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve by Factoring: x&lt;sup&gt;2&lt;/sup&gt; + 5x - 6 = 0  
+
+What are the solutions for x?</label>
+			<choice>
+				<choicelabel>x = 2, x = 3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 6, x = -1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -6, x = 1</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve by Factoring: x&lt;sup&gt;2&lt;/sup&gt; - 2x + 1 = 0  
+
+What are the solutions for x?</label>
+			<choice>
+				<choicelabel>x = 2, x = 1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1, x = -1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve by Factoring: 2x&lt;sup&gt;2&lt;/sup&gt; + 5x - 3 = 0  
+
+What are the solutions for x?</label>
+			<choice>
+				<choicelabel>x = 2, x = -3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 5, x = -3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1/2, x = -3</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve by Factoring: 4x&lt;sup&gt;2&lt;/sup&gt; - 16 = 0  
+
+What are the solutions for x?</label>
+			<choice>
+				<choicelabel>x = 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 2, x = -2</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

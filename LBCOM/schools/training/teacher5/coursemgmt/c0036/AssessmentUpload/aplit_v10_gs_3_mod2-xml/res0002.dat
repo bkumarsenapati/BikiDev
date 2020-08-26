@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="00.04 Plagiarism">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>1</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>10</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>Plagiarism is using someone else&#146;s ideas and words and not giving credit to the original author.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>If I paraphrase material from a source, it is okay to use it without giving credit.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>In MLA format if I quote from an author, that author must be credited at the end of the quote by his or her last name enclosed in parentheses.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>Buying a paper from a web site and turning it in as my own is acceptable to my instructor.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>If I use a word or term  that an author has “coined,” it is okay to use it without giving credit to that author.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>You borrow a paper from your friend who was in AP English Literature last year. After looking it over, you decide to retype the paper but change some of the wording and include some ideas of your own. Is this plagiarism?</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>It is acceptable to quote or paraphrase if you give proper credit to the original source.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following statements is true about plagiarism?</label>
+			<choice>
+				<choicelabel>It is unavoidable. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Everyone does it at some time or other.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is cheating.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>You might want to quote an author&#146;s words when he or she has stated so clearly what you want to present in your paper.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following does &lt;strong&gt;not&lt;/strong&gt; need to be cited?</label>
+			<choice>
+				<choicelabel>Common knowledge</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A web site on which you found information</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A quote that someone made on a television show</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

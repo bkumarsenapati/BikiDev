@@ -1,0 +1,32 @@
+
+@media Print    
+{
+.admin_headings {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #748771; FONT-FAMILY: Tahoma, Verdana, Trebuchet MS, sans-serif; TEXT-DECORATION: none
+}
+.header {
+	DISPLAY: none
+}
+.hide {
+	DISPLAY: none
+}
+.left_main {
+	DISPLAY: none
+}
+.misc_items {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; FONT-FAMILY: Tahoma, Verdana, Trebuchet MS, sans-serif
+}
+.notdisplay {
+	PADDING-LEFT: 10px; FONT-SIZE: 11px; FONT-FAMILY: Tahoma, Verdana, Trebuchet MS, sans-serif
+}
+.notdisplay_rpt {
+	FONT-SIZE: 11px; FONT-FAMILY: Tahoma, Verdana, Trebuchet MS, sans-serif
+}
+.notprint {
+	DISPLAY: none; PADDING-LEFT: 10px; FONT-SIZE: 11px; FONT-FAMILY: Tahoma, Verdana, Trebuchet MS, sans-serif
+}
+.topmain_row_color {
+	DISPLAY: none
+}
+
+}

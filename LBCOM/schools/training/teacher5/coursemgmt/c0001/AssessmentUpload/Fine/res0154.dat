@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="10.14 Blank Assessment ">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<standard state=""></standard>
+		<label>Please attach your work file here.  Refer to the directions in the lesson for detailed information about what to submit.</label>
+		<credit>20</credit>
+	</item>
+</assessment>

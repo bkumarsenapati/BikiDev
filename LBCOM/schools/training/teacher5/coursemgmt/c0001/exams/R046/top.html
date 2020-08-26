@@ -1,0 +1,90 @@
+<html><head><meta http-equiv='Content-Language' content='en-us'>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<meta name='GENERATOR' content='Microsoft FrontPage 4.0'>
+<meta name='ProgId' content='FrontPage.Editor.Document'>
+<script type='text/javascript'>
+var hours =0;
+var minutes =0;
+var seconds = 1;
+var timer;
+minutes=(((minutes < 10)&&(minutes >=0)) ? '0' : '') + minutes;
+hours=(((hours < 10)&&(hours >=0)) ? '0' : '') + hours;
+function stop(){
+	clearTimeout(timer);
+	alert('Your time is up. Your assessment has been submitted.');
+	parent.btm_f.go(false,'','',true);
+}
+function startClock(){	seconds = seconds-1;
+return false;
+	if(seconds==-1)
+	 {
+	   seconds=59;
+	   minutes=minutes-1;
+  minutes=(((minutes < 10)&&(minutes >=0)) ? '0' : '') + minutes;
+	 }
+	if(minutes==-1)
+	 {
+	   minutes=59;
+	   hours=hours-1;
+hours=(((hours < 10)&&(hours >=0)) ? '0' : '') + hours;
+	 }
+	 if(hours==0 && minutes==0 && seconds==0){
+			 stop();
+	 }
+	seconds=((seconds < 10) ? 	'0' : '') + seconds;
+	window.status= 'Time remaining  '+hours + ':' + minutes + ':' + seconds ;
+	timer = setTimeout('startClock()',1000)}
+</script>
+<style>
+	.ans {color:black}
+	.n_ans {color:red}
+</style>
+</head>
+<body topmargin=0 leftmargin=3 oncontextmenu='return false;' ><div align='left'>
+<table border='0' width='100%' cellspacing='0' cellpadding='0' height='22'>
+<tr><td width='128' bgcolor='#B0A890' height='22'><p align='left'><b><font face='Arial' size='2' color='#FFFFFF'>Submission No</font></b></td><td width='7' bgcolor='#B0A890' height='22' align='center'><b><font color='#FFFFFF'>:</font></b></td><td width='75' bgcolor='#B0A890' height='22'>&nbsp;<script language='javascript'>
+if(parent.chances!=null)
+document.write(parent.chances); 
+</script></td><td width='556' rowspan='2' bgcolor='#B0A890' height='43'><p align='center'><span style='font-variant: small-caps; font-weight: 700'><font face='Arial' color='#800000'>04.18 Oral Assessment</font></span></td><td width='58' bgcolor='#B0A890' height='22'><font face='Arial' size='2' color='white'><b>Date</b></font></td>   <td width='17' bgcolor='#B0A890' height='22'><p align='center'><b><font face='Arial' size='2' color='white'>:</font></b></p></td><td width='75' bgcolor='#B0A890' height='22'><font face='Arial' size='2'><SCRIPT LANGUAGE='JavaScript1.2'>var time=new Date();var month=time.getMonth() + 1;var date=time.getDate();var year=time.getYear();if (year < 2000)year = year + 1900;document.write(date+'-' + month+ '-'+ year );</SCRIPT></font></td></tr><tr><td width='128' bgcolor='#B0A890' height='21'><p align='left'><b><font face='Arial' size='2' color='#FFFFFF'>Course Contribution</font></b></td><td width='7' bgcolor='#B0A890' height='21' align='center'><b><font color='#FFFFFF'>:</font></b></td><td width='38' bgcolor='#B0A890' height='21'>&nbsp;20.0</td><td bgcolor='#B0A890' height='21' width='58'><font face='Arial' size='2' color='white'><b>Duration</b></font></td><td width='17' bgcolor='#B0A890' height='21'><p align='center'><b><font face='Arial' size='2' color='white'>:</font></b></p></td><td width='75' bgcolor='#B0A890' height='21'></td></tr><tr><td  colspan='7' height='1'><b><font face='Arial' color='#FF0000'><span style='font-size:10pt;'>Instructions :</span></font></b></td></tr><tr><td colspan='7'  valign='middle' align='left'><font face='Arial'><span style='font-size:10pt;'>&nbsp;*&nbsp;A checkbox is provided on the left of every question serial number to control the answer submission. ( <img src='/LBCOM/images/checked.jpg' width='18' height='18' border='0'>Submit <img src='/LBCOM/images/unchecked.jpg' width='18' height='18' border='0'> 
+	 Do not submit)</span></font></td></tr>
+ <tr>
+      <td  valign='top'>
+      <p><span style='font-size:10pt;'><font face='Arial'>&nbsp;*&nbsp;</font></span></p>
+	</td></tr>
+<tr>
+<td width='100%' height='24' colspan='7'>
+<table border='0' cellspacing='1'  cellpadding='0' width='100%'>
+<tr><td><table border='0' width='100%' cellspacing='0' cellpadding='0'>
+  <tr>
+    <td width='100%' bgcolor='#CCCCCC'>&nbsp;</td>
+</tr>
+<tr>
+<td width='100%' bgcolor='#E2E2E2' height='12'>
+<div id='q_ids_1' align='center'>
+<font face='Arial' size='2'><a href='#' onclick='go_qno(1); return false;'>1</a>&nbsp;
+</div>
+  </td>
+</tr>
+</table>
+</tr>
+</table>   
+</td>   
+</tr> 
+</table>
+</div>
+</body>
+<SCRIPT LANGUAGE='JavaScript'>
+try{
+var vsn=parent.versn+'.html#';
+function go_qno(v){	
+	parent.mid_f.document.location.href=vsn+v;	
+}
+function go_gId(g){
+	parent.mid_f.document.location.href=vsn+g;	
+}
+function go_pNo(p){
+	parent.mid_f.document.location.href=vsn+p;	
+} 
+}catch(err){ var k=0;  }</SCRIPT>
+</html>

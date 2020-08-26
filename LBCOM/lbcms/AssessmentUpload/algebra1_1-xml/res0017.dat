@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.06 Exponents">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>(-6)&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>36</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-4&lt;sup&gt;3&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-64</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>7&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>49</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-9</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>(-3)&lt;sup&gt;3&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-27</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>5&lt;sup&gt;0&lt;/sup&gt;</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>(-128)&lt;sup&gt;0&lt;/sup&gt;</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>3&lt;sup&gt;-2&lt;/sup&gt;
+
+Do not enter any spaces in your answer.</label>
+			<blank>
+				<accepted>1/9</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>6&lt;sup&gt;-1&lt;/sup&gt;
+
+Do not enter any spaces in your answer.</label>
+			<blank>
+				<accepted>1/6</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-2&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>25&lt;sup&gt;1/2&lt;/sup&gt;</term>
+				<definition>5</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>4&lt;sup&gt;1/2&lt;/sup&gt;</term>
+				<definition>2</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_13.gif&gt;</term>
+				<definition>8</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_14.gif&gt;</term>
+				<definition>-3</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_15.gif&gt;</term>
+				<definition>4</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_16.gif&gt;</term>
+				<definition>3/5</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_17.gif&gt;</term>
+				<definition>-2</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_18.gif&gt;</term>
+				<definition>1/3</definition>
+				<credit>1</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_19.gif&gt;
+ 
+It is between _____ and _____.</label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>1</credit>
+			</blank>
+			<blank>
+				<accepted>3</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0017/educator_alg1_v4/pictures/M3images/3_07_20.gif&gt;
+ 
+It is between _____ and _____.</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>1</credit>
+			</blank>
+			<blank>
+				<accepted>8</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+</assessment>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.02 Inequalities">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>x - 1 &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -5</label>
+			<choice>
+				<choicelabel>A.) x &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -4, closed dot on -4, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -4, closed dot on -4, arrow to the right</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -4, open dot on -4, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -4, open dot on -4, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>2x &lt; 6</label>
+			<choice>
+				<choicelabel>A.) x&lt;3, closed dot on 3, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&lt;3, open dot on 3, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&lt;3, open dot on 3, arrow to the left</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&lt;3, closed dot on 3, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>x - 7 &gt; -4</label>
+			<choice>
+				<choicelabel>A.) x&gt;3; closed dot on 3, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&gt;3; closed dot on 3, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&gt;3; open dot on 3, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&gt;3; open dot on 3, arrow to the right</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>(Don&apos;t forget what you&apos;ve learned about division by a negative number.)  
+ 
+-2x + 3 &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt; -7</label>
+			<choice>
+				<choicelabel>A.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;5; closed dot on 5, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;5; closed dot on 5, arrow to the right</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;5; open dot on 5, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;5; open dot on 5, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>(Be careful of this one! The chart from the assignment works only if the x is on the left side of the inequality.)  
+ 
+4 &lt; -4x </label>
+			<choice>
+				<choicelabel>A.) x&lt;-1; Open dot on -1, arrow to the left</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&lt;-1; Open dot on -1, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&gt;-1; Open dot on -1, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&gt;-1; Open dot on -1, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>3(x + 4) &gt; 8x - 6</label>
+			<choice>
+				<choicelabel>A.)x&gt;-2, Open dot on -2, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.)x&lt;-2, Open dot on -2, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.)x&lt;18/5, Open dot between 3 &amp; 4, arrow to the left</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.)x&gt;18/5, Open dot between 3 &amp; 4 arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>4 - 3x &lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt; -x + 2</label>
+			<choice>
+				<choicelabel>A.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;1, Closed dot on 1, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;1, closed dot on 1, arrow to the right</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;1, closed dot on 1, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&lt;img src=/webdav/res0118/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;1, closed dot on 1, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>-2(x - 4) &gt; 5 - (x + 2)</label>
+			<choice>
+				<choicelabel>A.) x&gt;5, Open dot on 5, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x&gt;5, Open dot on 5, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x&lt;5, Open dot on 5, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x&lt;5, Open dot on 5, arrow to the left</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the inequality x &gt; 6x - 10 and write a description of the graph.  Show all work if you want to be eligible for partial credit.</label>
+		<credit>2.0</credit>
+	</item>
+</assessment>

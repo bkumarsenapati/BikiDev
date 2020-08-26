@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.06 Trinomials Part 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Factor the trinomial 2x&lt;sup&gt;2&lt;/sup&gt; + 17x - 9 on your paper. Which of the following would be part of the factored answer?</label>
+			<choice>
+				<choicelabel>(2x + 1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x - 1)</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x - 9)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The trinomial 10x&lt;sup&gt;2&lt;/sup&gt; + 11x + 3 is prime.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Factor the trinomial 4x&lt;sup&gt;2&lt;/sup&gt; + 24x + 11 on your paper. Which of the following would be part of the factored answer?</label>
+			<choice>
+				<choicelabel>(2x + 1)</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x - 11)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x + 6)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>The trinomial is prime.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The trinomial 2x&lt;sup&gt;2&lt;/sup&gt; - 8x + 5 is prime.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Factor the trinomial 9x&lt;sup&gt;2&lt;/sup&gt; - 18xy + 5y&lt;sup&gt;2&lt;/sup&gt; on your paper. Which of the following would be part of the factored answer?</label>
+			<choice>
+				<choicelabel>(3x + 5y)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x + y)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x - 5y)</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>The trinomial is prime.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

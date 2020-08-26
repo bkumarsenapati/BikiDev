@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Project Management Chapter Test 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+      
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which of the following becomes increasingly important in a virtual team environment?</label>
+			<choice>
+				<choicelabel>Requirements engineering</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Communication planning</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Formal procurements closure</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Network diagramming</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>You are assigned as the project manager to a project which is executed for a customer under FP contract. Your customer informed you this morning that they insist on certain "refinements" of the project scope. &lt;br&gt;&lt;br&gt;You agree that the requested actions make really sense to the project, but believe that they constitute a major change increasing the project scope. What should you do next?</label>
+			<choice>
+				<choicelabel>Accept the request of the customer. Diligently document the additional costs and working hours spent by yourself and the team on the implementation of the change and invoice these to the customer at appropriate rates.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Perform earned value analysis to assess the current status of the project and get all the numbers you need to communicate the case to the change control board which then will have to make the best decision regarding the customer request.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Check the contract, the project charter, the scope statement and other documents related to the project and the contract. Implement ADR (alternative dispute resolution) procedures if the conflict cannot be resolved otherwise.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Talk to the project sales department and find a joint solution with them how to best reject the request considering the commercial and strategic value of the customer to the organization you are working for.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> prime contractor in a customer project under CPFF contract has run into unexpected technical problems. Fixing them will require a lot of additional work to be done. &lt;br&gt;The company made a decision to book more staff and equipment from their subcontractors in order to adhere to the agreed timeline. The customer agreed to this decision. &lt;br&gt;What will most likely happen?</label>
+			<choice>
+				<choicelabel>The contractor&#39;s indirect costs will increase and the customer&#39;s payment for them will increase, too.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The contractor&#39;s indirect costs will increase, but the customer&#39;s payment for them will not increase.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The contractor&#39;s indirect costs will not increase, but the customer&#39;s payment for them will.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Both the contractor&#39;s indirect costs and the customer&#39;s payment for them will not increase.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> A project management team is evaluating the causes that might contribute to unsatisfactory performance and quality. Which of the following statements is not true?</label>
+			<choice>
+				<choicelabel>Normal process variation is attributable to random causes and sometimes also called "white noise".</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Special causes are easier to predict and handle than random causes (also called common causes).</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Special causes are unusual events which are difficult to foresee and often produce outliers.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A process can be optimized to limit the bandwidth of variations due to random causes.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> You are performing a project management audit in your company and find that most of the project plans are neither consistent nor up-to-date.&lt;br&gt;&lt;br&gt; Which of the following statements is not true?</label>
+			<choice>
+				<choicelabel>Projects should never be executed without a valid, updated and working project management plan.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The consistency of the project management plan is secondary because it is only the results that matter.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A great deal of effort is required to develop and update a project plan, but the benefits include less pressure on all stakeholders and a resulting product that will satisfy the requirements.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Poor planning and insufficient updating of project management plans are common reasons for cost and time overruns.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> You want to perform active risk acceptance. What should you do?</label>
+			<choice>
+				<choicelabel>Create contingency reserves in resources, money and time.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Develop a plan to minimize impact in case that an identified risk occurs.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Develop a plan to minimize the probability of occurrence for identified risks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Make additional resources available to speed up the project.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> A project manager made 3-point estimates on a critical path and found the following results:&lt;br&gt;&lt;br&gt;
+		   &lt;img src=/webdav/res011/project_management/pictures/image3.gif&gt;&lt;br&gt;&lt;br&gt;  Assuming &#240;3 sigma precision level for each estimate, what is the standard deviation of the allover path?</label>
+			<choice>
+				<choicelabel>App. 4.2 days</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>App. 5.2 days</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>App. 6.2 days</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>You can not derive the path standard deviation from the information given.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> When do bidder conferences normally take place?</label>
+			<choice>
+				<choicelabel>After the contract has been awarded to keep alternatives open.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>After submission of bid or proposal, but before contract award.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Prior to the submission of a bid or proposal by the bidder.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>After technical meetings with bidders to discuss contract requirements.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> What is defined by control limits?</label>
+			<choice>
+				<choicelabel>A measuring instrument solely used to describe process capability. The process is found capable if the &#241;3 sigma range is exceeded by not more than 0.3% of a tested sample lot.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The limits of the six sigma area on either side of a control chart to plot measured values; data found outside the area are out of specification and can lead to rejection of an entire batch. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The area consisting of typically three standard deviations on either side of a mean value of a control chart to plot measured values found in statistical quality control</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The area consisting of typically three standard deviations on either side of a mean value of a control chart to plot measured values found in quality assurance</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> The scope baseline consists of what?</label>
+			<choice>
+				<choicelabel>Scope statement, WBS, and WBS dictionary</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Cost baseline, quality baseline and schedule baseline</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Configuration management plan and configuration identification document</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Procurement statement of work and project scope statement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label> Activity 1 has a duration of 20 days, activity 2 of 10 days, activity 3 of 5 days and activity 4 of 6 days. &lt;br&gt;&lt;br&gt;
+		   &lt;img src=/webdav/res011/project_management/pictures/image4.gif&gt;&lt;br&gt;&lt;br&gt; What is the minimum total duration between the milestones A and B?</label>
+			<choice>
+				<choicelabel>36 days</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>37 days</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>39 days</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>42 days</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which tool and technique is used in the processes Create WBS and Define activities?</label>
+			<choice>
+				<choicelabel>Nominal group technique</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Human resource assignment</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Brainstorming</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Decomposition</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which of the following statement(s) on whistleblowing is/are not true?&lt;br&gt;  It is a term used to define an employee&#39;s decision to disclose information on unethical, immoral or illegal actions at work to an authority figure. &lt;br&gt;&lt;br&gt;An employee should always discuss the matter with people external to the company before following the "chain of command" and discuss it with the immediate superior. &lt;br&gt;&lt;br&gt;The consequences of whistleblowing are often extreme and might include being branded as an owner of bad judgment, layoff, civil action and imprisonment. &lt;br&gt;&lt;br&gt;Carefully performed whistleblowing can lead to the end of unethical business practices.</label>
+			<choice>
+				<choicelabel>a</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>b</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>b,c</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>c,d</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which of the following statements is not true?</label>
+			<choice>
+				<choicelabel>Attribute sampling is the process of assessing whether results conform to specifications or not.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Prevention means keeping errors out of the process by applying actions before the process starts changing its input.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Variables sampling means that the result is classified into one of the 3 categories:
+"acceptable" - "acceptable after rework" - "rejected".</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Inspection is often mainly done to keep errors out of the hands of the customer instead of as a means of process control.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which statement describes best why you should document assumptions?</label>
+			<choice>
+				<choicelabel>Assumptions might prove to be wrong. Knowing which assumptions were incorrect allows baseline adjustments in case of project crisis.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Assumption analysis is a valuable tool and technique to explore the validity of assumptions during risk identification.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Assumptions limit the project management team&#39;s options for decision making because they can not be controlled by the team.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>In case of schedule or budget overruns, the documentation of assumptions supports a clear assignment of responsibility.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which is normally not regarded as an element of cost of quality?</label>
+			<choice>
+				<choicelabel>Prevention costs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Maintenance cost</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Appraisal costs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Failure costs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>You have recently been assigned as a project manager to a new B-O-T (build, operate, transfer) capital project. Reviewing the initial documentation you found out that it has been calculated with a very small margin during operations of its product for the shareholders. What should you do?</label>
+			<choice>
+				<choicelabel>As you are not responsible for lifecycle costing, you don&#39;t have to worry about operation profits. Focus on project costs from initiation through handover.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Ensure maximum profits by buying the best and cheapest items, components and modules?potentially from a big number of different suppliers?and integrating them.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Create a realistic plan broken down to a sufficient level of detail. Perform all risk management processes. Ensure real-time communications with all stakeholders.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Try to get a second project manager assigned to share decision making and accountability to shareholders with the person.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A project is handled by departments of an organization and expedited by a project coordinator. Which of the following statements is most likely to be true?</label>
+			<choice>
+				<choicelabel>The performing organization is a weak matrix.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The performing organization is doing "management by projects".</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The performing organization is a strong matrix.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The performing organization is projectized.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which statement on conflicts is true?</label>
+			<choice>
+				<choicelabel>Conflict resolution should focus on people, not issues.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Conflict is natural and forces a search for alternatives.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Conflict should always be handled in private and not in the team.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Too much openness is a common cause of conflict.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A change request in a project has been rejected some weeks ago. Yesterday, the project manager found out that it nevertheless has been implemented by the team members, who knew of the change request, but not of the rejection.&lt;br&gt;&lt;br&gt;In order to avoid such a situation, rejected change requests should be consistently communicated to stakeholders through which process?</label>
+			<choice>
+				<choicelabel>Report performance</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Verify scope</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Perform integrated change control</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Monitor and control risks</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

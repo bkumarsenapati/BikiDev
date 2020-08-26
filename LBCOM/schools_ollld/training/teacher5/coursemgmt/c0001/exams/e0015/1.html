@@ -1,0 +1,263 @@
+
+
+<html><head>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<!--[if IE]>
+<style type="text/css">
+*{font-family: Lucida Sans Unicode, Math1, Math2, Math3, Math4, Math5, MT Extra, CMSY10, Symbol,arial;}</style><![endif]-->
+<script language='javascript' src='/LBCOM/validationscripts.js'></script>
+<script language='javascript' src='/LBCOM/common/evaluation.js'></script>
+
+<!-- TinyMCE --><script type="text/javascript" src='/LBCOM/tinymce/jscripts/tiny_mce/tiny_mce.js'></script><script type="text/javascript">tinyMCE.init({	mode : "textareas",theme : "simple",nowrap : false,auto_focus : "mess",plugins : "pagebreak,style,layer,table,save,advhr,iespell,inlinepopups,insertdatetime,preview,searchreplace,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template,wordcount,advlist,autosave",	theme_advanced_buttons1 : 'save,newdocument,|,bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,styleselect,formatselect,fontselect,fontsizeselect',	theme_advanced_toolbar_location : "top",theme_advanced_toolbar_align : "left",theme_advanced_statusbar_location : "bottom",theme_advanced_resizing : true,content_css : "css/content.css",	style_formats : [{title : 'Bold text', inline : 'b'},{title : 'Red text', inline : 'span', styles : {color : '#ff0000'}},{title : 'Red header', block : 'h1', styles : {color : '#ff0000'}},{title : 'Example 1', inline : 'span', classes : 'example1'},{title : 'Example 2', inline : 'span', classes : 'example2'},{title : 'Table styles'},{title : 'Table row 1', selector : 'tr', classes : 'tablerow1'}],template_replace_values : {username : "Some User",staffid : "991234"}});</script><!-- /TinyMCE -->
+
+
+<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js'></script> 
+        <script type="text/javascript">
+            //alert("{{{{{{");
+           //f3.content1.value=12;
+            $(document).ready(function()
+            {
+			
+                $('#rr').click(function()
+                {
+                   		 alert("Click");
+
+						var len = document.q_paper.elements.length;
+						alert(len);
+
+						for(var i = 0 ; i< len;i++){
+							if(document.q_paper.elements[i].type =='textarea')
+							{
+									alert("Element Name  :"+document.q_paper.elements[i].name+"       Element Type  :"+document.q_paper.elements[i].type+"     Element Tag Name  :"+document.q_paper.elements[i].tagName+" :"+document.q_paper.elements[i].id);
+
+									document.getElementById(document.q_paper.elements[i].id).value=tinyMCE.get(document.q_paper.elements[i].id).getContent();
+									
+									alert("Santhosh..."+document.getElementById(document.q_paper.elements[i].id).value);
+
+							}
+						}
+						
+
+						 
+					/*
+					for(var j=222;j<230;j++)
+						{
+							alert("Hi 1");
+							alert(document.getElementById('Q'+j).type);
+							alert("2");
+							if (document.getElementById("Q"+j) )
+							{
+
+								alert("Q"+j);
+								document.getElementById("Q"+j).value=tinyMCE.get('Q'+j).getContent();
+								alert("Santhosh..."+document.getElementById("Q"+j).value);
+							}
+						}
+						*/
+						
+						
+					//	Your temporary password is rnfrblyw. It has been emailed to sgidugu_t1@libertyu 
+
+					  //alert(document.getElementById("textArea1").value);
+                      //document.getElementById("textArea2").value=tinyMCE.get('textArea2').getContent();
+					  //alert(document.getElementById("textArea1").value);
+                   
+                    // opener.form.parent_name.value=tinyMCE.get('child_name').getContent();
+                    //tinymce.get('parent_name').setcontent('<p>This is my new content!</p>');
+                    // alert(tinyMCE.get('parent_name').getContent().value);
+                    // tinyMCE.get('parent_name').getContent().value=tinyMCE.get('child_name').getContent();
+                });
+            });
+          
+          // setInterval(function () {parent.mid_f.document.q_paper.rr.click();}, 10000);
+        </script>
+
+
+ </head>
+<body onSubmit="setype();" oncontextmenu='return false;' link='#FFFFFF' alink='#FFFFFF' vlink='#FFFFFF' leftmargin=0 topmargin=0>
+<form name='q_paper' enctype='multipart/form-data' action='#' method='post'>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P1'>Page - 1</a></td> </tr></table><table id='Q1Q223' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q1' value='1' onclick="checkMarked(this,'Q223',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='1'><font face='Arial' size='2'>1</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>All parts of the planet that are inhabited by living things are called the</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q223' value=1 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Biosphere
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q223' value=2 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Atmosphere
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q223' value=3 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Ecosystem
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q223' value=4 onclick="setMark('Q1')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Population
+</td></tr></table><br>
+<table id='Q2Q224' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q2' value='2' onclick="checkMarked(this,'Q224',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='2'><font face='Arial' size='2'>2</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Units of inherited information are called</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q224' value=1 onclick="setMark('Q2')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Proteins
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q224' value=2 onclick="setMark('Q2')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Genes
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q224' value=3 onclick="setMark('Q2')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Cells
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q224' value=4 onclick="setMark('Q2')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Chemicals
+</td></tr></table><br>
+<table id='Q3Q225' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q3' value='3' onclick="checkMarked(this,'Q225',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='3'><font face='Arial' size='2'>3</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Regulating an internal environment despite change in the external environment is called</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q225' value=1 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Photosynthesis
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q225' value=2 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Natural selection
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q225' value=3 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Evolution
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q225' value=4 onclick="setMark('Q3')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Homeostasis
+</td></tr></table><br>
+<table id='Q4Q226' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q4' value='4' onclick="checkMarked(this,'Q226',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='4'><font face='Arial' size='2'>4</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The process by which plants convert light energy to stored energy of food is called</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q226' value=1 onclick="setMark('Q4')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Adaptation
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q226' value=2 onclick="setMark('Q4')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Photosynthesis
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q226' value=3 onclick="setMark('Q4')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Regulation
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q226' value=4 onclick="setMark('Q4')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Evolution
+</td></tr></table><br>
+<table id='Q5Q227' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q5' value='5' onclick="checkMarked(this,'Q227',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='5'><font face='Arial' size='2'>5</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Cells without nuclei are called</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q227' value=1 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Eukaryotic
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q227' value=2 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Multi-cellular
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q227' value=3 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Domains
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q227' value=4 onclick="setMark('Q5')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>Prokaryotic
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P2'>Page - 2</a></td> </tr></table><table id='Q6Q228' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q6' value='6' onclick="checkMarked(this,'Q228',4)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='6'><font face='Arial' size='2'>6</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Match the following words to the correct definition</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 10.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td  height='5' valign='top' align='left'><font face='Arial' size='2'><table border='0' width='600' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'><tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>01.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>Mutli-cellular</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>A.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'>the process by which individuals with inherited characteristics well Suited to the environment leave more offspring than do other individuals</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>0</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q228' onchange="setMark_oth('Q6',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='e'>E</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>02.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>Population</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>B.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'>A distinct type of organism</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>0</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q228' onchange="setMark_oth('Q6',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='e'>E</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>03.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>Natural Selection</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>C.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'>Cells that contain nuclei</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>0</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q228' onchange="setMark_oth('Q6',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='e'>E</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>04.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>Eukaryotic</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>D.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'>all the members of a particular species that live in the same area</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>0</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q228' onchange="setMark_oth('Q6',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='e'>E</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>05.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>Species</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>E.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'>Organisms made up of many cells</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>0</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q228' onchange="setMark_oth('Q6',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='e'>E</option><option value='' selected>...</option></select></td></tr>
+</td></tr>
+</table></td></tr></table><br>
+<table id='Q7Q229' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q7' value='7' onclick="checkMarked(this,'Q229',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='7'><font face='Arial' size='2'>7</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Describe an ecosystem where you live. Make sure to include a living and a nonliving component.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 4.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'>
+
+<textarea rows='5' cols='86' name='Q229' id='Q229' onblur="setMark_oth('Q7',this.value)">aaaaaaa</textarea>
+
+</td>
+<td width='90' valign='top'><DIV id='EQ229' style='visibility:hidden'><input type='text' id='MQ229' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,4.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q229_f' size='20'> <input type='file' name='Q229_s' size='20'></td>
+
+ 
+
+		   <!-- <input type="hidden" id="rr" name="rr" value="submit"> -->
+     </form>
+</body>
+<SCRIPT LANGUAGE='JavaScript'>
+   var frm=document.q_paper;
+   var qIds=new Array();
+   var qType=new Array();
+
+   qIds[0]='Q223'; 
+ qType[0]=0; 
+   qIds[1]='Q224'; 
+ qType[1]=0; 
+   qIds[2]='Q225'; 
+ qType[2]=0; 
+   qIds[3]='Q226'; 
+ qType[3]=0; 
+   qIds[4]='Q227'; 
+ qType[4]=0; 
+   qIds[5]='Q228'; 
+ qType[5]=4; 
+   qIds[6]='Q229'; 
+ qType[6]=6; 
+
+	
+var arr=new Array();	
+var maxarr=new Array();	
+arr[0]="-";		
+maxarr[0]="1";	
+</SCRIPT>	
+</html>

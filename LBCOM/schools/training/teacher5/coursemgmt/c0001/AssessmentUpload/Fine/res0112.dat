@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.03 Exponential Growth and Decay Functions">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>5</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>If $360 is invested at an interest rate of 4/amp;#37; per year and is compounded quarterly, how much will the investment be worth in 18 years?</label>
+			<choice>
+				<choicelabel>$175.86</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$422.39</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$430.61</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$736.96		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1 </group>
+			<label>If $240 is invested at an interest rate of 9/amp;#37; per year and is compounded monthly, how much will the investment be worth in 14 years?</label>
+			<choice>
+				<choicelabel>$68.39</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$704.28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$842.13		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$846.10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>If $535 is invested at an interest rate of 6/amp;#37; per year and is compounded continuously, how much will the investment be worth in 10 years?</label>
+			<choice>
+				<choicelabel>$1307.12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$974.83			</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$973.38</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$403.43</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>If $396 is invested at an interest rate of 13/amp;#37; per year and is compounded continuously, how much will the investment be worth in 3 years?</label>
+			<choice>
+				<choicelabel>$584.88		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$583.66</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$581.27</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$268.11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>A bacteria culture begins with 4 bacteria which double in size every hour.  How many bacteria exist in the culture after 8 hours?</label>
+			<choice>
+				<choicelabel>128</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>256</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1,024			</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8,192</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>A bacteria culture begins with 8 bacteria which triple in size every week.  How many bacteria exist in the culture after 4 weeks?</label>
+			<choice>
+				<choicelabel>512</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>648			</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12,288</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>26,244</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>A jet ski depreciates at 11/amp;#37; of its original value each year.  If the jet ski was $8000 at its time of purchase, what is the value of the jet ski after 5 years?</label>
+			<choice>
+				<choicelabel>$13,480.47</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$7,120.00</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$6,958.86</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$4,467.25		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>A sailboat depreciates at 15/amp;#37; of its original value each year.  If the sailboat was $9500 at its time of purchase, what is the value of the sailboat after 7 years?</label>
+			<choice>
+				<choicelabel>$3,045.48		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$7,269.91</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$8,075.00</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>$25,270.19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>If a hospital patient is given 50 milligrams of medicine which leaves the bloodstream at 10&amp;#37; per hour, how many milligrams of medicine will remain in the system after 6 hours?  Use the function A(t) = Ie&lt;sup&gt;rt&lt;/sup&gt;.</label>
+			<choice>
+				<choicelabel>12.39 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>27.44 mg		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>45.24 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>91.11 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>If a hospital patient is given 100 milligrams of medicine which leaves the bloodstream at 14&amp;#37; per hour, how many milligrams of medicine will remain in the system after 10 hours?  Use the function A(t) = Ie&lt;sup&gt;rt&lt;/sup&gt;.</label>
+			<choice>
+				<choicelabel>24.66 mg		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>86.94 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>90.48 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>405.52 mg</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

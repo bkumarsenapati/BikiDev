@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.12 Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor completely: x&lt;sup&gt;2&lt;/sup&gt; + 6x + 9</label>
+			<choice>
+				<choicelabel>(x – 3)(x – 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 1)(x + 9)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)(x + 3)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)(x – 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor completely:  2x&lt;sup&gt;2&lt;/sup&gt; - 32</label>
+			<choice>
+				<choicelabel>2(x&lt;sup&gt;2&lt;/sup&gt; - 16)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 4)(x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2(x + 4)(x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> 2(x + 4)(x – 4)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor completely:  3x&lt;sup&gt;2&lt;/sup&gt; - x - 4</label>
+			<choice>
+				<choicelabel>(3x – 4)(x + 1)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x + 4)(x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x + 2)(3x – 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x – 1)(3x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_35.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_01.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_02.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_03.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_04.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_05.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_06.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_07.gif&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_08.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_09.gif&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_10.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_11.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_12.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_13.gif&gt;</label>
+			<choice>
+				<choicelabel>x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_14.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_15.gif&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_16.gif&gt;</label>
+			<choice>
+				<choicelabel>2x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_17.gif&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_18.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_19.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Find the difference and express in simplest form:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_20.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_21.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_22.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_23.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Find the sum and express in simplest form:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_24.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_25.gif&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_26.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_27.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Find the difference and express in simplest form:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_28.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_29.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_30.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_31.gif&gt;</label>
+			<choice>
+				<choicelabel>x = -7, 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 7, -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 7, 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -7, -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_32.gif&gt;</label>
+			<choice>
+				<choicelabel>x = 3, 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -1</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3, -1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -3, -1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>1</group>
+		<label>Find the sum and express in simplest form.  Show all work:  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_33.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>1</group>
+		<label>Solve the equation.  &lt;img src=/webdav/res0114/educator_alg1_v4/pictures/M8images/08_06t_34.gif&gt; &lt;br&gt;Write your answer in simplest form.</label>
+		<credit>4</credit>
+	</item>
+</assessment>

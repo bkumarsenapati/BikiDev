@@ -1,0 +1,56 @@
+.jquerycssmenu{
+width:950px;
+float:left;
+height:40px;
+background-image:url(../images/blueline.gif);
+background-repeat:repeat-x; 
+background-position:bottom;}
+.jquerycssmenu ul{
+padding:0px;
+margin:0px;}
+
+
+/*Top level list items*/
+.jquerycssmenu ul li{
+margin:0px;
+list-style:none;
+float:left;
+color:#0D7AAD;
+padding:0px 20px 0px 0px;
+position: relative;
+float: left;
+font-size:13px;
+}
+
+/*1st sub level menu*/
+.jquerycssmenu ul li ul{
+position: absolute;
+left: 0;
+display: block;
+visibility: hidden;
+border-top: 1px solid white;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jquerycssmenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jquerycssmenu ul li ul li ul{
+top: 0;
+}
+
+/* Sub level menu links style */
+.jquerycssmenu ul li ul li {
+font: normal 13px Tahoma, Verdana, Arial, Helvetica;
+width: 160px; /*width of sub menus*/
+background: #eff9ff;
+color: #0D7AAD;
+padding: 4px 5px;
+margin: 0;
+border-top-width: 0;
+border-bottom: 1px solid white;
+
+}

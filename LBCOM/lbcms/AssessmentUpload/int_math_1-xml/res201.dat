@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 2 Lessons 1 - 4">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Use the replacement set &#38;nbsp;&#123;2, 3, 4&#125;&#38;nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write &#38;nbsp;&#34;No solution&#34;&lt;br&gt;6x - 4 &lt; 13</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the replacement set &#38;nbsp;&#123;2, 3, 4&#125;&#38;nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write &#38;nbsp;&#34;No solution&#34;&lt;br&gt;17 + x = 20</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the replacement set &#38;nbsp;&#123;2, 3, 4&#125;&#38;nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write &#38;nbsp;&#34;No solution&#34;&lt;br&gt;&lt;img src=/webdav/res201/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the replacement set &#38;nbsp;&#123;2, 3, 4&#125;&#38;nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write &#38;nbsp;&#34;No solution&#34;&lt;br&gt;&lt;img src=/webdav/res201/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Matching</type>
+		<label>Matching</label>
+			<matchpair>
+				<term>The product of x and 6 is greater than or equal to 32.</term>
+				<definition>&lt;img src=/webdav/res201/int_math_1/pictures/image3.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>The product of 16 and x is equal to 32.</term>
+				<definition>16x = 32</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>The sum of x and 16 is less than 32.</term>
+				<definition>x + 16 &lt; 32</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>The difference of x and 16 is 32.</term>
+				<definition>x - 16 = 32</definition>
+				<credit>2</credit>
+			</matchpair>
+			
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res201/int_math_1/pictures/image4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res201/int_math_1/pictures/image5.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The number 3 is an integer.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The number &#38;nbsp;&#45;4 is an integer.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The number 6 is a whole number.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The number 4.2 is a whole number.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Graph the following on a number line then write an inequality that compares the numbers.&lt;br&gt; -3 and -3.5 </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Graph the following on a number line then write an inequality that compares the numbers.&lt;br&gt; 0 and .5</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>What is the opposite of 6?</label>
+			<blank>
+				<accepted>-6</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>What is the opposite of -3.3?</label>
+			<blank>
+				<accepted>3.3</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>What is the absolute value of 0?</label>
+			<blank>
+				<accepted>0</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>If a car is traveling 65 mph in reverse, what is the car&#39;s velocity?</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res201/int_math_1/pictures/image6.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+
+
+</assessment>
+

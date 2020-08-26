@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.15 Field Trip">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Submit the answers to the questions and the date in which you posted your Movie Review.</label>
+		<credit>20</credit>
+	</item>
+</assessment>

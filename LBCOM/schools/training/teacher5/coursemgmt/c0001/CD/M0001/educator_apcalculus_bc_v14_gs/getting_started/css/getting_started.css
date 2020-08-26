@@ -1,0 +1,40 @@
+#pageContent li {
+	margin-bottom: 10px;
+}
+div.image-container {
+	width: 100%;
+}
+div.col23 {
+	float: left;
+	margin-right: 5%;
+	width: 61%;
+}
+div.gs_nav {
+	margin-top: 20px;
+	width: 100%;
+}
+div.gs_nav hr {
+	margin-bottom: 8px;
+	padding-bottom: 0px;
+}
+.btnlink.gs_btngeneric {
+	padding:10px;
+	background-color:#62aed9;
+	border:none;
+	color:#ffffff;
+	font-size:14px;
+	border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  text-transform:uppercase;
+}
+.btnlink.gs_btngeneric:hover {
+	background-color:#6fc3f2;
+}
+
+@media screen and (max-width : 768px) {
+	div.col2, div.col3, div.col4, div.col23 {
+		clear:left;
+	}	
+}

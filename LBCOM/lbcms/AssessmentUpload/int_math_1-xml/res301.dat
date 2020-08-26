@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 3 Lessons 1 - 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Matching</type>
+		<label>Matching</label>
+			<matchpair>
+				<term>23 + -23 = 0</term>
+				<definition>Inverse for Addition</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>2 + 0 = 2</term>
+				<definition>Identity for Addition</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>87 * 1 = 87</term>
+				<definition>Identity for Multiplication</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>21 * (76 * -1) = (21 * 76) * -1</term>
+				<definition>Associative for Multiplication</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res301/int_math_1/pictures/image1.gif&gt;</term>
+				<definition>Inverse for Multiplication</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>90 * 23 = 23 * 90</term>
+				<definition>Commutative for Multiplication</definition>
+				<credit>2</credit>
+			</matchpair>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>21 + 13x - 5x</label>
+			<choice>
+				<choicelabel>21 + 18x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>21 + 8x</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>29x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>simplest form</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>-7(3x - 4)</label>
+			<choice>
+				<choicelabel>-21x + 28</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-21x - 28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>21x + 28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>simplest form</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res301/int_math_1/pictures/image2.gif&gt;</label>
+			<choice>
+				<choicelabel>-16 - 12x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4 + -3x</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 + 3x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>simplest form</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>(6 - 3x)*7 - 5x</label>
+			<choice>
+				<choicelabel>16x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>42 - 16x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>42 - 26x</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>simplest form</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>
+

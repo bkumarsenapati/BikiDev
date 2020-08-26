@@ -1,0 +1,644 @@
+#menua {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-color: #ffffff;
+	z-index: 9901;
+	display: block;
+	-webkit-box-shadow: 0px 0px 40px rgba(0, 0, 0, .35);
+	box-shadow: 0px 0px 40px rgba(0, 0, 0, .35);
+	margin: 0px auto !important;
+}
+#menua #menu_inner {
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+}
+#menu_inner .menubtn {
+	float: left;
+	font-weight: bold;
+	color: #b60b78;
+	display: block;
+	line-height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#menu_inner .menubtn:hover {
+	text-decoration: none;
+	color: #f96394;
+	background-color: #F5F5F5;
+}
+.menu_before {
+	width: 15px;
+	height: 40px;
+	background-image: url(../images/global/menubg_left.jpg);
+	float: left;
+	margin-left: -15px;
+}
+.menu_after {
+	width: 15px;
+	height: 40px;
+	background-image: url(../images/global/menubg_right.jpg);
+	float: left;
+}
+.menu_after_next {
+	width: 15px;
+	height: 40px;
+	background-image: url(../images/global/menubg_right.jpg);
+	position: absolute;
+	right: -15px;
+	top: 0px;
+	z-index: 9902;
+}
+#menu_inner .menu_links {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+#menu_inner .menu_links li {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+#menu_inner .menu_links li a {
+	text-transform: uppercase;
+	font-size: 12px;
+	color: #54395e;
+	display: block;
+	line-height: 40px;
+	margin-right: 2px;
+	padding: 0px 8px;
+}
+#menu_inner .menu_links li a:hover {
+	color: #b60b78;
+	text-decoration: none;
+}
+#menu_right {
+	float: right;
+}
+.pagenums {
+	font-size: 14px;
+	border-right: solid 1px #f0f0f0;
+	height: 40px;
+	float: left;
+	position: relative;
+	margin-right: 10px;
+}
+.pagenums a {
+	color: #54395e;
+	line-height: 40px;
+	margin-right: 7px;
+}
+.pagenums a:hover {
+	color: #b60b78;
+	text-decoration: none;
+}
+.prevt {
+	float: left;
+	display: block;
+	line-height: 40px;
+	color: #333;
+	width: 29px;
+	height: 29px;
+	text-indent: -999px;
+	overflow: hidden;
+	background-image: url(../images/global/prev.png);
+	margin-top: 5px;
+}
+.prevt:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+.home {
+	float: left;
+	display: block;
+	line-height: 29px;
+	color: #54395e;
+	text-transform: uppercase;
+	border-left: solid 1px #f0f0f0;
+	border-right: solid 1px #f0f0f0;
+	padding: 0px 15px;
+	margin: 5px 10px 0px 10px;
+}
+.home:hover {
+	color: #b60b78;
+	text-decoration: none;
+}
+.nextt {
+	float: left;
+	display: block;
+	line-height: 40px;
+	color: #333;
+	width: 29px;
+	height: 29px;
+	text-indent: -999px;
+	overflow: hidden;
+	background-image: url(../images/global/next.png);
+	margin-top: 5px;
+	margin-right: 10px;
+}
+.nextt:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+/* Mobile */
+.menu_mobile {
+	display: none;
+}
+.menu_mobile .menubtn_mobile {
+	float: left;
+	font-weight: bold;
+	color: #b60b78;
+	display: block;
+	line-height: 40px;
+	margin-top: -2px;
+}
+.menu_mobile .menubtn_mobile:hover {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+.menu_mobile_nav {
+	display: none;
+	border-bottom: solid 2px #463d52;
+}
+.menu_mobile_nav ul {
+	list-style: none;
+	margin: 0px;
+}
+.menu_mobile_nav a {
+	display: block;
+	width: 100%;
+	font-size: 14px;
+	background-color: #ffffff;
+	text-transform: uppercase;
+	color: #463d52;
+	border-bottom: solid 1px #F1F1F1;
+	padding: 10px 20px;
+}
+.menu_mobile_nav a:hover {
+	text-decoration: none;
+	background-color: #f1f1f1;
+}
+#nav_menu {
+	position: fixed;
+	display: none;
+	z-index: 9900;
+}
+.menu_backdrop {
+	background-image: url(../images/global/menu_backdrop.png);
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9899;
+}
+#nav_menu .nav_menu_modules {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#nav_menu .nav_menu_modules li a.modlink {
+	font-size: 16px;
+	display: block;
+	background-color: #b60b78;
+	color: #ffffff;
+	width: 140px;
+	padding: 10px 20px;
+	border-bottom: solid 1px #f09bb7;
+	position: relative;
+}
+#nav_menu .nav_menu_modules li a.modlink:hover {
+	text-decoration: none;
+	background-color: #ffffff;
+	color: #b60b78;
+}
+#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		position: absolute;
+	left: 155px;
+	top: 0px;
+	list-style: none;
+	width: 820px;
+	/* width: 660px; */
+	background-color: #ffffff;
+	display: none;
+}
+.nav_menu_lessons li a {
+	float: left;
+	width: 133px;
+	height: 130px;
+	border: none;
+	margin: 0px;
+	padding: none;
+	padding: 15px;
+	background-color: #ffffff;
+	margin-right: 1px;
+	margin-bottom: 1px;
+}
+.nav_menu_lessons li a.odd {
+	background-color: #f4f2f2;
+}
+.nav_menu_lessons li a .lesson_num {
+	font-size: 28px;
+	color: #b60b78;
+	display: block;
+	font-weight: bold;
+}
+.nav_menu_lessons li a .lesson_title {
+	font-size: 13px;
+	color: #463d52;
+	display: block;
+	padding: 0px;
+	padding-top: 5px;
+	margin: 0px;
+}
+.nav_menu_lessons li a .lesson_nfo {
+	font-size: 12px;
+	color: #463d52;
+	display: block;
+	padding: 0px;
+	margin-top: -10px;
+	margin: 0px;
+	display: block;
+}
+.nav_menu_lessons li a:hover, .nav_menu_lessons li a.odd:hover {
+	background-color: #b60b78;
+	background-image: none;
+	text-decoration: none;
+}
+.nav_menu_lessons li a:hover .lesson_num, .nav_menu_lessons li a.odd:hover .lesson_num {
+	color: #ffffff;
+}
+.nav_menu_lessons li a:hover .lesson_title, .nav_menu_lessons li a.odd:hover .lesson_title {
+	color: #ffffff;
+}
+.nav_menu_lessons li a:hover .lesson_nfo, .nav_menu_lessons li a.odd:hover .lesson_nfo {
+	color: #ffffff;
+}
+ @media screen and (max-width: 1024px) {
+	/* menubar */
+	#menua #menu_inner {
+		width: 825px;
+	}
+	.menu_mobile {
+		display: none;
+	}
+	.menu_desktop {
+		display: block;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: none;
+	}
+	#nav_menu {
+		position: fixed;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 645px;
+	}
+	.nav_menu_lessons li a {
+		width: 130px;
+		height: 100px;
+	}
+}
+ @media screen and (max-width: 844px) {
+	 
+	 .nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		color: #463d52;
+		display: block;
+		padding: 0px;
+		padding-top: 5px;
+		margin: 0px;
+	}
+
+
+	/* menubar */
+	#menua #menu_inner {
+		width: 790px;
+	}
+	.menu_mobile {
+		display: none;
+	}
+	.menu_desktop {
+		display: block;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: none;
+	}
+	#nav_menu {
+		position: fixed;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 605px;
+	}
+	.nav_menu_lessons li a {
+		width: 120px;
+		height: 107px;
+	}
+}
+ @media screen and (max-width: 800px) {
+	/* menubar */
+	#menua #menu_inner {
+		width: 620px;
+	}
+	.menu_mobile {
+		display: none;
+	}
+	.menu_desktop {
+		display: block;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: none;
+	}
+	#nav_menu {
+		position: fixed;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 440px;
+	}
+	.nav_menu_lessons li a {
+		width: 99px;
+		height: 90px;
+		padding: 5px;
+	}
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 16px;
+	}
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 11px;
+		padding-top: 0px;
+	}
+	.nav_menu_lessons li a .lesson_nfo {
+		display: none;
+	}
+}
+ @media screen and (max-width: 768px) {
+	/* menubar */
+	#menua {
+		position: absolute;
+		height: 40px;
+	}
+	#menua #menu_inner {
+		width: 588px;
+	}
+	.menu_mobile {
+		display: block;
+	}
+	.menu_desktop {
+		display: none;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: block;
+	}
+	#nav_menu {
+		position: absolute;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 448px;
+	}
+	.nav_menu_lessons li a {
+		width: 91px;
+		height: 90px;
+		padding: 10px;
+	}
+	.menu_mobile_nav a {
+		width: 140px;
+	}
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 20px;
+	}
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		padding-top: 0px;
+		display: none;
+	}
+	.nav_menu_lessons li a .lesson_nfo {
+		font-size: 11px;
+	}
+}
+
+/* Kindal Fire */
+@media screen and (max-width: 600px) {
+	/* menubar */
+	#menua {
+		position: absolute;
+		height: 40px;
+	}
+	#menua #menu_inner {
+		width: 420px;
+	}
+	.menu_mobile {
+		display: block;
+	}
+	.menu_desktop {
+		display: none;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: block;
+	}
+	.menu_mobile_nav a {
+		width: 100%;
+	}
+	#nav_menu {
+		position: absolute;
+		width: 420px;
+		overflow: hidden;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 420px;
+		position: inherit;
+		margin: 0px;
+		background-image: none;
+		background-color: #e8e8e8;
+		background-size: 100% auto;
+		background-position: top center;
+	}
+	.nav_menu_lessons li a {
+		float: none;
+		display: block;
+		width: 400px;
+		padding: 10px;
+		background-image: none;
+		margin: 0px;
+		height: 32px;
+		line-height: 32px;
+		border-bottom: solid 1px #D1D1D1;
+	}
+	.nav_menu_lessons li a.odd {
+		display: block;
+		background-image: none;
+		background-color: #ffffff;
+	}
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 20px;
+		float: left;
+		margin-right: 10px;
+		padding: 0px;
+		color: #b60b78;
+	}
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		float: left;
+		color: #463d52;
+		display: block;
+		line-height: 34px;
+	}
+	.nav_menu_lessons li a .lesson_nfo {
+		font-size: 12px;
+		float: left;
+		margin-left: 10px;
+		display: none;
+	}
+	#nav_menu .nav_menu_modules li a.modlink {
+		width: 380px;
+	}
+}
+@media screen and (max-width : 480px) {
+	/* menubar */
+	#menua #menu_inner {
+		width: 440px;
+	}
+	.menu_mobile {
+		display: block;
+	}
+	.menu_desktop {
+		display: none;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: block;
+	}
+	#nav_menu {
+		position: absolute;
+		width: 100%;
+		overflow: hidden;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 440px;
+		position: inherit;
+		margin: 0px;
+		background-image: none;
+		background-color: #e8e8e8;
+		background-size: 100% auto;
+	}
+	.nav_menu_lessons li a {
+		float: none;
+		display: block;
+		width: 420px;
+		padding: 10px;
+		background-image: none;
+		margin: 0px;
+		height: 32px;
+		line-height: 32px;
+		border-bottom: solid 1px #D1D1D1;
+	}
+	.nav_menu_lessons li a.odd {
+		display: block;
+		background-image: none;
+	}
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 20px;
+		float: left;
+		margin-right: 10px;
+		padding: 0px;
+		color: #b60b78;
+	}
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		float: left;
+		color: #463d52;
+	}
+	.nav_menu_lessons li a .lesson_nfo {
+		font-size: 12px;
+		float: left;
+		margin-left: 10px;
+	}
+	#nav_menu .nav_menu_modules li a.modlink {
+		width: 100%;
+	}
+}
+ @media screen and (max-width : 320px) {
+	/* menubar */
+	#menua #menu_inner {
+		width: 300px;
+	}
+	.menu_mobile {
+		display: block;
+	}
+	.menu_desktop {
+		display: none;
+	}
+	/* NAVIGATION */
+	.menu_mobile_nav {
+		display: block;
+	}
+	#nav_menu {
+		position: absolute;
+		width: 100%;
+		overflow: hidden;
+		margin-left: -2px;
+	}
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 100%;
+		position: inherit;
+		margin: 0px;
+		background-image: none;
+		background-color: #e8e8e8;
+		background-size: 100%;
+		background-position: top center;
+		background-repeat: no-repeat;
+		color: #b60b78;
+	}
+	.nav_menu_lessons li a {
+		float: none;
+		display: block;
+		width: 300px;
+		padding: 10px;
+		background-image: none;
+		margin: 0px;
+		height: 32px;
+		line-height: 32px;
+		border-bottom: solid 1px #D1D1D1;
+	}
+	.nav_menu_lessons li a.odd {
+		display: block;
+		background-image: none;
+	}
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 20px;
+		float: left;
+		margin-right: 10px;
+		padding: 0px;
+		color: #b60b78;
+	}
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 11px;
+		float: left;
+		color: #463d52;
+		display: none;
+	}
+	.nav_menu_lessons li a .lesson_nfo {
+		font-size: 12px;
+		float: left;
+		margin-left: 10px;
+	}
+	#nav_menu .nav_menu_modules li a.modlink {
+		width: 300px;
+	}
+}

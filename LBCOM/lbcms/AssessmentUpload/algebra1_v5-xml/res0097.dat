@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.12 Practice Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>What is the Greatest Common Factor for the given polynomial?&lt;br&gt;9xy&lt;sup&gt;2&lt;/sup&gt; - 24xy + 15x</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>What is the Greatest Common Factor for the given polynomial?&lt;br&gt;4x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + 12xy&lt;sup&gt;2&lt;/sup&gt; + 20x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>4x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4xy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4xy&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;4x&lt;sup&gt;2&lt;/sup&gt; - 9y&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>(2x + y)(2x – y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4x + y)(x – 9y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x + 3y)(2x – 3y)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;9x&lt;sup&gt;2&lt;/sup&gt;+16</label>
+			<choice>
+				<choicelabel>(3x + 4)(3x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(9x + 1)(x + 16)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x + 4)(3x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;2xy – xz + 2wy – wz&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + w)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x + y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;4ax + 8ay + 3bx + 6by&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(4a + 2y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 2y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4a + 3b)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; + 5x + 6&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + 2)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor:&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 12x + 27&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 9)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 3)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label> Factor:&lt;br&gt;2x&lt;sup&gt;2&lt;/sup&gt; + 11x + 12&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(2x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 4)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label> Factor:&lt;br&gt;3y&lt;sup&gt;2&lt;/sup&gt; - 4y - 15&lt;br&gt;Which of the following is one of the factors?</label>
+			<choice>
+				<choicelabel>(3y - 15)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(y + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3y + 5)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor completely:&lt;br&gt;8x&lt;sup&gt;4&lt;/sup&gt; + 4x&lt;sup&gt;3&lt;/sup&gt; - 24x&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt;(2x&lt;sup&gt;2&lt;/sup&gt; + x – 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt;(2x – 3)(x + 2)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(2x&lt;sup&gt;4&lt;/sup&gt; + x&lt;sup&gt;3&lt;/sup&gt; - 6x&lt;sup&gt;2&lt;/sup&gt;)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Factor completely:&lt;br&gt;4x&lt;sup&gt;4&lt;/sup&gt; - 64</label>
+			<choice>
+				<choicelabel>4(x&lt;sup&gt;4&lt;/sup&gt; - 16)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(x&lt;sup&gt;2&lt;/sup&gt; + 4)(x&lt;sup&gt;2&lt;/sup&gt; - 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(x&lt;sup&gt;2&lt;/sup&gt; + 4)(x + 2)(x – 2)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Solve by factoring:  &lt;br&gt;One of the solutions to the quadratic equation x&lt;sup&gt;2&lt;/sup&gt; - 13x + 30 is 3.  &lt;br&gt;What is the other solution? (Type only the numerical value of the other solution.  Do not use any variables or skip any spaces.)</label>
+			<blank>
+				<accepted>10</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Solve by factoring:  &lt;br&gt;One of the solutions to the quadratic equation 2x&lt;sup&gt;2&lt;/sup&gt; - 9x – 5 is -1/2.  &lt;br&gt;What is the other solution? (Type only the numerical value of the other solution.  Do not use any variables or skip any spaces.)</label>
+			<blank>
+				<accepted>5</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve by using the quadratic formula.  x&lt;sup&gt;2&lt;/sup&gt; + 4x + 1 = 0.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_15a.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_15b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_15c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve by using the quadratic formula.  3x&lt;sup&gt;2&lt;/sup&gt; - 4x = 2.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_16a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_16b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0097/educator_alg1_v5/pictures/07_10_16c.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

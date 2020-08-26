@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.05 Module Four Quiz">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>11</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_00_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 square root of 128&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_00_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;192 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_00_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;24 square root of 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_00_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;11 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_00_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 square root of 125&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;9 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;20 square root of 5&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;100 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 108&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 square root of 3&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 3&quot; /&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;144 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>1 </group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 40&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;20 square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 square root of 10&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 cubed root of 96&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;20 cubed root of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 cubed root of 12&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 cubed root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_01_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 cubed root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 cubed root of 128&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;16 cubed root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 cubed root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 cubed root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 cubed root of 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 cubed root of 135&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 cubed root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 cubed root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 cubed root of 5&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 cubed root of 15&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 cubed rot of 375&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;15 cubed root of 3&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;15 cubed root of 15&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 cubed root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 cubed root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 fourth root of 5 end root plus 7 cubed root of 5 end root minus 9 cubed root of 5 end root plus 6 fourth root of 5&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 fourth root of 10 end root minus 2 cubed root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_02_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 fourth root of 5 end root minus 2 cubed root of 5&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;9 fourth root of 7 end root minus 8 cubed root of 7 end root plus 4 cubed root of 7 end root of 3 fourth root of 7&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 14&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 fourth root of 7 end root minus 4 cubed root of  7&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 fourth root of 14 end root minus 4 cubed root of 14&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 fourth root of 6 end root plus 4 cubed root of 6 end root minus 9 cubed root of 6 end root minus 3 fourth root of 6&quot; /&gt; </label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 fourth root of 6 end root minus 5 cubed root of 6&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 fourth root of 12 end root minus 5 cubed root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 fourth root of 2 end root minus 14 cubed root of 2 end root plus 5 cubed root of 2 end root plus 7 fourth root of 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;13 fourth root of 4 end root minus 9 cubed root of 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;13 fourth root of 2 end root minus 9 cubed root of 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 square root of 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 6 plus 3 square root of 2 close parentheses open parentheses 5 minus square root of 2 close parentheses&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;24 plus 21 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot;24 plus 9 square root of 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;30 plus 6 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_03_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;30 plus 11 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 7 minus 2 square root of 5 close parentheses open parentheses 5 plus 4 square root of 5 close parentheses&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;negative 5 plus 18 square root of 5&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;negative 5 plus 38 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;35 plus 20 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;35 plus 10 square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 4 plus 3 square root of 3 close parentheses open parentheses 9 minus 2 square root of 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;36 plus 13 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;36 plus 20 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;18 plus 19 square root of 3&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;18 plus 35 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 8 minus 3 square root of 6 close parentheses open parentheses 7 plus 2 square root of 6 close parentheses&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;56 minus 6 square root of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;56 minus 11 square root of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;20 minus 37 square root of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;20 minus 5 square root of 6&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 7 plus square root of 3 close parentheses open parentheses 7 minus square root of 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;49 minus square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_04_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot; 49 minus 14 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>46			</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>52</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 8 plus square root of 10 close parentheses open parentheses 8 minus square root of 10&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;64 minus 16 square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;64 minus square root of 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>74</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>54			</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 6 plus square root of 2 close parentheses open parentheses 6 minus square root of 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>34			</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>38</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;36 minus square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;36 minus 12 square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;open parentheses 5 plus square root of 11 close parentheses open parentheses 5 minus square root of 11&quot; /&gt;</label>
+			<choice>
+				<choicelabel>36</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14			</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;25 minus 10 square root of 11&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;25 minus square root of 11&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 3 open parentheses square root of 6 plus square root of 3 close parentheses plus open parentheses square root of 8 end root minus 5&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 35 end root minus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 2 end root minus 2&quot; /&gt;		</choicelabel>
+				<credit>4 	</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 18 plus square root of 8 end root minus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_05_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 18 plus square root of 9 plus square root of 8 end root minus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 2 open parentheses square root of 2 minus square root of 10 close parentheses plus square root of 3 open parentheses square root of 3 plus square root of 15&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 minus square root of 5&quot; /&gt;		</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 54 end root minus 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 minus 2 square root of 20 plus square root of 45&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 4 minus 2 square root of 20 plus square root of 9 plus square root of 45&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 10 open parentheses 4 minus square root of 5 close parentheses plus square root of 8 open parentheses square root of 5 end root plus 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 square root of 10 end root minus square root of 50 end root plus square root of 40 end root plus 2 square root of 8&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot; 6 square root of 10 end root minus square root of 50 end root plus 2 square root of 8&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 8 end root minus 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 10 end root minus square root of 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 12 open parentheses square root of 3 end root plus 2 close parentheses plus square root of 2 open parentheses square root of 8 end root minus square root of 6&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 36 plus square root of 16 plus square root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 minus 2 square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 plus 2 square root of 3&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;10 plus square root of 12&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 36 over 5&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over square root of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 5 over 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_06_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 5 over 5&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 49 over square root of 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 2 over 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 over square root of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 square root of 2 over 2&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 over 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 64 over square root of 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 3 over 3&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 over 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 over square root of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 3 over 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 81 over square root of 7&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;9 over 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;9 square root of 7 over 7&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 7 over 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;9 over square root of 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 over the quantity 3 plus square root of 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 2 over 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_18.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 square root of 2 over quantity of 3 square root of 2 end root plus 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 24 minus 8 square root of 2 all over 7&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_07_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 24 minus square root of 2 all over 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over quantity 5 minus square root of 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 3 over quantity of 5 square root of 3 end root minus 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 30 plus square root of 3 all over 22&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 3 over 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 15 plus 3 square root of 3 all over 11&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 over quantity of 4 plus square root of 5&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 20 minus square root of 5 all  over 11&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 20 minus 5 square root of 5 all over 11&quot; /&gt;		</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 5 over quantity of 4 square root of 5 end root plus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 5 over 9&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state=" MA.912.A.6.2"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot; 2 over quantity of 6 minus square root of 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_12.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 12 plus 2 square root of 3 over 33&quot; /&gt;	</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot; quantity of 12 plus square root of 3 over 33&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot; 2 square root of 3 over quantity of 6 square root of 3 end root minus 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 3 over 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>9</group>
+		<label>Find the perimeter of an object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 75&quot; /&gt; feet and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_08_17.gif&quot; align=&quot;absmiddle&quot; alt=&quot; square root of 48&quot; /&gt; feet.  Explain, in complete sentences, how you arrived at the answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>9</group>
+		<label>Find the perimeter of an object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 180&quot; /&gt; feet and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 125&quot; /&gt; feet.  Explain, in complete sentences, how you arrived at the answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>9</group>
+		<label>Find the perimeter of an object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 128&quot; /&gt; feet and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;square root of 200&quot; /&gt; feet.  Explain, in complete sentences, how you arrived at the answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>10</group>
+		<label>Find the area of a rectangular object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_19.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root 3&quot; /&gt; inches and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_09_20.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 square root 6&quot; /&gt; inches.  Explain, in complete sentences, how you arrived at the simplified answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>10</group>
+		<label>Find the area of a rectangular object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_10_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 square root of 2&quot; /&gt; inches and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_10_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 square root of 6&quot; /&gt; inches.  Explain, in complete sentences, how you arrived at the simplified answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.2"></standard>
+		<group>10</group>
+		<label>Find the area of a rectangular object which has a length of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_10_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 square root of 8&quot; /&gt; inches and a width of &lt;img src=&quot;/webdav/res0049/educator_algebra2_v10/04_10_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 square root of 5&quot; /&gt;  inches.  Explain, in complete sentences, how you arrived at the simplified answer and give the final solution in simplified radical form.  What type of object might this be?</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.4"></standard>
+		<group>11</group>
+		<label>Create your own term using a rational exponent and then convert it to a radical expression.  Explain, in complete sentences, how the expression was converted.</label>
+		<credit>6</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<standard state=" MA.912.A.6.4"></standard>
+		<group>11</group>
+		<label>Create your own radical expression and then convert it to a rational exponent.  Explain, in complete sentences, how the expression was converted.</label>
+		<credit>6</credit>
+	</item>
+</assessment>

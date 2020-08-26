@@ -1,0 +1,12 @@
+<project name="LBCOM" basedir="." default="build">
+<property name="src_dir" value="/root/Learnbeyond/LB190501/LBCOM/WEB-INF/classes"/>
+<property name="lib_dir" value="/root/Learnbeyond/LB190501/LBCOM/WEB-INF/lib"/>
+<property name="dis_dir" value="/root/school"/>
+<target name="build" >
+		  
+
+<javac srcdir="${src_dir}" destdir="${dis_dir}" classpath="${lib_dir}/org.zip:${lib_dir}/servlet-api.jar:${lib_dir}/cos.jar:${lib_dir}/mysql-connector-java-3.1.7-bin.jar:${lib_dir}/activation.jar:${lib_dir}/mail.jar:${lib_dir}/activation.jar:${lib_dir}/jdom.jar" />
+
+</target>
+   
+</project>

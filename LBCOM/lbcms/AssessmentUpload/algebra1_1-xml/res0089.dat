@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.03 Factoring by Grouping">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>You may submit this assignment in one of two ways: 
+1. Write your answers in the box below. 
+2. Attach a file using the browse button. Please be certain to save your file with the proper file extension. 
+
+The questions are found in the assignment box of Project 07.03.
+
+</label>
+		<credit>10.0</credit>
+	</item>
+</assessment>

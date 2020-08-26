@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.10 Practice Test">
+	<distribution>
+		<type>Scramble All</type>
+		<give>12</give>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Solve the inequality below and write a description of the graph.  Show all work.&lt;br&gt;&lt;br&gt;-5(x + 4) &gt; 3(x - 4)</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose all choices that would apply if you were to graph the inequality x &gt; 9.</label>
+			<choice>
+				<choicelabel>Closed dot on 9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>open dot on 9</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>arrow to the right</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>x + 2 &gt; 5</label>
+			<choice>
+				<choicelabel>x &gt; 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> x &gt; 3</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>4 - x &gt;= -10</label>
+			<choice>
+				<choicelabel>x &gt;= -14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> x &lt;= 14</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= -14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt;= 14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label> x + 3/4 &gt;= 1/2</label>
+			<choice>
+				<choicelabel>x &gt;= -1/4</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt;= 1/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= 1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= -1/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>-2/3x &lt; 8/5</label>
+			<choice>
+				<choicelabel>x &lt; - 12/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> x &gt; -12/5</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 12/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 12/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>-2x &gt; 10</label>
+			<choice>
+				<choicelabel>x &gt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> x &lt; -5</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please enter your answer without spaces.  For example, if your answer is &quot;x is greater than 2&quot; then type x&gt;2 with no spaces. &lt;br&gt;&lt;br&gt;h/2 &gt; 12</label>
+			<blank>
+				<accepted>h&gt;24</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Translate the following:  The sum of three consecutive even integers is greater than 40.</label>
+			<choice>
+				<choicelabel>x + y + z &gt; 40</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 1) + (x + 2) + (x + 3) &gt; 40</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1x + 2x + 3x &gt; 40</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 2) + (x + 4) &gt; 40</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label> -3x - 9 &gt; 12</label>
+			<choice>
+				<choicelabel>x &lt; -7</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= -7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>The admission fee to a video game arcade is $2.00 per person, and it costs $0.50 for each game played.  Shelli and Veronica have a total of $20.00 to spend. What is the greatest number of games they will be able to play?</label>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>20</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>32</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>2x - 22 &gt;= 4x + 14</label>
+			<choice>
+				<choicelabel>x &gt;= 18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= 18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt;= -18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt;= -18</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

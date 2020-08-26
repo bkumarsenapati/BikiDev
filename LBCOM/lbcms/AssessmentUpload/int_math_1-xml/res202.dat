@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 2 Lessons 5A - 8B">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Numbers that can be written as a terminating or repeating decimal.</label>
+			<blank>
+				<accepted>Rational numbers</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Numbers that do not have any fraction or decimal part. Could be positive or negative.</label>
+			<blank>
+				<accepted>Integers</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>All of the numbers that we use.</label>
+			<blank>
+				<accepted>Real Numbers</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Numbers that start at 1 and increase with no decimal or fraction parts.</label>
+			<blank>
+				<accepted>Whole numbers</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The set of integers is bigger than the set of real numbers.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The set of whole numbers includes some numbers from the set of irrational numbers.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>All whole numbers are in the set of natural numbers.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The real numbers only contain whole numbers and natural numbers.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image1_1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image1_2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image1_3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image1_4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Is 43.23 X 10&lt;sup&gt;5&lt;/sup&gt;  in standard form?</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image2_1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image2_2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image2_3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image3_1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image3_2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image3_3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image3_4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res202/int_math_1/pictures/image4.gif&gt;</label>
+		<credit>3</credit>
+	</item>
+
+</assessment>
+

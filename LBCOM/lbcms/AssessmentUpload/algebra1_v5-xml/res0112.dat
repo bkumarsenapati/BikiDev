@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.10 Field Trip">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Please submit your answers along with the date you posted in the discussion board and the name of the student to whom you repsponded.</label>
+		<credit>20</credit>
+	</item>
+</assessment>

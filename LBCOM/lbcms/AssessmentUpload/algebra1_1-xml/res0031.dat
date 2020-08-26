@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.04 Advanced Equations">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Be sure to follow the steps for solving equations given in the lesson. The steps are:
+1. Distribute on each side of the equation.
+2. Collect like terms on each side of the equation.
+3. Get all the variables on one side of the equation by doing the opposite math operation.
+4. Solve for the variable. 
+
+8x - 1 = -4x + 23
+x = </label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>5x + 3 = 2x + 15
+x = </label>
+			<blank>
+				<accepted>4</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>5x + 2 = x - 6
+x = </label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>6x - 8 + 2x - 5 = 7 - 2x
+x = </label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>9(x + 2) = 3(x - 2)
+x = </label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>5(x + 4) = 7(x - 2)
+x = </label>
+			<blank>
+				<accepted>17</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>7(5x - 2) = 6(6x - 1)
+x = </label>
+			<blank>
+				<accepted>-8</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>3(x - 6) + 2 = 4(x + 2) - 21
+x = </label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-2x - 18 = 6(1 - 2x) + 4x
+x = </label>
+			<blank>
+				<accepted>4</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Hint: When there is a minus sign in front of a parenthesis, you must distribute a -1. For example, the left side of the equation below would become 19 - 2x - 3 when you distribute.
+
+19 - (2x + 3) = 2(x + 3) + x
+x = </label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+</assessment>

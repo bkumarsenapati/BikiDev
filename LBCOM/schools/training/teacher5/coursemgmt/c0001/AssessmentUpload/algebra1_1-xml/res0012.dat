@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.01H Honors Number Systems">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Assessment Name:  03.02 Honors 
+ 
+Assessment Instructions: 
+Attach your graphic organizer using the browse button below. 
+</label>
+		<credit>5</credit>
+	</item>
+</assessment>

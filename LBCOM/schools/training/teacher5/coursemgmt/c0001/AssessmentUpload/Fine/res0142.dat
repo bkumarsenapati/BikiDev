@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="10.02 Graphing Circles  (Honors Only)">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Please attach your work file here.  Refer to the directions in the lesson for detailed information about what to submit.</label>
+		<credit>10</credit>
+	</item>
+</assessment>

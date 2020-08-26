@@ -1,0 +1,21 @@
+.sheet {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+.td {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 16px; BACKGROUND-COLOR: #DCDCDC
+}
+.tdleft {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 11px; WIDTH: 275px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #DCDCDC
+}
+.mainhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 12px; WIDTH: 600px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; HEIGHT: 25px; BACKGROUND-COLOR: #A9A9A9
+}
+

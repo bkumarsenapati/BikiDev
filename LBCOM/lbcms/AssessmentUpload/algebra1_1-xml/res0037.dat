@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.10 Quiz 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;x - 3 = -3</label>
+			<choice>
+				<choicelabel>A.) x = 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x = -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x = 0</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Choose the best possible answer.&lt;br&gt;&lt;br&gt;In the problem 4/3x = 12, the first step in solving this equation would be to?</label>
+			<choice>
+				<choicelabel>A.) add a -4/3x to both sides of the equation</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) divide both sides of the equation by 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) combine like terms</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) multiply both sides of the equation by 3/4</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Choose the best possible answer.&lt;br&gt;&lt;br&gt;In the problem 3(x-3) = 10, the first step in solving for x is to?</label>
+			<choice>
+				<choicelabel>A.) Distribute</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) Combine like terms</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) Cancel</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) Divide both sides by 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;| 2x - 5 | + 6 = 12</label>
+			<choice>
+				<choicelabel>A.) x = 1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x = 1/2 /amp; -1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x = -11/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x = &lt;img src=http://learn.flvs.net/webdav/res0037/educator_algebra1/pictures/M4images/04_q2_04.gif&gt; &amp; -1/2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>If you weigh 210 lb force and have a mass of 6.75 lb mass, how much does your little sister weigh if she has a mass of 2.25 lb mass?</label>
+			<choice>
+				<choicelabel>A.) 93 lbs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 70 lbs</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 56 lbs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 63 lbs</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>In the perimeter formula P = 2L + 2W, the first step when solving for L would be to?</label>
+			<choice>
+				<choicelabel>A.) divide both sides of the equation by 2W</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) multiply both sides of the equation by 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) add a negative 2W to both sides of the equation.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) add a negative 2L to both sides of the equation</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>The formula to find the area of a triangle is: Area = 1/2 the base times the height or A = 1/2BH.  If you know the area of a triangle = 60 sq ft and the base = 12 ft, what&apos;s the height?</label>
+			<choice>
+				<choicelabel>A.) 5 ft.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 10 ft.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 72 ft</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 36 ft</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>Solve for x.&lt;br&gt;&lt;br&gt;x - (2x - 8) = 3x - 2(x + 5)</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>10</group>
+		<label>Solve for y.&lt;br&gt;&lt;br&gt;2 - 8(y + 6) = 4y - 70</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve for x.&lt;br&gt; &lt;br&gt;x - 6= -3 </label>
+			<choice>
+				<choicelabel>x = 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -6 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3 </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Solve for x.&lt;br&gt; &lt;br&gt;x - 9 = -3 </label>
+			<choice>
+				<choicelabel>x = 6 </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Choose the best possible answer.&lt;br&gt; &lt;br&gt;In the problem 3(x-3) = 10, the first step in solving for x is to? </label>
+			<choice>
+				<choicelabel>Distribute </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Combine like terms</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Cancel </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide both sides by 3 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Solve for x.&lt;br&gt; &lt;br&gt;| 2x - 5 | + 3 = 12</label>
+			<choice>
+				<choicelabel>x = 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 7 /amp; -7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 7 /amp; -2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Solve for x.&lt;br&gt; &lt;br&gt;| 2x - 5 | + 5 = 12</label>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 6 /amp; -1</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 6 /amp; -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Solve for x.&lt;br&gt; &lt;br&gt;2(x + 6) - 4 = 2(x - 7) + 22</label>
+			<choice>
+				<choicelabel>x = 8 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>all real numbers</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solution </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>If you weigh 200 lb force and have a mass of 5 lb mass, how much does your little sister weigh if she has a mass of 2.25 lb mass? </label>
+			<choice>
+				<choicelabel>90 lbs </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>70 lbs </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>56 lbs </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>63 lbs </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>The formula to find the area of a triangle is: Area = 1/2 the base times the height or A = 1/2BH. If you know the area of a triangle = 60 sq ft and the base = 6 ft, what&apos;s the height? </label>
+			<choice>
+				<choicelabel>5 ft</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 ft</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>72 ft </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>20 ft </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>Solve for x.&lt;br&gt; &lt;br&gt;x - (2x - 6) = 3x - 2(x + 5)</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>10</group>
+		<label>Solve for y.&lt;br&gt; &lt;br&gt;2 - 6(y + 4) = 2y - 30</label>
+		<credit>1</credit>
+	</item>
+</assessment>

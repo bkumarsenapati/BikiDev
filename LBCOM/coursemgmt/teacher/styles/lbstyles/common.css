@@ -1,0 +1,123 @@
+body {
+	background-color: #9F9F9F;
+	font-family: Tahoma, Verdana, Arial, Helvetica;
+	font-size:12px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url(../images/mainbg.gif);
+	background-repeat:repeat-x;
+}
+
+
+#wrapper{
+width:100%;}
+
+#container{
+width:1183px;
+padding:0px 8px 0px 9px;
+background-image:url(../images/contentbg.png);
+background-repeat:repeat-y;
+overflow:hidden;}
+
+#header{
+width:1183px;
+float:left;
+background-image:url(../images/topheaderBg.gif);
+background-position:top;
+height:127px;}
+.logo{
+width:348px;
+float:left;
+height:127px;}
+.global{
+width:834px;
+float:left;
+height:100px;
+text-align:right;
+padding-top:27px;}
+#nav{
+width:1183px;
+float:left;
+height:32px;
+background-image:url(../images/mnuBg.gif);
+background-repeat:repeat-x;
+}
+
+#nav ul{
+padding:0px 0px 0px 20px;
+margin:0px;}
+
+#nav ul li {
+padding:0px;
+margin:0px;
+list-style:none;
+float:left;
+display:block;
+height:32px;
+line-height:32px;
+text-align:left;}
+
+<!--
+#nav a {
+	font-family: Tahoma, Verdana, Arial, Helvetica;
+	font-size: 12px;
+	color: #7C7B7A;
+	padding:0px 20px 0px 10px;
+	font-weight:bold;
+}
+#nav a:link {
+	text-decoration: none;
+}
+#nav a:visited {
+	text-decoration: none;
+	color: #7C7B7A;
+}
+#nav a:hover {
+	text-decoration: none;
+	color: #7C7B7A;
+	background-image:url(../images/mnuovrbg.gif);
+	background-repeat:no-repeat;
+	height:32px;
+line-height:32px;
+display:block;
+}
+#nav a:active {
+	text-decoration: none;
+	color: #7C7B7A;
+}
+-->
+
+#content{
+width:1143px;
+float:left;
+padding:20px;}
+.bcrumb{
+width:1123px;
+margin-bottom:10px;
+background-color:#F7F7F6;
+border:1px solid #E3E3E2;
+text-align:left;
+color:#7C7B7A;
+font-weight:bold;
+padding:10px;}
+
+.carea{
+background-color:#ffffff;
+border:1px solid #E3E3E2;
+padding:10px;}
+
+.rsection{
+width:260px;}
+
+.rsection #plank{
+background-image:url(../images/headerplank.gif);
+height:31px;
+
+line-height:31px;
+font-size:12px;
+display:block;
+color:#7C7B7A;
+text-align:left;
+padding:0px 0px 0px 10px;}

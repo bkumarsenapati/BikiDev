@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.19H Honors Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify by distributing and collecting like terms.&lt;br&gt;&lt;br&gt;4x - 2 + 2y - 6x + y + 7</label>
+			<choice>
+				<choicelabel>-10x + 3y + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 3y + 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 3y + 5</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-10x + 2y + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify by distributing and collecting like terms.&lt;br&gt;&lt;br&gt;3(2x - 5) + 6 - (x - 4)</label>
+			<choice>
+				<choicelabel>5x - 13</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x - 5</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7x - 13</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-39</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable.&lt;br&gt;&lt;br&gt;2(3x - 4) = x + 22</label>
+			<choice>
+				<choicelabel>x = 6</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 16/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable.&lt;br&gt;&lt;br&gt;6x - 2(x + 5) = 3x + 2</label>
+			<choice>
+				<choicelabel>x = 12</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 12/7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the a. &lt;br&gt;&lt;br&gt;6a + 2 = 3(2a + 2)</label>
+			<choice>
+				<choicelabel>All Real Numbers</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No Solutions</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the y.&lt;br&gt;&lt;br&gt;y - 2 = y - 2</label>
+			<choice>
+				<choicelabel>All Real Numbers</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No Solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable. Remember there will be two solutions to the equation.&lt;br&gt;&lt;br&gt;|4x - 2| = 6</label>
+			<choice>
+				<choicelabel>2, -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1, -1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4, -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2, -1</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable.&lt;br&gt;&lt;br&gt;|2x| = -5</label>
+			<choice>
+				<choicelabel>-10/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solution</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Show the equation you used to solve the problem and give the amount of each solution.&lt;br&gt;&lt;br&gt;Solution A is 25&amp;#37; acid and solution B is 40&amp;#37; acid.  How much of each solution is needed to make 100 liters of 30&amp;#37; acid?</label>
+			<choice>
+				<choicelabel>25/amp;#37; of A and 75&amp;#37; of B</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>66.7/amp;#37; of A and 33.3&amp;#37; of B</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>35.5/amp;#37; of A and 65&amp;#37; of B</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>34/amp;#37; of A and 66&amp;#37; of B</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>A grocer wishes to mix some peanuts worth $.90 per pound with some almonds worth $1.50 per pound.  The grocer will make 150 pounds of a mixture that is worth $1.25 per pound.  How much of each should she use?</label>
+			<choice>
+				<choicelabel>50 pounds of peanuts and 80 pounds of almonds</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>55.5 pounds of peanuts and 62.5 pounds of almonds</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>60.7 pounds of peanuts and 91.5 pounds of almonds</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>62.5 pounds of peanuts and 87.5 pounds of almonds</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>The hypothesis of the proof below is: &lt;br&gt;&lt;br&gt;If 3x - 1 = 11, then x = 4</label>
+			<choice>
+				<choicelabel>x = 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x - 1 = 11</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>If 3x - 1 = 11, then x = 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There is no hypothesis</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Fill in the missing statements and reasons from the proof below.  Please be organized with your answers.&lt;br&gt;&lt;br&gt;If 3x - 1 = 11, then x = 4&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0048/educator_algebra1/pictures/M4images/A1M4HA_5.gif&gt;</label>
+		<credit>16.0</credit>
+	</item>
+</assessment>

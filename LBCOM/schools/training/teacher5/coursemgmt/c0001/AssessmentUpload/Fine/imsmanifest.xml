@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest identifier="man00001" xmlns:uc="http://www.ucompass.com/content-packaging/">
+	<organizations default="toc00001">
+		<organization identifier="toc00001">
+			<item identifier="itm0001" identifierref="res0001">
+				<title>01.02 Module One Pretest</title>
+			</item>
+			<item identifier="itm0002" identifierref="res0002">
+				<title>01.03 Review of Algebra 1</title>
+			</item>
+			<item identifier="itm0003" identifierref="res0003">
+				<title>01.04 Solving Literal Equations</title>
+			</item>
+			<item identifier="itm0004" identifierref="res0004">
+				<title>01.05 Variations</title>
+			</item>
+			<item identifier="itm0005" identifierref="res0005">
+				<title>01.06 Absolute Value Equations and Inequalities in One Variable</title>
+			</item>
+			<item identifier="itm0006" identifierref="res0006">
+				<title>01.07 Module One Quiz</title>
+			</item>
+			<item identifier="itm0007" identifierref="res0007">
+				<title>01.08 Graphing Linear Equations and Inequalities</title>
+			</item>
+			<item identifier="itm0008" identifierref="res0008">
+				<title>01.09 Writing the Equation of Line</title>
+			</item>
+			<item identifier="itm0009" identifierref="res0009">
+				<title>01.10 Parallel and Perpendicular Lines</title>
+			</item>
+			<item identifier="itm0010" identifierref="res0010">
+				<title>01.11 Absolute Value Equations and Inequalities in Two Variables</title>
+			</item>
+			<item identifier="itm0011" identifierref="res0011">
+				<title>01.12 Line of Best Fit (Honors Only)</title>
+			</item>
+			<item identifier="itm0012" identifierref="res0012">
+				<title>01.13 Review and Practice Test </title>
+			</item>
+			<item identifier="itm0013" identifierref="res0013">
+				<title>01.14 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0014" identifierref="res0014">
+				<title>01.15 Module One Test</title>
+			</item>
+			<item identifier="itm0015" identifierref="res0015">
+				<title>02.00 Module Two Pretest</title>
+			</item>
+			<item identifier="itm0016" identifierref="res0016">
+				<title>02.01 Graphing Systems of Equations</title>
+			</item>
+			<item identifier="itm0017" identifierref="res0017">
+				<title>02.02 Solving a System of Equations through Elimination</title>
+			</item>
+			<item identifier="itm0018" identifierref="res0018">
+				<title>02.03 Solving a System of Equations through Substitution</title>
+			</item>
+			<item identifier="itm0019" identifierref="res0019">
+				<title>02.04 Solving a System of Equations with Three Variables</title>
+			</item>
+			<item identifier="itm0020" identifierref="res0020">
+				<title>02.05 Introduction to Matrices (Honors Only)</title>
+			</item>
+			<item identifier="itm0021" identifierref="res0021">
+				<title>02.06 Module Two Quiz</title>
+			</item>
+			<item identifier="itm0022" identifierref="res0022">
+				<title>02.07 Solving Word Problems</title>
+			</item>
+			<item identifier="itm0023" identifierref="res0023">
+				<title>02.08 Higher-Level Word Problems (Honors Only)</title>
+			</item>
+			<item identifier="itm0024" identifierref="res0024">
+				<title>02.09 Solving System of Inequalities</title>
+			</item>
+			<item identifier="itm0025" identifierref="res0025">
+				<title>02.10 Linear Programming Activity</title>
+			</item>
+			<item identifier="itm0026" identifierref="res0026">
+				<title>02.11 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0027" identifierref="res0027">
+				<title>02.12 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0028" identifierref="res0028">
+				<title>02.13 Module Two Test</title>
+			</item>
+			<item identifier="itm0029" identifierref="res0029">
+				<title>02.14 Module Two Honors Test (Honors Only)</title>
+			</item>
+			<item identifier="itm0030" identifierref="res0030">
+				<title>03.00 Module Three Pretest</title>
+			</item>
+			<item identifier="itm0031" identifierref="res0031">
+				<title>03.01 Review of Polynomials</title>
+			</item>
+			<item identifier="itm0032" identifierref="res0032">
+				<title>03.02 Polynomial Operations</title>
+			</item>
+			<item identifier="itm0033" identifierref="res0033">
+				<title>03.03 Greatest Common Factors and Special Products  </title>
+			</item>
+			<item identifier="itm0034" identifierref="res0034">
+				<title>03.04 Factoring Trinomials</title>
+			</item>
+			<item identifier="itm0035" identifierref="res0035">
+				<title>03.05 Module Three Quiz</title>
+			</item>
+			<item identifier="itm0036" identifierref="res0036">
+				<title>03.06 Factoring by Grouping</title>
+			</item>
+			<item identifier="itm0037" identifierref="res0037">
+				<title>03.07 Sum and Difference of Cubes </title>
+			</item>
+			<item identifier="itm0038" identifierref="res0038">
+				<title>03.08 Pascal’s Triangle (Honors Only)</title>
+			</item>
+			<item identifier="itm0039" identifierref="res0039">
+				<title>03.09 Factoring Activity</title>
+			</item>
+			<item identifier="itm0040" identifierref="res0040">
+				<title>03.10 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0041" identifierref="res0041">
+				<title>03.11 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0042" identifierref="res0042">
+				<title>03.12 Module Three Test</title>
+			</item>
+			<item identifier="itm0043" identifierref="res0043">
+				<title>03.13 Module Three Honors Test (Honors Only)</title>
+			</item>
+			<item identifier="itm0044" identifierref="res0044">
+				<title>04.00 Module Four Pretest</title>
+			</item>
+			<item identifier="itm0045" identifierref="res0045">
+				<title>04.01 Simplifying Radicals</title>
+			</item>
+			<item identifier="itm0046" identifierref="res0046">
+				<title>04.02 Adding and Subtracting Radical Expressions</title>
+			</item>
+			<item identifier="itm0047" identifierref="res0047">
+				<title>04.03 Multiplying and Dividing Radical Expressions</title>
+			</item>
+			<item identifier="itm0048" identifierref="res0048">
+				<title>04.04 Rational Exponents</title>
+			</item>
+			<item identifier="itm0049" identifierref="res0049">
+				<title>04.05 Module Four Quiz</title>
+			</item>
+			<item identifier="itm0050" identifierref="res0050">
+				<title>04.06 Properties of Rational Exponents</title>
+			</item>
+			<item identifier="itm0051" identifierref="res0051">
+				<title>04.07 Complex Numbers</title>
+			</item>
+			<item identifier="itm0052" identifierref="res0052">
+				<title>04.08 Operations of Complex Numbers</title>
+			</item>
+			<item identifier="itm0053" identifierref="res0053">
+				<title>04.09 Solving Radical Equations</title>
+			</item>
+			<item identifier="itm0054" identifierref="res0054">
+				<title>04.10 Radical Activity</title>
+			</item>
+			<item identifier="itm0055" identifierref="res0055">
+				<title>04.11 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0056" identifierref="res0056">
+				<title>04.12 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0057" identifierref="res0057">
+				<title>04.13 Module Four Exam</title>
+			</item>
+			<item identifier="itm0058" identifierref="res0058">
+				<title>05.00 Module Five Pretest</title>
+			</item>
+			<item identifier="itm0059" identifierref="res0059">
+				<title>05.01 Graphing Quadratics</title>
+			</item>
+			<item identifier="itm0060" identifierref="res0060">
+				<title>05.02 Solving Quadratics by Factoring</title>
+			</item>
+			<item identifier="itm0061" identifierref="res0061">
+				<title>05.03 Solving Quadratics Using the Quadratic Formula</title>
+			</item>
+			<item identifier="itm0062" identifierref="res0062">
+				<title>05.04 Completing the Square</title>
+			</item>
+			<item identifier="itm0063" identifierref="res0063">
+				<title>05.05 Module Five Quiz</title>
+			</item>
+			<item identifier="itm0064" identifierref="res0064">
+				<title>05.06 Solving Quadratic Equations with Complex Numbers</title>
+			</item>
+			<item identifier="itm0065" identifierref="res0065">
+				<title>05.07 Investigating Quadratics</title>
+			</item>
+			<item identifier="itm0066" identifierref="res0066">
+				<title>05.08 Approximating Quadratic Solutions (Honors Only)</title>
+			</item>
+			<item identifier="itm0067" identifierref="res0067">
+				<title>05.09 Piecewise Functions (Honors Only)</title>
+			</item>
+			<item identifier="itm0068" identifierref="res0068">
+				<title>05.10 Non-Linear Systems of Equations (Honors Only)</title>
+			</item>
+			<item identifier="itm0069" identifierref="res0069">
+				<title>05.11 Quadratics Activity</title>
+			</item>
+			<item identifier="itm0070" identifierref="res0070">
+				<title>05.12 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0071" identifierref="res0071">
+				<title>05.13 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0072" identifierref="res0072">
+				<title>05.14 Module Five Test</title>
+			</item>
+			<item identifier="itm0073" identifierref="res0073">
+				<title>05.15 Module Five Honors Test</title>
+			</item>
+			<item identifier="itm0074" identifierref="res0074">
+				<title>05.16 Segment One Collaboration Component</title>
+			</item>
+			<item identifier="itm0075" identifierref="res0075">
+				<title>05.17 Segment 1 Exam Review</title>
+			</item>
+			<item identifier="itm0076" identifierref="res0076">
+				<title>05.18 Segment 1 Exam</title>
+			</item>
+			<item identifier="itm0077" identifierref="res0077">
+				<title>05.19 Segment 1 Honors Exam Review</title>
+			</item>
+			<item identifier="itm0078" identifierref="res0078">
+				<title>05.20 Segment 1 Honors Exam</title>
+			</item>
+			<item identifier="itm0079" identifierref="res0079">
+				<title>05.21 Blank Assessment</title>
+			</item>
+			<item identifier="itm0080" identifierref="res0080">
+				<title>05.22 Blank Assessment</title>
+			</item>
+			<item identifier="itm0081" identifierref="res0081">
+				<title>06.00 Module Six Pretest</title>
+			</item>
+			<item identifier="itm0082" identifierref="res0082">
+				<title>06.01 Introduction to Functions</title>
+			</item>
+			<item identifier="itm0083" identifierref="res0083">
+				<title>06.02 Graphing Polynomial Functions</title>
+			</item>
+			<item identifier="itm0084" identifierref="res0084">
+				<title>06.02H Polynomial Inequalities (Honors Only Extension)</title>
+			</item>
+			<item identifier="itm0085" identifierref="res0085">
+				<title>06.03 Polynomial Long Division</title>
+			</item>
+			<item identifier="itm0086" identifierref="res0086">
+				<title>06.04 Synthetic Division</title>
+			</item>
+			<item identifier="itm0087" identifierref="res0087">
+				<title>06.05 Module Six Quiz</title>
+			</item>
+			<item identifier="itm0088" identifierref="res0088">
+				<title>06.06 Theorems of Algebra</title>
+			</item>
+			<item identifier="itm0089" identifierref="res0089">
+				<title>06.07 Rational Root Theorem and Descartes’ Rule of Signs</title>
+			</item>
+			<item identifier="itm0090" identifierref="res0090">
+				<title>06.08 Solving Polynomial Equations</title>
+			</item>
+			<item identifier="itm0091" identifierref="res0091">
+				<title>06.09 Polynomial Functions Activity</title>
+			</item>
+			<item identifier="itm0092" identifierref="res0092">
+				<title>06.10 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0093" identifierref="res0093">
+				<title>06.11 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0094" identifierref="res0094">
+				<title>06.12 Module Six Test</title>
+			</item>
+			<item identifier="itm0095" identifierref="res0095">
+				<title>07.00 Module Seven Pretest</title>
+			</item>
+			<item identifier="itm0096" identifierref="res0096">
+				<title>07.01 Simplifying Rational Expressions</title>
+			</item>
+			<item identifier="itm0097" identifierref="res0097">
+				<title>07.02 Multiplying and Dividing Rational Expressions</title>
+			</item>
+			<item identifier="itm0098" identifierref="res0098">
+				<title>07.03 Adding and Subtracting Rational Expressions</title>
+			</item>
+			<item identifier="itm0099" identifierref="res0099">
+				<title>07.04 Module Seven Quiz</title>
+			</item>
+			<item identifier="itm0100" identifierref="res0100">
+				<title>07.05 Simplifying Complex Fractions</title>
+			</item>
+			<item identifier="itm0101" identifierref="res0101">
+				<title>07.06 Discontinuities of Rational Functions (Honors Only)</title>
+			</item>
+			<item identifier="itm0102" identifierref="res0102">
+				<title>07.07 Asymptotes of Rational Functions (Honors Only)</title>
+			</item>
+			<item identifier="itm0103" identifierref="res0103">
+				<title>07.08 Solving Rational Equations</title>
+			</item>
+			<item identifier="itm0104" identifierref="res0104">
+				<title>07.09 Applications of Rational Equations</title>
+			</item>
+			<item identifier="itm0105" identifierref="res0105">
+				<title>07.10 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0106" identifierref="res0106">
+				<title>07.11 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0107" identifierref="res0107">
+				<title>07.12 Module Seven Test</title>
+			</item>
+			<item identifier="itm0108" identifierref="res0108">
+				<title>07.13 Module Seven Honors Test</title>
+			</item>
+			<item identifier="itm0109" identifierref="res0109">
+				<title>08.00 Module Eight Pretest</title>
+			</item>
+			<item identifier="itm0110" identifierref="res0110">
+				<title>08.01 Graphs of Common Functions</title>
+			</item>
+			<item identifier="itm0111" identifierref="res0111">
+				<title>08.02 Graphing Exponential Functions</title>
+			</item>
+			<item identifier="itm0112" identifierref="res0112">
+				<title>08.03 Exponential Growth and Decay Functions</title>
+			</item>
+			<item identifier="itm0113" identifierref="res0113">
+				<title>08.04 Solving Exponential Equations</title>
+			</item>
+			<item identifier="itm0114" identifierref="res0114">
+				<title>08.05 Module Eight Quiz</title>
+			</item>
+			<item identifier="itm0115" identifierref="res0115">
+				<title>08.06 Logarithmic Functions</title>
+			</item>
+			<item identifier="itm0116" identifierref="res0116">
+				<title>08.07 Change of Base Formula</title>
+			</item>
+			<item identifier="itm0117" identifierref="res0117">
+				<title>08.08 Graphing Logarithmic Functions</title>
+			</item>
+			<item identifier="itm0118" identifierref="res0118">
+				<title>08.09 Properties of Logarithms</title>
+			</item>
+			<item identifier="itm0119" identifierref="res0119">
+				<title>08.10 Solving Exponential Equations with Unequal Bases</title>
+			</item>
+			<item identifier="itm0120" identifierref="res0120">
+				<title>08.11 Exponential and Logarithmic Functions Activity</title>
+			</item>
+			<item identifier="itm0121" identifierref="res0121">
+				<title>08.12 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0122" identifierref="res0122">
+				<title>08.13 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0123" identifierref="res0123">
+				<title>08.14 Module Eight Test</title>
+			</item>
+			<item identifier="itm0124" identifierref="res0124">
+				<title>09.00 Module Nine Pretest</title>
+			</item>
+			<item identifier="itm0125" identifierref="res0125">
+				<title>09.01 Arithmetic Sequences</title>
+			</item>
+			<item identifier="itm0126" identifierref="res0126">
+				<title>09.02 Arithmetic Series</title>
+			</item>
+			<item identifier="itm0127" identifierref="res0127">
+				<title>09.03 Sigma Notation (Honors Only)</title>
+			</item>
+			<item identifier="itm0128" identifierref="res0128">
+				<title>09.04 Module Nine Quiz</title>
+			</item>
+			<item identifier="itm0129" identifierref="res0129">
+				<title>09.05 Geometric Sequences </title>
+			</item>
+			<item identifier="itm0130" identifierref="res0130">
+				<title>09.06 Geometric Series</title>
+			</item>
+			<item identifier="itm0131" identifierref="res0131">
+				<title>09.07 Infinite, Convergent &amp; Divergent Series (Honors Only)</title>
+			</item>
+			<item identifier="itm0132" identifierref="res0132">
+				<title>09.08 Geometric Series Activity</title>
+			</item>
+			<item identifier="itm0133" identifierref="res0133">
+				<title>09.09 Review and Practice Test</title>
+			</item>
+			<item identifier="itm0134" identifierref="res0134">
+				<title>09.10 Discussion Based Assessment</title>
+			</item>
+			<item identifier="itm0135" identifierref="res0135">
+				<title>09.11 Module Nine Test</title>
+			</item>
+			<item identifier="itm0136" identifierref="res0136">
+				<title>09.12 Module Nine Honors Test</title>
+			</item>
+			<item identifier="itm0137" identifierref="res0137">
+				<title>09.13 Segment Two Collaboration Component</title>
+			</item>
+			<item identifier="itm0138" identifierref="res0138">
+				<title>09.14 Segment 2 Exam Review</title>
+			</item>
+			<item identifier="itm0139" identifierref="res0139">
+				<title>09.15 Segment 2 Exam</title>
+			</item>
+			<item identifier="itm0140" identifierref="res0140">
+				<title>10.00 Module Ten Pretest  (Honors Only)</title>
+			</item>
+			<item identifier="itm0141" identifierref="res0141">
+				<title>10.01 Parabolas  (Honors Only)</title>
+			</item>
+			<item identifier="itm0142" identifierref="res0142">
+				<title>10.02 Graphing Circles  (Honors Only)</title>
+			</item>
+			<item identifier="itm0143" identifierref="res0143">
+				<title>10.03 Discovering Circles  (Honors Only)</title>
+			</item>
+			<item identifier="itm0144" identifierref="res0144">
+				<title>10.04 Module Ten Quiz  (Honors Only)</title>
+			</item>
+			<item identifier="itm0145" identifierref="res0145">
+				<title>10.05 Graphing Ellipses  (Honors Only)</title>
+			</item>
+			<item identifier="itm0146" identifierref="res0146">
+				<title>10.06 Discovering Ellipses  (Honors Only)</title>
+			</item>
+			<item identifier="itm0147" identifierref="res0147">
+				<title>10.07 Graphing Hyperbolas  (Honors Only)</title>
+			</item>
+			<item identifier="itm0148" identifierref="res0148">
+				<title>10.08 Discovering Hyperbolas  (Honors Only)</title>
+			</item>
+			<item identifier="itm0149" identifierref="res0149">
+				<title>10.09 The Conic Sections  (Honors Only)</title>
+			</item>
+			<item identifier="itm0150" identifierref="res0150">
+				<title>10.10 Module Ten Practice Test  (Honors Only)</title>
+			</item>
+			<item identifier="itm0151" identifierref="res0151">
+				<title>10.11 Discussion Based Assessment  (Honors Only)</title>
+			</item>
+			<item identifier="itm0152" identifierref="res0152">
+				<title>10.12 Segment 2 Honors Exam Review</title>
+			</item>
+			<item identifier="itm0153" identifierref="res0153">
+				<title>10.13 Segment 2 Honors Exam</title>
+			</item>
+			<item identifier="itm0154" identifierref="res0154">
+				<title>10.14 Blank Assessment </title>
+			</item>
+			<item identifier="itm0155" identifierref="res0155">
+				<title>10.15 Blank Assessment  </title>
+			</item>
+		</organization>
+	</organizations>
+<resources>
+	<resource uc:file="res0001.dat" uc:title="01.02 Module One Pretest" identifier="res0001" type="assessment/x-uc-qti-pool" xml:base="res0001">
+	</resource>
+	<resource uc:file="res0002.dat" uc:title="01.03 Review of Algebra 1" identifier="res0002" type="assessment/x-uc-qti-pool" xml:base="res0002">
+	</resource>
+	<resource uc:file="res0003.dat" uc:title="01.04 Solving Literal Equations" identifier="res0003" type="assessment/x-uc-qti-pool" xml:base="res0003">
+	</resource>
+	<resource uc:file="res0004.dat" uc:title="01.05 Variations" identifier="res0004" type="assessment/x-uc-qti-pool" xml:base="res0004">
+	</resource>
+	<resource uc:file="res0005.dat" uc:title="01.06 Absolute Value Equations and Inequalities in One Variable" identifier="res0005" type="assessment/x-uc-qti-pool" xml:base="res0005">
+	</resource>
+	<resource uc:file="res0006.dat" uc:title="01.07 Module One Quiz" identifier="res0006" type="assessment/x-uc-qti-pool" xml:base="res0006">
+	</resource>
+	<resource uc:file="res0007.dat" uc:title="01.08 Graphing Linear Equations and Inequalities" identifier="res0007" type="assessment/x-uc-qti-pool" xml:base="res0007">
+	</resource>
+	<resource uc:file="res0008.dat" uc:title="01.09 Writing the Equation of Line" identifier="res0008" type="assessment/x-uc-qti-pool" xml:base="res0008">
+	</resource>
+	<resource uc:file="res0009.dat" uc:title="01.10 Parallel and Perpendicular Lines" identifier="res0009" type="assessment/x-uc-qti-pool" xml:base="res0009">
+	</resource>
+	<resource uc:file="res0010.dat" uc:title="01.11 Absolute Value Equations and Inequalities in Two Variables" identifier="res0010" type="assessment/x-uc-qti-pool" xml:base="res0010">
+	</resource>
+	<resource uc:file="res0011.dat" uc:title="01.12 Line of Best Fit (Honors Only)" identifier="res0011" type="assessment/x-uc-qti-pool" xml:base="res0011">
+	</resource>
+	<resource uc:file="res0012.dat" uc:title="01.13 Review and Practice Test " identifier="res0012" type="assessment/x-uc-qti-pool" xml:base="res0012">
+	</resource>
+	<resource uc:file="res0013.dat" uc:title="01.14 Discussion Based Assessment" identifier="res0013" type="assessment/x-uc-qti-pool" xml:base="res0013">
+	</resource>
+	<resource uc:file="res0014.dat" uc:title="01.15 Module One Test" identifier="res0014" type="assessment/x-uc-qti-pool" xml:base="res0014">
+	</resource>
+	<resource uc:file="res0015.dat" uc:title="02.00 Module Two Pretest" identifier="res0015" type="assessment/x-uc-qti-pool" xml:base="res0015">
+	</resource>
+	<resource uc:file="res0016.dat" uc:title="02.01 Graphing Systems of Equations" identifier="res0016" type="assessment/x-uc-qti-pool" xml:base="res0016">
+	</resource>
+	<resource uc:file="res0017.dat" uc:title="02.02 Solving a System of Equations through Elimination" identifier="res0017" type="assessment/x-uc-qti-pool" xml:base="res0017">
+	</resource>
+	<resource uc:file="res0018.dat" uc:title="02.03 Solving a System of Equations through Substitution" identifier="res0018" type="assessment/x-uc-qti-pool" xml:base="res0018">
+	</resource>
+	<resource uc:file="res0019.dat" uc:title="02.04 Solving a System of Equations with Three Variables" identifier="res0019" type="assessment/x-uc-qti-pool" xml:base="res0019">
+	</resource>
+	<resource uc:file="res0020.dat" uc:title="02.05 Introduction to Matrices (Honors Only)" identifier="res0020" type="assessment/x-uc-qti-pool" xml:base="res0020">
+	</resource>
+	<resource uc:file="res0021.dat" uc:title="02.06 Module Two Quiz" identifier="res0021" type="assessment/x-uc-qti-pool" xml:base="res0021">
+	</resource>
+	<resource uc:file="res0022.dat" uc:title="02.07 Solving Word Problems" identifier="res0022" type="assessment/x-uc-qti-pool" xml:base="res0022">
+	</resource>
+	<resource uc:file="res0023.dat" uc:title="02.08 Higher-Level Word Problems (Honors Only)" identifier="res0023" type="assessment/x-uc-qti-pool" xml:base="res0023">
+	</resource>
+	<resource uc:file="res0024.dat" uc:title="02.09 Solving System of Inequalities" identifier="res0024" type="assessment/x-uc-qti-pool" xml:base="res0024">
+	</resource>
+	<resource uc:file="res0025.dat" uc:title="02.10 Linear Programming Activity" identifier="res0025" type="assessment/x-uc-qti-pool" xml:base="res0025">
+	</resource>
+	<resource uc:file="res0026.dat" uc:title="02.11 Review and Practice Test" identifier="res0026" type="assessment/x-uc-qti-pool" xml:base="res0026">
+	</resource>
+	<resource uc:file="res0027.dat" uc:title="02.12 Discussion Based Assessment" identifier="res0027" type="assessment/x-uc-qti-pool" xml:base="res0027">
+	</resource>
+	<resource uc:file="res0028.dat" uc:title="02.13 Module Two Test" identifier="res0028" type="assessment/x-uc-qti-pool" xml:base="res0028">
+	</resource>
+	<resource uc:file="res0029.dat" uc:title="02.14 Module Two Honors Test (Honors Only)" identifier="res0029" type="assessment/x-uc-qti-pool" xml:base="res0029">
+	</resource>
+	<resource uc:file="res0030.dat" uc:title="03.00 Module Three Pretest" identifier="res0030" type="assessment/x-uc-qti-pool" xml:base="res0030">
+	</resource>
+	<resource uc:file="res0031.dat" uc:title="03.01 Review of Polynomials" identifier="res0031" type="assessment/x-uc-qti-pool" xml:base="res0031">
+	</resource>
+	<resource uc:file="res0032.dat" uc:title="03.02 Polynomial Operations" identifier="res0032" type="assessment/x-uc-qti-pool" xml:base="res0032">
+	</resource>
+	<resource uc:file="res0033.dat" uc:title="03.03 Greatest Common Factors and Special Products  " identifier="res0033" type="assessment/x-uc-qti-pool" xml:base="res0033">
+	</resource>
+	<resource uc:file="res0034.dat" uc:title="03.04 Factoring Trinomials" identifier="res0034" type="assessment/x-uc-qti-pool" xml:base="res0034">
+	</resource>
+	<resource uc:file="res0035.dat" uc:title="03.05 Module Three Quiz" identifier="res0035" type="assessment/x-uc-qti-pool" xml:base="res0035">
+	</resource>
+	<resource uc:file="res0036.dat" uc:title="03.06 Factoring by Grouping" identifier="res0036" type="assessment/x-uc-qti-pool" xml:base="res0036">
+	</resource>
+	<resource uc:file="res0037.dat" uc:title="03.07 Sum and Difference of Cubes " identifier="res0037" type="assessment/x-uc-qti-pool" xml:base="res0037">
+	</resource>
+	<resource uc:file="res0038.dat" uc:title="03.08 Pascal’s Triangle (Honors Only)" identifier="res0038" type="assessment/x-uc-qti-pool" xml:base="res0038">
+	</resource>
+	<resource uc:file="res0039.dat" uc:title="03.09 Factoring Activity" identifier="res0039" type="assessment/x-uc-qti-pool" xml:base="res0039">
+	</resource>
+	<resource uc:file="res0040.dat" uc:title="03.10 Review and Practice Test" identifier="res0040" type="assessment/x-uc-qti-pool" xml:base="res0040">
+	</resource>
+	<resource uc:file="res0041.dat" uc:title="03.11 Discussion Based Assessment" identifier="res0041" type="assessment/x-uc-qti-pool" xml:base="res0041">
+	</resource>
+	<resource uc:file="res0042.dat" uc:title="03.12 Module Three Test" identifier="res0042" type="assessment/x-uc-qti-pool" xml:base="res0042">
+	</resource>
+	<resource uc:file="res0043.dat" uc:title="03.13 Module Three Honors Test (Honors Only)" identifier="res0043" type="assessment/x-uc-qti-pool" xml:base="res0043">
+	</resource>
+	<resource uc:file="res0044.dat" uc:title="04.00 Module Four Pretest" identifier="res0044" type="assessment/x-uc-qti-pool" xml:base="res0044">
+	</resource>
+	<resource uc:file="res0045.dat" uc:title="04.01 Simplifying Radicals" identifier="res0045" type="assessment/x-uc-qti-pool" xml:base="res0045">
+	</resource>
+	<resource uc:file="res0046.dat" uc:title="04.02 Adding and Subtracting Radical Expressions" identifier="res0046" type="assessment/x-uc-qti-pool" xml:base="res0046">
+	</resource>
+	<resource uc:file="res0047.dat" uc:title="04.03 Multiplying and Dividing Radical Expressions" identifier="res0047" type="assessment/x-uc-qti-pool" xml:base="res0047">
+	</resource>
+	<resource uc:file="res0048.dat" uc:title="04.04 Rational Exponents" identifier="res0048" type="assessment/x-uc-qti-pool" xml:base="res0048">
+	</resource>
+	<resource uc:file="res0049.dat" uc:title="04.05 Module Four Quiz" identifier="res0049" type="assessment/x-uc-qti-pool" xml:base="res0049">
+	</resource>
+	<resource uc:file="res0050.dat" uc:title="04.06 Properties of Rational Exponents" identifier="res0050" type="assessment/x-uc-qti-pool" xml:base="res0050">
+	</resource>
+	<resource uc:file="res0051.dat" uc:title="04.07 Complex Numbers" identifier="res0051" type="assessment/x-uc-qti-pool" xml:base="res0051">
+	</resource>
+	<resource uc:file="res0052.dat" uc:title="04.08 Operations of Complex Numbers" identifier="res0052" type="assessment/x-uc-qti-pool" xml:base="res0052">
+	</resource>
+	<resource uc:file="res0053.dat" uc:title="04.09 Solving Radical Equations" identifier="res0053" type="assessment/x-uc-qti-pool" xml:base="res0053">
+	</resource>
+	<resource uc:file="res0054.dat" uc:title="04.10 Radical Activity" identifier="res0054" type="assessment/x-uc-qti-pool" xml:base="res0054">
+	</resource>
+	<resource uc:file="res0055.dat" uc:title="04.11 Review and Practice Test" identifier="res0055" type="assessment/x-uc-qti-pool" xml:base="res0055">
+	</resource>
+	<resource uc:file="res0056.dat" uc:title="04.12 Discussion Based Assessment" identifier="res0056" type="assessment/x-uc-qti-pool" xml:base="res0056">
+	</resource>
+	<resource uc:file="res0057.dat" uc:title="04.13 Module Four Exam" identifier="res0057" type="assessment/x-uc-qti-pool" xml:base="res0057">
+	</resource>
+	<resource uc:file="res0058.dat" uc:title="05.00 Module Five Pretest" identifier="res0058" type="assessment/x-uc-qti-pool" xml:base="res0058">
+	</resource>
+	<resource uc:file="res0059.dat" uc:title="05.01 Graphing Quadratics" identifier="res0059" type="assessment/x-uc-qti-pool" xml:base="res0059">
+	</resource>
+	<resource uc:file="res0060.dat" uc:title="05.02 Solving Quadratics by Factoring" identifier="res0060" type="assessment/x-uc-qti-pool" xml:base="res0060">
+	</resource>
+	<resource uc:file="res0061.dat" uc:title="05.03 Solving Quadratics Using the Quadratic Formula" identifier="res0061" type="assessment/x-uc-qti-pool" xml:base="res0061">
+	</resource>
+	<resource uc:file="res0062.dat" uc:title="05.04 Completing the Square" identifier="res0062" type="assessment/x-uc-qti-pool" xml:base="res0062">
+	</resource>
+	<resource uc:file="res0063.dat" uc:title="05.05 Module Five Quiz" identifier="res0063" type="assessment/x-uc-qti-pool" xml:base="res0063">
+	</resource>
+	<resource uc:file="res0064.dat" uc:title="05.06 Solving Quadratic Equations with Complex Numbers" identifier="res0064" type="assessment/x-uc-qti-pool" xml:base="res0064">
+	</resource>
+	<resource uc:file="res0065.dat" uc:title="05.07 Investigating Quadratics" identifier="res0065" type="assessment/x-uc-qti-pool" xml:base="res0065">
+	</resource>
+	<resource uc:file="res0066.dat" uc:title="05.08 Approximating Quadratic Solutions (Honors Only)" identifier="res0066" type="assessment/x-uc-qti-pool" xml:base="res0066">
+	</resource>
+	<resource uc:file="res0067.dat" uc:title="05.09 Piecewise Functions (Honors Only)" identifier="res0067" type="assessment/x-uc-qti-pool" xml:base="res0067">
+	</resource>
+	<resource uc:file="res0068.dat" uc:title="05.10 Non-Linear Systems of Equations (Honors Only)" identifier="res0068" type="assessment/x-uc-qti-pool" xml:base="res0068">
+	</resource>
+	<resource uc:file="res0069.dat" uc:title="05.11 Quadratics Activity" identifier="res0069" type="assessment/x-uc-qti-pool" xml:base="res0069">
+	</resource>
+	<resource uc:file="res0070.dat" uc:title="05.12 Review and Practice Test" identifier="res0070" type="assessment/x-uc-qti-pool" xml:base="res0070">
+	</resource>
+	<resource uc:file="res0071.dat" uc:title="05.13 Discussion Based Assessment" identifier="res0071" type="assessment/x-uc-qti-pool" xml:base="res0071">
+	</resource>
+	<resource uc:file="res0072.dat" uc:title="05.14 Module Five Test" identifier="res0072" type="assessment/x-uc-qti-pool" xml:base="res0072">
+	</resource>
+	<resource uc:file="res0073.dat" uc:title="05.15 Module Five Honors Test" identifier="res0073" type="assessment/x-uc-qti-pool" xml:base="res0073">
+	</resource>
+	<resource uc:file="res0074.dat" uc:title="05.16 Segment One Collaboration Component" identifier="res0074" type="assessment/x-uc-qti-pool" xml:base="res0074">
+	</resource>
+	<resource uc:file="res0075.dat" uc:title="05.17 Segment 1 Exam Review" identifier="res0075" type="assessment/x-uc-qti-pool" xml:base="res0075">
+	</resource>
+	<resource uc:file="res0076.dat" uc:title="05.18 Segment 1 Exam" identifier="res0076" type="assessment/x-uc-qti-pool" xml:base="res0076">
+	</resource>
+	<resource uc:file="res0077.dat" uc:title="05.19 Segment 1 Honors Exam Review" identifier="res0077" type="assessment/x-uc-qti-pool" xml:base="res0077">
+	</resource>
+	<resource uc:file="res0078.dat" uc:title="05.20 Segment 1 Honors Exam" identifier="res0078" type="assessment/x-uc-qti-pool" xml:base="res0078">
+	</resource>
+	<resource uc:file="res0079.dat" uc:title="05.21 Blank Assessment" identifier="res0079" type="assessment/x-uc-qti-pool" xml:base="res0079">
+	</resource>
+	<resource uc:file="res0080.dat" uc:title="05.22 Blank Assessment" identifier="res0080" type="assessment/x-uc-qti-pool" xml:base="res0080">
+	</resource>
+	<resource uc:file="res0081.dat" uc:title="06.00 Module Six Pretest" identifier="res0081" type="assessment/x-uc-qti-pool" xml:base="res0081">
+	</resource>
+	<resource uc:file="res0082.dat" uc:title="06.01 Introduction to Functions" identifier="res0082" type="assessment/x-uc-qti-pool" xml:base="res0082">
+	</resource>
+	<resource uc:file="res0083.dat" uc:title="06.02 Graphing Polynomial Functions" identifier="res0083" type="assessment/x-uc-qti-pool" xml:base="res0083">
+	</resource>
+	<resource uc:file="res0084.dat" uc:title="06.02H Polynomial Inequalities (Honors Only Extension)" identifier="res0084" type="assessment/x-uc-qti-pool" xml:base="res0084">
+	</resource>
+	<resource uc:file="res0085.dat" uc:title="06.03 Polynomial Long Division" identifier="res0085" type="assessment/x-uc-qti-pool" xml:base="res0085">
+	</resource>
+	<resource uc:file="res0086.dat" uc:title="06.04 Synthetic Division" identifier="res0086" type="assessment/x-uc-qti-pool" xml:base="res0086">
+	</resource>
+	<resource uc:file="res0087.dat" uc:title="06.05 Module Six Quiz" identifier="res0087" type="assessment/x-uc-qti-pool" xml:base="res0087">
+	</resource>
+	<resource uc:file="res0088.dat" uc:title="06.06 Theorems of Algebra" identifier="res0088" type="assessment/x-uc-qti-pool" xml:base="res0088">
+	</resource>
+	<resource uc:file="res0089.dat" uc:title="06.07 Rational Root Theorem and Descartes’ Rule of Signs" identifier="res0089" type="assessment/x-uc-qti-pool" xml:base="res0089">
+	</resource>
+	<resource uc:file="res0090.dat" uc:title="06.08 Solving Polynomial Equations" identifier="res0090" type="assessment/x-uc-qti-pool" xml:base="res0090">
+	</resource>
+	<resource uc:file="res0091.dat" uc:title="06.09 Polynomial Functions Activity" identifier="res0091" type="assessment/x-uc-qti-pool" xml:base="res0091">
+	</resource>
+	<resource uc:file="res0092.dat" uc:title="06.10 Review and Practice Test" identifier="res0092" type="assessment/x-uc-qti-pool" xml:base="res0092">
+	</resource>
+	<resource uc:file="res0093.dat" uc:title="06.11 Discussion Based Assessment" identifier="res0093" type="assessment/x-uc-qti-pool" xml:base="res0093">
+	</resource>
+	<resource uc:file="res0094.dat" uc:title="06.12 Module Six Test" identifier="res0094" type="assessment/x-uc-qti-pool" xml:base="res0094">
+	</resource>
+	<resource uc:file="res0095.dat" uc:title="07.00 Module Seven Pretest" identifier="res0095" type="assessment/x-uc-qti-pool" xml:base="res0095">
+	</resource>
+	<resource uc:file="res0096.dat" uc:title="07.01 Simplifying Rational Expressions" identifier="res0096" type="assessment/x-uc-qti-pool" xml:base="res0096">
+	</resource>
+	<resource uc:file="res0097.dat" uc:title="07.02 Multiplying and Dividing Rational Expressions" identifier="res0097" type="assessment/x-uc-qti-pool" xml:base="res0097">
+	</resource>
+	<resource uc:file="res0098.dat" uc:title="07.03 Adding and Subtracting Rational Expressions" identifier="res0098" type="assessment/x-uc-qti-pool" xml:base="res0098">
+	</resource>
+	<resource uc:file="res0099.dat" uc:title="07.04 Module Seven Quiz" identifier="res0099" type="assessment/x-uc-qti-pool" xml:base="res0099">
+	</resource>
+	<resource uc:file="res0100.dat" uc:title="07.05 Simplifying Complex Fractions" identifier="res0100" type="assessment/x-uc-qti-pool" xml:base="res0100">
+	</resource>
+	<resource uc:file="res0101.dat" uc:title="07.06 Discontinuities of Rational Functions (Honors Only)" identifier="res0101" type="assessment/x-uc-qti-pool" xml:base="res0101">
+	</resource>
+	<resource uc:file="res0102.dat" uc:title="07.07 Asymptotes of Rational Functions (Honors Only)" identifier="res0102" type="assessment/x-uc-qti-pool" xml:base="res0102">
+	</resource>
+	<resource uc:file="res0103.dat" uc:title="07.08 Solving Rational Equations" identifier="res0103" type="assessment/x-uc-qti-pool" xml:base="res0103">
+	</resource>
+	<resource uc:file="res0104.dat" uc:title="07.09 Applications of Rational Equations" identifier="res0104" type="assessment/x-uc-qti-pool" xml:base="res0104">
+	</resource>
+	<resource uc:file="res0105.dat" uc:title="07.10 Review and Practice Test" identifier="res0105" type="assessment/x-uc-qti-pool" xml:base="res0105">
+	</resource>
+	<resource uc:file="res0106.dat" uc:title="07.11 Discussion Based Assessment" identifier="res0106" type="assessment/x-uc-qti-pool" xml:base="res0106">
+	</resource>
+	<resource uc:file="res0107.dat" uc:title="07.12 Module Seven Test" identifier="res0107" type="assessment/x-uc-qti-pool" xml:base="res0107">
+	</resource>
+	<resource uc:file="res0108.dat" uc:title="07.13 Module Seven Honors Test" identifier="res0108" type="assessment/x-uc-qti-pool" xml:base="res0108">
+	</resource>
+	<resource uc:file="res0109.dat" uc:title="08.00 Module Eight Pretest" identifier="res0109" type="assessment/x-uc-qti-pool" xml:base="res0109">
+	</resource>
+	<resource uc:file="res0110.dat" uc:title="08.01 Graphs of Common Functions" identifier="res0110" type="assessment/x-uc-qti-pool" xml:base="res0110">
+	</resource>
+	<resource uc:file="res0111.dat" uc:title="08.02 Graphing Exponential Functions" identifier="res0111" type="assessment/x-uc-qti-pool" xml:base="res0111">
+	</resource>
+	<resource uc:file="res0112.dat" uc:title="08.03 Exponential Growth and Decay Functions" identifier="res0112" type="assessment/x-uc-qti-pool" xml:base="res0112">
+	</resource>
+	<resource uc:file="res0113.dat" uc:title="08.04 Solving Exponential Equations" identifier="res0113" type="assessment/x-uc-qti-pool" xml:base="res0113">
+	</resource>
+	<resource uc:file="res0114.dat" uc:title="08.05 Module Eight Quiz" identifier="res0114" type="assessment/x-uc-qti-pool" xml:base="res0114">
+	</resource>
+	<resource uc:file="res0115.dat" uc:title="08.06 Logarithmic Functions" identifier="res0115" type="assessment/x-uc-qti-pool" xml:base="res0115">
+	</resource>
+	<resource uc:file="res0116.dat" uc:title="08.07 Change of Base Formula" identifier="res0116" type="assessment/x-uc-qti-pool" xml:base="res0116">
+	</resource>
+	<resource uc:file="res0117.dat" uc:title="08.08 Graphing Logarithmic Functions" identifier="res0117" type="assessment/x-uc-qti-pool" xml:base="res0117">
+	</resource>
+	<resource uc:file="res0118.dat" uc:title="08.09 Properties of Logarithms" identifier="res0118" type="assessment/x-uc-qti-pool" xml:base="res0118">
+	</resource>
+	<resource uc:file="res0119.dat" uc:title="08.10 Solving Exponential Equations with Unequal Bases" identifier="res0119" type="assessment/x-uc-qti-pool" xml:base="res0119">
+	</resource>
+	<resource uc:file="res0120.dat" uc:title="08.11 Exponential and Logarithmic Functions Activity" identifier="res0120" type="assessment/x-uc-qti-pool" xml:base="res0120">
+	</resource>
+	<resource uc:file="res0121.dat" uc:title="08.12 Review and Practice Test" identifier="res0121" type="assessment/x-uc-qti-pool" xml:base="res0121">
+	</resource>
+	<resource uc:file="res0122.dat" uc:title="08.13 Discussion Based Assessment" identifier="res0122" type="assessment/x-uc-qti-pool" xml:base="res0122">
+	</resource>
+	<resource uc:file="res0123.dat" uc:title="08.14 Module Eight Test" identifier="res0123" type="assessment/x-uc-qti-pool" xml:base="res0123">
+	</resource>
+	<resource uc:file="res0124.dat" uc:title="09.00 Module Nine Pretest" identifier="res0124" type="assessment/x-uc-qti-pool" xml:base="res0124">
+	</resource>
+	<resource uc:file="res0125.dat" uc:title="09.01 Arithmetic Sequences" identifier="res0125" type="assessment/x-uc-qti-pool" xml:base="res0125">
+	</resource>
+	<resource uc:file="res0126.dat" uc:title="09.02 Arithmetic Series" identifier="res0126" type="assessment/x-uc-qti-pool" xml:base="res0126">
+	</resource>
+	<resource uc:file="res0127.dat" uc:title="09.03 Sigma Notation (Honors Only)" identifier="res0127" type="assessment/x-uc-qti-pool" xml:base="res0127">
+	</resource>
+	<resource uc:file="res0128.dat" uc:title="09.04 Module Nine Quiz" identifier="res0128" type="assessment/x-uc-qti-pool" xml:base="res0128">
+	</resource>
+	<resource uc:file="res0129.dat" uc:title="09.05 Geometric Sequences " identifier="res0129" type="assessment/x-uc-qti-pool" xml:base="res0129">
+	</resource>
+	<resource uc:file="res0130.dat" uc:title="09.06 Geometric Series" identifier="res0130" type="assessment/x-uc-qti-pool" xml:base="res0130">
+	</resource>
+	<resource uc:file="res0131.dat" uc:title="09.07 Infinite, Convergent &amp; Divergent Series (Honors Only)" identifier="res0131" type="assessment/x-uc-qti-pool" xml:base="res0131">
+	</resource>
+	<resource uc:file="res0132.dat" uc:title="09.08 Geometric Series Activity" identifier="res0132" type="assessment/x-uc-qti-pool" xml:base="res0132">
+	</resource>
+	<resource uc:file="res0133.dat" uc:title="09.09 Review and Practice Test" identifier="res0133" type="assessment/x-uc-qti-pool" xml:base="res0133">
+	</resource>
+	<resource uc:file="res0134.dat" uc:title="09.10 Discussion Based Assessment" identifier="res0134" type="assessment/x-uc-qti-pool" xml:base="res0134">
+	</resource>
+	<resource uc:file="res0135.dat" uc:title="09.11 Module Nine Test" identifier="res0135" type="assessment/x-uc-qti-pool" xml:base="res0135">
+	</resource>
+	<resource uc:file="res0136.dat" uc:title="09.12 Module Nine Honors Test" identifier="res0136" type="assessment/x-uc-qti-pool" xml:base="res0136">
+	</resource>
+	<resource uc:file="res0137.dat" uc:title="09.13 Segment Two Collaboration Component" identifier="res0137" type="assessment/x-uc-qti-pool" xml:base="res0137">
+	</resource>
+	<resource uc:file="res0138.dat" uc:title="09.14 Segment 2 Exam Review" identifier="res0138" type="assessment/x-uc-qti-pool" xml:base="res0138">
+	</resource>
+	<resource uc:file="res0139.dat" uc:title="09.15 Segment 2 Exam" identifier="res0139" type="assessment/x-uc-qti-pool" xml:base="res0139">
+	</resource>
+	<resource uc:file="res0140.dat" uc:title="10.00 Module Ten Pretest  (Honors Only)" identifier="res0140" type="assessment/x-uc-qti-pool" xml:base="res0140">
+	</resource>
+	<resource uc:file="res0141.dat" uc:title="10.01 Parabolas  (Honors Only)" identifier="res0141" type="assessment/x-uc-qti-pool" xml:base="res0141">
+	</resource>
+	<resource uc:file="res0142.dat" uc:title="10.02 Graphing Circles  (Honors Only)" identifier="res0142" type="assessment/x-uc-qti-pool" xml:base="res0142">
+	</resource>
+	<resource uc:file="res0143.dat" uc:title="10.03 Discovering Circles  (Honors Only)" identifier="res0143" type="assessment/x-uc-qti-pool" xml:base="res0143">
+	</resource>
+	<resource uc:file="res0144.dat" uc:title="10.04 Module Ten Quiz  (Honors Only)" identifier="res0144" type="assessment/x-uc-qti-pool" xml:base="res0144">
+	</resource>
+	<resource uc:file="res0145.dat" uc:title="10.05 Graphing Ellipses  (Honors Only)" identifier="res0145" type="assessment/x-uc-qti-pool" xml:base="res0145">
+	</resource>
+	<resource uc:file="res0146.dat" uc:title="10.06 Discovering Ellipses  (Honors Only)" identifier="res0146" type="assessment/x-uc-qti-pool" xml:base="res0146">
+	</resource>
+	<resource uc:file="res0147.dat" uc:title="10.07 Graphing Hyperbolas  (Honors Only)" identifier="res0147" type="assessment/x-uc-qti-pool" xml:base="res0147">
+	</resource>
+	<resource uc:file="res0148.dat" uc:title="10.08 Discovering Hyperbolas  (Honors Only)" identifier="res0148" type="assessment/x-uc-qti-pool" xml:base="res0148">
+	</resource>
+	<resource uc:file="res0149.dat" uc:title="10.09 The Conic Sections  (Honors Only)" identifier="res0149" type="assessment/x-uc-qti-pool" xml:base="res0149">
+	</resource>
+	<resource uc:file="res0150.dat" uc:title="10.10 Module Ten Practice Test  (Honors Only)" identifier="res0150" type="assessment/x-uc-qti-pool" xml:base="res0150">
+	</resource>
+	<resource uc:file="res0151.dat" uc:title="10.11 Discussion Based Assessment  (Honors Only)" identifier="res0151" type="assessment/x-uc-qti-pool" xml:base="res0151">
+	</resource>
+	<resource uc:file="res0152.dat" uc:title="10.12 Segment 2 Honors Exam Review" identifier="res0152" type="assessment/x-uc-qti-pool" xml:base="res0152">
+	</resource>
+	<resource uc:file="res0153.dat" uc:title="10.13 Segment 2 Honors Exam" identifier="res0153" type="assessment/x-uc-qti-pool" xml:base="res0153">
+	</resource>
+	<resource uc:file="res0154.dat" uc:title="10.14 Blank Assessment " identifier="res0154" type="assessment/x-uc-qti-pool" xml:base="res0154">
+	</resource>
+	<resource uc:file="res0155.dat" uc:title="10.15 Blank Assessment  " identifier="res0155" type="assessment/x-uc-qti-pool" xml:base="res0155">
+	</resource>
+</resources>
+</manifest>

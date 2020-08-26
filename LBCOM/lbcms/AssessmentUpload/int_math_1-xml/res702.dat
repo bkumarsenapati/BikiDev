@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 7 Quiz Lessons 4 - 8">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Essay</type>
+		<label>Identify if the line is horizontal or vertical.&lt;br&gt;Name three points on the line.&lt;img src=/webdav/res702/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Draw the horizontal line through the point (-2,4).&lt;br&gt; Draw the vertical line through the point (4,1).&lt;br&gt;Where do the lines intersect?</label>
+		<credit>2</credit>
+	</item>
+	
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>Questions 3 - 4:Are the equations in function form or not?&lt;br&gt;4x - 7y = 9</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>y = 8x - 6</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 5 -6:Use the formula to find the slopes for the following.&lt;br&gt;&lt;img src=/webdav/res702/int_math_1/pictures/image2.gif&gt; &lt;br&gt;The line that goes through the points (2,2) and (6,3)</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The line that goes through the points (-3,-2) and (5,2).</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>You have an essay to type for Language Arts class. It took you 6 minutes to type 150 words (ordered pair (6,150)). You take a short break and then start typing again. It took a total of 8 minutes to type 240 words (ordered pair (8,240)). Find the rate of change of your typing speed.</label>
+		<credit>2</credit>
+	</item>
+</assessment>
+

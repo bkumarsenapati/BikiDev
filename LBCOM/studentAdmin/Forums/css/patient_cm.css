@@ -1,0 +1,61 @@
+
+
+.patient_cm_info{
+width: 100%; 
+height: 24px;
+padding: 3px; 
+border: 1px solid #FFFFFF;
+border-collapse:collapse;
+font-family : Arial, Helvetica, Verdana, sans-serif;
+}
+
+.patient_cm_info_th1 { 
+background: #4f81bc; 
+text-align: left; 
+font-size: 12px; 
+font-family : Arial, Helvetica, Verdana, sans-serif;
+color:#FFFFFF; 
+border-collapse:collapse;
+padding: 8px; 
+font-weight: bold; 
+} 
+
+.patient_cm_info_tr-odd{ 
+font-size: 11px; 
+border: 1px solid #FFFFFF;
+background-color: #d6e3ec; 
+vertical-align: middle; 
+padding: 6px; 
+font-weight: bold; 
+}
+
+.patient_cm_info_td-odd{ 
+border: 1px solid #FFFFFF;
+vertical-align: middle; 
+padding: 6px; 
+}
+.patient_cm_info_td-even{ 
+border: 1px solid #FFFFFF;
+vertical-align: middle; 
+padding: 6px; 
+}
+.patient_cm_info_tr-even{ 
+font-size: 11px; 
+border: 1px solid #FFFFFF;
+background-color: #eaf0f4; 
+vertical-align: middle; 
+padding: 6px; 
+font-weight: bold; 
+}
+.patient_cm_info_th { 
+background: #4f81bc; 
+border: 1px solid #FFFFFF;
+font-size: 12px; 
+font-family : Arial, Helvetica, Verdana, sans-serif;
+color:#FFFFFF; 
+padding: 8px; 
+text-align: center;
+font-weight: bold; 
+background-image: url(../images/blue-01.png);
+
+} 

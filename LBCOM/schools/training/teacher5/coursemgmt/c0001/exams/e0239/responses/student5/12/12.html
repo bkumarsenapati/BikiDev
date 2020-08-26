@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta http-equiv='Content-Language' content='en-us'>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+<meta name='GENERATOR' content='Microsoft FrontPage 4.0'>
+<meta name='ProgId' content='FrontPage.Editor.Document'>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<title>.:: Welcome to www.learnbeyond.net ::.</title>
+<script language='javascript' src='/LBCOM/validationscripts.js'></script>
+<script language='javascript' src='/LBCOM/common/evaluation.js'></script>
+<script language='javascript'>
+<!--
+function change(){
+var act=top.mid_f.document.forms[0].action
+top.mid_f.document.forms[0].action=act+'&attempt=12'
+setTableProperties('Q1Q864','Correct','1.0','1.0');
+setMultipleOptionsProperties('Q864','10');
+setTableProperties('Q2Q865','Incorrect','-0.0','1.0');
+setMultipleOptionsProperties('Q865','10');
+setTableProperties('Q3Q866','Incorrect','-0.0','2.0');
+setMultipleOptionsProperties('Q866','10');
+}
+function onld(){
+	var t=setTimeout('change()',5000);
+DeleteTimeCount();
+}
+function stat(){
+window.status= 'Done';
+timer = setTimeout('stat()',300)}
+function DeleteTimeCount(){
+window.status= 'Done';
+stat();
+var t=setTimeout('parent.frames[0].clearTimeout(parent.frames[0].timer)',1000);
+stat();
+}
+//-->
+</SCRIPT>
+</head>
+<body onload='onld();'>
+</body >
+	<a href='#' onclick="parent.frames[0].startClock();parent.btm_f.location.href='/LBCOM/exam/CheckExamStatus.jsp?examid=e0239&createddate=2016_02_25&version=1&stupassword='">Do you want to submit again</a>
+</body>
+</html>

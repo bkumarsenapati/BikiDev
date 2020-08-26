@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.01 Rules">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+2(x + 3) = 2(x) + 2(3)</label>
+			<choice>
+				<choicelabel>A) Commutative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Associative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Distributive property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+(2 + 3) + 4 = 2 + ( 3 + 4)</label>
+			<choice>
+				<choicelabel>A) Commutative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Associative property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Distributive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+4 x 1 = 4</label>
+			<choice>
+				<choicelabel>A) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Reflexive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Transitive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Identity property of multiplication</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+5 + 6 = 6 + 5</label>
+			<choice>
+				<choicelabel>A) Commutative property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Associative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Distributive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Reflexive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+If 2 + 3 = 5, then 5 = 2 + 3</label>
+			<choice>
+				<choicelabel>A) Symmetric property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Transitive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Reflexive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Associative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+If 2 + 3 = 5 and 5 = 1 + 4, then 2 + 3 = 1 + 4</label>
+			<choice>
+				<choicelabel>A) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Transitive property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Reflexive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Commutative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+&lt;img src=/webdav/res0027/educator_algebra1/pictures/M4images/A1M4A2_7.gif&gt;</label>
+			<choice>
+				<choicelabel>A) Identity property of multiplication</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Multiplicative inverse</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Distributive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+&lt;img src=/webdav/res0027/educator_algebra1/pictures/M4images/A1M4A2_8.gif&gt;</label>
+			<choice>
+				<choicelabel>A) Associative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Reflexive property</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Additive inverse</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+5 + 0 = 5</label>
+			<choice>
+				<choicelabel>A) Symmetric property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Identity property of addition</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Additive inverse</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Reflexive property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the property illustrated by the statement below.
+
+-3 + 3 = 0</label>
+			<choice>
+				<choicelabel>A) Additive inverse</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B) Identity property of addition</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C) Commutative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D) Associative property</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

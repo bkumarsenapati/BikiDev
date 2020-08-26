@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="05.01 Linear Equations">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Find the missing values that solve this equation.
+y = 3x    
+
+
+(0, ____) (-1,____)  (7,____)                  
+ </label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the missing values that solve this equation.
+y = 5 -4x  
+ 
+(5, ____) (1, ____) (-1, ____)              </label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the missing values that solve this equation.
+2x+y = 6  
+
+(2,____) (0,____) (1,____)    </label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of the following shows a correct table of values for y = -x +3?
+
+</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0051/educator_alg1_v5/0501_01a.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0051/educator_alg1_v5/0501_01b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0051/educator_alg1_v5/0501_01c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0051/educator_alg1_v5/0501_01d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Does the line below pass through the point (4,3)?
+
+x + y = 7             </label>
+			<choice>
+				<choicelabel>yes </choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Does the line below pass through point (9,-4)? 
+	
+x – y = 5  </label>
+			<choice>
+				<choicelabel>yes </choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Does the line below pass through the point (2,-2)?
+
+4x + y = 10</label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Does the line below pass through the point (2, -1)?
+
+3x – 2y = 8     
+</label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>For the equation y = 2x-4, select all that are true.</label>
+			<choice>
+				<choicelabel>y = 2x - 4 is a linear equation</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1, 2) is a solution to the equation
+</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1, -2) is a solution to the equation  </choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1,-6) is a solution to the equation</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2, 0) is a point on the graph of y = 2x – 4</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2, 0) is on the line y = 2x – 4
+</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Is this equation a linear equation?
+
+y = x&lt;sup&gt;2&lt;/sup&gt; + 4     </label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Is this equation a linear equation?
+
+3d – 4f = 8</label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Is this equation a linear equation?
+
+ab – 3b = 9     </label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Is this equation a linear equation?
+
+y = 3x - 8</label>
+			<choice>
+				<choicelabel>yes</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>no</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

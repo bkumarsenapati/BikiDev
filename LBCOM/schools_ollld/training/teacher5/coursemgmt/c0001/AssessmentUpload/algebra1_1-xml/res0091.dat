@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="07.05 Quiz">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>7</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>What is the Greatest Common Factor?  (Type only the GCF value in the blank, do not skip any spaces.)
+&lt;br&gt;18y&lt;sup&gt;2&lt;/sup&gt; - 6</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>What is the Greatest Common Factor?  (Type only the GCF value in the blank, do not skip any spaces.)
+&lt;br&gt;m&lt;sup&gt;2&lt;/sup&gt;n&lt;sup&gt;2&lt;/sup&gt; + 3m</label>
+			<blank>
+				<accepted>m</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>What is the Greatest Common Factor?  (Type only the GCF value in the blank, do not skip any spaces.)
+&lt;br&gt;5x&lt;sup&gt;3&lt;/sup&gt; + 25x</label>
+			<blank>
+				<accepted>5x</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Factor out the GCF.  
+&lt;br&gt;32x&lt;sup&gt;5&lt;/sup&gt; + 64x&lt;sup&gt;4&lt;/sup&gt; + 16x</label>
+			<choice>
+				<choicelabel>8x(4x&lt;sup&gt;4&lt;/sup&gt; + 8x&lt;sup&gt;3&lt;/sup&gt; + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16x(2x&lt;sup&gt;4&lt;/sup&gt; + 4x&lt;sup&gt;3&lt;/sup&gt; + 1)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x(8x&lt;sup&gt;4&lt;/sup&gt; + 16x&lt;sup&gt;3&lt;/sup&gt; + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Factor out the GCF.  
+&lt;br&gt;21x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; - 7x&lt;sup&gt;2&lt;/sup&gt;y + 42xy</label>
+			<choice>
+				<choicelabel>7x&lt;sup&gt;2&lt;/sup&gt;y + 42xy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7x&lt;sup&gt;2&lt;/sup&gt;y(3xy – 1 + 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7xy(3x&lt;sup&gt;2&lt;/sup&gt;y - x + 6)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7(3x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; - x&lt;sup&gt;2&lt;/sup&gt;y + 6xy)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Factor out the GCF.  
+&lt;br&gt;24x&lt;sup&gt;2&lt;/sup&gt;y + 6x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + 30y&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>2y(12x&lt;sup&gt;2&lt;/sup&gt; + 3x&lt;sup&gt;2&lt;/sup&gt;y + 15y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3y(8x&lt;sup&gt;2&lt;/sup&gt; + 2x&lt;sup&gt;2&lt;/sup&gt;y + 10y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6y(4x&lt;sup&gt;2&lt;/sup&gt; + x&lt;sup&gt;2&lt;/sup&gt;y + 5y)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; + 4</label>
+			<choice>
+				<choicelabel>(x + 2)(x – 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 1)(x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Factor
+&lt;br&gt;a&lt;sup&gt;2&lt;/sup&gt; - 36</label>
+			<choice>
+				<choicelabel>(a + 3)(a - 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(a - 6)(a - 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(a + 6)(a - 6)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 16</label>
+			<choice>
+				<choicelabel>(x + 8)(x – 8)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 4)(x – 4)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 4)(x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor
+&lt;br&gt;4x&lt;sup&gt;2&lt;/sup&gt; - 100</label>
+			<choice>
+				<choicelabel>(2x + 10)(2x - 10)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(x + 5)(x – 5)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(x – 5)(x – 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor
+&lt;br&gt;3x&lt;sup&gt;2&lt;/sup&gt; - 27</label>
+			<choice>
+				<choicelabel>(3x + 3)(x - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(x + 3)(x – 3)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(x + 3)(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor
+&lt;br&gt;2y&lt;sup&gt;2&lt;/sup&gt; - 32</label>
+			<choice>
+				<choicelabel>2(y – 4)(y + 4)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2(y + 4)(y – 8)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2(y + 16)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor by grouping:
+&lt;br&gt;3xy + 12x – 2y – 8 </label>
+			<choice>
+				<choicelabel>(3x – 2)(y + 4)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x + y)(x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(y + 4)(y – 4)(3x – 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor by grouping:
+&lt;br&gt;3cd – 6cy + 2xd – 4xy</label>
+			<choice>
+				<choicelabel>(3c + 2x)(d + 2y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(d – y)(3c + 4x)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3c + 2x)(d – 2y)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor by grouping:
+&lt;br&gt;10x&lt;sup&gt;2&lt;/sup&gt; + 2xy + 15x + 3y</label>
+			<choice>
+				<choicelabel>(2x + 3)(5x + y)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(5x – y)(2x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)(10x + y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Factor: 
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; + 13x + 42 
+&lt;br&gt; What is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + 6)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Factor: 
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 9x + 14 
+&lt;br&gt; What is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 7)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Factor: 
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; + 12x + 5 
+&lt;br&gt; What is one of the factors?</label>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prime</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; + 10x + 16</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 5x - 14</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 6x + 8</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Factor
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 12x + 27</label>
+		<credit>2</credit>
+	</item>
+</assessment>

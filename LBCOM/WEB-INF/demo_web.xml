@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:web="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+	<display-name>Welcome to Learnbeyond... </display-name>
+	<description>experience the power of virtual lerning</description>
+											   
+	<context-param>
+		<param-name>title</param-name>
+		<param-value>.:: Welcome to www.learnbeyond.com ::. </param-value>
+	</context-param>
+	
+	<context-param> 
+		<param-name>app_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM</param-value>
+	</context-param>
+	
+	<context-param>      													  		 
+		<param-name>forum_path</param-name>	 
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/schoolAdmin/Forums</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>schools_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/schools</param-value>
+	</context-param>
+										
+	<context-param>    											
+	<param-name>course_dev_path</param-name>							
+	<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/coursedeveloper</param-value>          	        			 
+	</context-param>													  
+	<context-param>    													
+		<param-name>lbcms_dev_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/lbcms</param-value>          	        			 
+	</context-param>
+	<context-param>    
+		<param-name>reports_dev_path</param-name>			  
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/grades</param-value>          				 
+	</context-param>
+
+	<context-param>
+			<param-name>app_site</param-name>
+			<param-value>http://localhost:4480</param-value>
+		</context-param>
+																							   
+	<!-- Here DMS application starts -->
+
+	<context-param>
+			 <param-name>app_path1</param-name>
+			 <param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/DMS</param-value>
+		</context-param>
+		
+		<context-param>					
+			 <param-name>root_path</param-name>
+			 <param-value>/files</param-value>
+		</context-param>
+	
+	
+		<context-param>
+	   <param-name>path1</param-name>
+	   <param-value>DMS/files</param-value>
+	 </context-param>
+ 
+
+
+
+	<context-param>
+		<param-name>school_id</param-name>
+		<param-value>lbeyond</param-value>
+	</context-param>
+	<context-param>
+		<param-name>pgschool_id</param-name>
+		<param-value>testing</param-value>
+	</context-param>
+	<context-param>         
+		<param-name>image_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/products/images/courseimages/</param-value>          				 
+	</context-param>  
+	<context-param>    
+		<param-name>video_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/products/videos/</param-value>          				 
+	</context-param> 
+	
+	
+	<context-param>
+		<param-name>attachments_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/mailattachmentdocs</param-value>
+	</context-param>
+	<context-param>
+		<param-name>cmsroot</param-name>
+		<param-value>LBCMSRT</param-value>
+	</context-param>
+	<context-param>
+		<param-name>cms_user_path</param-name>
+		<param-value>C:/Tomcat5/webapps/LBCMSRT/contineo_folder/users</param-value>
+	</context-param>
+	<context-param>
+		<param-name>backup_path</param-name>
+		<param-value>BACKUP_PATH</param-value>
+	</context-param>
+	<context-param>
+		<param-name>cms_doc_path</param-name>
+		<param-value>C:/Tomcat5/webapps/LBCMSRT/contineo_folder/docs/</param-value>
+	</context-param>
+	<context-param>
+		<param-name>host</param-name>
+		<param-value>mail.learnbeyond.com</param-value>
+	</context-param>
+	<context-param>
+		<param-name>site_url</param-name>
+		<param-value>/LBCOM</param-value>		
+	</context-param>
+	<context-param>
+		<param-name>lbcms_course_path</param-name>
+		<param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/lbcms/course_bundles</param-value>		
+	</context-param>
+ 
+	
+	<context-param>
+		 <param-name>standards_path</param-name>
+		 <param-value>C:/Santhosh/kidportlearnk12/myworkspace/LBCOM/course_standards/States.xml</param-value>
+	</context-param>
+
+	<!-- Servlet entries start from here -->
+	
+	<servlet>
+		<servlet-name>ValidateUser</servlet-name>
+		<servlet-class>ValidateUser</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ValidateUser</servlet-name>
+		<url-pattern>/ValidateUser</url-pattern>
+	</servlet-mapping>
+       <servlet>
+        <servlet-name>GetUserType</servlet-name>
+        <servlet-class>GetUserType</servlet-class>
+    </servlet>
+	
+	<servlet-mapping>        	             
+        <servlet-name>GetUserType</servlet-name>
+        <url-pattern>/GetUserType</url-pattern>
+    </servlet-mapping>
+	<servlet>
+		<servlet-name>coursemgmt.AddGroup</servlet-name>
+		<servlet-class>coursemgmt.AddGroup</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddGroup</servlet-name>
+		<url-pattern>/coursemgmt.AddGroup</url-pattern>
+	</servlet-mapping>     
+	<servlet>
+		<servlet-name>coursemgmt.AsgnDistributor</servlet-name>
+		<servlet-class>coursemgmt.AsgnDistributor</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AsgnDistributor</servlet-name>
+		<url-pattern>/coursemgmt.AsgnDistributor</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>exam.MakeAsmtAvailable</servlet-name>
+		<servlet-class>exam.MakeAsmtAvailable</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>exam.MakeAsmtAvailable</servlet-name>
+		<url-pattern>/exam.MakeAsmtAvailable</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>exam.AsmtsAssigned</servlet-name>
+		<servlet-class>exam.AsmtsAssigned</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>exam.AsmtsAssigned</servlet-name>
+		<url-pattern>/exam.AsmtsAssigned</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>coursemgmt.AddEditAssignment</servlet-name>
+		<servlet-class>coursemgmt.AddEditAssignment</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddEditAssignment</servlet-name>
+		<url-pattern>/coursemgmt.AddEditAssignment</url-pattern>
+	</servlet-mapping>
+	<!--    Santhosh Added upto here  -->
+	<servlet>
+		<servlet-name>exam.AsmtActions</servlet-name>
+		<servlet-class>exam.AsmtActions</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>exam.AsmtActions</servlet-name>
+		<url-pattern>/exam.AsmtActions</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>contineo.DataBean</servlet-name>
+		<servlet-class>contineo.DataBean</servlet-class>
+	</servlet>
+	<!-- contineo servlet entries ends here...... -->
+	<!-- BackUp Servlet enteries begins here...... -->
+	<servlet>
+		<servlet-name>backup.TakeBackup</servlet-name>
+		<servlet-class>backup.TakeBackup</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>backup.Restore</servlet-name>
+		<servlet-class>backup.Restore</servlet-class>
+	</servlet>
+	<!-- backup servlet entries ends here...... -->
+	<!-- Starts for access control......-->
+	<servlet>
+		<servlet-name>accesscontrol.SaveEdit</servlet-name>
+		<servlet-class>accesscontrol.SaveEdit</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>accesscontrol.SaveEdit</servlet-name>
+		<url-pattern>/accesscontrol.SaveEdit</url-pattern>
+	</servlet-mapping>
+	<!-- End for access control......-->
+	<!-- This is for access control......-->
+	<servlet>
+		<servlet-name>markingpoints.SaveEdit</servlet-name>
+		<servlet-class>markingpoints.SaveEdit</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>markingpoints.SaveEdit</servlet-name>
+		<url-pattern>/markingpoints.SaveEdit</url-pattern>
+	</servlet-mapping>
+	<!-- This is for access control......-->
+	<!-- For admin Profile...... -->
+	<servlet>
+		<servlet-name>schoolAdmin.ModifyAdmin</servlet-name>
+		<servlet-class>schoolAdmin.ModifyAdmin</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>schoolAdmin.ModifyAdmin</servlet-name>
+		<url-pattern>/schoolAdmin.ModifyAdmin</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>schoolAdmin.Weightage</servlet-name>
+		<servlet-class>schoolAdmin.Weightage</servlet-class>
+	</servlet>
+
+	<!-- Start  Ghouse-->
+<servlet>
+		<servlet-name>move</servlet-name>
+		<servlet-class>store.MoveFile</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>move</servlet-name>
+		<url-pattern>/move</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>copy</servlet-name>
+		<servlet-class>store.CopyFile</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>copy</servlet-name>
+		<url-pattern>/cpy</url-pattern>
+	</servlet-mapping>
+				
+	<servlet>
+	<servlet-name>textfile</servlet-name>
+	<servlet-class>store.TextFile</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>textfile</servlet-name>
+		<url-pattern>/TextFile</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+	<servlet-name>share</servlet-name>
+	<servlet-class>function.ShareFiles</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>share</servlet-name>
+		<url-pattern>/share</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+	<servlet-name>addFolder</servlet-name>
+	<servlet-class>store.addFolder</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>addFolder</servlet-name>
+		<url-pattern>/addFolder</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+	<servlet-name>moveFolder</servlet-name>
+	<servlet-class>store.MoveFolder</servlet-class>
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>moveFolder</servlet-name>
+		<url-pattern>/moveFolder</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+	<servlet-name>FileUpload</servlet-name>
+	<servlet-class>store.FileUpload</servlet-class>
+	</servlet>
+					
+	<servlet-mapping>
+		<servlet-name>FileUpload</servlet-name>
+		<url-pattern>/FileUpload</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+	<servlet-name>CBSaveFile</servlet-name>
+	<servlet-class>store.CBSaveFile</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>CBSaveFile</servlet-name>
+		<url-pattern>/CBSaveFile</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+	<servlet-name>SharedUsers</servlet-name>
+	<servlet-class>function.SharedUsers</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SharedUsers</servlet-name>
+		<url-pattern>/SharedUsers</url-pattern>
+	</servlet-mapping>
+
+	<!-- file download Start-->
+	
+	<servlet>
+	<servlet-name>FileDownload</servlet-name>
+	<servlet-class>store.FileDownload</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>FileDownload</servlet-name>
+		<url-pattern>/FileDownload</url-pattern>
+	</servlet-mapping>
+	<!-- file download end-->
+	
+	<!-- End ghouse-->
+
+	<servlet-mapping>
+		<servlet-name>schoolAdmin.Weightage</servlet-name>
+		<url-pattern>/schoolAdmin.Weightage</url-pattern>
+	</servlet-mapping>
+	<!-- For admin Profile...... -->
+	<!-- This is for ChangePassword......-->
+	<servlet>
+		<servlet-name>ChangePassword</servlet-name>
+		<servlet-class>ChangePassword</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>ChangePassword</servlet-name>
+		<url-pattern>/ChangePassword</url-pattern>
+	</servlet-mapping>
+	<!-- This is for ChangePassword ....-->
+	<!-- This is asmt feedback ....-->
+	<servlet>
+		<servlet-name>exam.FeedBackAction</servlet-name>
+		<servlet-class>exam.FeedBackAction</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	<servlet-name>exam.FeedBackAction</servlet-name>
+	<url-pattern>/exam.FeedBackAction</url-pattern>
+    </servlet-mapping>
+	<!-- This is asmt feedback ....-->
+	
+
+	<!-- register servlet entries starts here......-->
+	<servlet>
+		<servlet-name>registration.RegisterAdmin</servlet-name>
+		<servlet-class>registration.RegisterAdmin</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>registration.UpdateStatus</servlet-name>
+		<servlet-class>registration.UpdateStatus</servlet-class>
+	</servlet>
+	<!-- register servlet entries ends here......-->
+	<!--  src servlet entries starts here......-->
+	<servlet>
+		<servlet-name>ValidateUser</servlet-name>
+		<servlet-class>ValidateUser</servlet-class>
+	</servlet>
+       <servlet>
+        <servlet-name>GetUserType</servlet-name>
+        <servlet-class>GetUserType</servlet-class>
+    </servlet>
+	<servlet>
+		<servlet-name>SendMailServlet</servlet-name>
+		<servlet-class>SendMailServlet</servlet-class>
+	</servlet>
+	<!-- src  servlet entries ends here......-->
+	<!-- asm  servlet entries starts here......-->
+	<servlet>
+		<servlet-name>asm.BrowsePersonalFile</servlet-name>
+		<servlet-class>asm.BrowsePersonalFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>asm.UploadPersonalFile</servlet-name>
+		<servlet-class>asm.UploadPersonalFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>asm.DbConnection</servlet-name>
+		<servlet-class>asm.DbConnection</servlet-class>
+	</servlet>
+	<!-- asm servlet entries ends here......-->
+	<!-- course management servlet entries starts here......   -->
+	<servlet>
+		<servlet-name>coursemgmt.AdminAddCourse</servlet-name>
+		<servlet-class>coursemgmt.AdminAddCourse</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AdminAddCourse</servlet-name>
+		<url-pattern>/coursemgmt.AdminAddCourse</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>coursemgmt.StudentWorks</servlet-name>
+		<servlet-class>coursemgmt.StudentWorks</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddCategoryItem</servlet-name>
+		<servlet-class>coursemgmt.AddCategoryItem</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddLinks</servlet-name>
+		<servlet-class>coursemgmt.AddLinks</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>coursemgmt.AddCourse</servlet-name>
+		<servlet-class>coursemgmt.AddCourse</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddWebLinks</servlet-name>
+		<servlet-class>coursemgmt.AddWebLinks</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.ExceptionsFile</servlet-name>
+		<servlet-class>coursemgmt.ExceptionsFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddEditSubtopic</servlet-name>
+		<servlet-class>coursemgmt.AddEditSubtopic</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddWork</servlet-name>
+		<servlet-class>coursemgmt.AddWork</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.FileHandler</servlet-name>
+		<servlet-class>coursemgmt.FileHandler</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddEditTopic</servlet-name>
+		<servlet-class>coursemgmt.AddEditTopic</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AssignWork</servlet-name>
+		<servlet-class>coursemgmt.AssignWork</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.Publish</servlet-name>
+		<servlet-class>coursemgmt.Publish</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.AddGrades</servlet-name>
+		<servlet-class>coursemgmt.AddGrades</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.CourseManagerFun</servlet-name>
+		<servlet-class>coursemgmt.CourseManagerFun</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>coursemgmt.EditCourseGrades</servlet-name>
+		<servlet-class>coursemgmt.EditCourseGrades</servlet-class>
+	</servlet>
+	<!-- course management servlet entries ends here......-->
+	<!-- Commonmail servlet entries starts here......  -->
+	<servlet>
+		<servlet-name>Commonmail.FileUpload</servlet-name>
+		<servlet-class>Commonmail.FileUpload</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>Commonmail.SendMail</servlet-name>
+		<servlet-class>Commonmail.SendMail</servlet-class>
+	</servlet>
+	<!-- Commonmail servlet entries ends here......-->
+	<!-- forums servlet entries starts here......-->
+	<servlet>
+		<servlet-name>forums.CreateForum</servlet-name>
+		<servlet-class>forums.CreateForum</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>forums.GrantPrivilege</servlet-name>
+		<servlet-class>forums.GrantPrivilege</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>forums.SaveForum</servlet-name>
+		<servlet-class>forums.SaveForum</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>forums.StudentReplyForum</servlet-name>
+		<servlet-class>forums.StudentReplyForum</servlet-class>
+	</servlet>
+	<!-- forum servlet entries ends here......-->
+	<!-- School Admin servlet entries starts here......  -->
+	<servlet>
+		<servlet-name>schoolAdmin.AddEditSubsection</servlet-name>
+		<servlet-class>schoolAdmin.AddEditSubsection</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.AddEditClass</servlet-name>
+		<servlet-class>schoolAdmin.AddEditClass</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.AddEditDistrict</servlet-name>
+		<servlet-class>schoolAdmin.AddEditDistrict</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.DeleteNotice</servlet-name>
+		<servlet-class>schoolAdmin.DeleteNotice</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.FileUpload1</servlet-name>
+		<servlet-class>schoolAdmin.FileUpload1</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.BrowsePersonalFile</servlet-name>
+		<servlet-class>schoolAdmin.BrowsePersonalFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.DelNoticeBoard</servlet-name>
+		<servlet-class>schoolAdmin.DelNoticeBoard</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.LeftDirs</servlet-name>
+		<servlet-class>schoolAdmin.LeftDirs</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.CreateEditNotice</servlet-name>
+		<servlet-class>schoolAdmin.CreateEditNotice</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.FilesAndDocs</servlet-name>
+		<servlet-class>schoolAdmin.FilesAndDocs</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>schoolAdmin.UploadPersonalFile</servlet-name>
+		<servlet-class>schoolAdmin.UploadPersonalFile</servlet-class>
+	</servlet>
+	<!-- School Admin servlet entries ends here...... -->
+	<!-- importutility servlet entries starts here...... -->
+	<servlet>
+		<servlet-name>importutility.GetAssessmentList2</servlet-name>
+		<servlet-class>importutility.GetAssessmentList2</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>importutility.uploadzip</servlet-name>
+		<servlet-class>importutility.uploadzip</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>importutility.GetAssessmentListCB2</servlet-name>
+		<servlet-class>importutility.GetAssessmentListCB2</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>importutility.uploadzipCB</servlet-name>
+		<servlet-class>importutility.uploadzipCB</servlet-class>
+	</servlet>
+	<!-- importutility servlet entries ends here...... -->
+	<!-- Student Admin servlet entries starts here......-->
+	<servlet>
+		<servlet-name>studentAdmin.UploadPersonalFile</servlet-name>
+		<servlet-class>studentAdmin.UploadPersonalFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>studentAdmin.BrowsePersonalFile</servlet-name>
+		<servlet-class>studentAdmin.BrowsePersonalFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>studentAdmin.RegisterStudent</servlet-name>
+		<servlet-class>studentAdmin.RegisterStudent</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>studentAdmin.Mediator</servlet-name>
+		<servlet-class>studentAdmin.Mediator</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>studentAdmin.BulkRegistration</servlet-name>
+		<servlet-class>studentAdmin.BulkRegistration</servlet-class>
+	</servlet>
+	<!-- Student Admin servlet entries ends here...... -->
+	<!-- Teacher Admin servlet entries starts here...... -->
+	<servlet>
+		<servlet-name>teacherAdmin.RegisterTeacher</servlet-name>
+		<servlet-class>teacherAdmin.RegisterTeacher</servlet-class>
+	</servlet>
+	<!-- Teacher Admin servlet entries ends here...... -->
+	<!-- SQL Bean servlet entries starts here...... -->
+	<servlet>
+		<servlet-name>sqlbean.DbBean</servlet-name>
+		<servlet-class>sqlbean.DbBean</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>sqlbean.contineoSqlbean</servlet-name>
+		<servlet-class>sqlbean.contineoSqlbean</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>sqlbean.WHDbBean</servlet-name>
+		<servlet-class>sqlbean.WHDbBean</servlet-class>
+	</servlet>
+	<!-- SQL Bean servlet entries ends here...... -->
+	<!-- Utility servlet entries starts here...... -->
+	<servlet>
+		<servlet-name>utility.Utility</servlet-name>
+		<servlet-class>utility.Utility</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>utility.SendMail</servlet-name>
+		<servlet-class>utility.SendMail</servlet-class>
+	</servlet>
+	<!-- Utility servlet entries ends here...... -->
+	<!-- Exam servlet entries starts here...... -->
+	<servlet>
+		<servlet-name>exam.CalTotalMarks</servlet-name>
+		<servlet-class>exam.CalTotalMarks</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.CreateQuestion</servlet-name>
+		<servlet-class>exam.CreateQuestion</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.CreateSaveExam</servlet-name>
+		<servlet-class>exam.CreateSaveExam</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.DistributeExam</servlet-name>
+		<servlet-class>exam.DistributeExam</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.EditQuestions</servlet-name>
+		<servlet-class>exam.EditQuestions</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.ExamEvaluate</servlet-name>
+		<servlet-class>exam.ExamEvaluate</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.ExamPaper</servlet-name>
+		<servlet-class>exam.ExamPaper</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.FindGrade</servlet-name>
+		<servlet-class>exam.FindGrade</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.GenerateExams</servlet-name>
+		<servlet-class>exam.GenerateExams</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.GenerateExamsCB</servlet-name>
+		<servlet-class>exam.GenerateExamsCB</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.ProcessResponse</servlet-name>
+		<servlet-class>exam.ProcessResponse</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.Question</servlet-name>
+		<servlet-class>exam.Question</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.QuestionBody</servlet-name>
+		<servlet-class>exam.QuestionBody</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.QuestionFormat</servlet-name>
+		<servlet-class>exam.QuestionFormat</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.SaveExam</servlet-name>
+		<servlet-class>exam.SaveExam</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.SaveGroupsDet</servlet-name>
+		<servlet-class>exam.SaveGroupsDet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.SaveResourceFile</servlet-name>
+		<servlet-class>exam.SaveResourceFile</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.SelfTestProcessing</servlet-name>
+		<servlet-class>exam.SelfTestProcessing</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.SendMail</servlet-name>
+		<servlet-class>exam.SendMail</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.UpdatePasswords</servlet-name>
+		<servlet-class>exam.UpdatePasswords</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.UpdateStatus</servlet-name>
+		<servlet-class>exam.UpdateStatus</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>exam.Variations</servlet-name>
+		<servlet-class>exam.Variations</servlet-class>
+	</servlet>
+	<!-- Exam servlet entries ends here...... -->
+	<!-- Organizer servlet entries starts here......  -->
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.addaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.addaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.CalApp1</servlet-name>
+		<servlet-class>teacherAdmin.organizer.CalApp1</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.CalAppoint</servlet-name>
+		<servlet-class>teacherAdmin.organizer.CalAppoint</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.deleteaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.deleteaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.editaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.editaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.EditEvent</servlet-name>
+		<servlet-class>teacherAdmin.organizer.EditEvent</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.HotexamsDelete</servlet-name>
+		<servlet-class>teacherAdmin.organizer.HotexamsDelete</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.HotexamsSave</servlet-name>
+		<servlet-class>teacherAdmin.organizer.HotexamsSave</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.HotexamsUpdate</servlet-name>
+		<servlet-class>teacherAdmin.organizer.HotexamsUpdate</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.Information</servlet-name>
+		<servlet-class>teacherAdmin.organizer.Information</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.ISAddSave</servlet-name>
+		<servlet-class>teacherAdmin.organizer.ISAddSave</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.Organizer1</servlet-name>
+		<servlet-class>teacherAdmin.organizer.Organizer1</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.Reminder</servlet-name>
+		<servlet-class>teacherAdmin.organizer.Reminder</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.ReminderInfo</servlet-name>
+		<servlet-class>teacherAdmin.organizer.ReminderInfo</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.saveaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.saveaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.showaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.showaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.ShowEvent</servlet-name>
+		<servlet-class>teacherAdmin.organizer.ShowEvent</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.updateaddress</servlet-name>
+		<servlet-class>teacherAdmin.organizer.updateaddress</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.organizer.ISCalendar1</servlet-name>
+		<servlet-class>teacherAdmin.organizer.ISCalendar1</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>teacherAdmin.GetStateStandards</servlet-name>
+		<servlet-class>teacherAdmin.GetStateStandards</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>pc.QuestionPaper</servlet-name>
+		<servlet-class>pc.QuestionPaper</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>pc.TopicExam</servlet-name>
+		<servlet-class>pc.TopicExam</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>pc.UpdatePerformance</servlet-name>
+		<servlet-class>pc.UpdatePerformance</servlet-class>
+	</servlet>
+	<!-- Organizer servlet entries ends here...... -->
+	<servlet-mapping>
+		<servlet-name>pc.UpdatePerformance</servlet-name>
+		<url-pattern>/pc.UpdatePerformance</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>pc.TopicExam</servlet-name>
+		<url-pattern>/pc.TopicExam</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>pc.QuestionPaper</servlet-name>
+		<url-pattern>/pc.QuestionPaper</url-pattern>
+	</servlet-mapping>
+	
+	<!-- JSPC servlet mappings starts here -->
+	<!-- contieno.servlet-mapping entries begins here......-->
+	
+	<!-- contineo.servlet-mapping entries ends here......-->
+	<!-- backup.servlet-mapping entries begins here......-->
+	<servlet-mapping>
+		<servlet-name>backup.TakeBackup</servlet-name>
+		<url-pattern>/backup.TakeBackup</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>backup.Restore</servlet-name>
+		<url-pattern>/backup.Restore</url-pattern>
+	</servlet-mapping>
+	<!-- backup.servlet-mapping entries ends here......-->
+	<!-- src servlet-mapping entries starts here   -->
+	
+       
+	<servlet-mapping>
+		<servlet-name>SendMailServlet</servlet-name>
+		<url-pattern>/SendMailServlet</url-pattern>
+	</servlet-mapping>
+	<!-- src servlet-mapping entries starts here   -->
+	<!-- register servlet-mapping entries starts here   -->
+	<servlet-mapping>
+		<servlet-name>registration.RegisterAdmin</servlet-name>
+		<url-pattern>/registration.RegisterAdmin</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>registration.UpdateStatus</servlet-name>
+		<url-pattern>/registration.UpdateStatus</url-pattern>
+	</servlet-mapping>
+	<!-- register servlet-mapping entries ends here   -->
+	<!-- asm servlet-mapping entries starts here   -->
+	<servlet-mapping>
+		<servlet-name>asm.BrowsePersonalFile</servlet-name>
+		<url-pattern>/asm.BrowsePersonalFile</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>asm.UploadPersonalFile</servlet-name>
+		<url-pattern>/asm.UploadPersonalFile</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>asm.DbConnection</servlet-name>
+		<url-pattern>/asm.DbConnection</url-pattern>
+	</servlet-mapping>
+	<!-- asm servlet-mapping entries ends here   -->
+	<!-- course management servlet - mapping  entries starts here......  -->
+	<servlet-mapping>
+		<servlet-name>coursemgmt.StudentWorks</servlet-name>
+		<url-pattern>/firstpage</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddCategoryItem</servlet-name>
+		<url-pattern>/coursemgmt.AddCategoryItem</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddLinks</servlet-name>
+		<url-pattern>/coursemgmt.AddLinks</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddCourse</servlet-name>
+		<url-pattern>/coursemgmt.AddCourse</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddWebLinks</servlet-name>
+		<url-pattern>/coursemgmt.AddWebLinks</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.ExceptionsFile</servlet-name>
+		<url-pattern>/coursemgmt.ExceptionsFile</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddEditSubtopic</servlet-name>
+		<url-pattern>/coursemgmt.AddEditSubtopic</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddWork</servlet-name>
+		<url-pattern>/coursemgmt.AddWork</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.FileHandler</servlet-name>
+		<url-pattern>/coursemgmt.FileHandler</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddEditTopic</servlet-name>
+		<url-pattern>/coursemgmt.AddEditTopic</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AssignWork</servlet-name>
+		<url-pattern>/coursemgmt.AssignWork</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.Publish</servlet-name>
+		<url-pattern>/coursemgmt.Publish</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.AddGrades</servlet-name>
+		<url-pattern>/coursemgmt.AddGrades</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.CourseManagerFun</servlet-name>
+		<url-pattern>/coursemgmt.CourseManagerFun</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>coursemgmt.EditCourseGrades</servlet-name>
+		<url-pattern>/coursemgmt.EditCourseGrades</url-pattern>
+	</servlet-mapping>
+	<!-- course management servlet-mapping entries ends here......-->
+	<!-- Commonmail servlet-mapping entries starts here......-->
+	<servlet-mapping>
+		<servlet-name>Commonmail.FileUpload</servlet-name>
+		<url-pattern>/Commonmail.FileUpload</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>Commonmail.SendMail</servlet-name>
+		<url-pattern>/Commonmail.SendMail</url-pattern>
+	</servlet-mapping>
+	<!-- Commonmail servlet-mapping entries ends here......-->
+	
+	
+	
+	
+	
+	<!-- Servlet entries ended here -->
+	
+
+<resource-ref>
+     <description>My DataSource Reference</description>
+     <res-ref-name>jdbc/hsnDB</res-ref-name>
+     <res-type>javax.sql.DataSource</res-type>
+     <res-auth>Container</res-auth>
+  </resource-ref>
+
+</web-app>

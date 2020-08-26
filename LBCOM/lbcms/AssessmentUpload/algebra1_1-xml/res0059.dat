@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="05.11 Solving Systems of Equations">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Choose the ordered pair that is a solution to the system of equations.
+
+-x + y  =  12
+x + 2y = 3
+
+a. (7, 5)     
+b. (5, -7)    
+c. (-7, 5)    
+d. (-7, -5)
+e. none of the above
+
+Please select the correct answer and type it in the box. </label>
+		<credit>2.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the ordered pair that is a solution to the system of equations.
+
+3x  -  y  =  10
+-x  +  y  =  -4</label>
+			<choice>
+				<choicelabel>(3, -7)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1, 3)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3, -1)</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3, 1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the ordered pair that is a solution to the system of equations.
+
+3x - y = 9
+2x + y = 6</label>
+			<choice>
+				<choicelabel>(3,0)</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,-18)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,-1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the ordered pair that is a solution to the system of equations.
+
+-3x + y = -4
+3x + y = -4 </label>
+			<choice>
+				<choicelabel>(-4, 0)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4, 0)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0, 4)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0, -4)</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Choose the ordered pair that is a solution to the system of equations.
+
+2x – y = 4
+3x + y = 1</label>
+			<choice>
+				<choicelabel>(1, 2)
+
+
+
+</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-2, 1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1, -2)</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2, 1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

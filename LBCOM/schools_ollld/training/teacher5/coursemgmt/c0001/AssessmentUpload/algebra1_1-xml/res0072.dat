@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.01 Add Polys">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Simplify: 
+
+(x-9) + (x&lt;sup&gt;2&lt;/sup&gt; - x + 17)</label>
+			<choice>
+				<choicelabel>x - 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt; + 8 </choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt; - 17</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Simplify: 
+
+(x&lt;sup&gt;2&lt;/sup&gt; + 4xy - 2y&lt;sup&gt;2&lt;/sup&gt;) + (-7xy + 3y&lt;sup&gt;2&lt;/sup&gt;)</label>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt; + 4xy + y&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-7xy + 3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x7 + y</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt; - 3xy + y&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Simplify: 
+
+(ab - 9) - (6ab + 8)</label>
+			<choice>
+				<choicelabel>ab - 9 - 6ab - 8</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>ab + 17</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5ab - 17</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6ab + 17</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Simplify: 
+
+(9x&lt;sup&gt;2&lt;/sup&gt;y - 10) - (7 - 3x&lt;sup&gt;2&lt;/sup&gt;y + y) </label>
+			<choice>
+				<choicelabel>12x&lt;sup&gt;2&lt;/sup&gt;y - y - 17</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt;y - y - 12</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>12x&lt;sup&gt;2&lt;/sup&gt;y - 17</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>9x&lt;sup&gt;2&lt;/sup&gt;y - 10 - 7 + 3x&lt;sup&gt;2&lt;/sup&gt;y - y</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What type of polynomial is 2x + 5?</label>
+			<choice>
+				<choicelabel>monomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>binomial</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>trinomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What type of polynomial is 3x&lt;sup&gt;2&lt;/sup&gt; - 5x + 1?</label>
+			<choice>
+				<choicelabel>monomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>binomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>trinomial</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the degree of the polynomial: 3x&lt;sup&gt;2&lt;/sup&gt;y + 5xy? </label>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

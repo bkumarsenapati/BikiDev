@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="03.04 Quiz 1">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>12</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Express your answer as an integer.
+&lt;br&gt;
+&lt;br&gt;&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_01_5.gif&gt;=__________</label>
+			<blank>
+				<accepted>-13</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Express your answer as a single integer. -4 + 2(-3)</label>
+			<blank>
+				<accepted>-10</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Express your answer as a single integer. -4 + 2(-6)</label>
+			<blank>
+				<accepted>-16</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>Express your answer as a single integer. -4 + 2(-8)</label>
+			<blank>
+				<accepted>-20</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>-4(2-5) = __________</label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>Express your answer as a single integer. -3(2 – 5)</label>
+			<blank>
+				<accepted>9</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>Express your answer as a single integer. -3(2 – 4)</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>&lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_5.gif&gt; is equal to __________</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_01_3.gif&gt; is equal to</label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_01_4.gif&gt; is equal to </label>
+			<blank>
+				<accepted>-1</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>&lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_6.gif&gt;is equal to __________</label>
+			<blank>
+				<accepted>-13</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_01_2.gif&gt; is equal to</label>
+			<blank>
+				<accepted>-14</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_01_1.gif&gt; is equal to </label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>-17 - (-3 - 10)=__________</label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>-10 – (-2 – 1) = __________</label>
+			<blank>
+				<accepted>-7</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>-15 – (-3 – 2) = ____________</label>
+			<blank>
+				<accepted>-10</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_7.gif&gt; is equal to __________</label>
+			<blank>
+				<accepted>-12</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_04.gif&gt; = ___________</label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_05.gif&gt; = __________</label>
+			<blank>
+				<accepted>-7</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>-5(3 - 4) - (-15 + 3)=_________</label>
+			<blank>
+				<accepted>17</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>-3(2 + 1) – (-10 + 4)</label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>-3(2 + 1) – (-10 + 6)</label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>&lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_8.gif&gt; is equal to _________</label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label> &lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_07.gif&gt; = </label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>Select all the number types that would describe the number -3. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label> Select all the number types that would describe the number 1/2. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>Select all the number types that would describe the number &lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_4.gif&gt;. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label> Select all the number types that would describe the number &lt;img src=/webdav/res0015/educator_alg1_v5/pictures/mod3/03_04_10.gif&gt;. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>Select all the number types that would describe the number &lt;img src=/webdav/res0015/educator_algebra1/pictures/M3images/M3Q1_3.gif&gt;. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label> Select all the number types that would describe the number -5. You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Simplify:
+&lt;br&gt;-4 - 3(-2 - 4) </label>
+			<choice>
+				<choicelabel>42
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14
+&lt;br&gt;</choicelabel>
+				<credit>6</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>None of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Simplify:
+&lt;br&gt;3 + 4(2) – 6 </label>
+			<choice>
+				<choicelabel>5
+&lt;br&gt;</choicelabel>
+				<credit>6</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>None of the above
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

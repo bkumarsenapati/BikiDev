@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.16 Practice  Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the slope of the line containing the points (-1,4) and (3,2)?</label>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1/2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the best description for graphing the point (3,-4).</label>
+			<choice>
+				<choicelabel>Go to the left three and up four. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the right three and up four. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the right three and down four. </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the left three and down four. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Put the following equation in slope intercept form 2x - 5y = 10. </label>
+			<choice>
+				<choicelabel>x-y = (-2/5)x-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-2/5)x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = -2x + 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (2/5)x -2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the slope of the line with equation y = (1/2)x -3?</label>
+			<choice>
+				<choicelabel>1/2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>In the equation y=-2x +5, name the slope and the y intercept. </label>
+			<choice>
+				<choicelabel>slope 1/2, y intercept 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>slope -2, y intercept 5</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>slope 5, y intercept -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>slope 5, y intercept 1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the y intercept of the equation y= (2/3)x -6?</label>
+			<choice>
+				<choicelabel>2/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No y intercept</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the best directions for graphing the equation y= (1/2)x + 1.</label>
+			<choice>
+				<choicelabel>Graph the point (0,1) and count up 1 and to the right 2 to find another point on the line. </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (1,0) and count up 1 and to the right 2 to find another point on the line. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,1) and count to the right 1 and up 2 to find another point on the line. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (1,0) and count to the right 1 and up 2 to find another point on the line. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What kind of line is created when you graph the equation x=2?</label>
+			<choice>
+				<choicelabel>Horizontal line</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Oblique line</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Vertical line</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No line is created. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the slope of the line x=2?</label>
+			<choice>
+				<choicelabel>Zero</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Undefined</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Not enough information. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the slope of the line y= -3?</label>
+			<choice>
+				<choicelabel>Zero</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Undefined</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Not enough information.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that is written in standard form. </label>
+			<choice>
+				<choicelabel>y= -3x +4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2y = x+8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3y-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x -2y = 10</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the x intercept of the graph represented by the equation 3x + 4y = 12. </label>
+			<choice>
+				<choicelabel>(0,3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4,0)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the y intercept of the graph represented by the equation 3x + 4y = 12.</label>
+			<choice>
+				<choicelabel>(0,3)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose ALL the points that are solutions to the equation y= 2x -5. </label>
+			<choice>
+				<choicelabel>(0,-5)</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1,3)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1,-7)</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1/2, -4)</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation of the line with a slope of 2/3 and y passing through the point (6,-2). </label>
+			<choice>
+				<choicelabel>y= (2/3)x -6</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y= (2/3)x -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y= (2/3) x -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (3/2) x -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation of the line passing through the points (-2,3) and (-4,1).</label>
+			<choice>
+				<choicelabel>y = x -1 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-1/3)x + 7/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y= x-4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = x + 5</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation of the vertical line passing through the point (-2,1).</label>
+			<choice>
+				<choicelabel>x = -2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation of the line passing through the points (3,4) and (1,-6). </label>
+			<choice>
+				<choicelabel>y = 5x - 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (1/5)x + 15/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (1/5)x - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 5x - 11</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the ordered pair that is the solution to the following system of equations:  y= 2x + 1 and y = x -5.</label>
+			<choice>
+				<choicelabel>(-6, -1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-6,-11)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4,9)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4,-1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the orderred pair that is the solution to the following system of equations:  -3x + y = 4 and -7x + y = 12.</label>
+			<choice>
+				<choicelabel>(-2,-2)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-2,2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,-2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the ordered pair that is the solution to the following system of equations:  5x - 2y = 3 and 3x + 4y = 7.</label>
+			<choice>
+				<choicelabel>(1,-1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1,1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1,-1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1,1)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Give an ordered pair that is the solution to the equation y = 5x + 2.</label>
+		<credit>1</credit>
+	</item>
+</assessment>

@@ -1,0 +1,43 @@
+<html>
+<body>
+
+<script type="text/javascript">
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  alert("IF");
+  xmlhttp=new XMLHttpRequest();
+  alert("7");
+  }
+else
+  {// code for IE6, IE5
+   alert("ELSE");
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+   alert("5 and 6");
+  }
+   alert("Before GET");
+xmlhttp.open("GET","sample_xml2.xml",false);
+ alert("After Get");
+xmlhttp.send();
+ alert("After SEND");
+xmlDoc=xmlhttp.responseXML; 
+
+ alert("After xmlDoc...."+xmlDoc);
+
+document.write("<table border='1'>");
+alert("Table for ");
+var x=xmlDoc.getElementsByTagName("CD");
+for (i=0;i<x.length;i++)
+  { 
+  document.write("<tr><td>");
+  
+  document.write(x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue);
+  document.write("</td><td>");
+  document.write(x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue);
+  document.write("</td></tr>");
+  }
+document.write("</table>");
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,8 @@
+@import "/sites/all/themes/oyc/oyc/styles/main.css";
+
+#share_container {
+    width: 243px;
+}
+#help_box {
+    white-space: nowrap;
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+
+
+<script language="javascript" type="text/javascript">
+  $(document).ready(function() {  
+
+//Put in the DIV id you want to display
+launchWindow('#dialog1');
+
+//if close button is clicked
+$('.window #close').click(function () {
+    $('#mask').hide();
+    $('.window').hide();
+});     
+
+//if mask is clicked
+$('#mask').click(function () {
+    $(this).hide();
+    $('.window').hide();
+}); 
+
+    $("#mask").delay(24000).hide();
+    $(".window").delay(24000).hide();
+
+});
+
+function launchWindow(id) {
+
+    //Get the screen height and width
+    var maskHeight = $(document).height();
+    var maskWidth = $(window).width();
+
+    //Set heigth and width to mask to fill up the whole screen
+    $('#mask').css({'width':maskWidth,'height':maskHeight});
+
+    //transition effect     
+    $('#mask').fadeIn(1000);    
+    $('#mask').fadeTo("slow",0.8);  
+
+    //Get the window height and width
+    var winH = $(window).height();
+    var winW = $(window).width();
+
+    //Set the popup window to center
+    $(id).css('top',  winH/2-$(id).height());
+    $(id).css('left', winW/2-$(id).width()/2);
+
+    //transition effect
+    $(id).fadeIn(2000); 
+
+}
+</script>
+ </HEAD>
+ 
+
+ <BODY>
+  
+
+
+
+<div id="boxes">
+    <div id="dialog1" class="window">
+        
+    </div>
+</div>
+
+<div id="mask"></div> 
+ </BODY>
+</HTML>

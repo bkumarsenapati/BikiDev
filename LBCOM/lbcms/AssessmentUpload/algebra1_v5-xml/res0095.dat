@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.09 Quadratic Formula">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve using the quadratic formula.
+2x&lt;sup&gt;2&lt;/sup&gt; - 5x – 10 = 0</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_01a.gif&gt;</choicelabel>
+				<credit>3</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_01b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_01c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above
+</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve using the quadratic formula.
+3x&lt;sup&gt;2&lt;/sup&gt; - 8x + 5 = 0.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_02a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_02b.gif&gt;</choicelabel>
+				<credit>3</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_02c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above
+</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of the following represents a step in the process of solving this equation using the quadratic formula?
+2x&lt;sup&gt;2&lt;/sup&gt; + 4x + 2 = 0.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_03a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_03b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0095/educator_alg1_v5/pictures/07_09_03c.gif&gt;
+</choicelabel>
+				<credit>3</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>How many solutions are there to the quadratic equation
+ 4x&lt;sup&gt;2&lt;/sup&gt; + 8x + 3 = 0?</label>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

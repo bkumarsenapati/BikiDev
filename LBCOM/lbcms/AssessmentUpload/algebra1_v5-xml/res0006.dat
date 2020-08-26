@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="02.04 Problem Solving Assignment">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>To receive the majority of the votes means to receive over 50/amp;#37; of the votes.  </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_01.gif&gt; 
+Based on the information from the assignment, there is not a need for a run-off election.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_01.gif&gt; 
+Which candidate received the most votes in the primary election?
+</label>
+			<choice>
+				<choicelabel>Hargis</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Robinson</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rodriguez</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>O&apos;Leary</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_01.gif&gt; 
+Which candidate received the fewest votes in the primary election?
+</label>
+			<choice>
+				<choicelabel>Robinson</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Hargis</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>O&apos;Leary</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Hermann</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_01.gif&gt; 
+If there is a run-off election, which candidates will be running?
+</label>
+			<choice>
+				<choicelabel>Robinson and Hermann</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>O&apos;Leary and Rodriguez</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rodriguez and Robinson </choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>O&apos;Leary and Hargis</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_02.gif&gt;
+&lt;img src=/webdav/res0006/educator_alg1_v5/205_03.gif&gt; 
+What trend do you notice in ski inventory?
+</label>
+			<choice>
+				<choicelabel>It has increased every year since 1992.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Generally it has increased over the six years but it has held steady for the last two years. </choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Generally it has decreased over the past six years.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>It&apos;s impossible to tell from the given information.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_02.gif&gt;
+&lt;img src=/webdav/res0006/educator_alg1_v5/205_03.gif&gt; 
+What trend do you notice in snowboarding inventory?
+</label>
+			<choice>
+				<choicelabel>Snowboards are becoming more popular as the number is steadily increasing in the past three years. </choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Snowboards are becoming less popular because their numbers are steadily decreasing.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Snowboarding is as popular as skiing based on the number of ski sets and snowboards sold.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>It&apos;s impossible to tell from the given information.</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0006/educator_alg1_v5/205_02.gif&gt;
+&lt;img src=/webdav/res0006/educator_alg1_v5/205_03.gif&gt; 
+The ratio for 1995 of skis to snowboards is 45:1.
+</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

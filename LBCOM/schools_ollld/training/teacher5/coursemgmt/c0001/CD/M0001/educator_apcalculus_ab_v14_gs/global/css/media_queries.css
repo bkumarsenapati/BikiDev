@@ -1,0 +1,275 @@
+body, html, #wrapper {
+	margin: 0px;
+	padding: 0px;
+}
+ @media screen and (max-width: 1024px) {
+	/* Content */
+	#container {
+		width: 825px;
+	}
+	.content {
+		width: 765px;
+	}
+	/* CONTENT */
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	#imgCon {
+		display: none !important;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 825px;
+		max-width: 825px;
+		margin-right: -30px;
+		margin-left: -30px;
+	}
+}
+ @media screen and (max-width: 844px) {
+	
+	/* Content */
+	#container {
+		width: 790px;
+	}
+	.content {
+		width: 730px;
+	}
+	
+	/* CONTENT */
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	#imgCon {
+		display: none !important;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 790px;
+		max-width: 825px;
+		margin-right: -30px;
+		margin-left: -30px;
+	}
+}
+ @media screen and (max-width: 800px) {
+	
+	/* Content */
+	#container {
+		width: 620px;
+	}
+	.content {
+		width: 560px;
+	}
+	/* CONTENT */
+	#imgCon {
+		display: none;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 620px;
+		max-width: 620px;
+		margin-right: -30px;
+		margin-left: -30px;
+	}
+	.col1, .col2, .col3, .col4 {
+		float: none;
+		width: 100%;
+	}
+	div.assignment .content {
+		background-color: transparent;
+		width: auto;
+	}
+	.ui_interactive, div.activeInteractive {
+		display: none;
+	}
+	.phone_textversion {
+		display: block;
+	}
+	.objectives-right {
+		width: 100% !important;
+	}
+}
+ @media screen and (max-width: 768px) {
+	/* Content */
+	body, html, #wrapper {
+		margin: 0px;
+		padding: 0px;
+	}
+	#container {
+		width: 588px;
+	}
+	.content {
+		width: 528px;
+	}
+	.breadcrumbs {
+		padding: 10px 20px;
+		font-size: 14px;
+	}
+	.lesson_title {
+		padding: 10px 20px;
+		font-size: 18px;
+	}
+	/* CONTENT */
+	#imgCon {
+		display: none;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 588px;
+		max-width: 588px;
+		margin-right: -30px;
+		margin-left: -30px;
+	}
+	div.assignment .content {
+		background-color: transparent;
+		width: auto;
+	}
+	.progress_meter_popup {
+		left: -120px;
+	}
+	.image-container img {
+		width: 100%;
+		height: auto;
+	}
+}
+
+/* Kindal Fire */
+@media screen and (max-width: 600px) {
+	/* Content */
+	#container {
+		width: 420px;
+	}
+	.content {
+		width: 360px;
+	}
+	.breadcrumbs {
+		padding: 10px 20px;
+		font-size: 14px;
+	}
+	.lesson_title {
+		padding: 10px 20px;
+		font-size: 18px;
+	}
+	/* CONTENT */
+	#imgCon {
+		display: none;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 420px;
+		max-width: 420px;
+		margin-right: -30px;
+		margin-left: -30px;
+	}
+	div.assignment .content {
+		background-color: transparent;
+		width: auto;
+	}
+	.image-container img {
+		width: 100%;
+		height: auto;
+	}
+	.image-container.left, .image-container.right {
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+}
+@media screen and (max-width : 480px) {
+	
+	/* Content */
+	body, html {
+		width: 100%;
+	}
+	#wrapper {
+		width: 100%;
+		margin: 0px;
+	}
+	#container {
+		width: 100%;
+	}
+	.content {
+		width: 90%;
+		padding: 5%;
+	}
+	.breadcrumbs {
+		padding: 10px 5%;
+		font-size: 14px;
+	}
+	.lesson_title {
+		padding: 10px 5%;
+		font-size: 18px;
+	}
+	
+	/* CONTENT */
+	#imgCon {
+		display: none;
+	}
+	img.banner {
+		margin-left: 0px;
+		width: 100%;
+		max-width: 100%;
+	}
+	hr.content_top_bar {
+		background-image: none;
+		height: 1px;
+	}
+	div.assignment .content {
+		background-color: transparent;
+		width: auto;
+	}
+	.image-container img {
+		width: 100%;
+		height: auto;
+	}
+}
+ @media screen and (max-width : 320px) {
+	/* Content */
+	body, html {
+		width: 100%;
+	}
+	#wrapper {
+		width: 100%;
+		padding: 0px;
+	}
+	#container {
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.content {
+		width: 90%;
+		padding: 5%;
+		margin: 0px;
+	}
+	.breadcrumbs {
+		padding: 10px 5%;
+		font-size: 14px;
+	}
+	.lesson_title {
+		padding: 10px 5%;
+		font-size: 18px;
+	}
+	/* CONTENT */
+	#imgCon {
+		display: none;
+	}
+	div.assignment .content {
+		background-color: transparent;
+		width: auto;
+	}
+	.image-container img {
+		width: 100%;
+		height: auto;
+	}
+	.progress_meter_popup {
+		left: -67px;
+		width: 290px;
+	}
+	.progress_meter_popup .progress_bar {
+		display: none;
+	}
+	.page_links a {
+		margin-right: 3px;
+	}
+}

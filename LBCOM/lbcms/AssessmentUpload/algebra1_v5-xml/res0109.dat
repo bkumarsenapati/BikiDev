@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.08 Quiz 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Add or subtract and simplify completely.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_1.gif&gt;</label>
+		<credit>6.0</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve each equation for the variable.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_2.gif&gt;</label>
+		<credit>9.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Add and simplify.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_3.gif&gt;</label>
+			<choice>
+				<choicelabel>2x</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_3c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_3d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Subtract and simplify.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_4.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_4a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_4b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_4c.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_4d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Add and simplify.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_5.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_5a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_5b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 2</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_5d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Subtract and simplify.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_6.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_6a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_6d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Subtract and simplify.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_7.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_7a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 3</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_7c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_7d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_8.gif&gt;</label>
+			<choice>
+				<choicelabel>-4,5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2,1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5,4</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16,19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_9.gif&gt;</label>
+			<choice>
+				<choicelabel>24,-1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12,0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6,-4</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8,3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_10.gif&gt;</label>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_10d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_11.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_11a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_11B.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_11c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_11d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for x.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_12.gif&gt;</label>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_12b.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_12d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_13.gif&gt;</label>
+			<choice>
+				<choicelabel>(x + 4)(x + 1)</choicelabel>
+				<credit>1.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 4)(x - 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x - 4)(x + 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)(x - 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_14.gif&gt;</label>
+			<choice>
+				<choicelabel>(x - 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x - 3)</choicelabel>
+				<credit>1.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_15.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_15a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_15b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_15c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_15d.gif&gt;</choicelabel>
+				<credit>1.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_16.gif&gt;</label>
+			<choice>
+				<choicelabel>(2x + 3)(2x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x + 3)(2x - 3)</choicelabel>
+				<credit>1.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_16c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4x + 3)(x - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_17.gif&gt;</label>
+			<choice>
+				<choicelabel>2xy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_17b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_17c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0109/educator_algebra1/pictures/M8images/A1M8Q2_17d.gif&gt;</choicelabel>
+				<credit>1.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

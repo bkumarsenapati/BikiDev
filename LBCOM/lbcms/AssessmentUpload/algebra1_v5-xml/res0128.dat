@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.13 Module 9 Survey">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>1. Make sure that you have completed the Survey as directed in the lesson.
+
+2. Please provide the date you completed this module survey.</label>
+		<credit>10
+</credit>
+	</item>
+</assessment>

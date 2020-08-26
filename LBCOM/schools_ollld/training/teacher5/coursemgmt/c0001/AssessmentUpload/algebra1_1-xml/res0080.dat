@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.10 Pythagorean Theorem">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Use the diagram shown below to answer the question.
+&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6A8_01.gif&gt;
+The distance from point A to point B is how much longer than the distance from point A to point C?</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Find the hypotenuse of a right triangle with legs measuring 5.2 cm and 7.8 cm respectively. Round your answer to the nearest tenth of a centimeter.</label>
+			<choice>
+				<choicelabel>3.6 cm</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5.8 cm</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>18.5 cm</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>9.4 cm</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>16.5 cm</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Sam hiked 48 miles directly east and then 36 miles directly south. Find the shortest distance in miles from the point where he ended up to his starting point. </label>
+			<choice>
+				<choicelabel>72 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>60 miles</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>48 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>36 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>24 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>For a local triathalon, Jane swam 5 miles west in a local lake. Then she biked 12 miles north. Finally she will run the shortest distance from the point where she ended up to her starting point. Which expression will tell the distance she must run?</label>
+			<choice>
+				<choicelabel>2(5) + 2(12)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 X 12</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5&lt;sup&gt;2&lt;/sup&gt; X 12&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6a8_04d.gif&gt;</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(5 + 12)/2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the diagram below to answer the question.
+&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6a8_05.gif&gt;
+A hot air balloon is anchored to the ground with 400 meter cables. About how many meters above the ground is the top of the balloon? Round your answer to the nearest meter.</label>
+		<credit>1.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>At summer camp, the swimming course runs the length (L) of a small lake. To determine the length of the course, the camp counselors measure the two &quot;dry&quot; legs of a right triangle. What is the length in meters of the swimming course in the figure below?
+&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6a8_06.gif&gt;</label>
+			<choice>
+				<choicelabel>40 meters</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>65 meters</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>47 meters</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>31 meters</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>11 meters</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The screen on Jeff&apos;s computer monitor has a length of 15.2 and a width of 11.5 in. Find the measure of the diagonal for Jeff&apos;s monitor.</label>
+			<choice>
+				<choicelabel>19 inches</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>24 inches</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>28 inches</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>17 inches</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>13 inches</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Use the diagram and information given below to answer questions 8 and 9. 
+&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6a8_08.gif&gt;
+There is an accident at the corner of Elm Street and Main Street. The ambulance driver wants to go West on Elm and North on Oak to get to the hospital. The patient, barely able to speak is saying, &quot;Take Main, take Main.&quot;
+
+The patient is correct. Taking Main Street would be shorter than taking Elm and Oak.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the distance of Main Street in miles?</label>
+			<choice>
+				<choicelabel>7 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>9 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 miles</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>12 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>50 miles</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the diagram and information given below to answer the question.
+&lt;img src=/webdav/res0080/educator_algebra1/pictures/M6images/M6a8_10.gif&gt;
+From this crash site to the hospital along Goodwin Avenue is 26 miles. Tangerine Way between 4th Avenue and 5th avenue is 10 miles. The ambulance decides that to avoid traffic, it will go the long way, North on Tangerine and East on 5th to get to the hospital.
+
+How much further, in miles, is the Tangerine and 5th Ave route than Goodwin Ave?  Show all work involved in getting the answer.</label>
+		<credit>1.0</credit>
+	</item>
+</assessment>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.00 Module 5 Pretest">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<group>1</group>
+		<label>Write an equation of a line with a slope of 2/3 and y-intercept of 7. Write the equation in both slope intercept form and standard form.</label>
+		<credit>7</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>What is the slope of the equation y = 3? </label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Undefined</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Choose the best description of the graph of the equation x = -5.</label>
+			<choice>
+				<choicelabel>A horizontal line going through the 5 on the y axis&lt;br&gt;&lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A horizontal line going through the -5 on the y axis</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A vertical line going through the 5 on the x axis&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A vertical line going through the -5 on the x axis&lt;br&gt;</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Find the slope of a line passing through the points (2,0) and (-4,5)</label>
+			<choice>
+				<choicelabel>-5/6&lt;br&gt;&lt;br&gt;&lt;br&gt; </choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5/8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6/5&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Choose the equation of the line passing through the points (2,-5) and (4,11).</label>
+			<choice>
+				<choicelabel>y = (1/8)x - 21/4 &lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 8x - 21</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 8x - 11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 8x + 11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Choose the best description for graphing y = 2x - 3 using the slope and the y-intercept.</label>
+			<choice>
+				<choicelabel>Graph the point (0,2) and count down 3 and to the right 1 to find another point on the line.&lt;br&gt; &lt;br&gt; &lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,3) and count up 2 and to the left 1 to find another point on the line.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,-3) and count up 2 and to the right 1 to find another point on the line.</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,-3) and count down 2 and to the right 1 to find another point on the line</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Write the equation 3x + 5y = 15 in slope intercept form</label>
+			<choice>
+				<choicelabel>5y = -3x + 15&lt;br&gt; &lt;br&gt; &lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (3/5)x - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-5/3)x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-3/5)x + 3&lt;br&gt;</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+		<label>Parallel lines have the same slope.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Find the y-intercept of the line 4x + 5y = 5.</label>
+			<choice>
+				<choicelabel>(0,5)&lt;br&gt; &lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,1)</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,5/4)&lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(5/4,0)&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Find the x-intercept of the line 2x - 3y = 6.</label>
+			<choice>
+				<choicelabel>(-2,0)&lt;br&gt; &lt;br&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,0)</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(6,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Choose the ordered pair that is the solution to the system of equations. &lt;br&gt;-5y + 4x = 8 &lt;br&gt;-15y + 3x = -3</label>
+			<choice>
+				<choicelabel>(3,4/5)&lt;br&gt; &lt;br&gt; &lt;br&gt; &lt;br&gt;</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-3,-4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-3,4/3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Choose the ordered pair that is the solution to the system of equations. &lt;br&gt;x + y = 4 &lt;br&gt;y = 2x + 1</label>
+			<choice>
+				<choicelabel>(2,2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(1,3)</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Choose the best description for graphing the point (-3,7).&lt;br&gt; </label>
+			<choice>
+				<choicelabel>Go to the right three and down seven</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the right three and up seven</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the left three and down seven</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Go to the left three and up seven</choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Choose the best description for graphing the equation y= (1/2)x - 4.</label>
+			<choice>
+				<choicelabel>Graph the point (-4,0) and count up 1 and over 2 to find another point on the line. &lt;br&gt; &lt;br&gt; &lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,-4) and count up 1 and over 2 to find another point on the line. </choicelabel>
+				<credit>7</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (0,-4) and count over 2 and up 1 to find another point on the line. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Graph the point (-4,0) and count over 2 and up 1 to find another point on the line. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

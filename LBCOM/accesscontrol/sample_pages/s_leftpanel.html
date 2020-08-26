@@ -1,0 +1,168 @@
+<html>
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<script type="text/javascript" src="/LBCOM/launch.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="javascript" src="/LBCOM/accesscontrol/ac.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!--			
+	var ac_ids="profile,organizer,notice,pdocs,courseware,gradebook,reports,chat,mail,bboards,netmeet,search";
+	
+					var ac_status="";
+						
+//-->
+</SCRIPT>
+ 	
+	<!-- end of rajesh code -->
+<link rel="stylesheet" type="text/css" href="/LBCOM/left.css"></style>
+<style type="text/css">
+.lMainT { border-color: #E08443; }
+.lTable { border-color: #E08443; }
+.lTCol { border-color: #E08443; }
+</style>
+</head>
+<body bgcolor="#fff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="left" class="lDiv">
+    <table class="lMainT">
+    <tbody>
+        <tr class="lMTRow" style="vertical-align:top;">
+            <td class="lMTCol">
+            <table class="lTable" id="Table_01">
+	    <tbody>
+                <tr class="lTRow">
+                    <td class="lTColH" name="lTColH">General</td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('profile');"  name="profile" id="profile">Profile</a></td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTCol">
+						<a href="javascript:handler('organizer');" name="organizer" id="organizer" >Organizer</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+						<a href="javascript:handler('notice');" name="notice" id="notice">Notice Board</a></td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('personaldocs')" name="personaldocs" id="personaldocs">Personal Docs</a></td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTColH" name="lTColH">Learning Mgmt</td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('courseware');" name="courseware" id="courseware">Courseware</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('gradebook');" name="gradebook" id="gradebook">Grade Book</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('reports');" name="reports" id="reports">Reports</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTColH" name="lTColH">Communication</td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('chat');" name="chat" id="chat">Chat</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('mail');" name="mail" id="mail">Mail</a></td>
+                </tr>
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('bboards');" name="bboards" id="bboards">Forums</a></td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTCol">
+						<a href="javascript:handler('eClassRoom');" name="eClassRoom" id="eClassRoom">eClassRoom</a>
+                    </td>
+                </tr>
+				
+                <tr class="lTRow">
+                    <td class="lTCol">
+                        <a href="javascript:handler('search');" name="search"  id="search">User Search</a></td>
+                </tr>
+	    <tbody>
+            </table>
+            </td>
+        </tr>
+    <tbody>
+    </table>
+</div>
+</body>
+<SCRIPT LANGUAGE="JavaScript">
+
+function checkParent(){
+	if(parent.window.opener!=undefined)
+	if(parent.window.opener.window.sview.closed!=true){			
+			parent.window.opener.current_login= "Teacher";
+			parent.window.opener.oldPosition();
+			parent.window.close();
+			return false
+		}
+}
+function handler(anc){
+	//return false;
+}
+
+function setBgColor(cell) {
+	var cells = document.getElementsByTagName("td");
+	for (var i = 0; i < cells.length; i++) {
+	  if ( cells[i].className == 'lTCol') {
+	    cells[i].style.bgColor = '#ccc';
+	    cells[i].style.backgroundColor = '#ccc';
+	  }
+	}
+	cell.style.bgColor = '#f66';
+	cell.style.backgroundColor = '#f66';
+}
+
+function reDefineCells() {
+	var cells = document.getElementsByTagName("td");
+	var a,i;
+	var n = (document.all)?0:1;
+	for (i = 0; i < cells.length; i++) {
+	  if ( cells[i].className == 'lTCol') {
+	    a = cells[i].innerHTML;
+	    cells[i].innerHTML = "<div class='transOFF' style='padding-left:2px' onClick=\""+cells[i].childNodes[n]+"\" onMouseOver='this.className=\"transON\"' onMouseOut='this.className=\"transOFF\"'>"+a+"</div>";
+	  }
+	}
+}
+
+reDefineCells();
+
+var usertype = 'student';
+var ecw;
+var ecl_popupUrl;
+var sessidForPHP = 'demoschoolXstudentX5468C4C91B94DED625543DA742BA9EE3';
+
+function launch_eClassRoom() {
+	var url='/cAuth/eClassRoom.php?emailid=student&schoolid=demoschool&sessid=5468C4C91B94DED625543DA742BA9EE3&usertype=student&gradeid=C000';
+  closePopups();
+  ecl_popupUrl = url;
+  var popupUrl = '/cAuth/launch.php?emailid=student&schoolid=demoschool&sessid='+sessidForPHP+'&usertype=student&gradeid=C000';
+  if (this.name == 'left') {
+    if('student' == 'teacher') {
+                ecw = winList['eC_win'] = openPopup('eClassRoom',url,1000,650);
+        } else {
+                // something for students
+        }
+  }
+  parent.frames['main'].location.href = popupUrl;
+  if(ecw) ecw.focus();
+}
+
+//-->
+</SCRIPT>
+</html>

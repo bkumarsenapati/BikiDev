@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="03.08 Connections">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>Joe is 5 years older than Sally. Represent Joe&apos;s age in terms of Sally&apos;s age.</term>
+				<definition>S + 5 = Joe’s age</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>The length of a rectangle is 3 more than twice its width. The perimeter is 48 feet.</term>
+				<definition>2w + 2(2w + 3) = 48</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>Fifteen more than four times a number is 6 more than five times the number.</term>
+				<definition>4n + 15 = 5n + 6</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>Martha and Sally had lunch together on Tuesday. Sally paid $2 more than Martha. The total bill was $5.64.</term>
+				<definition>M + (M + 2) = $5.64</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>Bob paid $3 less than Tim at a local pizza parlor. Together they spent $7.80.</term>
+				<definition>T + (T – 3) = $7.80</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>There were six more women on a committee than men. The committee was made up of 30 people.</term>
+				<definition>M + (M + 6) = 30</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>Three consecutive integers have the sum of 153.</term>
+				<definition>x + (x + 1) + (x + 2) = 153</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>Five times the first of three consecutive odd integers is fourteen more than three times the second.</term>
+				<definition>3(x + 2) + 14 = 5x</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>The sum of three consecutive even integers is fifty four.</term>
+				<definition>x + (x + 2) + (x + 4) = 54</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>An airplane flies at a rate of 356 km/h . The plane travels a total distance of 1424 km. </term>
+				<definition>1424 = 356t</definition>
+				<credit>1</credit>
+			</matchpair>
+	</item>
+</assessment>

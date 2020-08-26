@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.13 Substitution Method">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Use the Substitution method to solve the system of equations.
+
+x + y = -4
+x - y = 2</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the Substitution method to solve the system of equations.
+
+x + y = 10
+y = x + 8</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the Substitution method to solve the system of equations.
+
+3x + y = 5
+4x - 7y = -10</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the Substitution method to solve the system of equations.
+
+y - 2x = -5
+3y - x = 5</label>
+		<credit>3</credit>
+	</item>
+</assessment>

@@ -1,0 +1,95 @@
+
+
+SummaryByMarkingChart.jsp
+
+	
+NO Error :
+ rs=st.executeQuery("select  t.firstname,t.lastname,t.con_emailid,t.username from teachprofile t,coursewareinfo c where t.schoolid='"+schoolId+"' and c.school_id='"+schoolId+"' and  t.username=c.teacher_id and c.course_id='"+courseId+"'" );
+
+
+ rs=st.executeQuery("select  t.firstname,t.lastname,t.con_emailid,t.username from teachprofile t,coursewareinfo c where t.schoolid='"+schoolId+"' and c.school_id='"+schoolId+"' and  t.username=c.teacher_id and c.course_id='"+courseId+"'" );
+
+
+NO Error :
+ rs1=st1.executeQuery("select  * from studentprofile where username='" +studentId +"' and schoolid='" +schoolId +"' ");
+ 
+ rs1=st1.executeQuery("select  * from studentprofile where username='" +studentId +"' and schoolid='" +schoolId +"'");
+
+
+
+Error :
+SummaryByMarking.jsp : rs6=st6.executeQuery("select sum(`"+schoolId+"_cescores`.`marks_secured`) as sum1,sum(`"+schoolId+"_cescores`.`total_marks`) as sum2,`"+schoolId+"_cescores`.`category_id` from `"+schoolId+"_cescores`,`mp_cescores` where `"+schoolId+"_cescores`.`user_id`='"+studentid+"' and `"+schoolId+"_cescores`.school_id=mp_cescores.school_id and  `"+schoolId+"_cescores`.`course_id`='"+courseId+"' and `"+schoolId+"_cescores`.`course_id`=`mp_cescores`.`course_id` and `"+schoolId+"_cescores`.`work_id`=`mp_cescores`.`work_id` and `"+schoolId+"_cescores`.`report_status`=1 and `"+schoolId+"_cescores`.`category_id`!='ST' and (`"+schoolId+"_cescores`.`status`=2) and `mp_cescores`.`m_id`='"+marking_id+"' group by `"+schoolId+"_cescores`.`category_id`");
+
+SummaryByMarkingChart.jsp : rs6=st6.executeQuery("select sum(`"+schoolId+"_cescores`.`marks_secured`) as sum1,sum(`"+schoolId+"_cescores`.`total_marks`) as sum2,`"+schoolId+"_cescores`.`category_id` from `"+schoolId+"_cescores`,`mp_cescores` where `"+schoolId+"_cescores`.`user_id`='"+studentid+"' and `"+schoolId+"_cescores`.`course_id`='"+courseId+"' and `"+schoolId+"_cescores`.`course_id`=`mp_cescores`.`course_id` and `"+schoolId+"_cescores`.`work_id`=`mp_cescores`.`work_id` and `"+schoolId+"_cescores`.`report_status`=1 and (`"+schoolId+"_cescores`.`status`=2) and `mp_cescores`.`m_id`='"+marking_id+"' group by `"+schoolId+"_cescores`.`category_id`");
+
+
+Error :
+SummaryByMarking.jsp :		rs2=st2.executeQuery("select sum(`"+schoolId+"_cescores`.`marks_secured`) AS sum1,sum(`"+schoolId+"_cescores`.`total_marks`) AS sum2,`"+schoolId+"_cescores`.`category_id` from `"+schoolId+"_cescores`,`mp_cescores` where `"+schoolId+"_cescores`.`user_id`='"+studentid+"' and `"+schoolId+"_cescores`.school_id=mp_cescores.school_id and `"+schoolId+"_cescores`.`course_id`='"+courseId+"' and `"+schoolId+"_cescores`.`course_id`=`mp_cescores`.`course_id` and `"+schoolId+"_cescores`.`work_id`=`mp_cescores`.`work_id` and `"+schoolId+"_cescores`.`report_status`=1 and `"+schoolId+"_cescores`.`category_id`!='ST' and `mp_cescores`.`m_id`='"+marking_id+"' group by `"+schoolId+"_cescores`.`category_id`");
+
+SummaryByMarkingChart.jsp :	rs2=st2.executeQuery("select CASE WHEN ((`"+schoolId+"_cescores`.`status`=2)|| (`"+schoolId+"_cescores`.`status`=0 && `"+schoolId+"_cescores`.`end_date`<curdate())) THEN sum(`"+schoolId+"_cescores`.`marks_secured`) else '0' END AS sum1,CASE WHEN ((`"+schoolId+"_cescores`.`status`=2)|| (`"+schoolId+"_cescores`.`status`=0 && `"+schoolId+"_cescores`.`end_date`<curdate())) THEN sum(`"+schoolId+"_cescores`.`total_marks`) else '0' END AS sum2,CASE WHEN (`"+schoolId+"_cescores`.`status`=2 and `"+schoolId+"_cescores`.`report_status`=1) THEN sum(`"+schoolId+"_cescores`.`marks_secured`) else '0'end as sum3,CASE WHEN (`"+schoolId+"_cescores`.`status`=2 and `"+schoolId+"_cescores`.`report_status`=1) THEN sum(`"+schoolId+"_cescores`.`total_marks`) else '0' end as sum4,`"+schoolId+"_cescores`.`category_id` from `"+schoolId+"_cescores`,`mp_cescores` where `"+schoolId+"_cescores`.`user_id`='"+studentid+"' and `"+schoolId+"_cescores`.`course_id`='"+courseId+"' and `"+schoolId+"_cescores`.`course_id`=`mp_cescores`.`course_id` and `"+schoolId+"_cescores`.`work_id`=`mp_cescores`.`work_id` and `"+schoolId+"_cescores`.`report_status`=1 and ((`"+schoolId+"_cescores`.`status`=2)||(`"+schoolId+"_cescores`.`end_date`<curdate())) and `mp_cescores`.`m_id`='"+marking_id+"' group by `"+schoolId+"_cescores`.`category_id`");
+
+
+Error :
+SummaryByMarking.jsp :		TotalMarkingPercentageByAttempt=percentByAttempt;
+			
+				if(i!=0)
+				{
+					
+					rs11=st11.executeQuery("SELECT grade_code from class_grades where schoolid='"+schoolId+"' and "+percentByAttempt+" and minimum <='"+percentByAttempt+"' and maximum >'"+percentByAttempt+"'");
+					while(rs11.next())
+					{
+						grade1=rs11.getString("grade_code");
+					}
+					
+					rs9=st9.executeQuery("SELECT grade_code from class_grades where schoolid='"+schoolId+"' and "+percent+" and minimum <='"+percent+"' and maximum >'"+percent+"'");
+					while(rs9.next())
+					{
+						grade2=rs9.getString("grade_code");
+					}
+
+					if(TotalMarkingPercentageByAttempt>=100)
+					{
+						//TotalMarkingPercentageByAttempt=100;
+						grade1="A";
+
+					}
+					if(TotalMarkingPercentage>=100)
+					{
+						grade2="A";
+
+					}
+					if(TotalMarkingPercentageByAttempt==0.0)
+					{
+						grade1="-";
+
+					}
+					if(TotalMarkingPercentage==0.0)
+					{
+						grade2="-";
+
+					}
+
+SummaryByMarkingChart.jsp :	TotalMarkingPercentageByAttempt=percentByAttempt;
+			
+				if(i!=0)
+				{
+					
+					rs9=st9.executeQuery("SELECT grade_code from class_grades where schoolid='"+schoolId+"' and "+percent+" between minimum and maximum");
+					while(rs9.next())
+					{
+						grade=rs9.getString("grade_code");
+					}
+
+
+
+
+
+
+
+
+
+
+
+SummaryByMarking.jsp
+
+

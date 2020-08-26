@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 8 Quiz Lessons 1 - 6">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+	
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Questions 1 - 2:  Evaluate the square roots. Any decimal answers should be rounded to the nearest tenth.&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image1.gif&gt;</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res801/int_math_1/pictures/image2.gif&gt;</label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Questions 3 - 4:  Evaluate the following expressions when x = 3 and y = 6&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image3.gif&gt;</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res801/int_math_1/pictures/image4.gif&gt;</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	
+	<item>
+		<type>Essay</type>
+		<label>Questions 5 - 6:  Use square roots to solve the following equations.&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt;=100</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>5x&lt;sup&gt;2&lt;/sup&gt;=125</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>Questions 7 - 9:  Match the numbers to the points on the number line.&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image5.gif&gt;&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image6.gif&gt;&lt;br&gt;</label>
+			<choice>
+				<choicelabel>A</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>&lt;img src=/webdav/res801/int_math_1/pictures/image7.gif&gt;</label>
+			<choice>
+				<choicelabel>A</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>&lt;img src=/webdav/res801/int_math_1/pictures/image8.gif&gt;</label>
+			<choice>
+				<choicelabel>A</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 10 - 11:  Simplify the following square roots. Use perfect squares. There should be no decimal answers.&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image9.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res801/int_math_1/pictures/image10.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 12 - 13: PYTHAGOREAN THEOREM:  Determine if the measurements represent the sides of right triangles. Show your work.&lt;br&gt; 5, 12, 13.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>7, 9, 14</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 14 - 15: DISTANCE FORMULA: Find the lengths of the segments with the given endpoints. Show your work. (Simplify any square roots. Do not give decimal answers.)&lt;br&gt; (3, 0) and (6, -3)</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>(2,5) and (5,9)</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>MIDPOINT FORMULA:  Find the midpoints of each side. Show your work and label the midpoints.&lt;br&gt;&lt;img src=/webdav/res801/int_math_1/pictures/image11.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	
+	
+	
+</assessment>
+

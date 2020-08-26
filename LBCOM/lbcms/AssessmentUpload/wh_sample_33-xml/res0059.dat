@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="07.00: Pretest">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>16</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="15">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="16">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<standard state="LA.910.3.2.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Antonio is writing an essay on censorship, the act of limiting what is published or what can be read. He has brainstormed some ideas using a cluster map. &lt;br /&gt;&lt;br /&gt;Based on his brainstorming, what are the three main points on which he should focus?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_01.jpg alt=&quot;Main topic is ‘censorship’ with ‘censorship in’, ‘reasons for censorship’, ‘punishment for breaking laws’ and ‘forms of censorship’ as sub-topics.  Iran, China, Cuba, North Korea, and United States are examples of ‘censorship in’.  Language, ideas, and images are examples of ‘reasons of censorship’.  No examples for ‘punishment for breaking laws’.  Literature, speech, music, and newspapers are examples of ‘Forms of Censorship’ with ‘Banned books’ as an idea ‘literature’.&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Censorship in literature, music, and newspapers</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Censorship in different countries, forms of censorship, and reasons for censorship </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Punishment for breaking laws, forms of censorship, and reasons for censorship</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Censorship of language, ideas, and images</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.2.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Antonio is writing an essay on censorship, the act of limiting what is published or what can be read. He has brainstormed some ideas using a cluster map, but he needs some help developing his ideas. &lt;br /&gt;&lt;br /&gt;Based on his cluster map, which of the following topics would contribute to the strength of his essay?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_02.jpg alt=&quot;Main topic is ‘censorship’ with ‘censorship in’, ‘reasons for censorship,’ and ‘forms of censorship’ as sub-topics.  Iran, China, Cuba, North Korea, and United states are examples for ‘censorship in’. No examples for ‘forms of censorship’. Language, ideas, and images are examples for ‘reasons for censorship’.&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Pros and cons of censorship in China</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Censorship in newspapers and music</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Punishments for breaking censorship laws</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Books that have been banned</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.2.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Antonio is writing an essay on censorship, the act of limiting what is published or what can be read. He has brainstormed some ideas using a cluster map. &lt;br /&gt;&lt;br /&gt;Based on his brainstorming, which of the following ideas should &lt;strong&gt;not&lt;/strong&gt; be developed?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_03.jpg alt=&quot;Main topic is ‘censorship’ with ‘censorship in’, ‘reasons for censorship’, ‘punishment for breaking laws’ and ‘forms of censorship’ as sub-topics.  Iran, China, Cuba, North Korea, and United States are examples of ‘censorship in’.  Language, ideas, and images are examples of ‘reasons of censorship’.  No examples for ‘punishment for breaking laws’.  Literature, speech, music, and newspapers are examples of ‘Forms of Censorship’ with ‘Banned books’ as an idea ‘literature’.&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Forms of censorship</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Punishment for breaking laws</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Reasons for censorship</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Censorship in different countries</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.1.2; CC RI910.1"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use this page from Company X’s employee handbook to answer the following question.&lt;br /&gt;&lt;br /&gt;Based on the layout and information on this page, what is the main idea?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_04.jpg  alt= &quot;Employee Safety Handbook - Types of Injuries in 2010. Burns = 2 Carpal Tunnel = 4 Back Injury = 3 Heat Stroke = 1 - Causes of Work Place Injuries. Falls = 31&amp;#37; Employee Error = 46&amp;#37; Environmental Factors = 8&amp;#37; Equipment Malfunction = 15&amp;#37;&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Safety</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Types of injuries</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Employee handbook</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Causes of workplace injuries</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.1.2; CC RI910.1"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use this page from Company X’s employee handbook to answer the following question.&lt;br /&gt;&lt;br /&gt;Using the information contained in this excerpt, what is the main cause of workplace injuries?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_05.jpg alt=&quot;Employee Safety Handbook - Types of Injuries in 2010. Burns = 2 Carpal Tunnel = 4 Back Injury = 3 Heat Stroke = 1 - Causes of Work Place Injuries. Falls = 31&amp;#37; Employee Error = 46&amp;#37; Environmental Factors = 8&amp;#37; Equipment Malfunction = 15&amp;#37;&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Employee error</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Equipment malfunction</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Falls</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Environmental factors</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.1.2; CC RI910.1"></standard>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Use this page from Company X’s employee handbook to answer the following question.&lt;br /&gt;&lt;br /&gt;Using the information contained in this excerpt, what is the most common type of workplace injury?&lt;br /&gt;&lt;br /&gt;&lt;img src=/webdav/res0059/educator_eng2/v10/power/pw_00_06.jpg alt= &quot;Employee Safety Handbook - Types of Injuries in 2010. Burns = 2 Carpal Tunnel = 4 Back Injury = 3 Heat Stroke = 1 - Causes of Work Place Injuries. Falls = 31&amp;#37; Employee Error = 46&amp;#37; Environmental Factors = 8&amp;#37; Equipment Malfunction = 15&amp;#37;&quot; /&gt;&lt;p align=&quot;center&quot;&gt;&lt;font size=&quot;-2&quot;&gt;© 2010 FLVS&lt;/font&gt;&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Carpal tunnel</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Back injury</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Burns</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Heatstroke</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda technique with its explanation.</label>
+		<group>3</group>
+			<matchpair>
+				<term>Name calling</term>
+				<definition>Describes or negatively labels the individuals, groups, nations, beliefs, or products that the writer would like to condemn or reject.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Bandwagon</term>
+				<definition>Says, “Everyone is doing, buying, or believing x, and so should you.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Card stacking</term>
+				<definition>Selectively presents information that is favorable or omits information that is unfavorable.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>Attempts to convince audiences that the idea or person being portrayed is common to the average person.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Testimonial</term>
+				<definition>Prompts us to accept an idea or product because someone else accepts it.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda device with its explanation.</label>
+		<group>3</group>
+			<matchpair>
+				<term>Glittering generalities</term>
+				<definition>Uses positive words to describe the thing that the writer would like his or her audience to support.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Bandwagon</term>
+				<definition>Says, “Everyone is doing, buying, or believing x, and so should you.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>Attempts to convince audiences that the idea or person being portrayed is common to the average person.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Card stacking</term>
+				<definition>Selectively presents information that is favorable or omits information that is unfavorable.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Transfer</term>
+				<definition>Gives the authority, prestige, or reputation of someone or something to the thought or product that is being promoted.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda device with its explanation.</label>
+		<group>3</group>
+			<matchpair>
+				<term>Transfer</term>
+				<definition>Gives the authority, prestige, or reputation of someone or something to the thought or product that is being promoted.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Name calling</term>
+				<definition>Describes or negatively labels the individuals, groups, nations, beliefs, or products that the writer would like to condemn or reject.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Glittering generalities</term>
+				<definition>Uses positive words to describe the thing that the writer would like his or her audience to support.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Testimonial</term>
+				<definition>Prompts us to accept an idea or product because someone else accepts it.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>Attempts to convince audiences that the idea or person being portrayed is common to the average person.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda technique with its example.</label>
+		<group>4</group>
+			<matchpair>
+				<term>Name calling</term>
+				<definition>“You would only vote for that idea if you wanted to live in a communist country.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Bandwagon</term>
+				<definition>Four out of five families with small children choose Minivan X.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Card stacking</term>
+				<definition>An ad boasts “delicious cookies low in fat” but does not mention the high sugar content.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>A political figure opens his or her speech with, “My fellow Americans, I know that these are tough times for us.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Testimonial</term>
+				<definition>An ad portrays a supermodel with a milk mustache.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda technique with its example.</label>
+		<group>4</group>
+			<matchpair>
+				<term>Glittering generalities</term>
+				<definition>A cereal box boasts that its ingredients are “all natural.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Bandwagon</term>
+				<definition>Vote for Candidate X! He is leading in the polls by a significant margin.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>A political figure opens his or her speech with, “My fellow Americans, I know that these are tough times for us.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Card stacking</term>
+				<definition>A theme park advertisement shows all the fun to be had but does not show the long lines or costly admission prices.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Transfer</term>
+				<definition>A local organization uses an Uncle Sam poster to recruit volunteers</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Matching</type>
+		<standard state="LA.910.6.3.1; CC L910.3"></standard>
+		<label>Match the propaganda technique with its example.</label>
+		<group>4</group>
+			<matchpair>
+				<term>Transfer</term>
+				<definition>A political candidate wears a flag pin on his or her shirt. </definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Name calling</term>
+				<definition>“You would only vote for that idea if you wanted to live in a communist country.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Glittering generalities</term>
+				<definition>A cereal box boasts that its ingredients are “all natural.”</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Testimonial</term>
+				<definition>A golfer promotes a luxury car.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Plain folks</term>
+				<definition>An ad portrays a regular family visiting a theme park.</definition>
+				<credit>0.2</credit>
+			</matchpair>
+	</item>
+	<item>
+		<standard state="LA.910.6.3.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>You are working on an essay for your history class. You have researched many important facts about the first lunar landing and now need to include them in your essay. Which of the following ideas requires an internal and external citation? </label>
+			<choice>
+				<choicelabel>The U.S. was the first country to send a man to the moon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Man walked on the moon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Astronauts spent 21 hours on the moon.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The U.S. flag was planted on the moon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.3.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>You are working on an essay for your history class. In your research, you read that a plaque with the following quotation was put on the moon: “Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.” You would like to include this information in your essay as a direct quotation. What type of citation, if any, would you need to include?</label>
+			<choice>
+				<choicelabel>A Works Cited entry in parentheses needs to accompany the quotation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A signaling phrase should follow the quotation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Parenthetical citation and a Works Cited entry should be used.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No citation is required if quotation marks are used.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.3.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>You are working on an essay for your history class. In your research, you read that a plaque with the following quotation was put on the moon: “Here men from the planet Earth first set foot upon the Moon. July 1969 AD. We came in peace for all mankind.” You would like to include this information in your essay as a paraphrase. What type of citation, if any, would you need to include?</label>
+			<choice>
+				<choicelabel>A signaling phrase such as “According to...” needs to introduce the paraphrase.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A Works Cited entry in parentheses needs to accompany the paraphrase.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Parenthetical citation and a Works Cited entry should be used.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No citation is required because it is not a direct quotation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>A student is researching for a project on the most common pests in vegetable gardens. Which of the following set of ideas would be best for him or her to develop?</label>
+			<choice>
+				<choicelabel>Location, quality of soil, watering needs, and fertilization</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Weeds, beetles, aphids, and caterpillars</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Shovel, hoe, stakes, string, and fencing</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pesticide, herbicide, and natural solutions </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>A student is researching for a project on improving the quality of a vegetable garden. Which of the following set of ideas would be best for him or her to develop?</label>
+			<choice>
+				<choicelabel>Peppers, tomatoes, cucumbers, and squash</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Location, quality of soil, watering needs, and fertilization</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Shovel, hoe, stakes, string, and fencing </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Local nurseries, home improvement stores, farmers’ market</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>A student is researching for a project on the types of vegetable plants that grow best in his or her climate. Which of the following set of ideas would be best for him or her to develop?</label>
+			<choice>
+				<choicelabel>Shovel, hoe, stakes, string, and fencing </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Peppers, tomatoes, cucumbers, and squash</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Sun, shade, and partial shade</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Roses, daisies, tulips, and lilies</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>For a group project on the justice system, students have generated several ideas. Based on the topic, which idea should &lt;strong&gt;not&lt;/strong&gt; be developed?</label>
+			<choice>
+				<choicelabel>Police make arrests.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Courts determine guilt or innocence.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Correctional facilities rehabilitate.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Lawyers make money.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>For a group project on hunger in the United States, students have generated several ideas. Based on the topic, which idea should &lt;strong&gt;not&lt;/strong&gt; be developed?</label>
+			<choice>
+				<choicelabel>Who is hungry in the United States?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>What does it mean to be hungry?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>How can we help the hungry?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Why does the body require food?</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>For a group project on lowering the voting age, students have generated several ideas. Based on the topic, which idea should &lt;strong&gt;not&lt;/strong&gt; be developed?</label>
+			<choice>
+				<choicelabel>Working teenagers pay taxes just like adults.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Teenagers have to follow the laws like adults.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Some adults are less informed than some teenagers.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Teenagers have other responsibilities in life.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>A student is writing a paper on the history of slavery. He recorded the following information during his research: Frederick Douglass said, “I didn&apos;t know I was a slave until I found out I couldn&apos;t do the things I wanted.” The student has decided on the topics of his body paragraphs; which of the following paragraphs would this information help develop?</label>
+			<choice>
+				<choicelabel>The beginning of the slave trade</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Slavery throughout the world</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>What it means to be a slave</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Working conditions for slaves </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>A student is writing a paper on the history of slavery. He recorded the following information during his research: “Slavery occurs when one human being is legally the property of another, can be bought or sold, is not allowed to escape, and must work for the owner without any choice involved.” The student has decided on the topics of his body paragraphs; which of the following paragraphs would this information help develop?</label>
+			<choice>
+				<choicelabel>Slavery throughout the world</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Working conditions for slaves </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>What it means to be a slave</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The end of the slave trade</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.1.1; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>A student is writing a paper on the history of slavery. He recorded the following information during his research: Abraham Lincoln said, &quot;We must free the slaves or be ourselves subdued.” The student has decided on the topics of his body paragraphs; which of the following paragraphs would this information help develop?</label>
+			<choice>
+				<choicelabel>What it means to be a slave</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Living conditions for slaves</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The end of the slave trade </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Slavery throughout the world</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.1; CC W910.7"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>You are beginning to complete research for a biology project and know that you need to use credible sources. Which of the following sources would be the best place to begin your research?</label>
+			<choice>
+				<choicelabel>Wikipedia entries</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Online Biology Journal </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Discussion boards on the topic</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Blogs by people interested in the same topic</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.1; CC W910.7"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>You are beginning to research for a U.S. history project on slavery and know that you need to use credible sources. Which of the following sources would be the best place to begin your research?</label>
+			<choice>
+				<choicelabel>Wikipedia entries on slavery and the slave trade</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Primary source document</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>History teacher’s personal web site</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Interview with a neighbor who knows about history</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.1; CC W910.7"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>You are beginning to research for an English project and know that you need to use credible sources. Which of the following sources would be the best place to begin your research?</label>
+			<choice>
+				<choicelabel>Wikipedia entries on the author and book</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Online Literature Database</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Blogs by people interested in the same book</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Study guide web sites</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>Based on the following sentence that uses a book as a source, what type of information needs to be included in the parenthetical citation?&lt;br /&gt;&lt;br /&gt;Maria Nicholson adds, “Research shows painting a nursery orange and blue and softly playing the fight song aids in Gator cognitive development.”</label>
+			<choice>
+				<choicelabel>Page number</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Publisher</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Author’s name</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Publication date </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>In the following Works Cited entry, what is “How to Raise Gators”?&lt;br /&gt;&lt;br /&gt;&quot;How to Raise Gators.&quot; HowToDo.com. How to Do, n.d. Web. 24 Feb. 2006.</label>
+			<choice>
+				<choicelabel>Article title</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Website title</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Magazine title</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Book title</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>A student writes, “Raising Gators can be a rewarding yet costly endeavor. Take a typical football outing, for example. Tickets alone will cost $40 each, and if you add to that the necessary food and two bottles of Gator juice they will consume to ward off dehydration in the Florida heat, you will find yourself shelling out around $60 for that one event.” &lt;br /&gt;&lt;br /&gt;The information came from page 12 of Maria Nicholson’s book &lt;i&gt;Bringing Up Gators&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;The Works Cited entry for that information is:&lt;br /&gt;Nicholson, Maria. &lt;i&gt;Bringing Up Gators&lt;/i&gt;. Portland: Alumni Fans Publishing, 1999. Print.&lt;br /&gt;&lt;br /&gt;Which of the following correctly uses the parenthetical citation for this source and the information as it is used here?</label>
+			<choice>
+				<choicelabel>(Nicholson 12)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(Bringing Up Gators, 12)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(Alumni Fans Publishing, Nicholson)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(Maria Nicholson, page 12) </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>A student has researched psychoanalysis for an essay that he is writing for his psychology course. He has gathered the following information:&lt;ul&gt;&lt;li&gt;Psychoanalysis is also called Freudian psychology.&lt;/li&gt;&lt;li&gt;It examines the unconscious as the reason for psychological issues.&lt;/li&gt;&lt;li&gt;The theory was developed in the 1890s.&lt;/li&gt;&lt;li&gt;A psychoanalyst examines the patient’s dreams.&lt;/li&gt;&lt;li&gt;For treatment to be successful, the patient has to want to get better.&lt;/li&gt;&lt;li&gt;Dreams communicate the unconscious struggles of a person.&lt;/li&gt;&lt;li&gt;It is a theory that adult problems can be traced back to childhood origins.&lt;/li&gt;&lt;li&gt;The main technique of treatment is interpretation of the patient’s unconscious conflicts.&lt;/li&gt;&lt;/ul&gt;Which of the following organization of topics would be the most effective for his informative essay?</label>
+			<choice>
+				<choicelabel>The development of psychoanalysis and the importance of the unconscious</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Types of treatment in psychoanalysis, effectiveness of treatment, and theories about the technique</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The role of the unconscious in people’s fears and phobias and the type of treatment that should be used </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>History of psychoanalysis, theory of psychoanalysis, and methods of treatment using psychoanalysis</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>A student has researched psychoanalysis for an essay that he is writing for his psychology course. His notes are included below:&lt;ul&gt;&lt;li&gt;Psychoanalysis is also called Freudian psychology.&lt;/li&gt;&lt;li&gt;It examines the unconscious as the reason for psychological issues.&lt;/li&gt;&lt;li&gt;These theories are pure psycho-babble and not founded on science at all.&lt;/li&gt;&lt;li&gt;The theory was developed in the 1890s.&lt;/li&gt;&lt;li&gt;A psychoanalyst examines the patient’s dreams.&lt;/li&gt;&lt;li&gt;For treatment to be successful, the patient has to want to get better.&lt;/li&gt;&lt;li&gt;Dreams communicate the unconscious struggles of a person.&lt;/li&gt;&lt;li&gt;It is a theory that adult problems can be traced back to childhood origins.&lt;/li&gt;&lt;li&gt;The main technique of treatment is interpretation of the patient’s unconscious conflicts.&lt;/li&gt;&lt;/ul&gt;Which information should be omitted in an informative essay?</label>
+			<choice>
+				<choicelabel>For treatment to be successful, the patient has to want to get better.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It examines the unconscious as the reason for psychological issues.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is a theory that adult problems can be traced back to childhood origins.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> These theories are pure psychobabble and not founded on science at all.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.2; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>A student has researched psychoanalysis for an essay that he is writing for his psychology course. He has gathered conflicting information. Modern Psychology says, “The psychoanalyst is an integral part of the healing process. He or she can access the patient’s unconscious through dream interpretation and free association and help the patient make sense of his or her past and present” while Wikipedia says, “One suffering from psychological distress can analyze his or her dreams and interpret his or her actions; the psychoanalyst is not essential to the healing process.”&lt;br /&gt;&lt;br /&gt;What should he do with this conflicting information?</label>
+			<choice>
+				<choicelabel>Include both quotations and let the reader decide which one to believe.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Use the quotation from Wikipedia.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Consult a third source to see which perspective has more support.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Use the quote from Modern Psychology.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.4; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Writing false information about a company, product, or person with the intention to harm is considered ______________________________ and is punishable by law.</label>
+			<choice>
+				<choicelabel>slander</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>libel</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plagiarism</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>copyright infringement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.4; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Speaking false information about a company, product, or person with the intention to harm is considered ______________________________ and is punishable by law.</label>
+			<choice>
+				<choicelabel>copyright infringement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>slander</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plagiarism</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>libel </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.6.2.4; CC W910.8"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Words, images, music, and ideas are protected by ___________________________; claiming someone else’s work as your own is against the law.</label>
+			<choice>
+				<choicelabel>plagiarism</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>copyright</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>publisher’s rights</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>libel laws</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.4; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Read the following example of student writing, and then use the accompanying &lt;a href=&quot;&quot; onclick=&quot;window.open(&apos;/webdav/res0059/educator_eng2/v10/power/rubric.htm&apos;,&apos;MyWindow&apos;,&apos;toolbar=no,location=no,directories=no, status=yes,menubar=no,scrollbars=yes,resizable=yes,width=800,height=600&apos;); return false&quot; title=&quot;Text will open in a new window&quot; class=&quot;textOnly&quot;&gt;rubric&lt;/a&gt; to evaluate the student’s idea development. &lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Which category best describes his or her idea development?</label>
+			<choice>
+				<choicelabel>Excellent</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Good</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Adequate</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Needs improvement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.4; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Read the following example of student writing, and then use the accompanying &lt;a href=&quot;&quot; onclick=&quot;window.open(&apos;/webdav/res0059/educator_eng2/v10/power/rubric.htm&apos;,&apos;MyWindow&apos;,&apos;toolbar=no,location=no,directories=no, status=yes,menubar=no,scrollbars=yes,resizable=yes,width=800,height=600&apos;); return false&quot; title=&quot;Text will open in a new window&quot; class=&quot;textOnly&quot;&gt;rubric&lt;/a&gt; to evaluate the student’s organization of ideas.&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Which category best describes his or her organization?</label>
+			<choice>
+				<choicelabel>Good</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Excellent</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Needs improvement</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Adequate</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.4; CC W910.5"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Read the following example of student writing, and then use the accompanying &lt;a href=&quot;&quot; onclick=&quot;window.open(&apos;/webdav/res0059/educator_eng2/v10/power/rubric.htm&apos;,&apos;MyWindow&apos;,&apos;toolbar=no,location=no,directories=no, status=yes,menubar=no,scrollbars=yes,resizable=yes,width=800,height=600&apos;); return false&quot; title=&quot;Text will open in a new window&quot; class=&quot;textOnly&quot;&gt;rubric&lt;/a&gt; to evaluate the student’s sentence variety. &lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Which category best describes his or her sentence variety?</label>
+			<choice>
+				<choicelabel>Excellent</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Good</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Adequate</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Needs improvement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. Read the essay, determine if improvements are necessary, and, if so, identify the suggestion that would improve idea development.&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Include specific examples for each point and explain the examples.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Develop the introduction and conclusion with statistics.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Omit the paragraph beginning with “Hunger causes all sorts of problems.”</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No improvements are needed in the area of idea development.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. Read the essay. Based on the content of the essay, which of the following sentences would be the best thesis statement?&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Hunger is a serious and preventable problem that many Americans experience.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Homeless people are not the only people who struggle with hunger.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>One of the biggest problems in America is hunger.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Hunger is a big problem in America and throughout the world.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. Read the essay and identify the suggestion that would improve the idea development of the last paragraph.&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Provide more details about the wasted food and explain how that idea connects with the problem of hunger in America.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>End with a quotation about hunger and its damaging effects.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Combine the last paragraph with the paragraph beginning with “According to Glenda Dale...”</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Provide a story of someone who struggled with hunger and poverty and explain how he or she survived the hardships.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. Read the essay and determine which organizational pattern would be the best way to organize the ideas.&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Cause and effect</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Problem and solution</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Definition</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Exemplification</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. She has asked you to read the essay and evaluate her word choice. Which of the following statements would you give as feedback? &lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Word choice is excellent; every word has a purpose and is effective in communicating the ideas.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Word choice is good; some words like “big problem” or “all sorts of problems” could be improved. </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Word choice is very plain; student should use a thesaurus for words to replace words like “development,” “food,” and “problem.”</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Word choice is too advanced and does not make sense; student should change words like “physical,” “performance,” and “agriculture.”</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="LA.910.3.3.1; CC W910.4"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>A classmate has asked you to read his or her essay on hunger in America. Read the essay, determine if improvements are necessary, and, if so, identify the suggestion that would improve sentence variety.&lt;br /&gt;&lt;br /&gt;     What does it mean to go hungry? It is not the burning sensation in one’s stomach around mealtime. It is the daily reality that one does not have access to enough food to live a healthy life. Hunger is a big problem in America and throughout the world. &lt;br /&gt;&lt;br /&gt;     According to Glenda Dale, founder of One Source food bank in New York, hungry people are not necessarily homeless people. The majority of the families that come to her food bank have at least one working adult and live in an apartment or house. &lt;br /&gt;&lt;br /&gt;     Hunger causes all sorts of problems. Hunger weakens the body and causes those who regularly go without food to become sick more easily. Hunger harms physical development and can result in death. According to “The Links Between Nutrition and Cognitive Development of Children,” child hunger poses additional dangers to overall development, behavior, and school performance. In America one in four elementary school children comes to school without having eaten since the previous day. &lt;br /&gt;&lt;br /&gt;     Hunger in America is entirely preventable. According to the U.S. Department of Agriculture, an estimated 92,000 tons of food are wasted each day in America.</label>
+			<choice>
+				<choicelabel>Make the sentences shorter and easier to understand.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Vary the sentence beginnings; avoid repetition of words or phrases.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Combine the sentences to make them longer and more developed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The sentences have perfect variety; no changes need to be made.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>16</group>
+		<label>Were there any concepts in this pretest that you feel comfortable enough to explain to someone else?  If so, which concepts?</label>
+		<credit>1</credit>
+	</item>
+</assessment>

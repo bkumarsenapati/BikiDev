@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.03 PEMDAS">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>16 + 8/2</label>
+			<blank>
+				<accepted>20</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-8 -(-8) + 7(2 - 5)</label>
+			<blank>
+				<accepted>-21</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>2 + (-8) x (-8)+ 4 </label>
+			<blank>
+				<accepted>70</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-18 ÷ (-2) + (-9)</label>
+			<blank>
+				<accepted>0</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>12 x 3&lt;sup&gt;2&lt;/sup&gt; - 2(4)</label>
+			<blank>
+				<accepted>100</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-3 + 4 ÷ 4 </label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;p&gt;&lt;u&gt; 12 x 3 &lt;/u&gt;
+ -6 + 4&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+
+Do not enter any spaces in your answer.  Please make sure your answer is written as an improper simplified fraction (no decimals). </label>
+			<blank>
+				<accepted>18/5</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>11 + (-9)&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>92</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>3 + 3&lt;sup&gt;2&lt;/sup&gt; - 5</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>3 + (5 + 2 - 4)&lt;sup&gt;2&lt;/sup&gt; + 12</label>
+			<blank>
+				<accepted>24</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+</assessment>

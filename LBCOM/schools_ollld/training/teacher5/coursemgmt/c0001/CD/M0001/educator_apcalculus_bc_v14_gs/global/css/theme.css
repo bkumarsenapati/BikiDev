@@ -1,0 +1,51 @@
+body{
+	/*font-family:	'Name of Google Font',Arial,Helvetica,Sans Serif*/
+}
+
+
+/* Headbar 
+	- Background Color
+	- Font Size
+	- Change to Background Image
+	* Note: Do not edit Position of Headbar
+*/
+#headbar{
+	background-color:#537FA1;
+}
+#headbar #headbar_inner #course_title{
+	font-size:24px;	
+	/*font-family:	'Name of Google Font',Arial,Helvetica,Sans Serif*/
+}
+
+/* Page Content 
+
+*/
+#page_header{
+	border-bottom:solid 1px #e8e8e8;
+}
+	#page_header .page_title{
+		/* DO NOT EDIT FONT SIZE or POSITION */
+		color:#537FA1;
+		/*font-family:	'Name of Google Font',Arial,Helvetica,Sans Serif*/
+	}
+	#page_header .page_number{
+		/* DO NOT EDIT POSITION */
+	}
+	
+/* Footer
+	* Note: Do NOT edit position.
+*/	
+#footer #footer_copyright.block{
+	background-color:#ffffff;
+	border:solid 1px #e8e8e8;
+}
+
+
+/* Side Menu */
+.sidemenu_closebtn{
+	background-color:#537FA1;
+}
+.sidemenu_closebtn:hover{
+	background-color:#5F91B8;
+}
+

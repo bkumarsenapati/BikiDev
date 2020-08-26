@@ -1,0 +1,49 @@
+
+.checkbox, .radio {
+	width: 19px;
+	height: 25px;
+	padding: 0 5px 0 0;
+	background: url(../images/checkbox.png) no-repeat;
+	display: block;
+	clear: left;
+	float: left;
+}
+.radio {
+	background: url(../images/radio.png) no-repeat;
+}
+.select {
+	position: absolute;
+	width: 57px; /* With the padding included, the width is 190 pixels: the actual width of the image. */
+	height: 26px;
+	padding: 0 24px 0 8px;
+	color: #fff;
+	font: 12px/21px arial,sans-serif;
+	background-image:url(../images/calcombobg.gif);
+	background-repeat:no-repeat;
+	overflow: hidden;
+}
+
+.textbox{
+height:19px;
+background-image:url(../images/textarea.gif);
+border:#D2E1E4 1px solid;
+width:218px;}
+
+.textarea{
+height:200px;
+background-image:url(../images/textarea.gif);
+border:#D2E1E4 1px solid;
+width:218px;}
+
+.textboxsmall{
+height:19px;
+background-image:url(../images/textarea.gif);
+border:#D2E1E4 1px solid;
+width:60px;}
+
+.fbutton{
+background-color:#E7E7E7;
+height:25px;
+color:#333333;
+font-weight:bold;
+border:1px #B0ABAB solid;}

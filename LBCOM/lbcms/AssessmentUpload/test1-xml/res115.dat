@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Science Lab-Brown Fianl Exam">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is taxonomy?</label>
+			<choice>
+				<choicelabel>the scientific study of how living things are classified</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the name of Aristotle&#39;s classification system</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the process used by geologists to classify rocks</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the process of observing an organism&#39;s behavior</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which infectious disease is NOT transmitted by an animal bite?</label>
+			<choice>
+				<choicelabel>encephalitis</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>rabies</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>botulism</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Lyme disease</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What part of a woody stem forms rings that indicate the tree&#39;s age?</label>
+			<choice>
+				<choicelabel>xylem</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>phloem</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>pith</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>inner bark</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Root hairs help a plant</label>
+			<choice>
+				<choicelabel>transport food to the root.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>absorb water and nutrients.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>protect the root.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>store food.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>An arthropod&#39;s tough outer covering is called</label>
+			<choice>
+				<choicelabel>an endoskeleton.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>an exoskeleton.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>armor.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a mantle.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Feathers keep a bird warm by</label>
+			<choice>
+				<choicelabel>giving the bird a streamlined shape.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>helping a bird sweat.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>trapping air next to the bird&#39;s body.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>raising the temperature of the environment.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A signal that causes an organism to react in some way is called a(n)</label>
+			<choice>
+				<choicelabel>stimulus.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>response.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>idea.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>message.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of these is NOT a function of establishing a territory?</label>
+			<choice>
+				<choicelabel>to gather food</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to remain safe</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to get exercise</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to attract a mate</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>To where do adult salmon migrate?</label>
+			<choice>
+				<choicelabel>to any nearby stream</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to a stream that is unfamiliar to them</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to any stream with slow, safe currents</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to the stream where they hatched from eggs</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Sugar molecules can combine to form large molecules called</label>
+			<choice>
+				<choicelabel>proteins.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>starches.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>enzymes.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>lipids.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+
+	<item>
+		<type>Multiple Choice</type>
+		<label>What happens during cytokinesis in animal cells?</label>
+			<choice>
+				<choicelabel>A new round of mitosis begins.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two new daughter cells are formed.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Each organelle divides into two parts.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A cell plate forms in the middle of the cell.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What did Gregor Mendel do to study different characteristics in his genetics experiments?</label>
+			<choice>
+				<choicelabel>He studied only asexual animals.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He studied only self-pollinating plants.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He cross-pollinated plants.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>He cross-pollinated animals.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the purpose of the Human Genome Project?</label>
+			<choice>
+				<choicelabel>to identify the DNA sequence of every gene in the human genome</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to clone every gene on a single chromosome in human DNA</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to splice every gene on a single chromosome in human DNA</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>to inbreed the best genes on every chromosome in human DNA</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>When a jellyfish paralyzes a tiny fish with its poisonous tentacles, the fish is the</label>
+			<choice>
+				<choicelabel>predator.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>prey.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>host.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>parasite.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of the following describes an interaction in which one organism kills and eats another?</label>
+			<choice>
+				<choicelabel>competition</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>symbiosis</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>predation</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>mutualism</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of the following is NOT a safe method of managing hazardous wastes?</label>
+			<choice>
+				<choicelabel>storing them in rock layers deep underground</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>using living organisms to break them down</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>releasing them into lakes and rivers</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>burying them in a secure landfill</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The bacteria that break down oil after an oil spill in the ocean are</label>
+			<choice>
+				<choicelabel>quickly killed by the oil.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>always present in the ocean.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>better able to handle large spills than small ones.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>dangerous to ocean organisms.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Earth&#39;s atmosphere contains about four times as much nitrogen as</label>
+			<choice>
+				<choicelabel>carbon dioxide.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>oxygen.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>hydrogen.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>helium.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>On average, a snowfall of 20 centimeters would equal a rainfall of</label>
+			<choice>
+				<choicelabel>1 centimeter.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2 centimeters.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3 centimeters.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 centimeters.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A funnel-shaped cloud that touches Earth&#39;s surface is called a</label>
+			<choice>
+				<choicelabel>hurricane.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>cyclone.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>tornado.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>thunderhead.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>On a graph showing distance versus time, a horizontal line represents an object that is</label>
+			<choice>
+				<choicelabel>moving at a constant speed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increasing its speed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>decreasing its speed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>not moving at all.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>In a conversion factor, what is special about the fraction used?</label>
+			<choice>
+				<choicelabel>The denominator is always 1.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The numerator is always 1.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The denominator and numerator are equal.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The denominator is always zero.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The ability to do work is called</label>
+			<choice>
+				<choicelabel>velocity.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>energy.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>conversion.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>friction.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Energy stored in the core of an atom is called</label>
+			<choice>
+				<choicelabel>electromagnetic energy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>nuclear energy</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>mechanical energy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>chemical energy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The temperature at which a solid changes into a liquid is called</label>
+			<choice>
+				<choicelabel>the boiling point.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the freezing point.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the melting point.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>absolute zero.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Bacteria that are decomposers break down large chemicals in dead organisms into small chemicals.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The bacteria that cause Lyme disease are transmitted through tick bites.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Fungi absorb food through hyphae that grow into a food source.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Auxin is a plant hormone that speeds up the rate at which a plant&#39;s cells grow.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The cnidarian body plan that is shaped like a bowl is called a polyp.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A gastropod has two shells held together by hinges and strong muscles.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The waste product carbon dioxide is removed from a fish&#39;s blood through its gills.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The social behavior of animals that live in a society follows the behavior pattern of instinct.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Organelles that use energy from sunlight to produce food are called mitochondria.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A doctor can look at the chromosomes of a cell in a karyotype.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The technique called cloning produces an organism that is genetically identical to its parent.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>On a branching tree, a species is more closely related to a species on the same branch than to one on a separate branch.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Organisms that capture the energy of sunlight to make food are called producers.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Resources that are not replaced as they are used, such as coal and oil, are nonrenewable resources.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A species in danger of becoming extinct in the near future is referred to as an endangered species.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A person who comes into contact with hazardous wastes over a period of many years has short-term exposure.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>According to the theory of global warming, the decrease in carbon dioxide is causing Earth&#39;s temperature to rise.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Incandescent light bulbs are less efficient than compact fluorescent bulbs.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A person who is caught in a flood while inside a car should leave the car.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The force of gravity decreases as the masses of objects increase.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>As a ship is unloaded, it rises higher in the water because the density of the ship and its cargo increases.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>During combustion, a fuel&#39;s electromagnetic energy is converted into thermal energy.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A 100-watt light bulb converts electrical energy into electromagnetic energy at a slower rate than a 40-watt light bulb.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Trapped air is a good conductor because it reduces heat transfer.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>As most substances are cooled, they expand.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img1.JPG&gt;&lt;br&gt;If the bacterium shown in the diagram was about to undergo binary fission, what would you expect to see in the cell that is not present in the diagram? Explain your answer.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img2.JPG&gt;&lt;br&gt;Which of the levels of organization shown in the diagram is the highest level that a sponge has?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img3.JPG&gt;&lt;br&gt;Identify the structures labeled A and describe their function.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img4.JPG&gt;&lt;br&gt;Explain the role of an animal such as the horse in the nitrogen cycle.</label>
+		<credit>5</credit>
+	</item>
+	
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img5.JPG&gt;&lt;br&gt;What is the steam in pipe F used for?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;b&gt;Questions 56-57:&lt;/b&gt;&lt;br&gt;&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img6.JPG&gt;&lt;br&gt;What does C represent?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>What is F called? What does it connect?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img7.JPG&gt;&lt;br&gt; What is the acceleration of the ball between 0 and 3 seconds?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img8.JPG&gt;&lt;br&gt;Why do you think the device shown contains a vacuum, or space from which the air has been removed?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res115/sbrown_final_exam/pictures/img9.JPG&gt;&lt;br&gt;What happens to each of the variables-temperature and thermal energy-during the changes indicated by line segments A and B?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Is it possible for a son to inherit an allele on an X chromosome from his father? Explain why or why not.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Explain how a group of organisms that is separated from the rest of its species can evolve different traits.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Explain how nitrogen oxides can form acid rain and how they can form photochemical smog.</label>
+		<credit>10</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Compare and contrast a cold front and a warm front.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>An object launched from Earth must attain a speed of 7,900 m/s to achieve a low orbit. What happens if the object&#39;s maximum speed is less than 7,900 m/s?</label>
+		<credit>10</credit>
+	</item>
+	
+	
+
+</assessment>

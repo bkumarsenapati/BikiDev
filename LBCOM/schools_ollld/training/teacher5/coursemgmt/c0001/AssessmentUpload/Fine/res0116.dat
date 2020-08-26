@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.07 Change of Base Formula">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>5</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Evaluate log&lt;sub&gt;3&lt;/sub&gt; 9.</label>
+			<choice>
+				<choicelabel>2		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.33</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Evaluate log&lt;sub&gt;2&lt;/sub&gt; 8.</label>
+			<choice>
+				<choicelabel>0.25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.33</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Evaluate log&lt;sub&gt;8&lt;/sub&gt; 12.</label>
+			<choice>
+				<choicelabel>0.84</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.67</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.50</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.19		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Evaluate log&lt;sub&gt;6&lt;/sub&gt; 14.</label>
+			<choice>
+				<choicelabel>1.47		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.68</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2.33</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.43</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Evaluate ln 5.</label>
+			<choice>
+				<choicelabel>0.62</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.70</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.61		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.95</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Evaluate ln 7.</label>
+			<choice>
+				<choicelabel>0.51</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.95		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0.85</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.61</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Write log&lt;sub&gt;3&lt;/sub&gt; 6 as a logarithm of base 2.</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 2 of 3 over log base 2 of 6&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 2 of 6 over log base 2 of 3&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 3 of 2 over log base 6 of 2&quot; /&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 6 of 2 over log base 3 of 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Write log&lt;sub&gt;4&lt;/sub&gt; 14 as a logarithm of base 3.</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 4 of 3 over log base 14 of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 14 of 3 over log base 4 of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 3 of 4 over log base 3 of 14&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_4_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 3 of 14 over log base 3 of 4&quot; /&gt;		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Write log&lt;sub&gt;8&lt;/sub&gt; 3 as a logarithm of base 5.</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 3 of 5 over log base 8 of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel> &lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 5 of 3 over log base 5 of 8&quot; /&gt;		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 8 of 5 over log base 3 of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 5 of 8 over log base 5 of 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Write log&lt;sub&gt;6&lt;/sub&gt; 5 as a logarithm of base 4.</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 4 of 5 over log base 4 of 6&quot; /&gt;    </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 4 of 6 over log base 4 of 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 5 of 4 over log base 6 of 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0116/educator_algebra2_v10/08_07c_5_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;log base 6 of 4 over log base 5 of 4&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

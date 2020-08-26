@@ -1,0 +1,52 @@
+<html>
+
+<head>
+<title></title>
+<script language="javascript" src="../validationscripts.js"></script>
+<script language="JavaScript">
+<!--
+       function validate(frm)
+       {
+           if(trim(frm.cf.value)=="")
+	   {
+	        alert("Enter Name of folder to create");
+		return false;
+	   }
+	   if(frm.cf.value.length>30)
+	   {
+	         alert("Please enter less than 30 characters for folder name");
+		 return false;
+	   }
+       }
+
+// -->
+</script>
+
+</head>
+
+<body  bgcolor="#F0F0F0" link="black" vlink="purple" alink="red" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0">
+<form name="cretefolderform" action="Folder.jsp" method="post" onsubmit="return validate(this);">
+   <br>
+   <br>
+  <table>
+       <tr>
+          <td>&nbsp;&nbsp;&nbsp;<font face="arial" size="1">*Do not give space in the folder name</font></td>
+       </tr>
+       <tr>
+          <td>&nbsp;&nbsp;&nbsp;<font face="arial" size="1">*Maximum length for the folder name is 30 characters</font></td>
+       </tr>
+  </table>
+  <br>
+  <table>
+       <tr>
+           <td>&nbsp;&nbsp;<font face="arial" size="2"><b>Enter Folder Name</b></font></td>
+	   <td>&nbsp;&nbsp;<input type=text name="cf" size="20" oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return UIDOnly(this, event)"></td>
+       </tr>
+       <tr>
+           <td align="right"><input type="submit" value="Create" name="submit"></td>
+	   <td align="left"><input type="button" value="Cancel" onclick="javascript: history.back();"></td>
+       </tr>
+  </table>
+</form> 
+</body>
+</html>

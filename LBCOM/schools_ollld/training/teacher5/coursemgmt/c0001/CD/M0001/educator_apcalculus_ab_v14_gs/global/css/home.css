@@ -1,0 +1,759 @@
+.mobile_mod {
+	color:#2e7f82;
+}
+
+#nav_menu .nav_menu_modules li .nav_menu_lessons {
+	left: 180px !important;
+}
+
+div#mobileTitle {
+	display:none;
+}
+
+.cfversion, .developers{
+	/* margin-left: 330px; */
+	color: white;
+	/* bottom: 0px; */
+	position: absolute !important;
+	margin-top: 642px;
+}
+
+.developers a{
+	color:white;	
+}
+
+.mobile_mod:hover {
+	color: #666666;
+}
+
+.mobile_lesson li a {
+	color:#2e7f82;
+}
+
+.mobile_lesson li a:hover {
+	color: #666666;
+}
+
+#wrapper {
+	background-image:url(../../global/images/home/bg_1000.jpg);
+	width:1000px;
+	margin: 40px auto 0px auto;
+	height:661px;
+	-webkit-box-shadow: 0px 0px 25px rgba(0, 0, 0, .25);
+	box-shadow: 0px 0px 25px rgba(0, 0, 0, .25);
+}
+
+
+
+#gsBtn {
+	color: white;
+	background-image: url(../../global/images/home/gs_btn.jpg);
+	width: 249px;
+	height: 27px;
+	display: block;
+	float: right;
+	padding-top: 9px;
+	padding-left: 10px;
+	text-transform: uppercase;
+	/* text-align: center; */
+	font-size: 13pt;
+}
+
+#right_col {
+	margin-top: 40px;
+	width:286px;
+	float:right;
+}
+
+/* THESE STYLES ARE MEANT TO MODIFY OR ADD TO EXISTING STYLES */
+body{
+/*	font-size:16px; */
+	font-size:14px;
+	color:#333333 !important;
+}
+
+#menua {
+	height: 40px;
+}
+
+.clear {
+   clear: both;			
+}
+.turned_arrow {
+	background: url(../images/home/arrow_gray_mobile.png) no-repeat !important;
+	background-position:left center !important;
+	color:#666666 !important;
+}
+
+
+
+
+.iphone_title {
+	margin-top:0px;
+	font-size:12pt !important;
+	color:white;
+	font-weight:bold;
+	padding-bottom:5px;
+	display:none;
+}
+	
+.gs_text1 {
+	display:block;	
+}
+
+.gs_text2 {
+	display:none;
+}
+
+#menu_inner {
+	width:1000px;	
+}
+
+
+#nav_menu {
+	margin-top:0 !important;
+}
+/*#nav_menu .nav_menu_modules {
+	margin-top: 40px !important; /* Must match with #nav_menu .nav_menu_modules li .nav_menu_lessons {} 
+}*/
+
+#nav_menu .nav_menu_modules li .nav_menu_lessons {
+	
+}
+
+.nav_menu_lessons li a.odd {
+	background-color: #f4f2f2;
+}
+
+.seg {
+	font-family: Arial, Helvetica, sans-serif;
+	padding-bottom:10px;
+	margin-top: 100px;
+	width:235px;
+/*	margin-left:38px; */
+	margin-left:48px;
+	margin-bottom:5px;
+	text-transform:uppercase;
+/*	font-size:12pt; */
+	font-size:11pt;
+	font-weight:bold;
+	color:#2e7f82;
+
+}
+#seg2 {
+	
+	
+	} /* remove after POC */
+
+.top30 {
+	margin-top:45px;
+}
+.arrow {
+	display:none;
+	margin-left:277px;
+	position:absolute;
+	z-index:10;
+}
+
+#submenu {
+	padding-top:15px;
+	padding-bottom:15px;
+	display:none;
+	z-index:10;
+	position:absolute;
+	width:278px;
+	background-color:white;
+	-moz-box-shadow:    0px 0px 30px black;
+  	-webkit-box-shadow: 0px 0px 30px black;
+ 	box-shadow:         0px 0px 30px black;
+}
+
+#navSubmenu {
+	margin-left:430px;
+}
+
+.lessons li {
+	background-position:left top;
+	list-style:none;
+	margin-left:auto;
+	margin-right:auto;
+	width:235px;
+}
+
+.lessons li:hover {
+
+	background-position:left top;
+}
+
+.lessons li a {
+	padding-top:8px;
+	padding-bottom:8px;
+	display:block;
+	width:236px;
+	color:#0a737a;
+	font-weight:normal;
+}
+
+.lessons li a:hover {
+	color:#666666;
+}
+
+#right_col {
+	margin-top: 43px;
+	width:310px;
+	float:right;
+}
+
+#gs {
+/*	margin-left:38px; */
+	margin-left:48px;
+	padding-left:20px;
+	padding-top:8px;
+	background:url(../images/home/gs.jpg);
+	height:25px;
+	width:215px;
+	color:white;
+}
+
+#gs a {
+	color:white;
+	text-decoration:none;
+		text-transform:uppercase;
+}
+
+#gs:hover {
+	background:url(../images/home/gs_gray.jpg);
+	color:white;
+}
+#preload {
+	display:none;	
+}
+
+body{
+	background:url(../images/home/bg.jpg) top center;
+}
+
+.right_menu_modules li {
+
+	background-position:left top;
+	list-style:none;
+	margin-left:50px;
+/*	margin-left:auto;
+	margin-right:auto; */
+	width:235px;
+}
+
+.right_menu_modules li:hover {
+
+	background-position:left top;
+}
+
+.right_menu_modules li a:hover {
+		color:#666666;
+}
+
+.right_menu_modules li a {
+	padding-top:8px;
+	padding-bottom:8px;
+	display:block;
+	width:260px;
+	color:#2e7f82;
+	font-weight:normal;
+}
+
+.bottom_line {
+	border-bottom: 1px solid #cccccc;
+
+}
+
+.right_nav_menu_lessons {
+	margin-left:-354px;
+	display:none;
+	position:absolute;
+	background-color: white;
+
+}
+
+.right_mod_link {
+	
+}
+
+#module_list{
+
+}
+
+
+#module_list ul li a{
+
+}
+#module_list ul li a:hover{
+
+}
+	
+
+
+#popup{
+	
+}
+
+#lessons a{
+	
+}
+
+#lessons a:hover{
+	
+}
+
+#course_title{
+	display:none;	
+}
+
+.cfversion, .developers{
+	color:#ffffff;	
+}
+#footer{
+	display:none;
+	margin-left:440px;	
+}
+a#index_bookmark{
+	background-color:#DD7000;	
+}
+
+#right_menu_seg1_mobile {
+	display: none;	
+}
+
+#right_menu_seg2_mobile {
+	display: none;	
+}
+@media screen and (min-width : 1000px){
+	#menua #menu_inner {
+		width: 1000px !important;
+	}
+}
+/* iPad Landscape, FLVS standard Width */
+@media screen and (min-width : 800px) and (max-width: 1000px){
+	
+	.nav_menu_lessons li a .lesson_num {
+		font-size: 21px !important;
+	}
+	
+	.nav_menu_lessons li a .lesson_title {
+		font-size: 11px !important;
+	}
+
+	.nav_menu_lessons li a {
+		width: 95px !important;
+		font-size: 12px !important;
+	}
+	
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 504px !important;
+	}
+}
+
+@media screen and (min-width : 769px) and (max-width: 799px){	
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 424px !important;
+	}
+}
+
+@media screen and (min-width : 769px) and (max-width: 799px){	
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+		width: 349px !important;
+	}
+}
+
+
+@media screen and (min-width : 700px) and (max-width: 1000px){
+
+	.cfversion, .developers{
+		/* margin-left: 330px; */
+		color: white;
+		/* bottom: 0px; */
+		position: absolute !important;
+		margin-top: 843px;
+	}
+
+	
+	#menu_inner {
+		width:677px !important;	
+	}
+	
+	#wrapper{
+
+		background:url(../images/home/ipadvert_bkgnd.jpg) 0 0 no-repeat;
+		height: 860px;
+		width:677px;
+		-moz-box-shadow:    0;
+		-webkit-box-shadow: 0;
+		box-shadow:         0;
+	}
+	
+	#navSubmenu {
+		margin-left: 108px;
+	}
+	
+	#nav_menu .nav_menu_modules li .nav_menu_lessons {
+
+	}
+	
+	
+
+	
+}
+
+
+
+@media screen and (min-width : 640px) and (max-width: 699px){
+	.cfversion, .developers{
+		/* margin-left: 330px; */
+		color: white;
+		/* bottom: 0px; */
+		position: absolute !important;
+		margin-top: 180px;
+	}
+	
+	#menu_inner {
+		width:640px !important;	
+	}
+	
+	#menua {
+		height: 40px;
+	}
+	
+	#wrapper{
+		background:url(../images/home/bkgnd_640.png) 0 0 no-repeat;
+		height: 860px;
+		width:640px;
+	}
+	
+	#navSubmenu {
+		margin-left: 70px;
+	}
+	
+	#right_col {
+		margin-top: 0px;
+		padding-top:90px;
+		width: 250px;
+		float: none;
+		margin-left: 350px;
+	}
+	
+	.seg {
+		margin-left: 28px;
+	}
+	
+	#gs {
+		margin-left: 28px;
+	}
+	#gsBtn {
+		color: white;
+		background-image: url(../../global/images/home/gs_btn.jpg);
+		width: 249px;
+		display: block;
+		float: none;
+		text-transform: uppercase;
+		margin: -32px 0px 0px 32px;
+}
+	
+	.right_menu_modules li {
+		margin-left:28px;
+	}
+	
+	div#seg1 {
+		margin-top: -40px;
+	}
+}
+
+@media screen and (min-width : 568px) and (max-width: 639px){
+	.top30 {
+		margin-top: 10px !important;
+	}
+	
+	#menu_inner {
+		width:568px !important;	
+	}
+	
+	#menua {
+		height: 40px;
+	}
+	
+	#wrapper{
+		background:url(../images/home/bkgnd_568.png) 0 0 no-repeat;
+		height: 860px;
+		width:568px;
+	}
+	
+	#navSubmenu {
+		margin-left: -5px;
+	}
+	
+	#right_col {
+		margin-top: 0px;
+		padding-top:90px;
+		width: 250px;
+		float: none;
+		margin-left: 290px;
+	}
+	
+	#gs {
+		margin-left: 7px;
+	}
+	.seg {
+		margin-left: 6px;
+	}
+	
+	#seg2 {
+		margin-left: 13px;
+		margin-top: 40px;
+	}
+
+	.right_menu_modules li {
+		margin-left:5px;
+	}
+	
+	#gsBtn {
+		color: white;
+		background-image: url(../../global/images/home/gs_btn.jpg);
+		width: 249px;
+		display: block;
+		float: none;
+		margin: -33px 0px 0px 19px;
+		text-transform: uppercase;
+	}
+	
+	div#seg1 {
+		margin: -60px 0px 0px 14px;
+	}
+
+
+	
+}
+
+/* iPhone/iPod Touch Portrait */
+@media screen and (min-width : 0px) and (max-width : 567px) {
+	
+	.gs_text1 {
+		display:none;	
+	}
+
+	.gs_text2 {
+		display:block;
+	}
+	
+	.mobile_mod {
+		display:block;
+		padding-left:20px;
+		font-weight:normal;
+		font-size:11pt;
+		padding-top:6px;
+		padding-bottom:7px;
+
+	}
+
+	.mobile_mod:hover {
+		padding-left:20px;
+		font-weight:normal;
+		font-size:11pt;
+	}
+	
+	#menua {
+		display:none;	
+	}
+	
+	#top_bar {
+		position: fixed;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		background-color: #ffffff;
+		z-index: 999999999999999;
+		display: block;
+		-webkit-box-shadow: 0px 5px 10px 0px rgba(104, 104, 104, .4);
+		box-shadow: 0px 5px 10px 0px rgba(104, 104, 104, .4);
+	}
+	
+	#wrapper{
+		margin-right:auto !important;
+		margin-left:auto !important;
+		background: none!important;
+		width:180px !important;
+
+		-moz-box-shadow:    0px 0px 0px #a5a5a5;
+		-webkit-box-shadow: 0px 0px 0px #a5a5a5;
+		box-shadow:         0px 0px 0px #a5a5a5;
+
+		
+	}	
+	
+	#gsBtn {
+		color: white;
+		background-image: url(../../global/images/home/gs_btn.jpg);
+		background-position: right top;
+		margin-bottom: 26px;
+		margin-top: 26px;
+		width: 218px;
+		display: block;
+		float: right;
+		text-transform: uppercase;
+	}
+	
+	body{
+		background: url(../images/home/ipadvert_bkgnd_600.jpg) no-repeat !important;
+		background-position:center top !important;
+		background-color:#e7e3da !important;
+	
+}
+	
+	#right_menu_seg1 {
+		display:none !important;	
+	}
+	
+	#right_menu_seg2 {
+		display:none !important;	
+	}
+	
+	#right_menu_seg2_mobile {
+		display: block !important;	
+	}
+	
+	h3:hover {
+		background-position:left top;
+	}
+	
+	h3 {
+		width:230px;
+		background-position:left top;
+		margin-bottom:0 !important;
+	}
+	
+	#right_menu_seg1_mobile div {
+
+		background-color:white;
+		-moz-box-shadow:    0px 0px 30px #a5a5a5;
+		-webkit-box-shadow: 0px 0px 30px #a5a5a5;
+		box-shadow:         0px 0px 30px #a5a5a5;
+		width: 230px !important;
+	}
+	
+	#right_menu_seg2_mobile div {
+
+		background-color:white;
+		-moz-box-shadow:    0px 0px 30px #a5a5a5;
+		-webkit-box-shadow: 0px 0px 30px #a5a5a5;
+		box-shadow:         0px 0px 30px #a5a5a5;
+		width: 230px !important;
+	}
+	
+	#right_menu_seg1_mobile {
+		display: block !important;
+		width: 210px;
+		
+		
+	}
+	#right_menu_seg2_mobile {
+		display: block !important;
+		width: 210px;
+		
+		
+	}
+	
+	#gs a {
+		font-weight:normal;
+	}
+	
+	#gs {
+		margin-top: 22px;
+		margin-bottom:15px;
+		background:url(../images/home/gs_mobile.jpg);
+		width: 210px !important;
+		margin-right:0 !important;
+		margin-left:0 !important;
+		padding-left:15px !important;
+	}
+	
+	#gs:hover {
+		background:url(../images/home/gs_mobile_gray.jpg);
+	}
+	
+	#right_col {
+		margin-top: -40px !important;
+		padding-top:90px;
+		width: 230px !important;
+		float: left !important;
+		margin-left: 25px !important;
+	}
+	
+	.seg {
+		width: 230px;
+		margin-left:0;
+		margin-top: 10px;
+		padding-bottom: 10px;
+	}
+	
+	#menua #menu_inner {
+		width: 100% !important;
+		height:45px;
+	}
+	
+	.menu_before {
+		display:none;	
+	}
+	
+	.menu_after {
+		display:none;	
+	}
+	
+	.menubtn {
+		display:none !important;	
+	}
+	
+	.iphone_title {
+		display:block;
+		text-transform:uppercase;
+	}
+	
+	#nav_menu .nav_menu_modules {
+	}
+	
+	div#mobileTitle {
+		color: white;
+		font-size: 14pt;
+		margin-top: -37px;
+		margin-bottom: 18px;
+		display:block;
+	}
+	.cfversion, .developers {
+		/* margin-left: 330px; */
+		color: white;
+		/* bottom: 0px; */
+		position: absolute !important;
+		margin-top: 803px;
+	}
+	div.footer {
+		margin-top: 150px;
+	}
+
+}
+
+
+
+@media screen and (max-width: 480px) {
+	
+	#menua {
+		height: 40px;
+	}
+	
+	#wrapper {
+		width:180px !important;
+	}
+	#menua #menu_inner {
+		width: 100%;
+	}
+
+}
+
+
+
+

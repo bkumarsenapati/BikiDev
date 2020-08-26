@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.06 Writing Equations of Lines">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Linear equations are equations that form a line.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which of the following equations has a slope of ½ and a y-intercept of -2?</label>
+			<choice>
+				<choicelabel>y = -2x + ½</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = ½x + 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = ½x - 2</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>½x - 2y = 4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Write the equation of the line that contains the points (2, 2) and (-3, 12).  
+
+Here is part of the answer.  Can you identify the missing part?
+
+y = -2x + ___</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>m = 2, b = -4</term>
+				<definition>y = 2x - 4</definition>
+				<credit>0.25</credit>
+			</matchpair>
+			<matchpair>
+				<term>m = 2 and contains the point (0,4)</term>
+				<definition>y = 2x + 4</definition>
+				<credit>0.25</credit>
+			</matchpair>
+			<matchpair>
+				<term>m = 0 and contains the point (0,2)</term>
+				<definition>y = 2</definition>
+				<credit>0.25</credit>
+			</matchpair>
+			<matchpair>
+				<term>m = -4 and contains the point (0,2)</term>
+				<definition>y = -4x + 2</definition>
+				<credit>0.25</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Which equation has a slope of 2 and contains the point (4,-4)?</label>
+			<choice>
+				<choicelabel>y = 4x - 4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 2x + 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 2x - 12</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 2x - 4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>The line y = 3x + 5 crosses the y axis at ______?</label>
+			<blank>
+				<accepted>5</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Write the equation of a line which contains the point (2,4) and (-2,2)</label>
+			<choice>
+				<choicelabel>y = -2x + 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = 2x + 4</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = ½x + 3</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = -4x + 2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>What type of lines have a slope of zero?</label>
+			<blank>
+				<accepted>horizontal</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The equation y = ¾x - 3 crosses the y axis at 3
+</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Write the equation of a line with the slope of -2 which contains the point (3,6)
+
+Show all work to receive credit for this problem.</label>
+		<credit>2</credit>
+	</item>
+</assessment>

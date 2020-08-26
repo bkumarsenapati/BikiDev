@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Course Cheatsheet</title>
+<meta charset="utf-8"/>
+<style>
+*{padding:0px; margin:0px;}
+html{height:100%;}
+body{
+margin:0;
+height:100%;
+overflow:hidden	
+}
+.topnav{
+	padding:10px;
+	background-color:#3B5A72;
+	text-align:right;
+}
+.link{padding: 4px 8px;font-size:14px; background-color:#fff; color:#666; text-decoration:none; font-family:Arial, Helvetica, sans-serif; -webkit-border-radius: 4px; border-radius: 4px; }
+.link:hover{background-color:#e8e8e8;}
+
+</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script>
+	$(document).ready(function(){
+			
+		$('.linka').click(function(){
+			$('#rf').empty();
+			$('#rf').attr('src','local/index.htm');
+		});
+		$('.linkb').click(function(){
+			$('#rf').empty();
+			$('#rf').attr('src','http://develop.flvs.net/Collaborate/Course/_template/v2.0/docs/index.htm');
+		});
+	});
+</script>
+</head>
+
+<body>
+
+<div class="topnav">
+    <a href="javascript:void(0);" class="link linka">Local Docs</a>
+	<a href="javascript:void(0);" class="link linkb">Global Docs</a>
+</div>
+<!--<iframe allowtransparency="true" frameborder="0" id="rf"  scrolling="auto" src="" style="width:100%;height:100%"></iframe>-->
+	<iframe width="100%" height="100%" id="rf" src="local/index.htm" frameborder="0" style="width:100%;height:100%"></iframe>
+ 
+</body>
+</html>

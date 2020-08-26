@@ -1,0 +1,241 @@
+
+
+
+
+
+
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>New Page 1</title>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function go(start,totrecords)
+{	
+	location.href="OrderAssignments.jsp?start="+start+ "&totrecords="+totrecords;
+	return false;
+}
+
+function gotopage(totrecords)
+{
+	var page=document.ordering.page.value;
+	if(page==0)
+	{
+		return false;
+	}
+	else
+	{
+		start=(page-1)*25;
+		location.href="OrderAssignments.jsp?start="+start+ "&totrecords="+totrecords;	
+		return false;
+	}
+}
+
+function moveUp(slno,wid)
+{
+	if(slno==53)
+	{
+		alert("You cannot move this further up!!!");
+		return false;
+	}
+	else
+	{
+		parent.main.location.href="ChangeOrder.jsp?slno="+slno+"&workid="+wid+"&move=up";
+	}
+}
+
+function moveDown(slno,wid)
+{
+	if(slno==59)
+	{
+		alert("You cannot move this further down!!!");
+		return false;
+	}
+	else
+	{
+		parent.main.location.href="ChangeOrder.jsp?slno="+slno+"&workid="+wid+"&move=down";
+	}
+}
+-->
+
+</script>
+</head>
+
+<body>
+<form name="ordering" method="POST" action="--WEBBOT-SELF--">
+
+<br><br><br><br><br><br>
+
+<!-- <table border="1" cellpadding="2" cellspacing="2" bordercolor="#EEEEEE" width="100%">
+  <tr>
+    <td width="33%"><font face="Verdana"><select size="1" name="D1">
+    <option selected>Select Category</option>
+    <option>Writing Assignments</option>
+    </select></font></td>
+    <td width="33%">&nbsp;</td>
+    <td width="34%">&nbsp;</td>
+  </tr>
+</table> -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+	<td width="200" align="left">
+		<font size="2" face="verdana" >Files 1 - 7 of 7&nbsp;&nbsp;</font>
+	</td>
+	<td align="center">
+		<font color="#000080" face="verdana" size="2">
+Previous | Next &nbsp;&nbsp;
+
+		</font>
+	</td>
+	<td align='right'>
+		<font face="verdana" size="2">Goto Page&nbsp;
+<select name='page' onchange="gotopage('7');return false;"> 
+<option value='1'>1</option>
+
+			</select>
+		</font>
+	</td>
+</tr>
+</table>
+<br>
+<table border="1" cellpadding="1" cellspacing="1" bordercolor="#C0C0C0" width="100%">
+  <tr>
+    <td width="3%" align="center" bgcolor="#808080"><b>
+    <font face="Verdana" size="1" color="#FFFFFF">Up</font></b></td>
+    <td width="3%" align="center" bgcolor="#808080"><b>
+    <font face="Verdana" size="1" color="#FFFFFF">Dn</font></b></td>
+    <td width="31%" bgcolor="#808080"><b>
+    <font face="Verdana" size="2" color="#FFFFFF">Assignment Name</font></b></td>
+    <td width="34%" bgcolor="#808080">&nbsp;</td>
+    <td width="98%" bgcolor="#808080">&nbsp;</td>
+  </tr>
+
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('53','w0040');">
+			<IMG SRC="images/up_arrow.png" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('53','w0040');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Reading1</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('54','w0038');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('54','w0038');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Assignment1</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('55','w0039');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('55','w0039');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Assignment2</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('56','w0042');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('56','w0042');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Assignment4</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('57','w0048');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('57','w0048');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Reading123</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('58','w0044');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('58','w0044');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Assignment3</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+
+
+  <tr>
+    <td width="3%" align="center" valign="middle">
+		<a href="#" onclick="return moveUp('59','w0041');">
+			<IMG SRC="images/up_arrow.png" WIDTH="16" HEIGHT="19" BORDER="1" ALT="Move Up">
+		</a>
+	</td>
+    <td width="3%" align="center">
+		<a href="#" onclick="return moveDown('59','w0041');">
+			<IMG SRC="images/down_arrow.png" WIDTH="16" HEIGHT="19" BORDER="0" ALT="Move Down">
+		</a>
+	</td>
+    <td width="31%"><font face="Verdana" size="2">Writing1</font></td>
+    <td width="34%">&nbsp;</td>
+    <td width="98%">&nbsp;</td>
+  </tr>
+  	
+</table>
+
+</form>
+</body>
+
+</html>

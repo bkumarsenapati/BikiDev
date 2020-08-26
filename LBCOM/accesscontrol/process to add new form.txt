@@ -1,0 +1,42 @@
+1) Create a sample page by using view source
+
+2)open the required page and add this code before script
+
+	<!-- start of rajesh code -->
+		<%String formid="F00002";%> 
+		<!-- Don't change this is for access control -->
+		<%@ include file="/accesscontrol/accesscontrol.jsp" %> 	
+	<!-- end of rajesh code -->
+
+Note:in the above lines FOOOO2 is primary key for form so you need to give new code(u can give any code)
+
+3) onload=addcontrol()   in body tag
+
+4)INSERT INTO `form_access` (`form_id`, `form_name`, `field_names`, `field_ids`, `desc`, `sample_file`, `filepath`, `Bto`) VALUES 
+  ('F00002','Student Profile','Password,Confirm Password,First Name,LastName,Email','password,cpassword,firstname,lastname,email','Student Profile','sprofile.html',NULL,'S');
+
+  in above command 
+  
+		form_id="f00002"
+
+		form_name= Student Profile    //it will display in admin side
+
+		`field_names` ='Password,Confirm Password,First Name,LastName,Email'  //// Field names to display in admin side
+
+		`field_ids` = 'password,cpassword,firstname,lastname,email'            // Names of the field which we r try to control
+
+		`sample_file` =name of the sample file which is located in   \HSNRT\accesscontrol\sample_pages  folder
+
+		`Bto`  S for student apge T for Teacher ST for BOTH AND A for admin
+
+
+
+
+
+
+
+
+
+
+
+

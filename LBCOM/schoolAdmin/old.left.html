@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#EEBA4D" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table id="Table_01" width="134" height="373" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<img src="images/adm_general.gif" width="134" height="27" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('organizer');"><img src="images/adm_org.gif" width="134" height="25" TITLE="Organizer" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('notice');"><img src="images/adm_nboard.gif" width="134" height="26" TITLE="Notice Boards" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('personaldocs')"><img src="images/adm_perdocs.gif" width="134" height="25" TITLE="Private Docs" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/adm_lmgmt.gif" width="134" height="26" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('setup');"><img src="images/adm_setup.gif" width="134" height="25" TITLE="Setup" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('grades');"><img src="images/adm_gbook.gif" width="134" height="25" TITLE="Grade Book" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/adm_comm.gif" width="134" height="26" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('mail');"><img src="images/adm_email.gif" width="134" height="25" TITLE="Email" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('reminders');"><img src="images/adm_reminder.gif" width="134" height="26" TITLE="Reminders" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('bboards');"><img src="images/adm_bboard.gif" width="134" height="25" TITLE="Forums" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('contacts');"><img src="images/adm_jeclass.gif" width="134" height="26" TITLE="Contacts" border='0'></a></td>
+	</tr>
+	<tr>
+		<td height="24">
+			&nbsp;</td>
+	</tr>
+	<tr>
+		<td align="center" valign="bottom">
+			<p align="center"><a target="_blank" href="http://61.11.96.54">
+            <img src="../../images/hsn/poweredby.gif" border="0" TITLE="www.hotschools.net"></a></td>
+	</tr>
+</table>
+
+</body>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function handler(anc){
+	var adminid="admin";
+	var schoolid=parent.schoolid;
+
+	if(anc=="contacts")
+		parent.main.location.href="ContactsMain.jsp?userid="+adminid+"&schoolid="+schoolid;
+	else if(anc=="organizer")
+		parent.main.location.href="/LBCOM/teacherAdmin.organizer.CalAppoint?userid="+adminid+"&purpose=school";
+	else if(anc=='personaldocs')
+		parent.main.location.href="FilesAndDocuments.jsp?adminid="+adminid+"&schoolid="+schoolid;
+	else if(anc=='notice')
+		parent.main.location.href="/LBCOM/schoolAdmin.FilesAndDocs?adminid="+adminid+"&schoolid="+schoolid;
+	else if(anc=='setup')
+		parent.main.location.href="setupmain.jsp";
+	else if(anc=='reminders')
+		parent.main.location.href="/LBCOM/teacherAdmin.organizer.Reminder?userid="+adminid;
+	else if(anc=='grades')
+		parent.main.location.href="Admindefine_percentages.jsp?schoolid="+schoolid;
+	else if(anc=='chat')
+		window.open('ShowCourse.jsp' ,'nmwindow','status=0,resizable=no,toolbar=no,menubar=no,titlebar=no,scrollbars=yes,width=750,height=500');
+	else if(anc=='mail')
+		parent.main.location.href="/LBCOM/Commonmail/MailForm.jsp?schoolid="+schoolid+"&userid="+adminid+"&r1=admin";
+	else if(anc=='bboards')
+		parent.main.location.href="ShowDirTopics.jsp?userid="+adminid+"&schoolid="+schoolid;
+	return false;
+}
+//-->
+</SCRIPT>
+
+</html>

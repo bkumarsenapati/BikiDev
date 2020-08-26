@@ -1,0 +1,62 @@
+<Context path="/LBRT" docBase="LBRT" debug="5" reloadable="true" crossContext="false" allowLinking="true">
+	<Logger className="org.apache.catalina.logger.FileLogger" prefix="localhost_DBTest_log." suffix=".txt" timestamp="true"/>
+	<Resource name="jdbc/hsnDB" auth="Container" type="javax.sql.DataSource"/>
+		<ResourceParams name="jdbc/hsnDB">
+			<parameter>
+				<name>factory</name>
+				<value>org.apache.commons.dbcp.BasicDataSourceFactory</value>
+		    	</parameter>
+    			<parameter>
+      				<name>maxActive</name>
+      				<value>100</value>
+    			</parameter>
+    			<parameter>
+      				<name>maxIdle</name>
+      				<value>30</value>
+    			</parameter>
+    			<parameter>
+      				<name>maxWait</name>
+      				<value>10000</value>
+    			</parameter>
+    			<parameter>
+     				<name>username</name>
+     				<value>root</value>
+    			</parameter>
+    			<parameter>
+     				<name>password</name>
+     				<value>whizkids</value>
+    			</parameter>
+			<parameter>
+				<name>driverClassName</name>
+       				<value>com.mysql.jdbc.Driver</value>
+    			</parameter>
+			<parameter>
+				<name>url</name>
+ 				<value>jdbc:mysql://localhost:3306/lbdb?zeroDateTimeBehavior=convertToNull&amp;jdbcCompliantTruncation=false</value>
+			</parameter>
+			<parameter>
+       				<name>jdbcCompliantTruncation</name>
+       				<value>false</value>
+    			</parameter>
+			<parameter>
+       				<name>zeroDateTimeBehavior</name>
+       				<value>convertToNull</value>
+    			</parameter>
+			<parameter>
+       				<name>noDatetimeStringSync</name>
+       				<value>true</value>
+    			</parameter>
+			<parameter >
+				<name >logAbandoned </name > 
+				<value >true </value > 
+			</parameter >
+			<parameter >
+				<name >removeAbandoned </name > 
+				<value >true </value > 
+			</parameter >
+			<parameter >
+				<name >removeAbandonedTimeout </name >
+				<value >2</value >
+			</parameter >
+</ResourceParams> 
+</Context>

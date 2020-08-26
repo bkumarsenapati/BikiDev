@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<title>Course Home</title>
+<meta name="generator" content="Namo WebEditor">
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<p>&nbsp;</p>
+<div align="center">
+    <table style="border-collapse: collapse" border="0" bordercolor="#111111" cellpadding="0" cellspacing="0" height="32" width="90%">
+        <tbody>
+        <tr class="tNavigation">
+            <td align="left" height="30" valign="middle" width="3%">
+                <p align="center"><img src="images/createnew.gif" border="0" height="20" width="20">
+</p>
+            </td>
+            <td align="right" height="30" valign="middle" width="13%">
+                <p align="left"><font color="white"><a href="create_course.html">Create New Course</a></font></p>
+            </td>
+            <td align="left" height="30" width="3%">
+                <p><font color="white"><img src="images/createnew.gif" border="0" height="20" width="20">
+</font></p>
+            </td>
+            <td align="right" height="30" valign="middle" width="19%">
+                <p align="left"><font color="white"><a href="create_course.html">Create Course from Archive</a></font></p>
+            </td>
+            <td align="left" height="30" width="33">
+                <p align="center"><font color="white"><img src="images/createnew.gif" border="0" height="20" width="20">
+</font></p>
+            </td>
+            <td width="598" height="30" align="left">
+                <p><font color="white"><a href="list_templates.html">Manage Course&nbsp;Templates</a></font></p>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <table class="boarder" border="0" cellpadding="0" cellspacing="0" width="90%">
+        <tbody>
+        <tr>
+            <th scope="col" align="center" height="86" valign="top">
+                <table border="0" cellpadding="3" cellspacing="1" width="100%">
+                    <tbody>
+                    <tr>
+                        <td class="Grid_tHeader" colspan="5" align="center" height="20" valign="middle" width="101"><b>Manage Course</b></td>
+                        <td class="Grid_tHeader" align="left" height="20" width="265"><strong>Course Name</strong></td>
+                        <td class="Grid_tHeader" align="center" height="20" width="100"><strong>No. of Units</strong></td>
+				
+                        <td class="Grid_tHeader" align="center" height="20" width="100"><strong>Manage Assignments</strong></td>
+                        <td class="Grid_tHeader" align="center" height="20" width="100"><strong>Manage Assessments</strong></td>
+                        <td class="Grid_tHeader" align="center" height="20" width="100"><strong>View in LMS</strong></td>
+                        <td class="Grid_tHeader" align="center" height="20" width="100"><strong>Hide</strong></td>
+                    </tr>
+                    <tr>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/EditCourse.jsp?courseid=DC008&amp;userid=teacher1">
+					<img src="images/edit.gif" alt="Edit" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CurriculumMap.jsp?courseid=DC008&amp;userid=teacher1">
+					<img src="images/cmap.png" alt="Curriculum Map" border="0" height="24" width="24">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="deleteCourse('DC008','teacher1')">
+					<img src="images/delet.gif" alt="Delete" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="viewLessonFile('6th Grade Math');return false;"><img src="images/view.gif" alt="View" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="saveCourse('DC008','6th Grade Math');return false;">
+				<img src="images/save.gif" alt="Save" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="left" height="20" width="265">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseUnits.jsp?courseid=DC008&amp;coursename=6th%20Grade%20Math&amp;userid=teacher1">6th Grade Math</a>
+                        </td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">8</td>
+		  
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssignInfo.jsp?courseid=DC008&amp;coursename=6th%20Grade%20Math&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assignments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssessInfo.jsp?mode=none&amp;courseid=DC008&amp;coursename=6th%20Grade%20Math&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assessments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="if(confirm('Are you sure you want to give permissions to this course')){popup1('/LBCOM/coursedeveloper/LMSTeachersList.jsp?userid=teacher1&amp;courseid=DC008&amp;schoolid=training&amp;coursename=6th Grade Math');}else{ return false;}"><font color="Green" face="Arial" size="2"><font color="green">Permissions</font></font></a></td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <form name="form1">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="lmsCourse('DC008','teacher1','yes')"><font color="red"><input checked="true" type="checkbox"></font></a>
+                            </form>
+                        </td>
+			
+                    </tr>
+                    <tr>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/EditCourse.jsp?courseid=DC176&amp;userid=teacher1">
+					<img src="images/edit.gif" alt="Edit" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CurriculumMap.jsp?courseid=DC176&amp;userid=teacher1">
+					<img src="images/cmap.png" alt="Curriculum Map" border="0" height="24" width="24">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="deleteCourse('DC176','teacher1')">
+					<img src="images/delet.gif" alt="Delete" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="viewLessonFile('6th Math');return false;"><img src="images/view.gif" alt="View" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="saveCourse('DC176','6th Math');return false;">
+				<img src="images/save.gif" alt="Save" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="left" height="20" width="265">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseUnits.jsp?courseid=DC176&amp;coursename=6th%20Math&amp;userid=teacher1">6th Math</a>
+                        </td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">5</td>
+		  
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssignInfo.jsp?courseid=DC176&amp;coursename=6th%20Math&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assignments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssessInfo.jsp?mode=none&amp;courseid=DC176&amp;coursename=6th%20Math&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assessments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="if(confirm('Are you sure you want to give permissions to this course')){popup1('/LBCOM/coursedeveloper/LMSTeachersList.jsp?userid=teacher1&amp;courseid=DC176&amp;schoolid=training&amp;coursename=6th Math');}else{ return false;}"><font color="Green" face="Arial" size="2"><font color="green">Permissions</font></font></a></td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <form name="form2">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="lmsCourse('DC176','teacher1','yes')"><font color="red"><input checked="true" type="checkbox"></font></a>
+                            </form>
+                        </td>
+			
+                    </tr>
+                    <tr>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/EditCourse.jsp?courseid=DC002&amp;userid=teacher1">
+					<img src="images/edit.gif" alt="Edit" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CurriculumMap.jsp?courseid=DC002&amp;userid=teacher1">
+					<img src="images/cmap.png" alt="Curriculum Map" border="0" height="24" width="24">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="deleteCourse('DC002','teacher1')">
+					<img src="images/delet.gif" alt="Delete" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="viewLessonFile('Anatomy/ Physiology');return false;"><img src="images/view.gif" alt="View" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="saveCourse('DC002','Anatomy/ Physiology');return false;">
+				<img src="images/save.gif" alt="Save" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="left" height="20" width="265">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseUnits.jsp?courseid=DC002&amp;coursename=Anatomy/%20Physiology&amp;userid=teacher1">Anatomy/ Physiology</a>
+                        </td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">1</td>
+		  
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssignInfo.jsp?courseid=DC002&amp;coursename=Anatomy/%20Physiology&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assignments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssessInfo.jsp?mode=none&amp;courseid=DC002&amp;coursename=Anatomy/%20Physiology&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assessments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="if(confirm('Are you sure you want to give permissions to this course')){popup1('/LBCOM/coursedeveloper/LMSTeachersList.jsp?userid=teacher1&amp;courseid=DC002&amp;schoolid=training&amp;coursename=Anatomy/ Physiology');}else{ return false;}"><font color="Green" face="Arial" size="2"><font color="green">Permissions</font></font></a></td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <form name="form3">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="lmsCourse('DC002','teacher1','no')"><font color="green"><input type="checkbox"></font></a>
+                            </form>
+                        </td>
+			
+                    </tr>
+                    <tr>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/EditCourse.jsp?courseid=DC004&amp;userid=teacher1">
+					<img src="images/edit.gif" alt="Edit" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CurriculumMap.jsp?courseid=DC004&amp;userid=teacher1">
+					<img src="images/cmap.png" alt="Curriculum Map" border="0" height="24" width="24">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="deleteCourse('DC004','teacher1')">
+					<img src="images/delet.gif" alt="Delete" border="0" height="20" width="20">				</a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="viewLessonFile('Biology-Test');return false;"><img src="images/view.gif" alt="View" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" valign="middle" width="20">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="saveCourse('DC004','Biology-Test');return false;">
+				<img src="images/save.gif" alt="Save" border="0" height="20" width="20"></a>
+                        </td>
+                        <td class="tr-subrow" align="left" height="20" width="265">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseUnits.jsp?courseid=DC004&amp;coursename=Biology-Test&amp;userid=teacher1">Biology-Test</a>
+                        </td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">1</td>
+		  
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssignInfo.jsp?courseid=DC004&amp;coursename=Biology-Test&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assignments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <p align="center"><a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/ViewAssessInfo.jsp?mode=none&amp;courseid=DC004&amp;coursename=Biology-Test&amp;userid=teacher1">
+				<img src="images/view.gif" alt="Manage Assessments" border="0" height="20" width="20"></a></p>
+                        </td>
+                        <td class="tr-subrow" align="center" height="20" width="80">
+				<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="if(confirm('Are you sure you want to give permissions to this course')){popup1('/LBCOM/coursedeveloper/LMSTeachersList.jsp?userid=teacher1&amp;courseid=DC004&amp;schoolid=training&amp;coursename=Biology-Test');}else{ return false;}"><font color="Green" face="Arial" size="2"><font color="green">Permissions</font></font></a></td>
+
+                        <td class="tr-subrow" align="center" height="20" width="80">
+                            <form name="form4">
+<a href="http://oh.learnbeyond.net:8080/LBCOM/coursedeveloper/CourseHome.jsp?userid=teacher1#" onclick="lmsCourse('DC004','teacher1','yes')"><font color="red"><input checked="true" type="checkbox"></font></a>
+                            </form>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </th>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<p>&nbsp;</p>
+</body>
+
+</html>

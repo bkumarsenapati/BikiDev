@@ -1,0 +1,21 @@
+.popup{
+    filter:alpha(opacity=90);
+    background-color:#fffbb8;
+    display:none;
+    width:*;
+    height:*;
+    position:absolute;
+    color: black;
+    border: 1px #ffc30e solid;
+	font-family:verdana;
+	font-size:10px;
+}
+.title{
+	background-color:#c0c087;
+	color:white;
+}
+.des{
+
+
+}
+

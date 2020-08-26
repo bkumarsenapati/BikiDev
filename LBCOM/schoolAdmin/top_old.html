@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta name="generator" content="Namo WebEditor v5.0">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var contineoadminwin=null;
+var adminUserManualWin=null;
+function logout(){
+	parent.frames["bottom"].logcookie();
+	if(contineoadminwin!=null && !contineoadminwin.closed){
+	  		contineoadminwin.location.href="../../contineo/Logout.do";
+			contineoadminwin.close();
+	}
+	if(adminUserManualWin!=null && !adminUserManualWin.closed)
+		adminUserManualWin.close();
+	if (document.images){
+         parent.location.replace("/LBCOM/common/Logout.jsp");
+	}else{
+         parent.href = "/LBCOM/common/Logout.jsp";
+	}	
+	//parent.location.href="/LBCOM/common/Logout.jsp";
+	return false;
+}
+function usermanual(){
+	adminUserManualWin=window.open("/LBCOM/manuals/admin_UG/","UserManual","resizable=yes,scrollbars,width=750,height=550,toolbars=no");
+}
+//-->
+</SCRIPT>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" >
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="0">
+    <tr>
+        <td width="208" height="24">
+            <p><img src="../images/hsn/logo.gif"  border="0" ></p>
+        </td>
+        <td width="387" height="24">
+<!--
+            <a href='' onClick='parent.frames["left"].openPopup("support","http://training.hotschools.net/cAuth/support/client.php?schoolid="+parent.frames["left"].schoolid+"&emailid="+parent.frames["left"].email,800,650);return(false);'>Support</a>
+-->
+        </td>
+        <TD vAlign=center align=top width="120"> 
+<!--
+		<font face="Arial" size=2 color="#429EDF" > Live support is temporarily unavailable. </font>
+-->
+				<!-- BEGIN Help Center Live Code, ? Michael Bird 2004 -->
+				<div id="HCLInitiate" style="position:absolute; z-index:1; visibility: hidden;">
+				<a href="javascript:initiate_accept()"><img src="//www.hotexams.com/~hsn/hcl/inc/skins/default/images/lh/initiate.gif" border="0"></a>
+				<a href="javascript:initiate_decline()">
+				<img src="//www.hotexams.com/~hsn/hcl/inc/skins/default/images/lh/initiate_close.gif" border="0"></a></div>
+				<script type="text/javascript" language="javascript" src="//www.hotexams.com/~hsn/hcl/lh/live.php?department=Hotschools"></script>
+				<!-- END Help Center Live Code, ? Michael Bird 2004 -->
+		</TD>
+        <td width="104" height="24" align="center" valign="top">
+            <p align="left"><a href="javascript://" onclick="return usermanual();"><img src="../images/hsn/umanual.gif" width="81" height="48" border="0"></a></p>
+        </td>
+        <td width="93" height="24" align="center" valign="top">
+            <p align="left"><a href="javascript://" onclick="return logout();"><img src="../images/hsn/logout.gif" width="59" height="48" border="0"></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="1004" colspan="5" bgcolor="#EEE0A1">
+            <p>&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="1004" colspan="5" bgcolor="#EEBA4D">
+            <p>&nbsp;</p>
+        </td>
+    </tr>
+</table>
+
+</body>
+
+</html>

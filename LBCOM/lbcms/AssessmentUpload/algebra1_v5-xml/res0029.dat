@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.02 Simplify">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>4x+6x-8x</term>
+				<definition>2x</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>-3x-6x+x</term>
+				<definition>-8x</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>2x+3y-4x</term>
+				<definition>-2x+3y</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>(2x+3y-5)+(-3y-6)</term>
+				<definition>2x-11</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>(4x+3y)-(2x-5y)</term>
+				<definition>2x+8y</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>2(3x-1)+15</term>
+				<definition>6x+13</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>-3(2x-1)-5</term>
+				<definition>-6x-2</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>3xy+4xy-6xz</term>
+				<definition>7xy-6xz</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>7xy+2xz+4xz-12xyz+2zx</term>
+				<definition>7xy+8xz-12xyz</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>-3(2x-5)-4(x+7)</term>
+				<definition>-10x-13</definition>
+				<credit>1</credit>
+			</matchpair>
+	</item>
+</assessment>

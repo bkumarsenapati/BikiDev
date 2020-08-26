@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.01 GCF">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>What is the GCF for the polynomial 4x&lt;sup&gt;3&lt;/sup&gt; - 2x&lt;sup&gt;2&lt;/sup&gt;y? </term>
+				<definition>GCF is 2x&lt;sup&gt;2&lt;/sup&gt;.</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>What is the GCF for the polynomial 8x&lt;sup&gt;4&lt;/sup&gt;y + 6x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt;?</term>
+				<definition>GCF is 2x&lt;sup&gt;2&lt;/sup&gt;y.</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>What is the GCF for the polynomial -10x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;4&lt;/sup&gt; - 16x&lt;sup&gt;5&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt;?</term>
+				<definition>GCF is -2x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt;.</definition>
+				<credit>1</credit>
+			</matchpair>
+			<matchpair>
+				<term>What is the GCF for the polynomial 12x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; - 20x&lt;sup&gt;5&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt;?</term>
+				<definition>GCF is 4x&lt;sup&gt;3&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt;.</definition>
+				<credit>1</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Factor the expression by taking out the GCF. 
+
+3x - 9x&lt;sup&gt;3&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>x(3 - 9x&lt;sup&gt;2&lt;/sup&gt;)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x(1 - 3x&lt;sup&gt;2&lt;/sup&gt;)</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(x - 3x&lt;sup&gt;3&lt;/sup&gt;)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the GCF? 
+
+16a&lt;sup&gt;4&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt; + 20a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt; - 4ab&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>4ab</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4b&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4ab&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the GCF?
+
+-24a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;c&lt;sup&gt;4&lt;/sup&gt; - 36a&lt;sup&gt;4&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;c&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>4a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt;c&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;c&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;c&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

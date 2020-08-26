@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment title="Integrated Science 1-Unit 7 Test">
+<distribution>
+		<type>Uniform</type>
+</distribution>
+	    <item>
+		<type>Multiple Choice</type>
+		   <label>If one centimeter on a map represents 25,000 centimeters on the ground, the scale of the map is</label>
+			<choice>
+				<choicelabel>1 centimeter = 2.5 kilometers</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1 : 250,000.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1 : 2,500,000.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1 : 25,000.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+		</item>
+		<item>
+		<type>Multiple Choice</type>
+		   <label>New Orleans, Louisiana, and Cairo, Egypt, are nearly the same distance north of the equator. This means that the two cities have almost the same</label>
+			<choice>
+				<choicelabel>elevation..</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>projection.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>longitude.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>latitude.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+		 
+
+	 <item>
+		<type>Multiple Choice</type>
+		   <label>Elevation, relief, and slope on a topographic map are shown using symbols called</label>
+			<choice>
+				<choicelabel>pixels.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>contour lines.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>contour intervals.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>GPS units.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+  
+
+	 <item>
+		<type>Multiple Choice</type>
+		   <label>A contour line that forms a closed loop and has small dashes pointing to the inside of the loop represents</label>
+			<choice>
+				<choicelabel>a small plateau.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>an unknown area.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a mapmaker&#39;s mistake.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a depression in the ground.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>  
+		 
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>What can cause the loss of soil that is not protected by plant cover?</label>
+			<choice>
+				<choicelabel>chemical weathering</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>erosion by water or wind</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>mechanical weathering</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>too many organisms in the soil</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+ 
+
+
+	 <item>
+		<type>Multiple Choice</type>
+		   <label>A marble statue is left exposed to the weather. Within a few years, the details on the statue have begun to weather away. This weathering probably is caused by</label>
+			<choice>
+				<choicelabel>oxygen in the air.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>carbonic acid in rainwater</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>lichens.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>abrasion.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+ 
+	<item>
+		<type>Multiple Choice</type>
+		   <label>The process by which natural forces move weathered rock and soil from one place to another is called</label>
+			<choice>
+				<choicelabel>soil conservation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>deposition.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>abrasion.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>erosion.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>The energy that produces ocean waves comes from</label>
+			<choice>
+				<choicelabel>the rise and fall of the tides</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>rivers flowing into the ocean.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>wind blowing across the water&#39;s surface.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>rock falling into the ocean along the shore.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>    
+ 
+	<item>
+		<type>Multiple Choice</type>
+		   <label>The process by which wind removes surface materials is called</label>
+			<choice>
+				<choicelabel>abrasion.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plucking.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>deflation.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>inflation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A place where an old eroded surface is in contact with a newer rock layer is called a(n)</label>
+			<choice>
+				<choicelabel>fault.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>unconformity.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>intrusion.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>superposition.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item> 
+		 
+	 <item>
+		<type>Essay</type>
+		<label>Questions 11-20: Indicate whether the sentence or statement is true or false.  If false, change the identified word or phrase to make the sentence or statement true.&lt;br&gt;&lt;br&gt;The &#38;nbsp;&lt;u&gt;elevation&lt;/u&gt;&#38;nbsp; of an area is the difference in height between its highest and lowest point.________</label>
+		<credit>3</credit>
+	</item>
+	 <item>
+		<type>Essay</type>
+		<label>The &#38;nbsp;&lt;u&gt;prime meridian&lt;/u&gt;&#38;nbsp; circles Earth halfway between the North and South poles.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Lines of &#38;nbsp;&lt;u&gt;latitude&lt;/u&gt;&#38;nbsp; run from north to south, meeting at the poles.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>On a topographic map, steep slopes are indicated by contour lines that are &#38;nbsp;&lt;u&gt;widely&lt;/u&gt;&#38;nbsp;spaced.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The movement of rock particles by ice, wind, water, or gravity is called &#38;nbsp;&lt;u&gt;weathering&lt;/u&gt;.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Because it contains the most humus, &#38;nbsp;&lt;u&gt;topsoil&lt;/u&gt;&#38;nbsp; is the layer of soil that is best for growing plants.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The process that lays down sediment in a new location is &#38;nbsp;&lt;u&gt;erosion&lt;/u&gt;.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>An &#38;nbsp;&lt;u&gt;alluvial fan&lt;/u&gt;&#38;nbsp; may form where a stream flows out of a narrow mountain valley, slows down, and deposits sediment.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Water at the top of a slope has &#38;nbsp;&lt;u&gt;potential&lt;/u&gt;&#38;nbsp; energy.________</label>
+		<credit>3</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>At the beginning of the Paleozoic Era, a great number of different types of organisms evolved in an event called the &#38;nbsp;&lt;u&gt;Cambrian Explosion&lt;/u&gt;.________</label>
+		<credit>3</credit>
+	</item>
+
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Questions 21-25: Complete each sentence or statement. &lt;br&gt;&lt;br&gt;Longitude is a measurement of distance east or west of the.________</label>
+			<blank>
+				<accepted>prime meridian</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>A _____ map uses contour lines to show the elevation, relief, and slope of an area.</label>
+			<blank>
+				<accepted>topographic</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>The loose layer of plant remains that accumulates on the ground is called _____.</label>
+			<blank>
+				<accepted>litter</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>A type of plowing known as _____ helps conserve soil by disturbing it as little as possible.</label>
+			<blank>
+				<accepted>conservation plowing</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>On the geologic time scale, periods are divided into _____.</label>
+			<blank>
+				<accepted>conservation plowing</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	
+	<item>
+		<type>Essay</type>
+		<label>Questions 26-27: Use the diagram to answer each question.&lt;br&gt;&lt;img src=/webdav/res301/int_sci_U7/pictures/image1.jpg&gt;&lt;br&gt;&lt;br&gt;Which type of map projection is shown?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>What is the difference in latitude, in degrees, between points A and D?</label>
+		<credit>5</credit>
+	</item>
+
+	 <item>
+		<type>Essay</type>
+		<label>Questions 28-30: Use the diagram to answer each question.&lt;br&gt;&lt;img src=/webdav/res301/int_sci_U7/pictures/image2.jpg&gt;&lt;br&gt;&lt;br&gt;What is the elevation of Seaview Highway?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>What is the difference in elevation between the school at point A and the house at point B?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>If elevation is shown in meters, what is the contour interval of the map?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Questions 31-33: Use the diagram to answer each question.&lt;br&gt;&lt;img src=/webdav/res301/int_sci_U7/pictures/image3.jpg&gt;&lt;br&gt;&lt;br&gt;In which parts of the United States are mountain soils found?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>What types of soils occur in the United States, excluding Alaska and Hawaii?
+       </label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Which soil type in the United States covers the smallest area?
+       </label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 34-35: &lt;br&gt;&lt;img src=/webdav/res301/int_sci_U7/pictures/image4.jpg&gt;&lt;br&gt;&lt;br&gt;Which sedimentary rock layer is older, A or B? Explain your answer and name the scientific law that you applied to reach your conclusion.</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>How do layers B and D compare in age? If rock layers between B and D have eroded away, what is the boundary between B and D called?</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Describe what each of Earth&#39;s spheres is made up of.</label>
+		<credit>10</credit>
+	</item>
+
+
+	 <item>
+		<type>Essay</type>
+		<label>What is the difference between a Mercator projection and an equal-area projection?</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Describe the role played by a continental glacier in forming the Great Lakes.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Describe a scientific theory that explains the mass extinction of dinosaurs and many other organisms at the end of the Cretaceous Period.</label>
+		<credit>10</credit>
+	</item>
+	
+</assessment>

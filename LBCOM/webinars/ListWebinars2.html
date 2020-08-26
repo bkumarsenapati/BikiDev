@@ -1,0 +1,85 @@
+<%@ page language="java" %>
+<%@ page import = "java.sql.*,java.lang.*,java.util.Date,coursemgmt.ExceptionsFile" %>
+<%@ page errorPage="/TALRT/ErrorPage.jsp" %>
+<jsp:useBean id="db" class="sqlbean.DbBean" scope="session" />
+
+<% 
+	String query="",username="",schoolname="";
+	Connection con=null;
+	Statement st=null;
+	ResultSet rs=null;
+
+	try
+	{
+		con= db.getConnection();
+		st=con.createStatement();
+		username=(String)session.getValue("emailid");
+		schoolname=(String)session.getValue("schoolid");
+
+
+%>
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>List of Webinars</title>
+</head>
+
+<body>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="76%" id="AutoNumber1" height="23">
+  <tr>
+    <td width="100%" height="23" bgcolor="#F0CB7D"><b>
+    <font size="2" face="Verdana">&nbsp;List of Webinars :</font></b></td>
+  </tr>
+</table>
+<font face="Verdana" size="2">
+<br>
+</font>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="76%" id="AutoNumber2" height="87">
+  <tr>
+    <td width="2%" height="29">
+    &nbsp;</td>
+    <td width="18%" height="29">
+    <p align="left"><b><font face="Verdana" size="2" color="#800000">Algebra 1A</font></b></td>
+    <td width="32%" height="29">
+    &nbsp;</td>
+    <td width="6%" height="29">
+    <p align="right"><b><font face="Verdana" size="2" color="#800000">Mathematics</font></b></td>
+  </tr>
+  <tr>
+    <td width="1%" height="84">
+    &nbsp;</td>
+    <td width="13%" height="84">
+    <font face="Verdana" size="2">
+    <img border="0" src="images/pelican.jpg" width="115" height="88"></font></td>
+    <td width="78%" height="84" colspan="2" valign="top">
+    <font face="Verdana" size="2">Algebra 1A covers the basic concepts of 
+    Algebra, which are mainly focusing on the key features of Algebra.<br>Algebra 
+    1A covers the basic concepts of Algebra, which are mainly focusing on the 
+    key features of Algebra. </font> </td>
+    <td width="20%" height="84">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="1%" height="19">&nbsp;</td>
+    <td width="13%" height="19">
+    <p align="center"><font face="Verdana" size="1" color="#FF0000">*****</font></td>
+    <td width="52%" height="19"><font face="Verdana" size="2">
+    <font color="#0000FF"><b>Cost :</b></font> $ <strike>20.00</strike>&nbsp;&nbsp;&nbsp;&nbsp; 
+    $ 10.00</font></td>
+    <td width="26%" height="19">
+    <p align="right"><font face="Verdana" size="2"><a href="addtocart">Add to 
+    Cart</a></font></td>
+    <td width="20%" height="19">&nbsp;</td>
+  </tr>
+</table>
+
+</body>
+
+</html>

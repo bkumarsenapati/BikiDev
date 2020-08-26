@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<%
+	String courseId="",courseName="",unitId="",unitName="",lessonId="",lessonName="",instruct="",s="",schoolId="";
+	String assmtName="",assmtContent="",cat="",mode="",destUrl="",tableName="",qt="",ExamId="",assmtId="",classId="",developerId="";
+	String Question="",Qtype="";
+	int assmt=0;
+	session=request.getSession();
+		s=(String)session.getAttribute("sessid");
+		schoolId=(String)session.getAttribute("schoolid");
+		classId=(String)session.getAttribute("classid");
+		if(s==null)
+		{
+			out.println("<html><script> top.location.href='/LBRT/NoSession.html'; \n </script></html>");
+			return;
+		}
+
+		if(request.getParameter("mode")!=null)
+			mode=request.getParameter("mode");
+		else
+			mode="q";
+			courseId=request.getParameter("courseid");
+			qt=request.getParameter("qt");
+	   	//out.print("inn."+mode+qt);
+			unitId=request.getParameter("unitid");
+			lessonId=request.getParameter("lessonid");
+			Qtype=request.getParameter("qtype");
+			courseName=request.getParameter("coursename");
+			developerId=request.getParameter("userid");	
+			lessonName=request.getParameter("lessonname");
+				
+			assmt=Integer.parseInt(request.getParameter("assmt"));	
+			assmtName=request.getParameter("asname");
+				
+			cat=request.getParameter("cattype");
+				
+			instruct=request.getParameter("instruct");
+
+
+	 %>
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+</HEAD>
+<frameset rows="65,0,35"name="mail" border="0" frameborder="0" framespacing="0">
+		<frame src='CDAssmtWorkDone.jsp?mode=add&coursename=<%=courseName%>&userid=<%=developerId%>&courseid=<%=courseId%>&unitid=<%=unitId%>&lessonid=<%=lessonId%>&lessonname=<%=lessonName%>&assmt=<%=assmt%>&asname=<%=assmtName%>&cattype=<%=cat%>&instruct=<%=instruct%>' name="leftmail" target="mainmail" scrolling="no" marginwidth="0" marginheight="0" noresize border="0">
+		<frame name="refreshframe" target="mainmail" scrolling="yes" noresize border="0">
+		<frame src='QuestionsList.jsp?' name="mainmail" scrolling="yes" noresize border="0">
+	</frameset>
+<BODY>
+
+</BODY>
+</HTML>

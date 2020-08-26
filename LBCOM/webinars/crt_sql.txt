@@ -1,0 +1,75 @@
+##                        WEBINAR TABLES                                      
+
+
+######################################################################
+##  Table that stores all the webinar categories.
+######################################################################
+
+
+CREATE TABLE `webinar_categories`
+(
+  `category_id` varchar(11) default NULL,
+  `category_name` varchar(50) default NULL,
+  `display_order` int(2) default NULL,
+  `status` varchar(10) default NULL,
+  PRIMARY KEY  (`category_id`)
+);
+
+
+######################################################################
+##  Table that stores all the details about the webinars.
+######################################################################
+
+
+CREATE TABLE `webinars` 
+(
+  `webinar_id` varchar(11) NOT NULL default '',
+  `category_id` varchar(11) default NULL,
+  `teacher_id` varchar(50) default NULL,
+  `title` varchar(100) default NULL,
+  `description` text,
+  'cost' varchar(25),
+  'discount' 
+  `image_path` text default '',
+  `video_path` text default '',
+  `crt_date` date default NULL,
+  `no_of_views` int(11) default NULL,
+  `rating` int(11) default NULL,
+  `status` varchar(10) default NULL,
+  PRIMARY KEY  (`webinar_id`)
+);
+
+
+######################################################################
+##  Table that stores all the webinars that the students have chosen.
+######################################################################
+
+
+CREATE TABLE `student_webinars`
+(
+  `school_id` varchar(25) default NULL,
+  `student_id` varchar(30) default NULL,
+  `webinar_id` varchar(11) default NULL,
+  `category_id` varchar(11) default NULL,
+  `feedback` text default NULL,
+  `status` varchar(10) default NULL
+);
+
+
+######################################################################
+##  Table that stores all the NEWS
+######################################################################
+
+
+CREATE TABLE `news` 
+(
+  `news_id` int(5) NOT NULL auto_increment,
+  `display_order` int(2) NOT NULL default '0',
+  `title` varchar(100) default NULL,
+  `news_date` date default NULL,
+  `content` text,
+  `status` varchar(10) default '1',
+  PRIMARY KEY  (`news_id`),
+  UNIQUE KEY `news_id` (`news_id`)
+);
+

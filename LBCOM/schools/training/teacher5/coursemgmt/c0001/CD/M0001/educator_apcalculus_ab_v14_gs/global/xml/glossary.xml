@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+
+<!-- EXAMPLE
+	<item term="Cherries">
+		<![CDATA[ A delicious red fruit you put on ice cream.]]>
+	</item>
+	  
+-->
+<item term="Annotate ">
+		<![CDATA[ Making notes directly onto a text such as a book, a handout, or another type of publication.]]>
+	</item>
+<item term="Objective Summary">
+		<![CDATA[ An objective summary includes only factual information from the original source and does not include the emotional or biased opinions.]]>
+	</item>
+<item term="Inferences">
+		<![CDATA[Meanings determined by the reader which may not be explicitly stated in the text.]]>
+	</item>
+	<item term="Rendition">
+		<![CDATA[A translation or interpretation.]]>
+	</item>
+		<item term="Denotations">
+		<![CDATA[The dictionary definition of a word; the literal, precise or exact meaning of a word.]]>
+	</item>
+		<item term="Connotations">
+		<![CDATA[The figurative definition of a word; the intended message that accompanies the word, regardless of the denotative meaning.]]>
+	</item>
+	<item term="Works Cited">
+		<![CDATA[A documented list of sources.]]>
+	</item>
+	<item term="Traits">
+		<![CDATA[Features or characteristics.]]>
+	</item>
+	<item term="Developed">
+		<![CDATA[Grown and expanded.]]>
+	</item>
+	<item term="Rhetoric">
+		<![CDATA[The way language is intentionally used for the purpose of persuasion.]]>
+	</item>
+	<item term="Rhetorical  Devices">
+		<![CDATA[The use of logos, ethos and pathos in writing.]]>
+	</item>
+	<item term="Ethos">
+		<![CDATA[Provides or establishes credibility.]]>
+	</item>
+	<item term="Pathos">
+		<![CDATA[Provides emotional appeal.]]>
+	</item>
+	<item term="Logos">
+		<![CDATA[Provides useful or logical information.]]>
+	</item>
+	<item term="Juxtaposed">
+		<![CDATA[Placed near each other.]]>
+	</item>
+	<item term="Tone">
+		<![CDATA[Mood; a general quality, effect, or atmosphere.]]>
+	</item>
+	<item term="Primary sources">
+		<![CDATA[Original documents, photographs or interviews.]]>
+	</item>
+	<item term="Secondary sources">
+		<![CDATA[Information that was interpreted by someone else.]]>
+	</item>
+	<item term="Interpretations"> 
+		<![CDATA[Viewpoints or translations.]]> 
+	</item>
+	<item term="Infer"> 
+		<![CDATA[To draw a conclusion based on what you have read.]]> 
+	</item> 
+	<item term="Injuries"> 
+		<![CDATA[Insults.]]> 
+	</item>
+	<item term="Borne"> 
+		<![CDATA[Beared; put up with.]]> 
+	</item>
+	<item term="Impunity"> 
+		<![CDATA[In such a way that there can be no retaliation.]]> 
+	</item>	
+	<item term="Unredressed"> 
+		<![CDATA[Non remedied.]]> 
+		</item>
+	<item term="Retribution"> 
+		<![CDATA[Retaliation.]]> 
+		</item> 
+	<item term="Wont"> 
+		<![CDATA[Habit.]]> 
+		</item> 
+	<item term="Madness"> 
+		<![CDATA[Craziness.]]> 
+		</item> 
+	<item term="Immolation"> 
+		<![CDATA[Becoming the victim.]]> 
+		</item> 
+	<item term="Accosted"> 
+		<![CDATA[Approached with hostility.]]> 
+		</item> 
+	<item term="Motley"> 
+		<![CDATA[Colorful clothing.]]> 
+		</item> 
+	<item term="Conical cap and bells"> 
+		<![CDATA[A cone-shaped hat with bells at the end.]]> 
+		</item> 
+	<item term="Amontillado"> 
+		<![CDATA[A type of wine.]]> 
+		</item> 
+	<item term="Roquelaire"> 
+		<![CDATA[Cloak of knee length.]]> 
+		</item> 
+	<item term="Palazzo"> 
+		<![CDATA[A large home or mansion.]]> 
+		</item>
+	<item term="Flambeaux"> 
+		<![CDATA[Torches.]]> 
+		</item>
+	<item term="Catacombs"> 
+		<![CDATA[Vaults or tombs.]]> 
+		</item>
+	<item term="Rheum"> 
+		<![CDATA[Mucous.]]> 
+		</item>
+	<item term="Genre">  <![CDATA[A class or category of literature.]]>  </item>
+	<item term="Medoc"> 
+		<![CDATA[Types or kinds.]]> 
+		</item>
+	<item term="Puncheons"> 
+		<![CDATA[A large cask measuring 80 gallons.]]> 
+		</item>
+	<item term="Fettered"> 
+		<![CDATA[Restrained or chained.]]> 
+		</item>
+	<item term="Rapier"> 
+		<![CDATA[A sword.]]> 
+		</item>
+	<item term="Literary Analysis"> 
+		<![CDATA[This type of essay discusses literary  elements, such as symbolism, imagery, figurative language, as well as the  themes developed within the literature]]> 
+		</item>
+	<item term="Thesis"> 
+		<![CDATA[The thesis is the one statement that summarizes the entire point of your essay.]]> 
+		</item>
+	<item term="MLA"> 
+		<![CDATA[Modern Language Association]]> 
+		</item>
+	<item term="Syntax"> 
+		<![CDATA[The way in which words or phrases are put together to create meaning.]]>
+		 </item>
+	<item term="Rebuttal"> 
+		<![CDATA[A way of responding to people who may not agree with your claim.]]> 
+		</item>
+	
+	
+	<item term="Formal Writing">  
+		<![CDATA[Writing for academic purposes.]]> 
+	 </item>
+	<item term="Transitions">  
+		<![CDATA[Words used within writing to make it cohesive and easier to understand for the reader.]]>  
+	</item>
+	<item term="Connoisseurship in wine">  
+		<![CDATA[An expert in knowing the details and differences of wine.]]>  
+	</item>
+	<item term="Nitre">  
+		<![CDATA[a white powdery mineral.]]>  </item>
+	<item term="Theme">  
+		<![CDATA[The central idea or topic of a piece of text.]]>  </item>
+	<item term="Setting">  
+		<![CDATA[The time and location in which a story takes place.]]>  </item>
+	<item term="Irony">  
+		<![CDATA[The difference between what seems to be and what is real.]]>  </item>
+	<item term="Sarcasm">  
+		<![CDATA[An expression or remark that is meant to be rude or undermining.]]>  </item>
+	<item term="Resolution">  
+		<![CDATA[The solution to the conflict; the end of a story.]]>  </item>
+	<item term="Informative Essay">  
+		<![CDATA[Writing to inform or explain a topic.]]>  </item>
+	<item term="Narrative Essay">  
+		<![CDATA[Writing that tells a story, with a clear beginning, middle, and end.]]>  </item>
+	<item term="Argument Essay">  
+		<![CDATA[Writing that makes a claim and backs it up with evidence.]]>  </item>
+	<item term="Sensory Details">  
+		<![CDATA[Details used by the writer to engage the readers sense of smell, taste, sound, touch, and sight.]]>  </item> 
+	<item term="Dropped Quotations">  
+		<![CDATA[Quotations that show up in the middle of your paper without being introduced.]]>  </item>
+	<item term="Characterization">  
+		<![CDATA[This device refers to the way that the personalities of characters are developed and revealed to the reader.]]>  </item>
+	<item term="Conflict">  
+		<![CDATA[Multiple levels of conflict may exist within one novel. There may be inner conflict, whereby a character battles his or her thoughts or emotions, or external conflict where characters battle against some outside force or action.]]>  </item> 
+	<item term="Figurative Language">  
+		<![CDATA[Similes, metaphors, and analogies are used to make comparisons of one or more objects to something else for the purpose of adding some emotion or tone to the object.]]>  </item>
+	<item term="Flashback">  
+		<![CDATA[An author will use flashback to provide insight into current events, to let a reader know the background information leading up to some other event or action.]]>  </item>
+	<item term="Foil">  
+		<![CDATA[A foil is a character who has exact opposite character traits of a different character.]]>  </item>
+	<item term="Foreshadowing">  
+		<![CDATA[Hints are provided about events that are yet to come.]]>  </item>
+	<item term="Imagery">  
+		<![CDATA[Vivid and concrete details are provided to describe exactly what characters see, hear, feel, and do.]]>  </item>
+	<item term="Irony">  
+		<![CDATA[Events occur which are the opposite of what the characters and/ or readers would have expected to happen.]]>  </item>
+	<item term="Point of View">  
+		<![CDATA[This refers to who is telling the story.]]>  </item>
+	<item term="Symbolism">  
+		<![CDATA[One object stands as a depiction of some other object or idea which has a very different literal meaning, although the symbolic meaning is implied.]]>  </item>
+	<item term="Author's purpose">  
+		<![CDATA[The reason that an author has written a particular article, document, or piece of literature.]]>  </item>
+	<item term="Citations">  
+		<![CDATA[A reference to a published or unpublished source.]]>  </item>
+	<item term="Integrated Quotation">  
+		<![CDATA[A quotation directly from a source that is integrated into the writing.]]>  </item>
+	<item term="Summary">  
+		<![CDATA[Using your own words to explain the main ideas of the material you are borrowing.]]>  </item>
+	<item term="Paraphrase">  
+		<![CDATA[Using your own words to retell the ideas; shorter than a summary.]]>  </item>
+	<item term="Direct Quotations"> 
+		 <![CDATA[Using the exact words from the source to explain your own point.]]>  </item>
+	<item term="Claim">  
+		<![CDATA[Thesis or the main point the writer argues.]]>  </item>
+	<item term="Counterclaim">  
+		<![CDATA[Opposing viewpoint; disagrees with the claim.]]>  </item>
+	<item term="Exposition">  
+		<![CDATA[What you need to know. Background information is presented, main characters are introduced, and the conflict is established.]]>  </item> 
+	<item term="Rising Action">  
+		<![CDATA[The conflicts and challenges encountered by the characters. How they respond keeps the story moving forward.]]>  </item> 
+	<item term="Climax">  
+		<![CDATA[The turning point in the conflict. Tension builds until the main character must make a decision or take action that determines the direction of the story.]]>  </item> 
+	<item term="Falling Action">  
+		<![CDATA[The events that occur after the main character makes the key decision in the story.]]>  </item>
+	<item term="Resolution">
+		<![CDATA[The resolution is where all the questions are answered and loose ends are tied, providing a clear ending.]]>  </item>
+	 
+	 
+	<item term="Nemo me impune lacessit">  
+		<![CDATA[No one attacks me with impunity.]]>  </item>
+	<item term="Flagon of De Grave">
+		<![CDATA[Container of wine with a name similar to "grave".]]>  </item>
+	<item term="Ejaculated">  
+		<![CDATA[Suddenly yelled or exclaimed.]]>  
+	</item>
+	<item term="In pace requiescat">  
+		<![CDATA[Rest in peace.]]>  
+	</item>
+	
+	<item term="35">  
+		<![CDATA[Just a number]]>  
+	</item>
+
+	
+	
+</glossary>

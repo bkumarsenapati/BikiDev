@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 6 Quiz Lessons 1 - 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Matching</type>
+		<label>Matching</label>
+			<matchpair>
+				<term>rate</term>
+				<definition>&lt;img src=/webdav/res601/int_math_1/pictures/image3.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>ratio</term>
+				<definition>&lt;img src=/webdav/res601/int_math_1/pictures/image1.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>unit rate</term>
+				<definition>&lt;img src=/webdav/res601/int_math_1/pictures/image4.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>proportion</term>
+				<definition>&lt;img src=/webdav/res601/int_math_1/pictures/image2.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+						
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The basketball team made 22 out of 26 free throws during last night &#39;s basketball game. Write the ratio for the baskets made to the baskets attempted.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>A package of 4 towels cost &#38;nbsp;&#36;10. How much was each towel?</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>You made a 12 minute phone call that costs &#38;nbsp;&#36;.66. You can spend another &#38;nbsp;&#36;1.21 on phone calls. How many more minutes can you talk on the phone?</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Human hair grows .7 cm in two weeks. How long does it take hair to grow 14 cm?</label>
+		<credit>2</credit>
+	</item>
+	
+	
+</assessment>
+

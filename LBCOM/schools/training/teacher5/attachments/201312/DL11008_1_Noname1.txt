@@ -1,0 +1,6 @@
+
+
+
+set classpath=C:\Program Files\Apache Software Foundation\Tomcat 6.0\webapps\eduvision\WEB-INF\lib\openid4java-0.9.3.jar;.;%classpath%
+
+set classpath=C:\Program Files\Apache Software Foundation\Tomcat 6.0\webapps\sample\WEB-INF\lib\servlet-api.jar;.;%classpath%

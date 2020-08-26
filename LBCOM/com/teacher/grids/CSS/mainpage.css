@@ -1,0 +1,11 @@
+select {
+ background-color: #666699;
+ color: #ffffff;
+}
+textarea {
+	border-color: Black;
+	border-style: solid;
+	border-width: thin;
+	padding-left: 2px;
+	padding: 2px;
+}

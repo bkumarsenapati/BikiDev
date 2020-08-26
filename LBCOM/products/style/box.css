@@ -1,0 +1,12 @@
+.box {
+	height: 100px;
+	width: 20px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #B7B0AC;
+	border-right-color: #B7B0AC;
+	border-bottom-color: #B7B0AC;
+	border-left-color: #B7B0AC;
+}

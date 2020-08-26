@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 12 Quiz Lesson 6">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+		
+	<item>
+		<type>Essay</type>
+		<label>Questions 1 to 4: Divide the polynomial.&lt;br&gt;&lt;img src=/webdav/res013/int_math_1/pictures/img1.jpg&gt; </label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res013/int_math_1/pictures/img2.jpg&gt; </label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res013/int_math_1/pictures/img3.jpg&gt; </label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res013/int_math_1/pictures/img4.jpg&gt; </label>
+		<credit>2</credit>
+	</item>
+
+        <item>
+		<type>Essay</type>
+		<label>Questions 5 to 8:Factor out the greatest common monomial from the polynomial.&lt;br&gt;12x&lt;sup&gt;2&lt;&#47;sup&gt; + 8x + 16  </label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>4x&lt;sup&gt;4&lt;&#47;sup&gt; + 6x&lt;sup&gt;3&lt;&#47;sup&gt;  + 8x</label>
+		<credit>2</credit>
+	</item>
+
+
+	<item>
+		<type>Essay</type>
+		<label>10x&lt;sup&gt;7&lt;&#47;sup&gt;-5x&lt;sup&gt;4&lt;&#47;sup&gt;+15x&lt;sup&gt;2&lt;&#47;sup&gt;</label>
+		<credit>2</credit>
+	</item>
+
+
+	<item>
+		<type>Essay</type>
+		<label>9x&lt;sup&gt;2&lt;&#47;sup&gt;-6x + 12</label>
+		<credit>2</credit>
+	</item>
+
+         
+
+</assessment>

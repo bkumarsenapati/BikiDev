@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>FLVS Framework V2 Documentation</title>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<link href="http://develop.flvs.net/Collaborate/Course/_template/v2.0/docs/assets/docs.css" rel="stylesheet" type="text/css">
+<script>
+	$(document).ready(function(){
+			$('#navigation').load('nav.htm',function(){
+				// After Loaded do the following:
+				$('ul.nav_main li a').click(function(){
+						// Either Expand Children or Load Page
+						if($(this).next('ul').length){
+							$('ul.nav_sub').each(function(){
+									if($(this).	css('display') != 'none'){
+										$(this).slideToggle('fast');	
+									}
+							});
+							$(this).next('ul').slideToggle('fast');
+							var href = $(this).attr('href');
+							loadPage(href);
+						} else {
+							// Load Page
+							var href = $(this).attr('href');
+							loadPage(href);
+						}
+				});
+				
+				$('ul.nav_sub li a').click(function(){
+						var href = $(this).attr('href');
+						loadPage(href);
+				});
+				
+					
+			});
+			
+			// Check if there is a hash and then load a page
+			if(window.location.hash){
+				loadPage(window.location.hash);
+			} else {
+				loadPage('#course');	
+			}
+			
+			$(window).bind('hashchange', function() {
+					loadPage(window.location.hash);
+			});
+
+	
+			$(window).scroll(function(){
+					$('#navigation').css('top',$(window).scrollTop() + "px");
+			});
+	});
+	
+	
+	function loadPage(href){
+				hrefa = href.replace('#','');
+				if(hrefa != ''){
+					var linka = hrefa.split("_");
+					if(linka.length == 2){
+						var folder = linka[0];
+						var file = linka[1] + '.htm';
+						$('#page').load(folder+'/'+file);
+					} else if(linka.length == 3) {
+						var foldera = linka[0];
+						var folderb = linka[1];
+						var file = linka[2] + '.htm';
+						$('#page').load(foldera+'/'+folderb+'/'+file);
+					} else if(linka.length == 1){
+						var file = linka[0] + '.htm';
+						$('#page').load(file);
+					}
+					
+					
+						$('ul.nav_main li a').removeClass('active');
+						$('ul.nav_sub li a').removeClass('active');
+						
+						$('ul.nav_main li a').each(function(){
+							
+							if(href == $(this).attr('href')){
+								$(this).addClass('active');	
+							}
+						});
+						$('ul.nav_sub li a').each(function(){
+								
+								if(href == $(this).attr('href')){
+									$(this).addClass('active');
+									$(this).parent().parent().show();
+								}
+						});
+				}
+			}
+</script>
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="navigation">
+  
+    </div>
+    <div id="page">
+  
+    </div>
+</div>
+</body>
+</html>

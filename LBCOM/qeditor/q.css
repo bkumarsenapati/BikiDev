@@ -1,0 +1,121 @@
+    <style type="text/css">
+      
+		
+      a {font-size: 11pt}
+	  .f_left {float: left;}
+	  .f_right {float: right;}
+
+      .q_title {
+        font: 18 Arial, sans-serif; color: green;
+        padding: 5px;
+       }
+      .t_buttons {font-size:10pt; color: red; visibility: hidden}
+      .m_q_buttons {font-size:10pt}
+      .m_o_buttons {font-size:10pt}
+      .m_qf_buttons {font-size:10pt;}
+      .m_of_buttons {font-size:10pt;}
+	  .hide {visibility: hidden}
+	  del {visibility: hidden}
+	  .l_q_ta { font: 12 ; color: red }
+	  .l_o_ta { font: 12 ; color: green }
+	  .l_o1_ta { font: 12 ; color: green }
+	  .l_o2_ta { font: 12 ; color: green }
+	  .ans_ta { font: 12 ; color: green }
+	  .l_half {
+			width: 423px; height: 400px;
+			padding:5px; overflow:auto
+		}
+	  .l_mb_q {
+			float: left;
+			width: 423px;
+	  		background-color: #a8b8d0;
+	  }
+	  .w_l_mb_q {
+			float: left;
+			width: 100%;
+	  		background-color: #a8b8d0;
+	  }
+	  .l_q_area {
+			float: left;
+			width: 423px; height: 150px;
+			padding:0px; overflow:auto
+		}
+	  .w_l_q_area {
+			float: left;
+			width: 100%; height: 350px;
+			padding:0px; overflow:auto
+		}
+	  .l_mb_o {
+			float: left;
+			width: 423px;
+	  		background-color: #a8b8d0;
+	  }
+	  .l_o_area {
+			float: left;
+			width: 423px; height: 190px;
+	  		padding:0px; overflow:auto
+		}
+	  .l_o1_area {
+			width: 150px; height: 180px;
+	  		padding:0px; overflow:auto
+		}
+	  .l_o2_area {
+			width: 150px; height: 180px;
+	  		padding:0px; overflow:auto
+		}
+	  .l_b_area {
+			float: left;
+			width: 423px; height: 180px;
+	  		padding:0px; overflow:auto
+		}
+	  .w_l_b_area {
+			float: left;
+			width: 100%; height: 180px;
+	  		padding:0px; overflow:auto
+		}
+	  .r_half {
+			width: 423px; height: 400px;
+			padding:0px; overflow:auto
+		}
+	  .r_mb_qo {
+			float: left;
+			width: 423px;
+	  		background-color: #a8b8d0;
+	  }
+	  .r_qo_area {
+			float: left;
+			width: 423px; height: 269;
+			padding:0px; overflow:auto
+		}
+	  .r_q_area {
+			width: 400px; height: 150;
+			padding:0px; overflow:auto
+		}
+	  .r_o_area {
+			width: 400px; height: 250px;
+	  		padding:0px; overflow:auto
+		}
+	  .r_help { 
+	  		font: 12 Arial, sans-serif; color: #0000ff; 
+			float: left; border: 1px solid #aa0000;
+			width: 424px; height: 68; overflow: auto;
+		}
+	  .r_qr { 
+	  		font: 12 Arial, sans-serif; color: red; 
+			background-color: #ddddff 
+		}
+	  .r_qr_d { 
+	  		font: 12 Arial, sans-serif; color: red; 
+			background-color: #aaaaaa
+		}
+	  .r_or { 
+	  		font: 12 Arial, sans-serif; color: red; 
+			background-color: #ddffdd
+		}
+	  .r_or_d { 
+	  		font: 12 Arial, sans-serif; color: red; 
+			background-color: #dddddd
+		}
+			
+    </style>
+

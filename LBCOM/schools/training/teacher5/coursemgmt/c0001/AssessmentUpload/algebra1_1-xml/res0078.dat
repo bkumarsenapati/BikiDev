@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.07 Multiplying and Dividing Roots">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_01.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_02.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_03.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_04.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_05.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_06.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res0078/educator_alg1_v5/0707_07.gif&gt;</label>
+		<credit>3</credit>
+	</item>
+</assessment>

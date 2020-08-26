@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="08.00 Module 8 Pretest">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<group>1</group>
+		<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq2.gif&gt;</label>
+		<credit>11</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq1.gif&gt;&lt;br&gt;</label>
+			<choice>
+				<choicelabel>A.) 2(x - 5)/x(x+7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x(x+7)/2(x-5)</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x+7/-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 2(x-5)/(x+7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq3.gif&gt; &lt;br&gt;The solution to this problem is: b = -5/2</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq4.gif&gt;</label>
+			<choice>
+				<choicelabel>x=9</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x=3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x=-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x=6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq5.gif&gt;</label>
+			<choice>
+				<choicelabel>(4y + 20)(y - 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(y - 5)(y - 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4(y +5)(y - 5)</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2y + 10)(2y - 10)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq6.gif&gt;</label>
+			<choice>
+				<choicelabel>(4y - 3)(2y - 1)</choicelabel>
+				<credit>11</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4y - 1)(2y - 3)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4y + 3)(2y + 1)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4y +1)(2y - 3)&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq7.gif&gt;</label>
+			<choice>
+				<choicelabel>(y + 4)(y - 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(y - 4)(y + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(y + 4)(y + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(y - 4)(y - 5)</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq8.gif&gt;</label>
+			<choice>
+				<choicelabel>(2y + 7)(2y + 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2y + 7)(2y - 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2y - 7)(2y - 7)</choicelabel>
+				<credit>11</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4y - 7)(y - 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;img src=/webdav/res0101/educator_algebra1/pictures/M8images/M8pretest/m8ptq9.gif&gt;</label>
+			<choice>
+				<choicelabel>(x - 3)/(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)/(x - 3)</choicelabel>
+				<credit>11</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1/-6x</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

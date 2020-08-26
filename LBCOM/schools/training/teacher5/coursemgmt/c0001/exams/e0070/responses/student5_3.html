@@ -1,0 +1,134 @@
+
+<html>
+<head>
+<title>.:: Welcome to www.learnbeyond.net ::.</title>
+<script>
+function ltrim ( s ) {
+	return s.replace( /^\s*/, "" );
+}
+function rtrim ( s ){	
+	return s.replace( /\s*$/, "" );
+}
+function trim ( s ) {
+	return rtrim(ltrim(s));
+}
+function show_key(the_value)
+{
+var the_key=".0123456789";
+var the_char;
+var len=the_value.length;
+if(the_value=="")
+return false;
+for(var i=0;i<len;i++){
+the_char=the_value.charAt(i);
+if(the_key.indexOf(the_char)==-1)
+return false;
+}}
+
+function verify(m,max){
+var kk=0;
+var txt= document.getElementsByName(m.name);
+var tFldId=document.getElementById(m.id);
+   if(tFldId.readOnly==false)	{
+for(var i=0;i<txt.length;i++)
+if(txt[i]==m){
+   var kk=i;
+	 break;
+   }
+   if(isNaN(m.value)) {
+	   alert('Type in number');
+	   txt[kk].select();
+   }else if(m.value>max) { 
+	   alert('Maximum points for this answer is '+max);
+	   txt[kk].select();
+   }else { 
+	  if(m.value!=""){ 
+	  				  calc();
+		   for(var j=0;j<txt.length;j++){
+			if(trim(txt[j].value)==""){
+			 txt[j].focus();
+			 break;
+			}
+			}
+					}
+	   }
+		  }
+ }function calc(){
+     
+var len,win,q,tot,temp;
+var ar;
+tot=0;
+for(var i=0;i<arr.length;i++) {
+q=arr[i];
+win=document.anssheet.elements[q];
+len=win.length;
+ar=new Array(len);
+if(!win.length) {
+  if (trim(win.value)=='')
+tot=parseFloat(tot+0);
+  else 
+    tot=parseFloat(tot+parseFloat(win.value));
+}else {
+  for(var j=0;j<len;j++) 
+     if (trim(win[j].value)=='')
+          ar[j]=0;
+     else
+          ar[j]=win[j].value;
+  for(j=0;j<len-1;j++) {
+     for(var k=j+1;k<len;k++) {
+          if (parseInt(ar[j])<parseInt(ar[k])) {
+             temp=ar[j];
+             ar[j]=ar[k];
+             ar[k]=temp;
+           }
+      }
+    }
+for(j=0;j<maxarr[i];j++) {
+if((ar[j]=='')||(!ar[j]))
+   tot=parseFloat(tot+0)
+else 
+   	tot=parseFloat(tot+parseFloat(ar[j]));
+
+}
+}
+}
+if (isNaN(tot))
+   alert('Enter proper values');
+else
+    parent.third.document.sub.marks.value=tot;
+}</script>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+</head>
+<body><form name='anssheet' >
+<table border='0' bgcolor='#E8ECF4' width='100%' bordercolorlight='#FFFFFF' cellspacing='1'>
+<tr><td width='87%' valign='top' bgcolor='#DFE2F4'><font face='Arial' size='2'>Group Instructions : AS 1</font></td>
+
+</tr></table>
+<table border='0' width='100%' bordercolorlight='#FFFFFF' cellspacing='1' height='148'>
+
+<tr> <td width='3%' valign='top' align='left' bgcolor='#E2E2E2' height='21'><b>Q.</b></td>
+
+<td width='95%' valign='top' align='left' height='21' bgcolor='#F3F3F3'><font face='Arial' size='2'>What are the phases shown in A and D called?</font></td>
+<td width='11%' height='21' bgcolor='#F7F3F7'><p align='right'><font face='Arial' size='2'>Max. Points :10.0</font></p></td></tr>
+<tr>
+<td width='3%' valign='top' align='left' bgcolor='#E2E2E2' height='21'><font face='Arial' size='2'>Key</font></td>
+<td width='106%' valign='top' align='left' height='21' bgcolor='#F3F3F3' colspan='2'><font face='Arial' size='2'>&nbsp;</font></td></tr>
+<tr><td width='3%' valign='top' align='left' bgcolor='#E2E2E2' height='53'><font face='Arial' size='2'>Ans</font></td>
+<td width='106%' valign='top' align='left' height='53' colspan='2'><font face='Arial' size='2'>gjtt fdvvdf<BR>kjj,m <BR></font></td></tr>
+<tr><td width='3%' bgcolor='#E8ECF4' height='17'>&nbsp;</td>
+<td width='95%' bgcolor='#E8ECF4' height='17'><p align='right'><font face='Arial' size='2'>Secured Points</font></td>
+<td width='11%' bgcolor='#E8ECF4' height='17'><p align='right'><font size='1' face='Arial'><input type='text' name='-' size='12'  onblur='verify(this,10.0); '></font>  </td></tr>
+<tr><td width='109%' bgcolor='#F5F8FA' colspan='3' height='1'> <p align='right'>&nbsp;</p></td></tr>
+<input type='hidden' name='shortansmarks' value='0.0'>
+
+</form>
+</body>
+
+<script>
+var arr=new Array();
+var maxarr=new Array();
+arr[0]="-"
+maxarr[0]="1"
+</script>
+
+</html>

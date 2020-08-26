@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.04 Rational Exponents">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>5</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following is the radical expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;a to the five sevenths power&quot; /&gt; ?</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;fifth root of a to the seventh power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;seventh root of a to the fifth power&quot; /&gt;		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5a&lt;sup&gt;7&lt;/sup&gt;   </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7a&lt;sup&gt;5&lt;/sup&gt;  </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following is the radical expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;a to the four ninths power&quot; /&gt; ?</label>
+			<choice>
+				<choicelabel>4a&lt;sup&gt;9&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9a&lt;sup&gt;4&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;fourth root of a to the ninth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;ninth root of a to the fourth power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2 </group>
+			<label>Which of the following is the radical expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 times d to the three eighths power&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 times the eighth root of d to the third power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 times the third root of d to the eighth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;eighth root of 4 d to the third power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_01_11.gif&quot; align=&quot;absmiddle&quot; alt=&quot;third root of 4 d to the eighth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which of the following is the radical expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_1.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 times d to the seven tenths power&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_2.gif&quot; align=&quot;absmiddle&quot; alt=&quot;seventh root of 2 d to the tenth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_3.gif&quot; align=&quot;absmiddle&quot; alt=&quot;tenth root of 2 d to the seventh power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_4.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 times the tenth root of d to the seventh power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_5.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 times the seventh root of d to the tenth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Which of the following is the rational exponent expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_6.gif&quot; align=&quot;absmiddle&quot; alt=&quot;fourth root of f&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_7.gif&quot; align=&quot;absmiddle&quot; alt=&quot;f to the one fourth power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>f&lt;sup&gt;4&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4f</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_02_8.gif&quot; align=&quot;absmiddle&quot; alt=&quot;f over four&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Which of the following is the rational exponent expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_1.gif&quot; align=&quot;absmiddle&quot; alt=&quot;sixth root of f&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>f&lt;sup&gt;6&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_2.gif&quot; align=&quot;absmiddle&quot; alt=&quot;f to the one sixth power&quot; /&gt;		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_3.gif&quot; align=&quot;absmiddle&quot; alt=&quot;f over six&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6f</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Which of the following is the rational exponent expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_4.gif&quot; align=&quot;absmiddle&quot; alt=&quot;third root of 4 n&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>(4n)&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3n&lt;sup&gt;4&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_5.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 4 n to the one third power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_03_6.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 times n to the one third power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Which of the following is the rational exponent expression of &lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_04_1.gif&quot; align=&quot;absmiddle&quot; alt=&quot;fifth root of 7 n&quot; /&gt;?</label>
+			<choice>
+				<choicelabel>5n&lt;sup&gt;7&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(7n)&lt;sup&gt;5&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_04_2.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 times n to the one fifth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0048/educator_algebra2_v10/04_04c_04_3.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity of 7n to the one fifth power&quot; /&gt;	</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>The root of a radical becomes the numerator when the expression is rewritten as a rational exponent.  </label>
+			<choice>
+				<choicelabel>always</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>sometimes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>never			</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>The root of a radical becomes the denominator when the expression is rewritten as a rational exponent.</label>
+			<choice>
+				<choicelabel>always		</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>sometimes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>never</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

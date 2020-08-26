@@ -1,0 +1,60 @@
+a.ui_custom_dialog_trigger {
+	border: 3px solid #ee4983;
+	cursor: pointer;
+	padding: 4px;
+}
+div.image-container {
+	width: auto;
+}
+#gs_homebtn {
+	height: 10px;
+	left: 589px;
+	position: absolute;
+	top: 2px;
+	width: 86px;
+}
+#gs_progress {
+	height: 10px;
+	left: 528px;
+	position: absolute;
+	top: 2px;
+	width: 42px;
+}
+#gs_bookmark {
+	display:none;
+	height: 26px;
+	left: 492px;
+	position: absolute;
+	top: 0px;
+	width: 20px;
+}
+#gs_glossary {
+	height: 18px;
+	left: 11px;
+	position: absolute;
+	top: 128px;
+	width: 20px;
+	display:none;
+}
+#gs_menu {
+	height: 10px;
+	left: 27px;
+	position: absolute;
+	top: 2px;
+	width: 25px;
+}
+
+#gs_notes {
+	height: 10px;
+	left: 79px;
+	position: absolute;
+	top: 2px;
+	width: 20px;
+}
+#gs_printscreen {
+	height: 10px;
+	left: 117px;
+	position: absolute;
+	top: 2px;
+	width: 20px;
+}

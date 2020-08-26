@@ -1,0 +1,21 @@
+
+/* Customize Tooltip 
+	- BACKGROUND-COLOR
+	- COLOR
+	- BORDER-COLOR
+*/
+.tooltip-inner{
+	background-color:#e0376e;
+}
+.tooltip.top .tooltip-arrow {
+ border-top-color:#e0376e;
+}
+.tooltip.left .tooltip-arrow {
+  border-left-color:#e0376e;
+}
+.tooltip.bottom .tooltip-arrow {
+  border-bottom-color:#e0376e;
+}
+.tooltip.right .tooltip-arrow {
+  border-right-color:#e0376e;
+}

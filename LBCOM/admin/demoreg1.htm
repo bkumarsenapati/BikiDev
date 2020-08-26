@@ -1,0 +1,523 @@
+<html>
+
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta name="generator" content="Microsoft FrontPage 5.0">
+<style>
+<!--
+a{text-decoration:none}
+//-->
+</style>
+<meta name="author" content="Hotschools, Inc.">
+<script language="JavaScript">
+
+<!--
+
+function na_open_window(name, url, left, top, width, height, toolbar, menubar, statusbar, scrollbar, resizable)
+
+{
+
+  toolbar_str = toolbar ? 'yes' : 'no';
+
+  menubar_str = menubar ? 'yes' : 'no';
+
+  statusbar_str = statusbar ? 'yes' : 'no';
+
+  scrollbar_str = scrollbar ? 'yes' : 'no';
+
+  resizable_str = resizable ? 'yes' : 'no';
+
+  window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
+
+}
+
+
+
+// -->
+
+</script>
+
+
+<script language="Javascript">
+window.onerror=blockError;
+function blockError()
+{
+ return true;
+}
+
+function Validate()
+{
+if(window.document.schoolregistration.firstname.value=="")
+{
+alert("Enter First Name");
+
+window.document.schoolregistration.firstname.focus();
+return false;
+}
+if(window.document.schoolregistration.lastname.value=="")
+{
+alert("Enter Last Name");
+window.document.schoolregistration.lastname.focus();
+return false;
+}
+if(window.document.schoolregistration.title.value=="")
+{
+alert("Enter Title");
+window.document.schoolregistration.title.focus();
+return false;
+}
+if(window.document.schoolregistration.emailaddress.value=="")
+{
+alert("Enter your active E-mail address");
+window.document.schoolregistration.emailaddress.focus();
+return false;
+}
+if(window.document.schoolregistration.emailaddress.value.search('@')<1)
+{
+alert("Invalid E-mail address");
+window.document.schoolregistration.emailaddress.value="";
+window.document.schoolregistration.emailaddress.focus();
+return false;
+}
+
+if(window.document.schoolregistration.schoolname.value=="")
+{
+alert("Enter School Name");
+window.document.schoolregistration.schoolname.focus();
+return false;
+}
+if(window.document.schoolregistration.schooladdress.value=="")
+{
+alert("Enter School Address");
+window.document.schoolregistration.schooladdress.focus();
+return false;
+}
+if(window.document.schoolregistration.phone.value=="")
+{
+alert("Enter Phone Number");
+window.document.schoolregistration.phone.focus();
+return false;
+}
+if(isNaN(window.document.schoolregistration.phone.value))
+{
+alert("Phone Number contains only digits");
+window.document.schoolregistration.phone.value="";
+window.document.schoolregistration.phone.focus();
+return false;
+}
+if(isNaN(window.document.schoolregistration.fax.value))
+{
+alert("Fax contains only digits");
+window.document.schoolregistration.fax.value="";
+window.document.schoolregistration.fax.focus();
+return false;
+}
+
+
+if(window.document.schoolregistration.country.value=="")
+{
+alert("Enter Country Name");
+window.document.schoolregistration.country.focus();
+return false;
+}
+
+if(!(window.document.schoolregistration.schoolemailid.value==""))
+{
+if(window.document.schoolregistration.schoolemailid.value.search('@') < 0)
+{
+alert("Invalid E-mail address");
+window.document.schoolregistration.schoolemailid.value="";
+window.document.schoolregistration.schoolemailid.focus();
+return false;
+}
+}
+
+
+return true;
+}
+
+function clearAll()
+{
+window.document.schoolregistration.firstname.value="";
+window.document.schoolregistration.middlename.value="";
+window.document.schoolregistration.lastname.value="";
+window.document.schoolregistration.title.value="";
+window.document.schoolregistration.emailaddress.value="";
+window.document.schoolregistration.schoolname.value="";
+window.document.schoolregistration.description.value="";
+window.document.schoolregistration.schooltype.value="";
+window.document.schoolregistration.schooladdress.value="";
+window.document.schoolregistration.address2.value="";
+window.document.schoolregistration.phone.value="";
+window.document.schoolregistration.fax.value="";
+window.document.schoolregistration.country.value="";
+window.document.schoolregistration.website.value="";
+window.document.schoolregistration.schoolemailid.value="";
+window.document.schoolregistration.firstname.focus();
+window.document.schoolregistration.state.value="";
+return false;
+}
+
+</script>
+</head>
+
+<body bgcolor="white" text="black" link="black" vlink="purple" alink="red" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" background="images/bg.gif">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="770" bordercolordark="black" bordercolorlight="black" name="T_main">
+<tr>
+<td width="974"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" name="T1">
+<tr>
+<td width="779" height="7" background="images/hslay_01.gif" colspan="4">
+
+</td>
+</tr>
+<tr>
+<td width="525" height="33" align="left" valign="top" background="images/hslay_033.gif">
+<p><a href="index.html"><img src="images/hsn/logo.gif" width="204" height="42" border="0" TITLE=".:: www.hotschools.net ::."></a></p>
+</td>
+<td width="85" valign="bottom" background="images/hslay_02.gif">
+
+<p align="right"><a href="index.html"><img src="images/hslay_06.gif" width="85" height="49" border="0" TITLE=".:: www.hotschools.net ::."></a></p>
+</td>
+<td width="84" valign="bottom" background="images/hslay_02.gif">
+
+<p align="right"><a href="aboutus.html" title="About Hotschools'"><img src="images/hslay_07.gif" width="84" height="49" border="0" TITLE="About Hotschools'"></a></p>
+</td>
+<td width="84" valign="bottom" background="images/hslay_02.gif">
+
+<p align="right"><a href="contactus.html" title="Contact Hotschools'"><img src="images/hslay_08.gif" width="84" height="49" border="0" TITLE="Contact Hotschools'"></a></p>
+</td>
+</tr>
+<tr>
+<td width="772" height="35" background="images/hslay_070.gif" colspan="4">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="146"><P align=center><SPAN style="FONT-SIZE: 10pt"><FONT face=Arial><B><A 
+href="solserv.html" title="Solutions / Services">Solutions/Services</A></B></FONT></SPAN></P></td>
+<td width="198">
+<p align="center"><SPAN style="FONT-SIZE: 10pt"><FONT face=Arial><B><A 
+href="pprojects.html" title="Partnership Clients">Partners / Clients</A></B></FONT></SPAN></td>
+
+<td width="89"><P align="center"><SPAN style="FONT-SIZE: 10pt"><FONT face=Arial><B><A 
+href="news.html" title="News">News</A></B></FONT></SPAN></P></td>
+<td width="120"><P align="center"><SPAN style="FONT-SIZE: 10pt"><FONT face=Arial><B><A title="Live Help" 
+href="livehelp.html">Live 
+Help</A></B></FONT></SPAN></P></td>
+<td width="114"><P align="center"><SPAN style="FONT-SIZE: 10pt"><FONT face=Arial><B><A title="Online Tour" 
+
+href="javascript:na_open_window('win', 'onlinetour/onlinetour.htm', 0, 0, 700, 550, 0, 0, 0, 0, 0)" 
+
+target=_self>Online Tour</A></B></FONT></SPAN></P></td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table id="Table_01" align="center" border="0"
+ cellpadding="0" cellspacing="0" width="778">
+<tbody>
+<tr>
+<td width="778" colspan="7"> <table width="778" border="0" cellpadding="0" cellspacing="0" name="T1">
+<tr>
+<td>
+<img src="images/top2_01.gif" width="19" height="22" TITLE=""></td>
+<td width="327" height="22" align="center" valign="middle" bgcolor="black">
+<p align="center"><span style="font-size: 10pt;"><font
+ color="white" face="Arial"><b>for quality eLearning experience</b></font></span></p>
+</td>
+<td>
+<img src="images/top2_03.gif" width="432" height="22" TITLE=""></td>
+</tr>
+</table>
+</td>
+</tr>
+<tbody>
+<tr>
+<td width="38"> <img src="images/hslay_inside_14.gif" TITLE=""
+ height="60" width="103"></td>
+<td width="157"> <img src="images/hslay_inside_15.gif" TITLE=""
+ height="60" width="92"></td>
+<td width="96"> <img src="images/hslay_inside_16.gif" TITLE=""
+ height="60" width="96"></td>
+<td width="122"> <img src="images/hslay_inside_17.gif" TITLE=""
+ height="60" width="122"></td>
+<td width="142"> <img src="images/hslay_inside_18.gif" TITLE=""
+ height="60" width="142"></td>
+<td width="85"> <img src="images/hslay_inside_19.gif" TITLE=""
+ height="60" width="85"></td>
+<td width="138">
+<p align="right"><img src="images/hslay_inside_20.gif" TITLE=""
+ height="60" width="138"></p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="555" bgcolor="white">
+<h1 align="left"><font face="Arial">&nbsp;Register for a Demo</font></h1>
+</td>
+<td width="85" bgcolor="white">
+<p>&nbsp;</p>
+</td>
+<td align="right" valign="top" width="138" bgcolor="white">
+<p align="right"><img src="images/hslay_inside_22.gif"
+ border="0" height="39" width="138"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="779" align="center" valign="middle" bgcolor="white">
+<form method="POST" name="schoolregistration" action="/LBCOM/demo/register.jsp">
+<p align="center">
+<font size="2" face="Verdana" color="#FF0000"><b>Fields
+marked with (</b>*<b>) are required</b></font></p>
+<table border="0" width="98%" align="center">
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Salutation</span></td>
+<td width="62%">
+<table border="0" width="100%">
+<tr>
+<td width="10%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Mr.<input type="radio" value="Mr" name="salutation" checked tabindex="1"></span></td>
+<td width="10%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Mrs.<input type="radio" value="Mrs" name="salutation"></span></td>
+<td width="10%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Ms.<input type="radio" value="Ms" name="salutation"></span></td>
+<td width="15%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Dr.<input type="radio" value="Dr" name="salutation"></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">First Name</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="firstname" size="20" maxlength="25" tabindex="2"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Middle Name</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="middlename" size="20" maxlength="25" tabindex="3"></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Last Name</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="lastname" size="20" maxlength="25" tabindex="4" value="sss"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Title</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="title" size="20" maxlength="30" tabindex="5" value="rrr"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%">
+<span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Email
+Address</span>
+</td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="emailaddress" size="20" maxlength="30" tabindex="6" value="hsnsanthosh@yahoo.com"><font size="2" face="Verdana" color="#FF0000">*</font><b><font face="Verdana" color="#FF0000" size="1">(Active
+E-mail address)</font></b></td>
+</tr>
+<tr>
+<td width="757" colspan="2">
+<h1><font face="Verdana" size="2"><u><br>
+
+</u>School Details :_______________________________________________________________________</font></h1>
+</td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">School Name</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="50" --><input type="text" name="schoolname" size="20" maxlength="50" tabindex="7" value="ragaschool"><font size="2" face="Verdana" color="#FF0000">*</font><br>
+</td>
+</tr>
+<tr>
+<td width="38%" align="left" valign="top"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Verdana;mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:
+"Times New Roman";mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">Enter a brief description of your school</span></td>
+<td width="62%"><textarea rows="4" name="description" cols="40" tabindex="8"></textarea></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">School
+Type</span></td>
+<td width="62%"><select size="1" name="schooltype" tabindex="9">
+<option selected value="Boys">Boys</option>
+<option value="Girls">Girls</option>
+<option value="Co-education">Co-education</option>
+<option value="Elementary">Elementary</option>
+<option value="Junior">Junior</option>
+<option value="Military">Military</option>
+<option value="Secondary">Secondary</option>
+<option value="Higher">Higher</option>
+</select><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Address1</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="60" --><input type="text" name="schooladdress" size="48" maxlength="60" tabindex="10" value="hyd"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Address2</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="address2" size="20" maxlength="30" tabindex="11"></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Phone</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="14" --><input type="text" name="phone" size="20" maxlength="14" tabindex="12" value="55777262"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Fax</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="14" --><input type="text" name="fax" size="20" maxlength="14" tabindex="13"></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">State</span></td>
+<td width="62%">
+
+<font color="#FF0000"><!-- <select size="1" name="state" tabindex="14" name="state">
+<option selected value="N/A">N/A</option>
+<option value="Alabama ">Alabama </option>
+<option value="Alaska">Alaska</option>
+<option value="Arizona">Arizona</option>
+<option value="Arkansas ">Arkansas </option>
+<option value="California">California</option>
+<option value="Colorado">Colorado</option>
+<option value="Connecticut">Connecticut</option>
+<option value="Delaware">Delaware</option>
+<option value="District of Columbia">District of Columbia</option>
+<option value="Florida">Florida</option>
+<option value="Georgia">Georgia</option>
+<option value="Hawaii ">Hawaii</option>
+<option value="Idaho">Idaho</option>
+<option value="Illinois">Illinois</option>
+<option value="Indiana">Indiana</option>
+<option value="Iowa">Iowa</option>
+<option value="Kansas">Kansas</option>
+<option value="Kentucky">Kentucky</option>
+<option value="Louisiana">Louisiana</option>
+<option value="Maine">Maine</option>
+<option value="Maryland">Maryland</option>
+<option value="Massachusetts ">Massachusetts</option>
+<option value="Michigan">Michigan</option>
+<option value="Minnesota">Minnesota</option>
+<option value="Mississippi">Mississippi</option>
+<option value="Missouri">Missouri</option>
+<option value="Montana">Montana</option>
+<option value="Nebraska">Nebraska</option>
+<option value="Nevada">Nevada</option>
+<option value="New Hampshire">New Hampshire</option>
+<option value="New Jersey ">New Jersey</option>
+<option value="New Mexico">New Mexico</option>
+<option value="New York">New York</option>
+<option value="North Carolina">North Carolina</option>
+<option value="North Dakota">North Dakota</option>
+<option value="Ohio ">Ohio </option>
+<option value="Oklahoma">Oklahoma</option>
+<option value="Oregon ">Oregon </option>
+<option value="Pennsylvania">Pennsylvania</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Rhode Island ">Rhode Island </option>
+<option value="South Carolina">South Carolina</option>
+<option value="South Dakota">South Dakota</option>
+<option value="Tennessee">Tennessee</option>
+<option value="Texas">Texas</option>
+<option value="Utah">Utah</option>
+<option value="Vermont ">Vermont </option>
+<option value="Virginia">Virginia</option>
+<option value="Washington ">Washington </option>
+<option value="West Virginia">West Virginia</option>
+<option value="Wisconsin">Wisconsin</option>
+<option value="Wyoming">Wyoming</option>
+</select>--><input type="text" name="state" tabindex="14" size="20" value="ap"></font><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Country</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="50" --><input type="text" name="country" size="20" maxlength="50" tabindex="15" value="india"><font size="2" face="Verdana" color="#FF0000">*</font></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Email
+Address</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="50" --><input type="text" name="schoolemailid" size="20" maxlength="50" tabindex="16"></td>
+</tr>
+<tr>
+<td width="38%"><span style="font-size:10.0pt;font-family:Verdana;
+mso-fareast-font-family:&quo" " Times New Roman";mso-bidi-font-family:"Times New Roman";
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">Website</span></td>
+<td width="62%">
+<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="35" --><input type="text" name="website" size="20" maxlength="35" tabindex="17"></td>
+</tr>
+</table>
+ <p align="center"><i><b>&nbsp;
+
+<font face="Verdana" size="2"><input type=image src="images/submit.gif" value="Submit" name="submit" onclick="return Validate(this)" tabindex="21" width="88" height="33">
+<input type=image src="images/reset.gif" value="Reset" name="reset" onclick="return clearAll(this)" width="91" height="33"><br></font></b></i>
+</form>
+
+
+
+</td>
+</tr>
+</table>
+<table id="Table_01" width="779" border="0" cellpadding="0" cellspacing="0" align="center">
+<tr>
+<td width="778" height="55" valign="bottom" background="images/hslay_23.gif">
+<p align="center"><span style="font-size:9pt;"><font face="Arial">Copyright 
+1999 - 2005 <b>Hotschools, Inc</b>. All Rights Reserved. Terms and Conditions 
+Apply. Privacy Policy.</font></span></p>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 3 Lessons 3 - 5">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;3x - 7  = 38</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;12t - 4 = 8</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;3.6t + 9 = 34 - 1.4t</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;2(x - 3) = 14</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;-6d + 5  = 17</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation. Show work.&lt;br&gt;54 = 9 - 3c</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>A number multiplied by 6 is equal to a number plus 10. Find the number.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>A number added to nine is equal to three times a number plus seventeen. Find the number.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Show the work on how to check your solution for question &#38;nbsp;&#35;2.</label>
+		<credit>2</credit>
+	</item>
+	
+
+</assessment>
+

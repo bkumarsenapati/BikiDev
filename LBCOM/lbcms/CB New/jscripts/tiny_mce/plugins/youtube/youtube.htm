@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Youtube URL</title>
+	<script type="text/javascript" src="../../tiny_mce_popup.js"></script>
+	<script type="text/javascript" src="js/youtube.js"></script>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function cfr()
+{
+
+   alert("Please copy the embed");
+}
+//-->
+    </script>
+</head>
+<body>
+
+<form onsubmit="YoutubeDialog.insert();return false;" action="#">
+	<p><label for="youtubeURL"><b>Embed Youtube URL</b></label>
+   <!--  <input id="youtubeURL" name="youtubeURL" type="text" class="text" style="width:100%" size="20" /> -->
+   <textarea id="youtubeURL" name="youtubeURL" rows="5" cols="100"></textarea></p>
+<p><b>Example:</b>&nbsp;
+	<p>
+    <img border="0" src="img/youtube1.JPG" width="609" height="283"><div class="mceActionPanel">
+		<input type="button" id="insert" name="insert" value="Insert" onclick="YoutubeDialog.insert();" />
+		<input type="button" id="cancel" name="cancel" value="Cancel" onclick="tinyMCEPopup.close();" />
+	</div>
+</form>
+&nbsp;</body></html>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.05 Quiz 1">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the correct description of each inequality as it would be graphed on a number line.&lt;br&gt;&lt;br&gt;x &gt; 3</label>
+			<choice>
+				<choicelabel>A.) Closed dot on 3, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) Closed dot on 3, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) Open dot on 3, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) Open dot on 3, arrow to the right</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -5</label>
+			<choice>
+				<choicelabel>A.) Open dot on -5, arrow to the right</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) Open dot on -5, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) Closed dot on -5, arrow to the right</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.)Closed dot on -5, arrow to the left</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose all that would apply when graphing this inequality on a number line.&lt;br&gt;&lt;br&gt;P &gt; 0</label>
+			<choice>
+				<choicelabel>A.) Open dot on 0</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) Closed dot on 0</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) Arrow to the left</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) Arrow to the right</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>If -3x &gt; 9, then x &lt; -3</label>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>x - 7 &gt; 12</label>
+			<choice>
+				<choicelabel>A.) x &gt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x &gt; 19</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x &lt; 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x &lt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>7x - 5x + 3 &gt; 9</label>
+			<choice>
+				<choicelabel>A.) x &gt; 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x &lt; 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x &gt; 3</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x &lt; 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>-8x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt; 32</label>
+			<choice>
+				<choicelabel>A.) x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; -4</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt; -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt; 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) x &lt;img src=/webdav/res0121/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt; 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>1.2W &gt; -10.8</label>
+			<choice>
+				<choicelabel>A.) W &gt; 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) W &lt; 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) W &lt; -9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) W &gt; -9</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Solve the inequality below and enter your answer in the blank. Do not put any spaces in your answer. For example, if your answer is x is less than 4, write x&lt;4.  &lt;br&gt;  &lt;br&gt;2(x - 4)&lt; 8(x + 1/2)&lt;br&gt;__________</label>
+			<blank>
+				<accepted>x&gt;-2</accepted>
+				<credit>2.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the inequality below and give a description of the graph.  Show ALL work if you want to be eligible for partial credit.&lt;br&gt;&lt;br&gt;24 - 7n &lt; 11n - 12</label>
+		<credit>2.0</credit>
+	</item>
+</assessment>

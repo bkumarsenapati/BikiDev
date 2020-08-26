@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="02.05 Lab">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Assessment Name:  02.05 Lab 
+ 
+Assessment Instructions: 
+Use the Algebra Lab Template 02.05 template to 
+record your responses to the questions in “To be a 
+square or rectangle Lab” for lesson 02.05. You can 
+find the actual steps necessary to complete this 
+report within the lesson. 
+
+Copy and paste your lab report into the box below 
+and use the browse button to attach your data 
+chart.&quot;
+</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

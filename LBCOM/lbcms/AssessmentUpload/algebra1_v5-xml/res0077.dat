@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.06 Roots">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label> &lt;img src=/webdav/res0077/educator_alg1_v5/0606_01.gif&gt; </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label> &lt;img src=/webdav/res0077/educator_alg1_v5/0606_02.gif&gt; </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label> &lt;img src=/webdav/res0077/educator_alg1_v5/0606_03.gif&gt; </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label> &lt;img src=/webdav/res0077/educator_alg1_v5/0606_04.gif&gt; </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label> &lt;img src=/webdav/res0077/educator_alg1_v5/0606_05.gif&gt; </label>
+		<credit>2</credit>
+	</item>
+</assessment>

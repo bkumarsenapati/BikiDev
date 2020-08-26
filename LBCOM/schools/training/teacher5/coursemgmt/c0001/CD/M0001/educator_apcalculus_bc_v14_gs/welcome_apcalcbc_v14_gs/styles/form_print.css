@@ -1,0 +1,18 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	margin: 0% 10%;
+}
+
+.floatRight {
+float: right;	
+}
+
+.clear {
+clear: both;	
+}
+
+a img {
+border: none;	
+}
+

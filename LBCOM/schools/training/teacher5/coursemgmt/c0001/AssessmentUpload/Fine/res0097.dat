@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.02 Multiplying and Dividing Rational Expressions">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>8</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 m cubed over 3 m squared n times 9 n squared over 30 m squared n squared&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 n over 3 m&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 m over 5 n&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 over 3 m n&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 over 5 m n&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;18 s t to the fourth power over 52 s cubed t times 16 s cubed over 9 s squared t&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 t squared over 13 s&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 t over 13 s squared&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 t squared over 13 s&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_1_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 t over 39 s squared&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x squared minus 4 x plus 4 over quantity x squared plus 10 x plus 25 times quantity x plus 5 over quantity x squared plus 3 x minus 10&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 2 over quantity x plus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_03r_a.gif&quot; align=&quot;absmiddle&quot; alt=&quot;x minus 2 all over the quantity x plus 5 end quantity squared&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_04r.gif&quot; align=&quot;absmiddle&quot; alt=&quot;the quantity x minus 2end quantity  squared all over x plus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_05r.gif&quot; align=&quot;the quantity x minus 2 end quantity squared all over the quantity x plus 5 end quantity squared&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x squared minus 3 x minus 54 over quantity x squared minus 18 x plus 81 times quantity x squared plus 12 x plus 36 over quantity x plus 6&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 6 over quantity x minus 9&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_08r.gif&quot; align=&quot;absmiddle&quot; alt=&quot;the quantity x plus 6 end quantity over the quantity x minus 9 end quantity squared.&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_09r.gif&quot; align=&quot;absmiddle&quot; alt=&quot;the quantity x plus 6 end quantity squared over the quantity x minus 9&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_2_10r.gif&quot; align=&quot;absmiddle&quot; alt=&quot;the quantity x plus 6 end quantity squared over the quantity x minus 9 end quantity squared.&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity 5 x squared plus 9 x minus 2 over quantity x squared plus 12 x plus 20 times quantity x squared plus 17 x plus 70 over quantity 15 x minus 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 7 over 3&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 10 over 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 7 over 3 open parentheses x plus 10&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 2 over 3 open parentheses x plus 10 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x squared plus 4 x minus 5 over quantity 5 x squared minus 8 x plus 3 times quantity 20 x minus 12 over x squared minus 6 x minus 55&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 over quantity x plus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 open parentheses x minus 1 close parentheses over quantity x plus 5&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 over quantity x minus 11&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_3_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 open parentheses x plus 5 close parentheses over quantity x minus 11&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;25 w to the sixth power over 10 w to the third power divided by 30 w squared over 5 w&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;1 over 15 w to the fourth power&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;5 w squared over 12&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;12 over 5 w squared&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>15w&lt;sup&gt;4&lt;/sup&gt; </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;40 v squared over 35 v to the fourth power divided by 20 v cubed over 5 v&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 over 7 v to the fourth power&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 over 32&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;7 v to the fourth power over 2&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_4_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;32 over 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity 8 x minus 56 over quantity x squared minus 49 divided by quantity x minus 6 over quantity x squared plus 11 x plus 28&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 open parentheses x plus 4 close parentheses over quantity x minus 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 open parentheses x plus 2 close parentheses over quantity x minus 3&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 open parentheses x plus 4 close parentheses over quantity x minus 7&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 open parentheses x plus 4 close parentheses over quantity x minus 6&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x squared minus 100 over quantity x squared plus 2 x minus 120 divided quantity 6 x plus 60 over quantity x minus 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 1 over 6 open parentheses x plus 6 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 2 over 6 open parentheses x plus 10 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 2 over 6 open parentheses x plus 12 close parentheses&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_5_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 1 over 3 open parentheses x plus 12 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_01.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x squared plus x minus 12 over quantity x squared minus x minus 20&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_02.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x minus 5 over 4 open parentheses x plus 1 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_03.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity x plus 1 over 8 open parentheses x minus 5 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_04.gif&quot; align=&quot;absmiddle&quot; alt=&quot;4 open parentheses x plus 1 close parentheses over quantity x minus 5&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_05.gif&quot; align=&quot;absmiddle&quot; alt=&quot;8 open parentheses x minus 5 close parentheses over quantity x plus 1&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Simplify completely &lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_06.gif&quot; align=&quot;absmiddle&quot; alt=&quot;quantity 6 x squared minus 54 plus 84 over quantity 8 x squared minus 40 x plus 48 divided by quantity x squared plus x minus 56 over quantity 2 x squared plus 12 x minus 32&quot; /&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_07.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 open parentheses x minus 3 close parentheses over 3 open parentheses x minus 2 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_08.gif&quot; align=&quot;absmiddle&quot; alt=&quot;2 open parentheses x minus 2 close parentheses over 3 open parentheses x minus 3 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_09.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 open parentheses x minus 3 close parentheses over 2 open parentheses x minus 2 close parentheses&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0097/educator_algebra2_v10/07_02c_6_10.gif&quot; align=&quot;absmiddle&quot; alt=&quot;3 open parentheses x minus 2 close parentheses over 2 open parentheses x minus 3 close parentheses&quot; /&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Using complete sentences, describe what might happen if a rational expression were multiplied before being simplified.  </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>7</group>
+		<label>Using complete sentences, describe the benefit of simplifying rational expressions before multiplying.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>8</group>
+		<label>Using complete sentences, describe how you would check the product of two rational expressions.  Create and demonstrate your own example of this concept.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>8</group>
+		<label>Using complete sentences, describe how you would check the quotient of two rational expressions.  Create and demonstrate your own example of this concept.</label>
+		<credit>2</credit>
+	</item>
+</assessment>

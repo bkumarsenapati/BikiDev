@@ -1,0 +1,27 @@
+.ct {
+	DISPLAY: block; FONT-SIZE: 0px; RIGHT: -1px; BACKGROUND: no-repeat right top; MARGIN: 0px; WIDTH: 100%; LINE-HEIGHT: 0; POSITION: relative; TOP: -1px; HEIGHT: 3px
+}
+.ct .cl {
+	DISPLAY: block; FONT-SIZE: 0px; BACKGROUND: no-repeat left top; LEFT: -2px; MARGIN: 0px; WIDTH: 3px; LINE-HEIGHT: 0; POSITION: relative; HEIGHT: 3px
+}
+.cb {
+	CLEAR: both; DISPLAY: block; FONT-SIZE: 0px; RIGHT: -1px; BACKGROUND: no-repeat right bottom; MARGIN: 0px; WIDTH: 100%; BOTTOM: -1px; LINE-HEIGHT: 0; POSITION: relative; HEIGHT: 3px
+}
+.cb .cl {
+	DISPLAY: block; FONT-SIZE: 0px; BACKGROUND: no-repeat left bottom; LEFT: -2px; MARGIN: 0px; WIDTH: 3px; LINE-HEIGHT: 0; POSITION: relative; HEIGHT: 3px
+}
+#Err_Div {
+	BORDER-RIGHT: #ffc407 1px solid; BORDER-TOP: #ffc407 1px solid; BACKGROUND: #fffbba; BORDER-LEFT: #ffc407 1px solid; BORDER-BOTTOM: #ffc407 1px solid
+}
+#Err_Div .ct {
+	BACKGROUND-IMAGE: url(images/cr_ne.gif)
+}
+#Err_Div .ct .cl {
+	BACKGROUND-IMAGE: url(images/cr_nw.gif)
+}
+#Err_Div .cb {
+	BACKGROUND-IMAGE: url(images/cr_se.gif); BOTTOM: -1px
+}
+#Err_Div .cb .cl {
+	BACKGROUND-IMAGE: url(images/cr_sw.gif)
+}

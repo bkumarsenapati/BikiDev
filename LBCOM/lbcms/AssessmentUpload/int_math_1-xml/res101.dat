@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 1 Lessons 1 - 4">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res101/int_math_1/pictures/image1.gif&gt;</label>
+			<choice>
+				<choicelabel>multiplication, parenthesis, exponents, division</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>parenthesis, exponents, multiplication, division</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>exponents, parenthesis, multiplication, division</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>parenthesis, multiplication, exponents, division</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+					
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Follow the order of operations to evaluate the following  2 + 3 * 4</label>
+			<blank>
+				<accepted>14</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Follow the order of operations to evaluate the following 4 - 4 * 2 + 1</label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the following variable expressions 4t - 3y + 7   when t = 5 and y = 3</label>
+			<blank>
+				<accepted>18</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the following variable expressions  x&lt;sup&gt;2&lt;/sup&gt;&#38;nbsp;  + 4    when x = 3</label>
+			<blank>
+				<accepted>13</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res101/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Translate the following into mathematical models&lt;br&gt;The sum of five and a number is less than ten.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Translate the following into mathematical models&lt;br&gt;A number decreased by 12 is four.</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate  -36 - (-98)</label>
+			<blank>
+				<accepted>62</accepted>
+				<credit>2</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res101/int_math_1/pictures/image3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+
+</assessment>
+

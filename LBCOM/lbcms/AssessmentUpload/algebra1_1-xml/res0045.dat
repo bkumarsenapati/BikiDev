@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.17 Practice Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>5(x+2) = 5x +10 is an example of </label>
+			<choice>
+				<choicelabel>Associative Property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Distributive Property</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Commutative Property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Identity Property of Multiplication</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>(3+ x) + 10 = 3 + (x+10) is an example of </label>
+			<choice>
+				<choicelabel>Commutative Property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Associative Property</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Reflexive Property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Identity Property of Addition</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following is an example of the Symmetric Property of Equality?</label>
+			<choice>
+				<choicelabel>5 + x = x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7(1) = 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>If 2x+3 = 10, then 10 = 2x+3</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>If x+4 = y and y=3x, then x+4 =3x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the expression by distributing and combining like terms:  -2(x-3) + 4(x+7).</label>
+			<choice>
+				<choicelabel>4(x+7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x +34</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x +34</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x + 22</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the expression by distributing and combining like terms:  -5 -2(x+3) + 7x</label>
+			<choice>
+				<choicelabel>5x -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x - 11</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9x - 11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution to the equation:  3x - 1 = 11.</label>
+			<choice>
+				<choicelabel>10/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution to the equation:  -2(x+1) + 4 = 6(x-2) + 8.</label>
+			<choice>
+				<choicelabel>3/4</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution to the equation: &lt;img src=/webdav/res0045/educator_algebra1/pictures/M4images/4_8_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>21</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution to the equation:  12 - (3x+2) = 5(x-2) + 4.</label>
+			<choice>
+				<choicelabel>5/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution(s) to the equation:  &lt;img src=/webdav/res0045/educator_algebra1/pictures/M4images/4_10_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3, -13/3</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No solution</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4, 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following represents an inverse relationship:</label>
+			<choice>
+				<choicelabel>The more air you put into a balloon, the bigger it gets. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The more air you put into a balloon, the less there is in your lungs.</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The more you eat, the heavier you become. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following represents a direct relationship:</label>
+			<choice>
+				<choicelabel>The more air you put into a balloon, the bigger it gets. </choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The more air you put into a balloon, the less there is in your lungs. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The closer you get to the light (distance is decreasing), the hotter the light becomes. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>A car can pump 500 gallons of gas in 20 minutes.  How much gas can a car pump in 30 minutes?</label>
+			<choice>
+				<choicelabel>750</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6/5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>700</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>650</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which set of ordered pairs is a function?</label>
+			<choice>
+				<choicelabel>(1,2), (2,2), (4,5), (1,-4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3,4),(5,1)(6,3),(6,4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(7,5),(3,2),(-5,10), (-1,-2)</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,3), (-1,3),(4,8),(2,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the function f(x) = 3x + 1 when x=2.</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the function g(x) = -2x + 4 when x=-1.</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following represents the statement:  4 more than three times a number is 12. </label>
+			<choice>
+				<choicelabel>3(4) + x = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 + 3x = 12</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x -4 = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4&gt; 3x + 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Solve the following equation for b: &lt;img src=/webdav/res0045/educator_algebra1/pictures/M4images/4_19_Q.gif&gt;</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the solutions to the equation:  &lt;img src=/webdav/res0045/educator_algebra1/pictures/M4images/4_20_Q.gif&gt;</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the solution to the equation: 4(x-1) + 6 = 5(2-x) + 1.  Show all work. </label>
+		<credit>1</credit>
+	</item>
+</assessment>

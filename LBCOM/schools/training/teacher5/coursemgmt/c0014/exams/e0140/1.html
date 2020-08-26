@@ -1,0 +1,32 @@
+<html><head>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<!--[if IE]>
+<style type="text/css">
+*{font-family: Lucida Sans Unicode, Math1, Math2, Math3, Math4, Math5, MT Extra, CMSY10, Symbol,arial;}</style><![endif]-->
+<script language='javascript' src='/LBCOM/validationscripts.js'></script>
+<script language='javascript' src='/LBCOM/common/evaluation.js'></script>
+<!-- TinyMCE --> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/tiny_mce.js"></script> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/plugins/asciimath/js/ASCIIMathMLwFallback.js"></script> <script type="text/javascript"> var AMTcgiloc = "http://demo.learnbeyond.com/cgi-bin/mimetex.cgi";  //change me </script>  <script type="text/javascript" src="/LBCOM/common/tinymce.js"></script>  <script> callTiny(); </script> <!-- /TinyMCE -->
+<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js'></script> <script type="text/javascript">$(document).ready(function(){$('#ar').click(function(){var len = document.q_paper.elements.length;for(var i = 0 ; i< len;i++){if(document.q_paper.elements[i].type =='textarea'){document.getElementById(document.q_paper.elements[i].id).value=tinyMCE.get(document.q_paper.elements[i].id).getContent();}}});});setInterval(function () {parent.mid_f.document.q_paper.ar.click();}, 10000);</script>
+ </head>
+<body oncontextmenu='return false;' link='#FFFFFF' alink='#FFFFFF' vlink='#FFFFFF' leftmargin=0 topmargin=0>
+<form name='q_paper' enctype='multipart/form-data' action='/LBCOM/exam/SubmitShtAnsFiles.jsp?examid=e0140' method='post'>
+<table id='Q1Q495' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q1' value='1' onclick="checkMarked(this,'Q495',3)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='1'><font face='Arial' size='2'>1</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Fill-in-the-blanks Type <input type='text' name='Q495' onblur="setMark_oth('Q1',this.value)" >   enter answer in text box .</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td><td width='90' valign='top'><DIV id='EQ495' style='visibility:hidden'><input type='text' id='MQ495' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr></table><br><input type='hidden' id='ar' name='ar' value='submit'>
+     </form>
+</body>
+<SCRIPT LANGUAGE='JavaScript'>
+   var frm=document.q_paper;
+   var qIds=new Array();
+   var qType=new Array();
+
+   qIds[0]='Q495'; 
+ qType[0]=3; 
+var arr=new Array();	
+var maxarr=new Array();	
+arr[0]="-";		
+maxarr[0]="1";	
+</SCRIPT>	
+</html>

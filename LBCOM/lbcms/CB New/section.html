@@ -1,0 +1,620 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Template</title>
+<link rel='stylesheet' type='text/css' href="css/ddstyle.css" />
+<link rel='stylesheet' type='text/css' href="css/red.css" />
+<link rel='stylesheet' type='text/css' href="css/intro_style.css" />
+<!-- DC Tabs CSS <link type="text/css" rel="stylesheet" href="css/tsc_tabs.css" /> -->
+<!-- jQuery Library (skip this step if already called on page )
+<script type="text/javascript" src="js/jquery.min.js"></script>  -->
+<!-- (do not call twice) --> 
+<!-- DC Tabs JS 
+<script type="text/javascript" src="js/tsc_tabs.js"></script>-->
+<!-- TinyMCE -->
+<script type="text/javascript" src="../jscripts/tiny_mce/tiny_mce.js"></script>
+<script type="text/javascript">
+	tinyMCE.init({
+
+	// General options
+		mode : "textareas",
+		theme : "advanced",
+		plugins : "pagebreak,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,inlinepopups,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template,wordcount,advlist,autosave",
+
+		// Theme options
+		theme_advanced_buttons1 : "save,newdocument,|,bold,italic,underline,strikethrough,|,justifyleft,justifycenter,justifyright,justifyfull,styleselect,formatselect,fontselect,fontsizeselect",
+		theme_advanced_buttons2 : "cut,copy,paste,pastetext,pasteword,|,search,replace,|,bullist,numlist,|,outdent,indent,blockquote,|,undo,redo,|,link,unlink,anchor,image,cleanup,help,code,|,insertdate,inserttime,preview,|,forecolor,backcolor",
+		theme_advanced_buttons3 : "tablecontrols,|,hr,removeformat,visualaid,|,sub,sup,|,charmap,emotions,iespell,media,advhr,|,print,|,ltr,rtl,|,fullscreen",
+		theme_advanced_buttons4 : "insertlayer,moveforward,movebackward,absolute,|,styleprops,|,cite,abbr,acronym,del,ins,attribs,|,visualchars,nonbreaking,template,pagebreak,restoredraft",
+		theme_advanced_toolbar_location : "top",
+		theme_advanced_toolbar_align : "left",
+		theme_advanced_statusbar_location : "bottom",
+		theme_advanced_resizing : true,
+
+		// Example content CSS (should be your site CSS)
+		content_css : "css/content.css",
+
+		// Drop lists for link/image/media/template dialogs
+		template_external_list_url : "lists/template_list.js",
+		external_link_list_url : "lists/link_list.js",
+		external_image_list_url : "lists/image_list.js",
+		media_external_list_url : "lists/media_list.js",
+
+		// Style formats
+		style_formats : [
+			{title : 'Bold text', inline : 'b'},
+			{title : 'Red text', inline : 'span', styles : {color : '#ff0000'}},
+			{title : 'Red header', block : 'h1', styles : {color : '#ff0000'}},
+			{title : 'Example 1', inline : 'span', classes : 'example1'},
+			{title : 'Example 2', inline : 'span', classes : 'example2'},
+			{title : 'Table styles'},
+			{title : 'Table row 1', selector : 'tr', classes : 'tablerow1'}
+		],
+
+		// Replace values for the template plugin
+		template_replace_values : {
+			username : "Some User",
+			staffid : "991234"
+		}
+	});
+</script>
+<!-- /TinyMCE -->
+
+</head>
+<body>
+<table class='main_table' align='center'>
+<tr>
+<td class='main_table_c1'></td>
+<td class='main_table_c2'>
+<table class='main_table2' cellpadding='0' cellspacing='0' width="100%">
+<tr>
+<td class='main_table2_th' width="774">
+<table class='titel_table' cellpadding='0' cellspacing='0'>
+                            <tr>
+<td class='title_table_c1'>Template Title</td>
+                                <td class='title_table_c2' align="left" valign="bottom"><a class="home_button" href="../lessons.html" title="course home"><span></span></a>
+								
+								
+                                    <table border="0" width="100%">
+                                        <tr>
+                                            <td width="99">
+                                               
+                                                    <p><input type="submit" name="section" value="lesson introduction" /></p>
+                                          
+                                            </td>
+                                            <td width="99"><p><input type="submit" name="section" value="+ new page" /></p></td>
+                                            <td width="100%">&nbsp;</td>
+                                            <td width="99">&nbsp;</td>
+                                            <td width="99">&nbsp;</td>
+                                            <td width="99">&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                    
+                                </td>
+                            </tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class='main_table2_tb' width="774"></td>
+</tr>
+<tr>
+<td class='main_table2_tc' width="774">
+<table class='slides_table' width="100%" height="615">
+                            <tr>
+                                <td class='slides_table_tl' width="417">
+                                   
+                                    <table border="0" width="762">
+                                        <tr>
+                                            <td width="71">
+                                               
+                                                    <p><input type="submit" name="section" value="+ section" /></p>
+                                         
+                                            </td>
+                                            <td width="94">
+                                                
+                                                    <p><input type="submit" name="section" value="+ resources" /></p>
+                                                
+                                            </td>
+                                            <td width="78">
+                                               
+                                                    <p><input type="submit" name="section" value="+ glossary" /></p>
+                                           
+                                            </td>
+                                            <td width="78"><p><input type="submit" name="section" value="+ assignment(s)" /></p></td>
+                                            <td width="128"><p><input type="submit" name="section" value="+ assessment(s)" /></p></td>
+                                            <td width="90">
+                                                
+                                                    <p><input type="submit" name="section" value="+ picture gallery" /></p>
+                                            
+</td>
+                                            <td width="90"><p>&nbsp;</p></td>
+                                            <td width="99"><p>&nbsp;</p></td>
+                                        </tr>
+                                    </table>
+                                   
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="100%" height="15" class="slides_table_tl" bgcolor="#99ccff">                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                
+                                                                <p><input type="text" name="formtext1" value="lesson introduction page" size="30" /></p>
+                                          
+                                             
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right">                                    <p>&nbsp;</p>
+</td>
+                                                        <td width="24" align="right">&nbsp;</td>
+                                                        <td width="24" align="right">                                    <p><img src="icons/edit.png" width="16" height="16" border="0" />  </p>
+</td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /> </td>
+                                                    </tr>
+                                                </table>
+</td>
+                            </tr>
+<tr>
+<td width="427" height="20">
+<div align='right'>
+</div>
+</td>
+</tr>
+<tr>
+<td width="100%" align="center" valign="top">
+<table height="100%" width="100%">
+<tr>
+<td width="70" height="252" align='center' valign='top' rowspan="2" bgcolor="#f7fbff">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="0" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                                <p><input type="text" name="formtext1" value="section titile" size="30" /></p>
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /> </td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="32" align="left" valign="top" bgcolor="#f7fbff">
+		
+
+		<!-- Gets replaced with TinyMCE, remember HTML in a textarea should be encoded -->
+		<div>
+			<textarea id="elm1" name="elm1" rows="15" cols="82" style="width: 80%"><p>
+					This is some example text that you can edit inside the <strong>TinyMCE editor</strong>.
+				</p>
+		
+			</textarea>
+		</div>
+		<!-- Some integration calls -->
+		<!--<a href="javascript:;" onmousedown="tinymce.get('elm1').show();">[Show]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').hide();">[Hide]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').execcommand('bold');">[Bold]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').getcontent());">[Get contents]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent());">[Get selected HTML]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent({format : 'text'}));">[Get selected text]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getnode().nodename);">[Get selected element]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mceinsertcontent',false,'<b>hello world!!</b>');">[Insert HTML]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mcereplacecontent',false,'<b>{$selection}</b>');">[Replace selection]</a>
+
+		<br />
+		<input type="submit" name="save" value="submit" />
+		<input type="reset" name="reset" value="reset" />
+	</div>-->
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="13" align="center" valign="top"><hr /></td>
+</tr>
+<tr>
+                                <td width="100%" height="13" align="center" valign="top"><table height="63%" width="100%">
+<tr>
+<td width="70" height="51" align='center' valign='top' bgcolor="#f7fbff" rowspan="2">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="41" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                          
+                                                            
+                                                                <p><input type="text" name="formtext1" value="glossery section title" size="30" /></p>
+                                                           
+                                                           
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /></td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="41" align="left" valign="middle" bgcolor="#f7fbff">
+                                                
+                                                                <p><input type="text" name="formtext1" value="technology" size="30" /> <img src="icons/add.png" width="16" height="16" border="0" /></p>
+                                               
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><hr /></td>
+</tr>
+<tr>
+                                <td width="100%" height="18" align="center" valign="top"><table height="63%" width="100%">
+<tr>
+<td width="70" height="51" align='center' valign='top' bgcolor="#f7fbff" rowspan="9">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="41" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                          
+                                                            
+                                                            
+                                                                <p><input type="text" name="formtext1" value="resources section title" size="30" /></p>
+                                                           
+                                                           
+                                                           
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /></td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="10" align="left" valign="middle" bgcolor="#f7fbff">
+                                                
+                                                
+                                                
+                                                                <p><input type="text" name="formtext1" value="resource title" size="30" /> - <input type="file" name="formfile1" />  <img src="icons/add.png" width="16" height="16" border="0" /></p>
+                                                
+                                                
+                                               
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="7" align="left" valign="middle" bgcolor="#f7fbff">
+                                                <p><a href="#"><font color="#1f497d">Sample Resource 1</font></a> <img src="icons/edit.png" width="16" height="16" border="0" />  </p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="7" align="left" valign="middle" bgcolor="#f7fbff">&nbsp;</td>
+</tr>
+<tr>
+                                            <td width="90%" height="10" align="left" valign="middle" bgcolor="#f7fbff">
+                                                
+                                                                <p><input type="text" name="formtext1" value="resource title" size="30" />  - <input type="text" name="formtext1" value="url" size="30" />  <img src="icons/add.png" width="16" height="16" border="0" /></p>
+                                                
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="7" align="left" valign="middle" bgcolor="#f7fbff">
+                                                <p><a href="#"><font color="#1f497d">Sample URL&nbsp;1</font></a><font color="#1f497d"> </font><img src="icons/edit.png" width="16" height="16" border="0" />  </p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="7" align="left" valign="middle" bgcolor="#f7fbff">&nbsp;</td>
+</tr>
+<tr>
+                                            <td width="90%" height="9" align="left" valign="middle" bgcolor="#f7fbff">
+                                             
+                                                                <p><input type="text" name="formtext1" value="external web site url" size="30" />   - <strong>Frame Height: </strong><select name="formselect1" size="1">
+                                                        <option value="small">small</option>
+                                                        <option value="medium">medium</option>
+                                                        <option value="large">large</option>
+</select><span style="font-family:verdana,arial,helvetica,sans-serif; font-weight:normal; font-size:11px;"><strong> </strong></span><img src="icons/add.png" width="16" height="16" border="0" /></p>
+                                               
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="9" align="left" valign="middle" bgcolor="#f7fbff">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><hr /></td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><table height="63%" width="100%">
+<tr>
+<td width="70" height="51" align='center' valign='top' bgcolor="#f7fbff" rowspan="2">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="41" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                          
+                                                            
+                                                            
+                                                                <p><input type="text" name="formtext1" value="picture gallery title" size="30" /></p>
+                                                           
+                                                           
+                                                           
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /></td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /></td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="41" align="left" valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <form name="form2" id="form2">
+                                                                <p><img src="icons/add.png" width="16" height="16" border="0" /></p>
+                                                </form>
+                                               
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><hr />
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><table height="100%" width="100%">
+<tr>
+<td width="70" height="252" align='center' valign='top' rowspan="4" bgcolor="#f7fbff">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="5" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                           
+                                                            
+                                                                <p><input type="text" name="formtext1" value="assignmnets section titile" size="30" /></p>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /> </td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="5" align="right" valign="middle" bgcolor="#f7fbff">                                                                <p align="left"><font color="#17365d"><b>Assignment 1</b></font><font color="#17365d"><b><img src="icons/edit.png" width="16" height="16" border="0" />   Assignment 2&nbsp;</b></font><font color="#17365d"><b><img src="icons/edit.png" width="16" height="16" border="0" />  &nbsp;</b></font><img src="icons/add.png" width="16" height="16"
+border="0" /></p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="5" align="right" valign="middle" bgcolor="#f7fbff">
+                                                <p align="left">&nbsp;</p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="32" align="left" valign="top" bgcolor="#f7fbff">
+		
+
+		<!-- Gets replaced with TinyMCE, remember HTML in a textarea should be encoded -->
+		<div>
+			<textarea id="elm2" name="elm2" rows="15" cols="82" style="width: 80%"><p>
+					This is some example text that you can edit inside the <strong>TinyMCE editor</strong>.
+				</p>
+				<p>
+				Nam nisi elit, cursus in rhoncus sit amet, pulvinar laoreet leo. Nam sed lectus quam, ut sagittis tellus. Quisque dignissim mauris a augue rutrum tempor. Donec vitae purus nec massa vestibulum ornare sit amet id tellus. Nunc quam mauris, fermentum nec lacinia eget, sollicitudin nec ante. Aliquam molestie volutpat dapibus. Nunc interdum viverra sodales. Morbi laoreet pulvinar gravida. Quisque ut turpis sagittis nunc accumsan vehicula. Duis elementum congue ultrices. Cras faucibus feugiat arcu quis
+lacinia. In hac habitasse platea dictumst. Pellentesque fermentum magna sit amet tellus varius ullamcorper. Vestibulum at urna augue, eget varius neque. Fusce facilisis venenatis dapibus. Integer non sem at arcu euismod tempor nec sed nisl. Morbi ultricies, mauris ut ultricies adipiscing, felis odio condimentum massa, et luctus est nunc nec eros.
+				</p>
+			</textarea>
+		</div>
+		<!-- Some integration calls -->
+		<!--<a href="javascript:;" onmousedown="tinymce.get('elm1').show();">[Show]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').hide();">[Hide]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').execcommand('bold');">[Bold]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').getcontent());">[Get contents]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent());">[Get selected HTML]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent({format : 'text'}));">[Get selected text]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getnode().nodename);">[Get selected element]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mceinsertcontent',false,'<b>hello world!!</b>');">[Insert HTML]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mcereplacecontent',false,'<b>{$selection}</b>');">[Replace selection]</a>
+
+		<br />
+		<input type="submit" name="save" value="submit" />
+		<input type="reset" name="reset" value="reset" />
+	</div>-->
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top">&nbsp;</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top"><table height="100%" width="100%">
+<tr>
+<td width="70" height="252" align='center' valign='top' rowspan="4" bgcolor="#f7fbff">
+                                                <p></p>
+                                                <p><img src="images/course_icon_blank.png" width="84" height="80" border="0" /></p>
+</td>
+<td width="90%" height="5" align='right' valign="middle" bgcolor="#f7fbff">
+                                                
+                                                <table border="0" width="100%" cellpadding="0" cellspacing="0" height="30">
+                                                    <tr>
+                                                        <td width="100%" align="left">
+                                                           
+                                                           
+                                                           
+                                                           
+                                                            
+                                                           
+                                                                <p><input type="text" name="formtext1" value="assessments section titile" size="30" /></p>
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                           
+</td>
+                                                        <td width="24" align="right"><img src="icons/yes.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/1356030006_eye.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_up.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/arrow_down.png" width="16" height="16" border="0" /> </td>
+                                                        <td width="24" align="right"><img src="icons/delete.png" width="16" height="16" border="0" /> </td>
+                                                    </tr>
+                                                </table>
+
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="5" align="right" valign="middle" bgcolor="#f7fbff">                                                                <p align="left"><font color="#17365d"><b>Assessment 1</b></font><font color="#17365d"><b><img src="icons/edit.png" width="16" height="16" border="0" />   Assessment 2&nbsp;</b></font><font color="#17365d"><b><img src="icons/edit.png" width="16" height="16" border="0" />  &nbsp;</b></font><img src="icons/add.png" width="16" height="16"
+border="0" /></p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="5" align="right" valign="middle" bgcolor="#f7fbff">
+                                                <p align="left">&nbsp;</p>
+</td>
+</tr>
+<tr>
+                                            <td width="90%" height="32" align="left" valign="top" bgcolor="#f7fbff">
+		
+
+		<!-- Gets replaced with TinyMCE, remember HTML in a textarea should be encoded -->
+		<div>
+			<textarea id="elm3" name="elm3" rows="15" cols="82" style="width: 80%"><p>
+					This is some example text that you can edit inside the <strong>TinyMCE editor</strong>.
+				</p>
+				<p>
+				Nam nisi elit, cursus in rhoncus sit amet, pulvinar laoreet leo. Nam sed lectus quam, ut sagittis tellus. Quisque dignissim mauris a augue rutrum tempor. Donec vitae purus nec massa vestibulum ornare sit amet id tellus. Nunc quam mauris, fermentum nec lacinia eget, sollicitudin nec ante. Aliquam molestie volutpat dapibus. Nunc interdum viverra sodales. Morbi laoreet pulvinar gravida. Quisque ut turpis sagittis nunc accumsan vehicula. Duis elementum congue ultrices. Cras faucibus feugiat arcu quis
+lacinia. In hac habitasse platea dictumst. Pellentesque fermentum magna sit amet tellus varius ullamcorper. Vestibulum at urna augue, eget varius neque. Fusce facilisis venenatis dapibus. Integer non sem at arcu euismod tempor nec sed nisl. Morbi ultricies, mauris ut ultricies adipiscing, felis odio condimentum massa, et luctus est nunc nec eros.
+				</p>
+			</textarea>
+		</div>
+		<!-- Some integration calls -->
+		<!--<a href="javascript:;" onmousedown="tinymce.get('elm1').show();">[Show]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').hide();">[Hide]</a>
+		<a href="javascript:;" onmousedown="tinymce.get('elm1').execcommand('bold');">[Bold]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').getcontent());">[Get contents]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent());">[Get selected HTML]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getcontent({format : 'text'}));">[Get selected text]</a>
+		<a href="javascript:;" onmousedown="alert(tinymce.get('elm1').selection.getnode().nodename);">[Get selected element]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mceinsertcontent',false,'<b>hello world!!</b>');">[Insert HTML]</a>
+		<a href="javascript:;" onmousedown="tinymce.execcommand('mcereplacecontent',false,'<b>{$selection}</b>');">[Replace selection]</a>
+
+		<br />
+		<input type="submit" name="save" value="submit" />
+		<input type="reset" name="reset" value="reset" />
+	</div>-->
+
+
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+                                <td width="100%" height="1" align="center" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td class='main_table2_tb' width="427"></td>
+</tr>
+<tr>
+<td class='main_table2_te' width="427">
+<table class='bottom_table' cellpadding='0' cellspacing='0' align="center" width="100%">
+<tr>
+<td class='main_table2_copy'>School Name © All Rights Reserved.</td>
+
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class='main_table_c3' width="4"></td>
+</tr>
+</table>
+</td></tr></table>
+</body>
+</html>

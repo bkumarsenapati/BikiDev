@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Welcome</title>
+
+<!-- Print CSS -->
+<link rel="stylesheet" href="../styles/print.css" type="text/css" media="print" />
+
+<!-- <![if !(IE 6)]> -->
+<link rel="stylesheet" type="text/css" href="../styles/main.css" />
+<!-- <![endif]> -->
+
+<!--[if IE 7]>
+	<link href="../styles/ie7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+
+<!--[if IE]>
+<link href="../styles/ie.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id="fixedBox">
+<div id="insideBox">
+
+<div class="floatLeft">
+<!-- you can update your course name below on every page... or just include the course name on the header_template.jpg image located in the styles/genimages folder. the psd for that image is in the "raw_delete_before_upload" folder. -->
+
+<h1>&nbsp;</h1>
+
+</div>
+
+<div class="floatRight"> 
+<a href="javascript:window.print()" title="select to print page"><img src="../styles/genimages/print.gif" width="20" height="20" alt="" /></a>
+</div>
+
+</div>
+</div>
+
+<div id="content">
+
+<div id="inside_content">
+
+<h2>Course Information</h2>
+
+<p>The information provided here will help you become familiar with your online course and help you become a successful online learner. Review each link below and make sure you understand the information before moving on to the next item. Please contact your instructor if you have any questions or concerns.</p>
+
+<div class="div_container">
+
+<div class="floatLeft">
+<h3>Course Information</h3>
+<ul>
+<li><a href="http://l.flvsgl.com/GSL04d728c493e1421ba3c0f3576a5d00dac" target="_blank">Student Contact and Drop Policy</a></li>
+<li><a href="pace.htm" title="webpage will open in the current window">Pace</a></li>
+<li><a href="materials.htm" title="webpage will open in the current window">Materials List</a></li>
+<li><a href="netiquette.htm" title="webpage will open in the current window">Netiquette</a></li>
+<li>Standards: <a href="../standards/national/standards.htm">National</a></li>
+<li><a href="../studentresources/resources_flvs.htm" title="webpage will open in the current window">Student Resources</a></li>
+<li><a href="http://flvs.net/myFLVS/student-handbook/Pages/Policies/Privacy.aspx" title="webpage will open in a new browser window" target="_blank">Privacy Policy</a></li>
+<li><a href="accessibility.htm">Accessibility Statement</a></li>
+<li><a href="schmoop_login_instructions.rtf">How to Access Your Shmoop AP Review</a></li>
+</ul>
+</div>
+
+<div class="floatRight">
+<h3>Working with your Teacher</h3>
+<ul>
+<li><a href="gettingstarted.htm" title="webpage will open in the current window">Getting Started</a></li>
+
+<li><a href="communication.htm" title="webpage will open in the current window">Parent, Student, Teacher Communication</a></li>
+
+<li><a href="grading.htm" title="webpage will open in the current window">Grading Policy</a></li>
+
+<!-- !!!!!!!!!!!!!!!Check with CS to learn the number to add for the link to course syllabus below. Also, if you have a middle school course, change the #highschool to #middleschool !!!!!!!!!!!!!!!!!!! -->
+
+<li><a href="http://l.flvsgl.com/GSL06e06afba46302a0a3531e669ccb92b22" target="_blank" title="webpage will open in a new browser window">Syllabus</a></li>
+
+<!-- !!!!!!!!!!!!!!! if you need a lab safety page in your welcome folder, uncomment below:
+
+<li><a href="unique_resources/lab_safety.htm" title="lab safety will open in the current browser window">Lab Safey</a></li>
+
+-->
+
+<!-- !!!!!!!!!!!!!! if you need a periodic table in your welcome folder, uncomment below:
+
+<li><a href="unique_resources/periodic_table.htm" title="periodic table will open in the current window">Periodic Table</a></li>
+
+-->
+
+<!-- !!!!!!!!!!!!!! if you need directions on how to type Spanish accents, uncomment below
+
+<li><a href="unique_resources/typing_accents.htm" title="periodic table will open in the current window">Typing Spanish Accent Marks</a></li>
+
+-->
+
+</ul>
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,313 @@
+<html><head>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<!--[if IE]>
+<style type="text/css">
+*{font-family: Lucida Sans Unicode, Math1, Math2, Math3, Math4, Math5, MT Extra, CMSY10, Symbol,arial;}</style><![endif]-->
+<script language='javascript' src='/LBCOM/validationscripts.js'></script>
+<script language='javascript' src='/LBCOM/common/evaluation.js'></script>
+<!-- TinyMCE --> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/tiny_mce.js"></script> <script type="text/javascript" src="/LBCOM/tinymce/jscripts/tiny_mce/plugins/asciimath/js/ASCIIMathMLwFallback.js"></script> <script type="text/javascript"> var AMTcgiloc = "http://demo.learnbeyond.com/cgi-bin/mimetex.cgi";  //change me </script>  <script type="text/javascript" src="/LBCOM/common/tinymce.js"></script>  <script> callTiny(); </script> <!-- /TinyMCE -->
+<script type="text/javascript" src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js'></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#ar').click(function()
+{
+var len = document.q_paper.elements.length;
+var k=0;
+for(var i = 0 ; i< len;i++){
+if(document.q_paper.elements[i].type =='checkbox'){
+
+k++;
+//if(k==1)
+	//alert(document.q_paper.elements[i].name);
+
+}
+if(document.q_paper.elements[i].type =='textarea'){ 
+//alert(document.getElementById(document.q_paper.elements[i].id).name);
+
+//if(document.q_paper.elements[i].type =='file'){
+alert("before file");
+	document.getElementByName('Q919_f').value="santhosh";
+	//}
+	alert("after file");
+document.getElementById(document.q_paper.elements[i].id).value=tinyMCE.get(document.q_paper.elements[i].id).getContent(); 	
+
+if(document.getElementById(document.q_paper.elements[i].id).value!='') 	{
+setMark_oth('Q'+k,'san');
+}
+}}});
+
+});
+setInterval(function () 
+{
+	parent.mid_f.document.q_paper.ar.click();
+}, 5000);
+
+</script>
+ </head>
+<body oncontextmenu='return false;' link='#FFFFFF' alink='#FFFFFF' vlink='#FFFFFF' leftmargin=0 topmargin=0>
+<form name='q_paper' enctype='multipart/form-data' action='/LBCOM/exam/SubmitShtAnsFiles.jsp?examid=e0307' method='post'>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P1'>Page - 1</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q1Q919' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q1' value='1' onclick="checkMarked(this,'Q919',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='1'><font face='Arial' size='2'>1</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Use the replacement set&nbsp;{2, 3, 4}&nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write&nbsp;"No solution"&nbsp;<br>6x - 4<13</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q919' onblur="setMark_oth('Q1',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ919' style='visibility:hidden'><input type='text' id='MQ919' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q919_f' size='20'> <input type='file' name='Q919_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q2Q920' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q2' value='2' onclick="checkMarked(this,'Q920',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='2'><font face='Arial' size='2'>2</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Use the replacement set&nbsp;{2, 3, 4}&nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write&nbsp;"No solution"&nbsp;<br>17 + x = 20</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q920' onblur="setMark_oth('Q2',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ920' style='visibility:hidden'><input type='text' id='MQ920' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q920_f' size='20'> <input type='file' name='Q920_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q3Q921' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q3' value='3' onclick="checkMarked(this,'Q921',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='3'><font face='Arial' size='2'>3</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Use the replacement set&nbsp;{2, 3, 4}&nbsp; to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write&nbsp;"No solution"<br><img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image1.gif></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q921' onblur="setMark_oth('Q3',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ921' style='visibility:hidden'><input type='text' id='MQ921' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q921_f' size='20'> <input type='file' name='Q921_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q4Q922' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q4' value='4' onclick="checkMarked(this,'Q922',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='4'><font face='Arial' size='2'>4</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Use the replacement set&nbsp;{2, 3, 4}to find solutions for the following open sentence.  If none of the numbers from the replacement set works, write&nbsp;"No solution"<br><img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image2.gif></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q922' onblur="setMark_oth('Q4',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ922' style='visibility:hidden'><input type='text' id='MQ922' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q922_f' size='20'> <input type='file' name='Q922_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q5Q923' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q5' value='5' onclick="checkMarked(this,'Q923',4)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='5'><font face='Arial' size='2'>5</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Matching</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 8.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td  height='5' valign='top' align='left'><font face='Arial' size='2'><table border='0' width='600' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'><tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>1.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>The product of x and 6 is greater than or equal to 32.</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>A.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'> x - 16 = 32</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>1</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q923' onchange="setMark_oth('Q5',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>2.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>The product of 16 and x is equal to 32.</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>B.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'> <img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image3.gif></td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>2</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q923' onchange="setMark_oth('Q5',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>3.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>The sum of x and 16 is less than 32.</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>C.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'> 16x = 32</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>3</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q923' onchange="setMark_oth('Q5',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='' selected>...</option></select></td></tr>
+<tr><td valign='top' width='15'><font face='Arial' size='2' align='center'>4.&nbsp;</td>
+<td valign='top' width='192'><font face='Arial' size='2' align='left'>The difference of x and 16 is 32.</td>
+<td valign='top' width='15'><font face='Arial' size='2' align='center'>D.</td>
+<td valign='top' width='167'><font face='Arial' size='2' align='left'> x + 16<32</td>
+<td valign='top' align='left' width='12' align='center'><font face='Arial' size='2'>4</td>
+<td valign='top' align='left' width='245' align='left'><font face='Arial' size='2'><font face='Arial' size='2'><select name='Q923' onchange="setMark_oth('Q5',this.value)"></option><option value='a'>A</option><option value='b'>B</option><option value='c'>C</option><option value='d'>D</option><option value='' selected>...</option></select></td></tr>
+</td></tr>
+</table></td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P2'>Page - 2</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q6Q924' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q6' value='6' onclick="checkMarked(this,'Q924',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='6'><font face='Arial' size='2'>6</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'><img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image4.gif></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q924' onblur="setMark_oth('Q6',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ924' style='visibility:hidden'><input type='text' id='MQ924' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q924_f' size='20'> <input type='file' name='Q924_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q7Q925' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q7' value='7' onclick="checkMarked(this,'Q925',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='7'><font face='Arial' size='2'>7</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'><img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image5.gif></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q925' onblur="setMark_oth('Q7',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ925' style='visibility:hidden'><input type='text' id='MQ925' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q925_f' size='20'> <input type='file' name='Q925_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q8Q926' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q8' value='8' onclick="checkMarked(this,'Q926',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='8'><font face='Arial' size='2'>8</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The number 3 is an integer.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q926' value=1 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q926' value=2 onclick="setMark('Q8')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q9Q927' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q9' value='9' onclick="checkMarked(this,'Q927',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='9'><font face='Arial' size='2'>9</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The number&nbsp;-4 is an integer.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q927' value=1 onclick="setMark('Q9')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q927' value=2 onclick="setMark('Q9')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q10Q928' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q10' value='10' onclick="checkMarked(this,'Q928',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='10'><font face='Arial' size='2'>10</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The number 6 is a whole number.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q928' value=1 onclick="setMark('Q10')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q928' value=2 onclick="setMark('Q10')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P3'>Page - 3</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q11Q929' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q11' value='11' onclick="checkMarked(this,'Q929',2)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='11'><font face='Arial' size='2'>11</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>The number 4.2 is a whole number.</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q929' value=1 onclick="setMark('Q11')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>True
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'></td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q929' value=2 onclick="setMark('Q11')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>False
+</td></tr></table><br>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q12Q930' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q12' value='12' onclick="checkMarked(this,'Q930',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='12'><font face='Arial' size='2'>12</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Graph the following on a number line then write an inequality that compares the numbers.<br>-3 and -3.5</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q930' onblur="setMark_oth('Q12',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ930' style='visibility:hidden'><input type='text' id='MQ930' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q930_f' size='20'> <input type='file' name='Q930_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q13Q931' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q13' value='13' onclick="checkMarked(this,'Q931',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='13'><font face='Arial' size='2'>13</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>Graph the following on a number line then write an inequality that compares the numbers.<br>0 and .5</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q931' onblur="setMark_oth('Q13',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ931' style='visibility:hidden'><input type='text' id='MQ931' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q931_f' size='20'> <input type='file' name='Q931_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q14Q932' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q14' value='14' onclick="checkMarked(this,'Q932',3)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='14'><font face='Arial' size='2'>14</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>What is the opposite of 6?<input type='text' name='Q932' onblur="setMark_oth('Q14',this.value)" > </font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td><td width='90' valign='top'><DIV id='EQ932' style='visibility:hidden'><input type='text' id='MQ932' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr></table><br><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q15Q933' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q15' value='15' onclick="checkMarked(this,'Q933',3)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='15'><font face='Arial' size='2'>15</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>What is the opposite of -3.3?<input type='text' name='Q933' onblur="setMark_oth('Q15',this.value)" > </font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td><td width='90' valign='top'><DIV id='EQ933' style='visibility:hidden'><input type='text' id='MQ933' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr></table><br><table border='0' width='100%'><tr><td width='100%' bgcolor='#FBF4EC'><a name='P4'>Page - 4</a></td> </tr></table><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q16Q934' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q16' value='16' onclick="checkMarked(this,'Q934',3)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='16'><font face='Arial' size='2'>16</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>What is the absolute value of 0?<input type='text' name='Q934' onblur="setMark_oth('Q16',this.value)" > </font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td><td width='90' valign='top'><DIV id='EQ934' style='visibility:hidden'><input type='text' id='MQ934' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr></table><br><table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q17Q935' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q17' value='17' onclick="checkMarked(this,'Q935',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='17'><font face='Arial' size='2'>17</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>If a car is traveling 65 mph in reverse, what is the car&#39;s velocity?</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q935' onblur="setMark_oth('Q17',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ935' style='visibility:hidden'><input type='text' id='MQ935' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q935_f' size='20'> <input type='file' name='Q935_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q18Q936' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q18' value='18' onclick="checkMarked(this,'Q936',6)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='18'><font face='Arial' size='2'>18</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'><img src =http://oh.learnbeyond.net/LBCOM/coursedeveloper/AssessmentUpload/int_math_2-xml/res002/image6.gif></font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left' colspan='4'><textarea rows='5' cols='86' name='Q936' onblur="setMark_oth('Q18',this.value)" ></textarea></td>
+<td width='90' valign='top'><DIV id='EQ936' style='visibility:hidden'><input type='text' id='MQ936' name='-' value='Enter Points' size='12' onkeypress='return noChars(event)' onblur='verify(this,2.0);'></DIV></td></tr><tr><td width='2%' height='5'></td><td width='2%' height='5'></td>
+<td width='2%' height='5' valign='top' align='left'></td>
+<td width='632' valign='top' align='left'>(Optional file upload) <input type='file' name='Q936_f' size='20'> <input type='file' name='Q936_s' size='20'></td>
+<table border='0' width='100%'><tr><td width='100%'><font face='Arial' size='2' color='#800000'><b><i><br></i></b></font></td></tr></table><table id='Q19Q937' border='0' width='100%' height='61' cellspacing='1' cellpadding='0' bordercolorlight='#BEC9DE'>
+<tr><td width='2%' valign='top' align='left' height='19' ><input type='checkbox' name='Q19' value='19' onclick="checkMarked(this,'Q937',0)"></td>
+<td width='2%' valign='top' align='left' height='19'><a name='19'><font face='Arial' size='2'>19</font>.&nbsp;</td>
+<td width='688' colspan='5' valign='top' align='left' height='19'><font face='Arial' size='2'>(5x - 1)(5x + 1)</font>
+</td><td width='90' valign='top'><font face='Arial' size='2' color='#800000'> Points = 2.0</font></td></tr><tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q937' value=1 onclick="setMark('Q19')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>25x<sup>2</sup>- 1
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q937' value=2 onclick="setMark('Q19')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>25x<sup>2</sup>+ 1
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q937' value=3 onclick="setMark('Q19')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>25x<sup>2</sup>- 10x - 1
+</td></tr>
+<tr><td width='2%' height='5'></td>
+<td width='2%' height='5'></td><td width='2%' height='5' valign='top' align='left'> </td>
+<td width='18' valign='top' align='left' height='5'><font face='Arial' size='2'><input type='radio' name='Q937' value=4 onclick="setMark('Q19')"></td><td valign='top' width='632' align='left'><font face='Arial' size='2'>25x<sup>2</sup>+ 10x - 1
+</td></tr></table><br>
+<input type='hidden' id='ar' name='ar' value='submit'>
+     </form>
+</body>
+<SCRIPT LANGUAGE='JavaScript'>
+   var frm=document.q_paper;
+   var qIds=new Array();
+   var qType=new Array();
+
+   qIds[0]='Q919'; 
+ qType[0]=6; 
+   qIds[1]='Q920'; 
+ qType[1]=6; 
+   qIds[2]='Q921'; 
+ qType[2]=6; 
+   qIds[3]='Q922'; 
+ qType[3]=6; 
+   qIds[4]='Q923'; 
+ qType[4]=4; 
+   qIds[5]='Q924'; 
+ qType[5]=6; 
+   qIds[6]='Q925'; 
+ qType[6]=6; 
+   qIds[7]='Q926'; 
+ qType[7]=2; 
+   qIds[8]='Q927'; 
+ qType[8]=2; 
+   qIds[9]='Q928'; 
+ qType[9]=2; 
+   qIds[10]='Q929'; 
+ qType[10]=2; 
+   qIds[11]='Q930'; 
+ qType[11]=6; 
+   qIds[12]='Q931'; 
+ qType[12]=6; 
+   qIds[13]='Q932'; 
+ qType[13]=3; 
+   qIds[14]='Q933'; 
+ qType[14]=3; 
+   qIds[15]='Q934'; 
+ qType[15]=3; 
+   qIds[16]='Q935'; 
+ qType[16]=6; 
+   qIds[17]='Q936'; 
+ qType[17]=6; 
+   qIds[18]='Q937'; 
+ qType[18]=0; 
+var arr=new Array();	
+var maxarr=new Array();	
+arr[0]="-";		
+maxarr[0]="13";	
+</SCRIPT>	
+</html>

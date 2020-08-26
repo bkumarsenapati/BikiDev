@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="10.05 Final Exam A">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable.  8(x - 2) = 5(x + 4)</label>
+			<choice>
+				<choicelabel>x = 4/13</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -4/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 12</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable.  5(x - 1) = -15</label>
+			<choice>
+				<choicelabel>x = -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -2</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve |x + 2| - 5 = 18</label>
+			<choice>
+				<choicelabel>x = 21, -25</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 21, -15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 21, -21</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 11, -11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the best description for finding the value of the rate in the equation D = rt. (Distance = rate x time)</label>
+			<choice>
+				<choicelabel>Divide the time by the distance.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Divide the distance by the time.</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply the distance and the time.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiply the rate and the time.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the graph below that would be classified as a function.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_5a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_5b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_5c.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_5d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>The winner of an election for class president won by a vote of 3 to 2, having received 324 votes.  How many votes did the loser get?</label>
+			<choice>
+				<choicelabel>224 votes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>886 votes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>216 votes</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>540 votes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the slope of the line represented by the equation x = -2?</label>
+			<choice>
+				<choicelabel>m = -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m = 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m = 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The slope is undefined.</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the slope intercept form of the equation 3x + 2y = 12.</label>
+			<choice>
+				<choicelabel>2y = -3x + 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (3/2)x - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-3/2)x + 6</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (-3/2)x - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the slope of a line passing through the points (2,-1) and (-3,4).</label>
+			<choice>
+				<choicelabel>m = 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m = -1</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m = 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m = -3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation of the line with a slope of 2/3 passing through the point (6,-1).</label>
+			<choice>
+				<choicelabel>y = (2/3)x - 5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (2/3)x - 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (2/3)x + 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y = (2/3)x - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the x-intercept of the line represented by the equation 3x - 4y = -15.</label>
+			<choice>
+				<choicelabel>(15/4,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-15/4,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(5,0)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-5,0)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the solution to the system of equations.&lt;br&gt;&lt;br&gt;x + y = -7&lt;br&gt;&lt;br&gt;3x + y = -9</label>
+			<choice>
+				<choicelabel>(1,6)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-1,-6)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(-2,-5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Add (4x&lt;sup&gt;2&lt;/sup&gt; + 2x - 3) + (2x&lt;sup&gt;2&lt;/sup&gt; + x - 1)</label>
+			<choice>
+				<choicelabel>8x&lt;sup&gt;4&lt;/sup&gt; + 2x&lt;sup&gt;2&lt;/sup&gt; + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;4&lt;/sup&gt; + 3x&lt;sup&gt;2&lt;/sup&gt; - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;2&lt;/sup&gt; + 3x - 4</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;2&lt;/sup&gt; + 3x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Subtract (x&lt;sup&gt;2&lt;/sup&gt; - 9x + 7) - (3x&lt;sup&gt;2&lt;/sup&gt; + 4x + 10)</label>
+			<choice>
+				<choicelabel>-2x&lt;sup&gt;2&lt;/sup&gt; - 13x - 3</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x&lt;sup&gt;2&lt;/sup&gt; - 5x + 17</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x&lt;sup&gt;2&lt;/sup&gt; - 13x - 17</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x&lt;sup&gt;4&lt;/sup&gt; - 36x&lt;sup&gt;2&lt;/sup&gt; - 70</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply (3x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;5&lt;/sup&gt;)(-2x&lt;sup&gt;4&lt;/sup&gt;y)</label>
+			<choice>
+				<choicelabel>-6x&lt;sup&gt;6&lt;/sup&gt;y&lt;sup&gt;5&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5x&lt;sup&gt;8&lt;/sup&gt;y&lt;sup&gt;5&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;6&lt;/sup&gt;y&lt;sup&gt;6&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6x&lt;sup&gt;6&lt;/sup&gt;y&lt;sup&gt;6&lt;/sup&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_16.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_16a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_16b.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x&lt;sup&gt;2&lt;/sup&gt;y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Evaluate (-2a&lt;sup&gt;3&lt;/sup&gt;b)&lt;sup&gt;3&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>-8a&lt;sup&gt;3&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6a&lt;sup&gt;9&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8a&lt;sup&gt;9&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6a&lt;sup&gt;9&lt;/sup&gt;b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify (3x + 2)(x - 5).</label>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 13x - 10</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 17x - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 17x + 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_19_1.jpg&gt;.</label>
+		<credit>2.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Rationalize the denominator for the expression &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_20.gif&gt;.</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_20c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_20d.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Find the missing side in the right triangle shown below.&lt;br&gt;&lt;br&gt;&lt;BR&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_21.gif&gt;</label>
+			<choice>
+				<choicelabel>x = 200 cm</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 400 cm</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 20 cm</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 10 cm</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose one of the factors of the expression 4x&lt;sup&gt;2&lt;/sup&gt; - 9 from the list below.</label>
+			<choice>
+				<choicelabel>(2x + 3)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Factor the expression x&lt;sup&gt;4&lt;/sup&gt; - 81 completely.</label>
+			<choice>
+				<choicelabel>(x&lt;sup&gt;2&lt;/sup&gt; + 9)&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x&lt;sup&gt;2&lt;/sup&gt; + 9)(x&lt;sup&gt;2&lt;/sup&gt; - 9)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x&lt;sup&gt;2&lt;/sup&gt; + 9)(x + 3)(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x&lt;sup&gt;2&lt;/sup&gt; + 9)(x + 3)(x - 3)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Factor the expression x&lt;sup&gt;2&lt;/sup&gt; - 8xy + 12y&lt;sup&gt;2&lt;/sup&gt; completely.</label>
+			<choice>
+				<choicelabel>(x - 4y)(x - 3y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x - 6y)(x - 2y)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 6y)(x + 2y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 4y)(x + 3y)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Factor the expression 6x&lt;sup&gt;2&lt;/sup&gt; - 27x - 15 completely.</label>
+			<choice>
+				<choicelabel>3(2x + 1)(x - 5)</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(6x + 3)(x - 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x + 1)(3x - 15)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(2x - 1)(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation x&lt;sup&gt;2&lt;/sup&gt; + 9x = -14.</label>
+			<choice>
+				<choicelabel>x = 7, 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -7, -2</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 14, 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -14, -9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation 3x&lt;sup&gt;2&lt;/sup&gt; - 15x = 0.</label>
+			<choice>
+				<choicelabel>x = 3, 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 0, 5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation x&lt;sup&gt;2&lt;/sup&gt; + 9 = 0.</label>
+			<choice>
+				<choicelabel>x = 3, -3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3, 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -3, 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation x&lt;sup&gt;2&lt;/sup&gt; - 25 = 0.</label>
+			<choice>
+				<choicelabel>x = 5, -5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 5, 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -5, 0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation x&lt;sup&gt;2&lt;/sup&gt; + 3x - 9 = 0.</label>
+			<choice>
+				<choicelabel>x = 6, -3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_30b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_30c.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_30d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_31.gif&gt;.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_31a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_31b.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_31c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_32.gif&gt;.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_32a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_32d.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Divide and simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_33.gif&gt;.</label>
+			<choice>
+				<choicelabel>-3x - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_33c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_33d.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Add and simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_34.gif&gt;.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_34a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5(a - 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_34d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Subtract and simplify &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_35.gif&gt;.</label>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_35c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_35d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve the equation &lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_36.gif&gt;.</label>
+			<choice>
+				<choicelabel>x = 6, -1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -6, 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 2, 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -2, -3</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the best description for the graph of the solutions to the inequality  2x + 3 &gt;= -7.</label>
+			<choice>
+				<choicelabel>A closed dot with shading to the right of -5.</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A closed dot with shading to the left of -5.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>An open dot with shading to the right of -5.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>An open dot with shading to the left of -5.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Solve for the variable -3(x + 2) &lt; -x - 10.</label>
+			<choice>
+				<choicelabel>x &lt; 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 2</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; -2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the graph that represents the inequality 2x - 3y &gt; 6.</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_39a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_39b.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_39c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_39d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the graph that represents the system of inequalities&lt;br&gt;&lt;br&gt;x + y &gt; 2&lt;br&gt;&lt;br&gt;-3x + y &lt;= -1</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_40a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_40b.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_40c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_40d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Each question is worth 2 points.  Be sure to number your answers appropriately so your instructor can easily grade your work. &lt;br&gt;&lt;br&gt;Use the graph shown below to answer questions 41 - 44.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_41.gif&gt;&lt;br&gt;&lt;br&gt;41. How many solutions are there to the equation associated with the graph?&lt;br&gt;&lt;br&gt;42.  Is the equation associated with the graph a linear or quadratic equation?&lt;br&gt;&lt;br&gt;43.  Name one point that represents a solution to the equation associated with the graph.  Be sure to give your answer in ordered pair form.&lt;br&gt;&lt;br&gt;44.  What is the slope of the line?&lt;br&gt;&lt;br&gt;&lt;br&gt;Use the graph shown below to answer questions 45 - 47.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_45.gif&gt;&lt;br&gt;&lt;br&gt;45. Does the graph shown represent a single linear equation or a system of equations?&lt;br&gt;&lt;br&gt;46.  What is the word used to describe the lines shown?&lt;br&gt;&lt;br&gt;47.  How many solutions are there to the system of equation(s) shown in the graph above?&lt;br&gt;&lt;br&gt;&lt;br&gt;Use the graph shown below to answer questions 48 - 50.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0133/educator_algebra1/pictures/finalexam/final_48.gif&gt;&lt;br&gt;&lt;br&gt;48. Is the equation associated with the graph a linear or quadratic equation?&lt;br&gt;&lt;br&gt;49.  What point represents the vertex of the parabola. Is the vertex a maximum or a minimum?&lt;br&gt;&lt;br&gt;50.  Name the two points that represent the solutions to the quadratic equation associated with this graph.  Please give both the letter point and the ordered pair associated with the point.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

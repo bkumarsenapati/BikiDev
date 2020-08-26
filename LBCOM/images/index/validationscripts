@@ -1,0 +1,92 @@
+function checkNum(keyCode)
+{
+
+   if(keyCode==8 || keyCode==13)
+		return true;
+
+	if(keyCode<48 || keyCode>57)
+	{
+		alert("Enter Numbers Only");
+		return false;
+	}
+	return true;
+
+}
+	
+	function ltrim ( s )
+	{
+		return s.replace( /^\s*/, "" );
+	}
+
+	function rtrim ( s )
+	{	
+		return s.replace( /\s*$/, "" );
+	}
+
+	function trim ( s )
+	{
+		return rtrim(ltrim(s));
+	}
+
+
+	function isValidEmail(email){
+		var invchar=" ~`!#%^&*()+={}[];:'\|,<>?/\ ";
+	    if (email.length == 0){
+		   alert("You must enter email address" )
+		   return false;
+	   }else{
+	       if((email.indexOf("@")== -1)||(email.indexOf("@")!=email.lastIndexOf("@"))||(email.indexOf("@")==0)||(email.indexOf(".")== -1)||(email.indexOf(".") <= email.indexOf("@")+1)||email.indexOf(".")==email.length-1){
+				alert("Enter valid email address");
+				return false;
+		   } else {
+				var i=0;
+				var ch;
+				while ((i< email.length)){
+					ch=email.charAt(i);
+					i++;
+					if(invchar.indexOf(ch)!= -1)
+						break;
+			   }
+
+			   if(i<email.length){
+					alert("This is not a correct Email address")
+					return false;
+			   }
+		 }
+	 	  return true;
+	  }
+
+    }
+
+	function isUserName(validateData)
+	{
+		if(validateData==null || validateData.length==0)
+		{
+			return false;
+		}
+		var charAta;
+		for(var i=0;i<validateData.length;i++)
+		{
+			charAta=validateData.charAt(i);
+			if(!( (charAta>=0 && charAta<=9) || (charAta>='A' && charAta<='Z') || 
+			(charAta>='a' && charAta<='z') || (charAta=='_') ))
+			{
+				alert("Enter valid username");
+				return false;
+			}
+		}
+	}
+
+	function popUpWindow(popStr,imgName,title){		
+
+		var w=window.open("popup","","width=398,height=127");
+		
+		w.document.write("<html><head><title>"+title+"</title></head><body bgcolor='#40A0E0' topmargin='2' leftmargin='2'>");
+		w.document.write("<table border='1' width='100%' cellspacing='0' bordercolorlight='#EDECE9' height='123'>");
+		w.document.write("<tr>");
+		w.document.write("<td width='100%' bgcolor='#FFFFFF' height='27'><img border='0' src='/PG/images/"+imgName+"' ></td>");
+		w.document.write("</tr>");
+		w.document.write("<tr><td width='100%' valign='top' bgcolor='#EDECE9' height='88'>"+popStr+"</td></tr></table></body></html>");		
+		w.document.close();
+		w.focus();
+	}

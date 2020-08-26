@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 4 Lessons 1 - 4">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; 2x &lt; 10</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image1.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 5</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image2.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; m + 6  &gt; 16</label>
+			<choice>
+				<choicelabel>m &gt; 10</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m &lt; 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m &lt; 22</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m &gt; 22</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; f - 7 &gt; 12</label>
+			<choice>
+				<choicelabel>f &gt; 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image3.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>f &gt; 19</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>f &lt; 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; &lt;img src=/webdav/res401/int_math_1/pictures/image4.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image5.gif&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image6.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image7.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image8.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; &lt;img src=/webdav/res401/int_math_1/pictures/image9.gif&gt;</label>
+			
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image10.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image11.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image12.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image13.gif&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; &lt;img src=/webdav/res401/int_math_1/pictures/image14.gif&gt;</label>
+			
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image15.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image16.gif&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image17.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image18.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; -2d + 5 &gt; 11</label>
+			
+			<choice>
+				<choicelabel>d &gt; 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>d &gt; -3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>d &lt; -3</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>d &lt; 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Identify the correct solutions.&lt;br&gt; &lt;img src=/webdav/res401/int_math_1/pictures/image19.gif&gt; </label>
+			
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image20.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image21.gif&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image22.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res401/int_math_1/pictures/image23.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	
+</assessment>
+

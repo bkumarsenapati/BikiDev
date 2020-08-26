@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="07.02 Difference of Squares">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>Factor 4x&lt;sup&gt;4&lt;/sup&gt; - y&lt;sup&gt;2&lt;/sup&gt;</term>
+				<definition>(2x&lt;sup&gt;2&lt;/sup&gt; + y)(2x&lt;sup&gt;2&lt;/sup&gt; - y)</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 16x&lt;sup&gt;4&lt;/sup&gt; - 4y&lt;sup&gt;2&lt;/sup&gt;</term>
+				<definition>4(2x&lt;sup&gt;2&lt;/sup&gt; + y)(2x&lt;sup&gt;2&lt;/sup&gt; - y)</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor x&lt;sup&gt;2&lt;/sup&gt; - 16y&lt;sup&gt;2&lt;/sup&gt;</term>
+				<definition>(x + 4y)(x - 4y)</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 4x&lt;sup&gt;2&lt;/sup&gt; - 64y&lt;sup&gt;2&lt;/sup&gt;</term>
+				<definition>4(x + 4y)(x - 4y)</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 9x&lt;sup&gt;2&lt;/sup&gt; - 8y&lt;sup&gt;2&lt;/sup&gt;</term>
+				<definition>prime</definition>
+				<credit>2</credit>
+			</matchpair>
+	</item>
+</assessment>

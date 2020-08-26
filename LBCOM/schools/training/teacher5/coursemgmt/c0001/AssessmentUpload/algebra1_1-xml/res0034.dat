@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.07 Absolute Value">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Assessment Name:  04.07 Absolute Value 
+ 
+Assessment Instructions: 
+Attach your document using the browse button or copy and paste your text into the box below. 
+</label>
+		<credit>10.0</credit>
+	</item>
+</assessment>

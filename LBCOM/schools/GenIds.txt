@@ -1,0 +1,3 @@
+MPOINT_id=MP00028
+WebId=W0002
+CourseId=c003

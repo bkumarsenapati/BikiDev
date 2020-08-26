@@ -1,0 +1,91 @@
+body {
+	background-image:url(../imgs/bg_x.png);
+	background-repeat: repeat-x;
+	/*font-family: Arial,"Trebuchet MS", Helvetica, sans-serif;*/
+	background-position: top;
+}
+
+/*
+
+Drop Down Navigation
+
+*/
+
+div#page div#header div#lo-menu {
+}
+
+.lo-dropdown a, .lo-dropdown a:visited {
+}
+
+.lo-dropdown div a span {
+
+	background-color: #999;
+	color: #fff;
+	cursor:pointer;
+	display:block;
+	padding: 2px 2px 2px 8px;
+}
+.lo-dropdown div a:hover span {
+	color: #fff;
+	background-color: #999;
+}
+.lo-dropdown a:hover {
+	color:#ccc;
+}
+.lo-dropdown div a {
+	
+}
+.lo-dropdown ul li {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #000;
+	border-left-color: #000;
+}
+.lo-dropdown ul li:first-child {
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000;
+}
+.lo-dropdown ul {
+	color:#e1e1e1;
+	background-attachment: scroll;
+	background-color: #ffffff;
+	background-image: none;
+	background-repeat: repeat;
+	background-position: 0 0;
+}
+.lo-dropdown span.value { display:none;}
+.lo-dropdown ul li a { 
+	background-color:#fff;
+	color: #000;
+}
+
+/*
+
+Logo
+
+*/
+
+div#header div#logo {
+	background-image: url(../imgs/logo_course.png);
+	background-repeat: no-repeat;
+}
+
+/*
+
+BreadCrumbs
+
+*/
+div#crumbs {
+	
+}
+
+h2.pageTitle {
+   /*border-bottom: 1px solid #E8E8E8;
+	color: #000;*/
+}

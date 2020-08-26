@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 12 Quiz Lessons 4 - 5">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+        
+         <item>
+		<type>Essay</type>
+		<label>Questions 1 to 4:Perform the indicated operations.&lt;br&gt; (3x - 9)(2x + 7)</label>
+		<credit>2</credit>
+	</item>
+	
+	<item>
+		<type>Essay</type>
+		<label>(10x + 2)( 3x + 2)</label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>7(4x + 1)</label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>2(4x - 5)</label>
+		<credit>2</credit>
+	</item>
+
+         <item>
+		<type>Essay</type>
+		<label>Find the expression for the area of the triangle.&lt;br&gt;&lt;img src=/webdav/res012/int_math_1/pictures/img1.jpg&gt;</label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Find the expression that represents the area of the rectangle.&lt;br&gt;&lt;img src=/webdav/res012/int_math_1/pictures/img2.jpg&gt;</label>
+		<credit>2</credit>
+	</item>
+
+
+         
+
+
+
+
+
+</assessment>
+

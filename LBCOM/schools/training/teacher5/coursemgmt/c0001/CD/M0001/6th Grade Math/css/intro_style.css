@@ -1,0 +1,32 @@
+
+.head1 { height:24;font-size:16px; font-family: Arial; color: #459D19; font-weight: bold; vertical-align: bottom; }
+
+.head2 { height:24;font-size:16px; font-family: Arial; color: #AF1F17; font-weight: bold; vertical-align: bottom; }
+
+.head3 { height:24;font-size:16px; font-family: Arial; color: #DBAB73; font-weight: bold; vertical-align: bottom; }
+
+.head4 { height:24;font-size:16px; font-family: Arial; color: #7E5CAD; font-weight: bold; vertical-align: bottom; }
+
+.head5 { height:24;font-size:16px; font-family: Arial; color: #854523; font-weight: bold; vertical-align: bottom; }
+
+ul { font-family:  Arial, Helvetica, sans-serif;font-size: 12px;font-style: normal;line-height: 2em;font-weight: normal;font-variant: normal;text-transform: none;color: #5D5D5D;text-decoration: none;/*background-color: #CCCCCC;*/text-indent: 5px;list-style-position: inside;/*list-style-image: url(arrow.gif);*/list-style-type: square;padding: 6px;margin: 2px;}
+
+.words { border: 0px; border-collapse:collapse; vertical-align: middle; text-align: left; padding: 0px; font-smooth: always; padding: 10px;  font-size:12px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; color: #5D5D5D; font-weight: normal; vertical-align: bottom;}
+
+
+/*.nav_table {width: 100%; height: 100%; border: 0px; border-collapse:collapse; }
+
+.main_table_left {width: 100%;  }
+
+.main_table_center {width: 100%; }
+
+.main_table_right {width: 100%;  }
+
+.left_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.left_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }
+
+.shome_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.shome_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }
+
+.right_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.right_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }*/

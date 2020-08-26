@@ -1,0 +1,152 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html, body {
+	width: 100%;
+	padding: 0px;
+	margin: 0 auto;
+	background-color: #fff;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	font-size: .95em;;
+}
+
+#fixedBox {
+    position:fixed;
+    top: 0px;
+	width: 100%;
+	height: 110px;
+}
+
+#insideBox {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 110px;
+	background-image: url(genimages/header_template.jpg);
+}
+
+#insideBox img {
+	padding: 3px;	
+}
+  
+#content { 
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D9E8F5;
+	min-height: 800px;
+}
+
+#inside_content {
+	padding: 110px 20px 40px 20px;
+}
+
+.div_container {
+	width: 80%;
+	height: auto;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 1.6em;
+	padding: 0px 10px;
+	color: #333;
+}
+
+h2 {
+	font-size: 1.2em;
+}
+
+h3 {
+	font-size: 1em;	
+}
+
+table {
+	width: 90%;	
+	margin: 10px auto 20px auto;
+	color: #333;
+	border-collapse: collapse;
+}
+
+thead {
+	text-align: center;
+	color: #000;
+	background-color: #CCC;
+}
+
+tbody {
+	text-align: left;
+	color: #000;
+}
+
+th {	
+	background-color: #ffffcc;
+	padding: .5em;
+	border: #CCC 2px solid;
+	vertical-align: top;
+	text-align: left;
+}
+
+th[scope=col] {
+	background-color: #CCC;
+	padding: .5em;
+	text-align: center;
+	vertical-align: top;
+}
+
+th[scope=row] {
+	text-align: center;
+	vertical-align: top;
+}
+
+.leftTH th[scope=row] {
+	text-align: left;
+	vertical-align: top;
+}
+
+td {
+	background-color: #ffffcc;
+	padding: 5px;
+	border: #CCC 2px solid;
+	vertical-align: top;
+}
+
+table ul { 
+	margin-top:0em; 
+	margin-bottom:0em; 
+	margin-left:1.3em; 
+	margin-right:0em;
+}
+
+table li { 
+	margin-left: -3em;
+} 
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.clear {
+	clear: both;	
+}
+
+.center {
+	text-align:center;	
+}
+
+a img {
+	border: none;	
+}
+
+a:hover {
+	text-decoration: none;	
+}
+
+.noBullet {
+	list-style: none;
+}

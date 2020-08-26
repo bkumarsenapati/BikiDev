@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.01 Number System Relationships">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Select all the number types that describe the number 5.  You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Select all the number types that describe the number &lt;img src=/webdav/res0011/educator_algebra1/pictures/M3images/M3A2_1.gif&gt;.  You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Select all the number types that describe the number &lt;img src=/webdav/res0011/educator_algebra1/pictures/M3images/M3A2_2.gif&gt;.  You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Select all the number types that describe the number &lt;img src=/webdav/res0011/educator_algebra1/pictures/M3images/M3A2_3.gif&gt;.  You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Select all the number types that describe the number 0.  You may choose more than one answer from the list.</label>
+			<choice>
+				<choicelabel>Real Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole Number</choicelabel>
+				<credit>2.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting Number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

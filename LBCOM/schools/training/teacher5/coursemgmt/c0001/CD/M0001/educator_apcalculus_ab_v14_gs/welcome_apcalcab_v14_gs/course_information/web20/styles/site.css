@@ -1,0 +1,271 @@
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+	min-width: 820px;
+	min-height: 530px;
+	overflow: auto;
+	background-image: url(../images/water.jpg);
+	background-repeat: repeat;
+	font-family: Verdana, Geneva, sans-serif;
+	line-height: 1.2;
+	font-size: 1em;
+}
+
+.wrapper {
+	margin: 0px;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -188px;
+}
+
+.footer, .push {
+	height: 188px;
+}
+
+.clear {
+	clear: both;
+}
+
+/* ------------- Contintent Floats ---------- */
+
+#blogs {
+	background-image: url(../images/blogger.gif);
+	position: relative;
+	float: left;
+	width: 272px;
+	margin: 0px;
+	height: 155px;
+	z-index: 98;
+}
+
+#office {
+	background-image: url(../images/officeTools.gif);
+	position: relative;
+	float:right;
+	width: 313px;
+	height: 57px;
+	margin: 0px;
+	z-index: 98;
+}
+
+#conferencing {
+	background-image: url(../images/islandLearning.gif);
+	background-position: right;
+	background-repeat: no-repeat;
+	position: relative;
+	float: right;	
+	width: 235px;
+	height: 180px;
+	margin: 0px;
+	z-index: 98;
+}
+
+#history {
+	background-image: url(../images/digital_media.gif);
+	position: relative;
+	float: left;
+	width: 168px;
+	height: 158px;
+	margin: 0px;
+	z-index: 98;
+}
+
+#media {
+	background-image: url(../images/mediaSharing.gif);
+	position: relative;
+	float: right;
+	width: 170px;
+	height: 158px;
+	margin: 0px;
+	z-index: 1;
+}
+
+#social {
+	background-image: url(../images/unitedNations.gif);
+	position: relative;
+	float: left;
+	width: 179px;
+	margin: 0px;
+	height: 188px;
+	z-index: 98;
+}
+
+#knowledge {
+	background-image: url(../images/knowledge.gif);
+	background-position: bottom;
+	background-repeat: no-repeat;
+	position: relative;
+	float: right;
+	width: 417px;
+	height: 79px;
+	padding-top: 109px;	
+	z-index: 1;
+}
+
+#online {
+	background-image: url(../images/onlinePres.gif);
+	position: relative;
+	float: right;
+	width: 224px;
+	margin: 0px;
+	right: 0px;
+	height: 188px;
+	z-index: 1;
+}
+
+.paddingLeft {
+	padding-left: 20px;	
+}
+
+/* ------------- Course Content Formatting ---------- */
+
+
+#contentBox {
+	background-image: url(../images/bkgd.gif);
+	border: #333 thin solid;
+	position: absolute;
+	width: 72%;
+	height: 80%;
+	min-height: 420px;
+	/*max-height: 425px;*/
+	min-width: 595px;
+	z-index: 2;
+	left: 106px;
+	top: 46px;
+	overflow: auto;
+	overflow-x: hidden;
+	padding-bottom: 5px;
+}
+
+
+
+.dropDown {
+	margin: 15px 110px 10px 0px;
+	width: auto;
+	height: 20px;
+	float: right;
+	z-index: 99;
+}
+
+.segmentTitle {
+	position: relative;
+	float: left;
+	text-align: left;
+	left: 20px;
+	background-image: url(../images/header.gif);
+	height: 20px;
+	width: auto;
+	margin-top: 10px;
+	padding: 5px 15px 5px 15px;
+	border: #fff thin solid;
+}
+
+.mainText {
+	width: 100%;
+	height: auto;
+	overflow: auto;
+}
+
+hr {
+	border: 0;
+	background-color: #9E9E9E;
+	height: 1px;
+	width: 100%;
+	text-align: left;
+}
+
+.backNav {
+	float: right;
+	width: auto;
+	margin: 15px 110px 10px 0px;
+	height: 20px;
+	z-index: 99;
+}
+
+img {
+	border: none;
+	padding: 2px;
+}
+
+.center {
+	text-align: center;
+}
+
+.centerFlash {
+	text-align: center;
+	margin: 25px 0px 25px 0px;
+	
+}
+
+
+
+.button {
+	cursor: pointer;
+	margin: 0px 5px 0px 5px;
+	z-index: 99;
+}
+
+.icons {
+	text-align: center;
+	padding: 15px;
+}
+
+.top {
+	z-index: 99;	
+}
+
+/* ------------- text formatting ---------- */
+
+h1 {
+	color: #333;
+	font-size: 1.1em;
+	font-weight: 100;
+}
+
+h2 {   
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1.1em;
+	line-height: 35px;
+	letter-spacing: .5px;
+	color: #66bc29;
+	margin: 15px 50px 15px 50px;
+    font-weight: 100;
+				
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .9em;
+	letter-spacing: 0.5px;
+	color: #333;
+	margin: 25px 50px 25px 50px;
+}
+
+.red {
+	font-style: italic;
+	color: #ef8200;	
+}
+
+.border {
+	border-top: #5bb5e5 thin dashed;	
+	border-bottom: #5bb5e5 thin dashed;
+	padding: 15px 0px 15px 0px;
+}
+
+.smallText {
+	font-size: .9em;	
+}
+
+/* ------------- links formatting ---------- */
+
+a {
+	color: #ef8200;	
+}
+
+a:hover {
+	color: #edb700;
+	text-decoration: none;
+}	

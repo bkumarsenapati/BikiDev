@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Integrated Science 1 Unit 3 Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	   <item>
+		<type>Multiple Choice</type>
+		   <label>Day and night are caused by</label>
+			<choice>
+				<choicelabel>the tilt of Earth&#39;s axis.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Earth&#39;s &#38;nbsp;&lt;u&gt;revolution&lt;/u&gt;&#38;nbsp; around the sun.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>eclipses.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Earth&#39;s rotation on its axis.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+                <item>
+		<type>Multiple Choice</type>
+		   <label>One complete revolution of Earth around the sun takes about</label>
+			<choice>
+				<choicelabel>one rotation.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>one season.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>one year.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>one eclipse.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>   
+		         <item>
+		<type>Multiple Choice</type>
+		   <label>Earth has seasons because</label>
+			<choice>
+				<choicelabel>Earth rotates on its axis.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the distance between Earth and the sun changes.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Earth&#39;s axis is tilted as it moves around the sun.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the temperature of the sun changes.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>  
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>For a solar eclipse to occur,</label>
+			<choice>
+				<choicelabel>the sun must be directly between Earth and the moon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the moon must be directly between Earth and the sun.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the moon must be directly between Earth and the sun.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Earth must be directly between the sun and the moon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+     <item>
+		<type>Multiple Choice</type>
+		   <label>Tides are caused mainly by</label>
+			<choice>
+				<choicelabel>Earth&#39;s rotation on its axis, which causes water to move.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>differences in how much the sun pulls on different parts of Earth.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>strong winds blowing water onto coasts.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>differences in how much the moon pulls on different parts of Earth.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+		      
+ <item>
+		<type>Multiple Choice</type>
+		   <label>Geosynchronous satellites above the equator</label>
+			<choice>
+				<choicelabel>revolve around Earth faster than other satellites.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>vary considerably in their distance from Earth.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>stay above the same point on Earth.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>follow an elliptical orbit.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+		  
+		    <item>
+		<type>Multiple Choice</type>
+		   <label>Scientists think the moon was formed when</label>
+			<choice>
+				<choicelabel>a large object struck Earth, and material from both bodies combined.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gravitational forces attracted materials from outer space.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>meteoroids collected and solidified within the pull of Earth&#39;s gravity.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gases from Earth escaped from the atmosphere and condensed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+
+        <item>
+		<type>Multiple Choice</type>
+		   <label>Earth&#39;s rotation takes about</label>
+			<choice>
+				<choicelabel>365 days.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6 months.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>24 hours.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1 month.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+
+   <item>
+		<type>Multiple Choice</type>
+		   <label>Because the moon rotates once for each revolution around Earth,</label>
+			<choice>
+				<choicelabel>you see some phases more than others.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a different side of the moon faces Earth each day.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>you never see the far side of the moon.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the far side of the moon is visible only during the full moon phase.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+		   
+		    <item>
+		<type>Multiple Choice</type>
+		   <label>Photographs of the far side of the moon show that</label>
+			<choice>
+				<choicelabel>the far side is much rougher than the near side.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there is water on the far side.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the far side has active volcanoes.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the far side has a smooth surface.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+
+
+      <item>
+		<type>Multiple Choice</type>
+		   <label>Day and night are caused by Earth&#39;s &#38;nbsp;&lt;u&gt;revolution&lt;/u&gt;&#38;nbsp; on its axis. __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+		         <item>
+		<type>Multiple Choice</type>
+		   <label>The beginning of spring in the Northern Hemisphere is marked by the &#38;nbsp;&lt;u&gt;vernal&lt;/u&gt;&#38;nbsp; equinox. __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	      <item>
+		<type>Multiple Choice</type>
+		   <label>The phases of the moon depend on how much of the &#38;nbsp;&lt;u&gt;lighted&lt;/u&gt;&#38;nbsp; side of the moon can be seen from Earth. __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	         	          <item>
+		<type>Multiple Choice</type>
+		   <label>A&#38;nbsp;&lt;u&gt;solar&lt;/u&gt;&#38;nbsp; eclipse occurs when the moon moves directly between the sun and Earth. __________
+
+</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	      <item>
+		<type>Multiple Choice</type>
+		   <label>A tide with the greatest distance between low and high tides is called a&#38;nbsp;&lt;u&gt;neap&lt;/u&gt;&#38;nbsp; tide. __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	   <item>
+		<type>Multiple Choice</type>
+		   <label>Gases expelled from the rear of a rocket push the rocket in the&#38;nbsp;&lt;u&gt;same&lt;/u&gt;&#38;nbsp; direction as the gases.  __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>  
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>Astronauts and equipment are launched into space mainly by space &#38;nbsp;&lt;u&gt; stations.&lt;/u&gt;&#38;nbsp; __________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>Maria are&#38;nbsp;&lt;u&gt;low&lt;/u&gt;&#38;nbsp; areas, once flooded with lava, on the moon&#39;s surface. ___________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	 <item>
+		<type>Multiple Choice</type>
+		   <label>Scientists learned much about the moon by studying &#38;nbsp;&lt;u&gt;rocks&lt;/u&gt;&#38;nbsp; brought back by astronauts___________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>The moon&#39;s average density is &#38;nbsp;&lt;u&gt;greater than&lt;/u&gt;&#38;nbsp; the density of Earth&#39;s outer layers.___________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>			
+	</item>
+	         
+
+		<item>
+	       <type>Fill in the Blank</type>
+          <label>The times that day and night are of equal length are called _____.</label>
+	      <blank>
+	         <accepted>equinoxes</accepted>
+	         <credit>2</credit>
+	      </blank>
+	    </item>
+       <item>
+	         <type>Fill in the Blank</type>
+             <label>The moon can be seen from Earth because _____ reflects off the moon.</label>
+	      <blank>
+	         <accepted>sunlight</accepted>
+	         <credit>2</credit>
+	      </blank>
+	   </item>
+	              <item>
+	         <type>Fill in the Blank</type>
+             <label>The darkest part of the moon&#39;s shadow is called the  _____ </label>
+	      <blank>
+	         <accepted>umbra</accepted>
+	         <credit>2</credit>
+	      </blank>
+	   </item>
+
+	    <item>
+	         <type>Fill in the Blank</type>
+             <label>Tides are caused by the force of _____ from the sun and moon acting on Earth&#39;s waters.</label>
+	      <blank>
+	         <accepted>gravity</accepted>
+	         <credit>2</credit>
+	      </blank>
+	   </item>
+  <item>
+	         <type>Fill in the Blank</type>
+             <label>Galileo called the dark, flat parts of the moon _____ because they looked like seas.</label>
+	      <blank>
+	         <accepted>maria</accepted>
+	         <credit>2</credit>
+	      </blank>
+	   </item>
+
+	    <item>
+		<type>Essay</type>
+		<label>Questions 26 - 28: &lt;img src=/webdav/res303/int_sci_1_y1/pictures/img1.jpg&gt; Number the phases of the moon in the order that they occur, beginning with the new moon as number 1.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>What are the phases shown in A and D called?</label>
+		<credit>5</credit>
+	</item>
+   <item>
+		<type>Essay</type>
+		<label>In phase E, from what direction is the sun shining?</label>
+		<credit>5</credit>
+	</item>
+	   
+	    <item>
+		<type>Essay</type>
+		<label>Questions 29 - 31: &lt;img src=/webdav/res303/int_sci_1_y1/pictures/img2.jpg&gt;Describe how the height of the tides changes from Monday to Thursday.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>What is the difference in height between low tide and high tide on Wednesday?</label>
+		<credit>5</credit>
+	</item>
+   <item>
+		<type>Essay</type>
+		<label>If you were piloting a ship to a town on Baffin Bay, what would be the best day and time to arrive at the town? Explain.</label>
+		<credit>5</credit>
+	</item>
+
+
+  <item>
+		<type>Essay</type>
+		<label>Explain why it is warmer near the equator than it is near the poles.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>	Explain how a lunar eclipse differs from a solar eclipse.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Explain what happens as a three-stage rocket is launched and travels up into space.</label>
+		<credit>10</credit>
+	</item>
+	
+</assessment>
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

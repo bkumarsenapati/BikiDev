@@ -1,0 +1,10 @@
+
+body	{ 
+margin: 10px 10px 10px 10px; 
+background-color: #ffffff; 
+/*background-image: url(../images/mw_main_bg.jpg); background-repeat: repeat-x;*/
+font-size:10px; font-family : Arial, Helvetica, Verdana, sans-serif; 
+color: #000000 } 
+
+a { text-decoration: none; color: #429EDF; font-size: 12px; padding-bottom: 6px; HEIGHT: 3px;}
+a:hover { color: #546878; font-size: 12px; padding-bottom: 10px;}

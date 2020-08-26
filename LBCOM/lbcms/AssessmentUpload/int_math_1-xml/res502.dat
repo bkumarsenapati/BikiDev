@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Quiz Unit 5 Lessons 4a - 4c">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;4x&lt;sup&gt;3&lt;/sup&gt; * x&lt;sup&gt;7&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;y&lt;sup&gt;0&lt;/sup&gt; * y&lt;sup&gt;-3&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;&lt;img src=/webdav/res501/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;&lt;img src=/webdav/res501/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;4(x&lt;sup&gt;3&lt;/sup&gt;)&lt;sup&gt;5&lt;/sup&gt; * 2x&lt;sup&gt;2&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Use the rules for exponents to simplify the following.&lt;br&gt;m&lt;sup&gt;-4&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	
+	
+	
+	
+</assessment>
+

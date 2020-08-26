@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.05 Solving Equations with Fractions">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>You may submit this assignment in one of two ways: 
+1. Write your answers in the box below. 
+2. Attach a file using the browse button. Please be certain to save your file with the proper file extension (.rtf). </label>
+		<credit>10</credit>
+	</item>
+</assessment>

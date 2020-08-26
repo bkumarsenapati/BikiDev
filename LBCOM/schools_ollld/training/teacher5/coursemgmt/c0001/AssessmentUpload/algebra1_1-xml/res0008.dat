@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="02.07 Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the best graph for showing changes over time?</label>
+			<choice>
+				<choicelabel>Bar graph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scatterplot</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pictograph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Line graph</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the following graph to answer the next 3 questions.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0008/educator_algebra1/pictures/M2FAq_2.gif&gt;&lt;br&gt;What type of graph is pictured above?</label>
+			<choice>
+				<choicelabel>Dot matrix</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Bar graph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scatterplot</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Line graph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What values are located on the horizontal axis of the graph in the previous question?</label>
+			<choice>
+				<choicelabel>Time in minutes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Test scores</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Number of students</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Days of the week</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What values are located on the vertical axis of the graph in question 2?</label>
+			<choice>
+				<choicelabel>Time in minutes</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Test scores</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Number of students</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Days of the week</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the following graph to answer the next four questions.&lt;br&gt;&lt;img src=/webdav/res0008/educator_algebra1/pictures/M2FAq_4.gif&gt;&lt;br&gt;What type of graph is shown above?</label>
+			<choice>
+				<choicelabel>Block graph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pie chart</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Bar graph</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pictograph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the graph from the previous question to choose the correct answer.&lt;br&gt;&lt;br&gt;Which two movie themes have the same number of people favoring them?</label>
+			<choice>
+				<choicelabel>Comedy</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Musical</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Adventure</choicelabel>
+				<credit>2.5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Science Fiction</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Drama</choicelabel>
+				<credit>2.5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Other</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the graph from question 5 to choose a correct answer.&lt;br&gt;&lt;br&gt;The Musical theme shows 30 people in favor.</label>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the graph from question 5 to choose a correct answer.&lt;br&gt;&lt;br&gt;How many people were surveyed in order to make the graph?</label>
+			<choice>
+				<choicelabel>90</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>85</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>100</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>60</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0008/educator_algebra1/pictures/M2FAq_7.gif&gt;&lt;br&gt;On Jason&apos;s math test, each group of three tick marks represents an increase or decrease of how many points?</label>
+			<choice>
+				<choicelabel>A.)  3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 5</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 1.67</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the correct definition for the MODE of a set of data.</label>
+			<choice>
+				<choicelabel>The number(s) that occurs most often in a set of data.</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The number that represents the middle number in a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The statistical average of a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the correct definition for the MEDIAN of a set of data.</label>
+			<choice>
+				<choicelabel>The number(s) that occurs most often in a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The number that represents the middle number in a set of data.</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The statistical average of a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the correct definition for the MEAN of a set of data.</label>
+			<choice>
+				<choicelabel>The number(s) that occurs most often in a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The number that represents the middle number in a set of data.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The statistical average of a set of data.</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>The graph shown below is called a tree diagram.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0008/educator_algebra1/pictures/M2FAq_8b.gif&gt;</label>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>You will choose three answers from the list below. Be sure to check ALL THREE answers.&lt;br&gt;&lt;br&gt;Choose ALL the missing outcomes in graph B. (The graph is shown in the previous question)</label>
+			<choice>
+				<choicelabel>Peas-Chicken (pc)</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Carrots-Veal (cv)</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Peas-Veal - Carrots (pvc)</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Carrots-Chicken (cc)</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Peas-Beef - Chicken (pbc)</choicelabel>
+				<credit>0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Carrots-Beef (cb)</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Use the data shown to answer the question.&lt;br&gt;&lt;img src=http://learn.flvs.net/webdav/res0008/educator_algebra1/pictures/M2FAq_8a.gif&gt;&lt;br&gt;(Please enter your answer so it looks like 0.235 or 0.367)&lt;br&gt;The MODE of data for graph A is __________</label>
+			<blank>
+				<accepted>0.332</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the statistical mean for the following data:&lt;br&gt;&lt;br&gt;{ 41, 41, 48, 10, 49 }</label>
+			<choice>
+				<choicelabel>41</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>37.8</choicelabel>
+				<credit>5.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>47.25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>48</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Use the following graph to answer the next two questions.&lt;br&gt;&lt;img src=http://learn.flvs.net/webdav/res0008/educator_algebra1/pictures/M2FAq_3.gif&gt;&lt;br&gt;What is the TOTAL number of students surveyed?__________</label>
+			<blank>
+				<accepted>175</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please answer the following question with a single capital letter.&lt;br&gt;&lt;br&gt;According to the graph shown in the previous question, which record was the favorite?__________</label>
+			<blank>
+				<accepted>E</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the following charts to answer the question.&lt;br&gt;&lt;br&gt;&lt;img src=http://learn.flvs.net/webdav/res0008/educator_algebra1/pictures/M2FAq_5.gif&gt;&lt;br&gt;What is the best type of graph to represent the data?</label>
+			<choice>
+				<choicelabel>Pictograph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Bar graph</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Line graph</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scatterplot</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The data chart shown below illustrates the summer travel preferences of tourists across the nation. Use the data to answer the questions.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0008/educator_algebra1/pictures/M2FAq_10.gif&gt;&lt;br&gt;1.  What type of graph would you use to illustrate this data?&lt;br&gt;&lt;br&gt;2.  Why would you use that type of graph?&lt;br&gt;&lt;br&gt;3.  What would be your title for the graph?&lt;br&gt;&lt;br&gt;4.  How would you label the axes of the graph?&lt;br&gt;&lt;br&gt;5.  What is the ratio of the number of people who visit Florida to the total number of people surveyed?&lt;br&gt;&lt;br&gt;6.  What percent of the people surveyed wish to visit Florida? (Hint: you can use your ratio from question 5 to find the percent)</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

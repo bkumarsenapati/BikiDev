@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="05.10 Lab">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Attach your lab assignment using the browse button or copy and paste your work below.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

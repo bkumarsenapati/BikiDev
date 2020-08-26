@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 7 Quiz Lessons 9 - 10">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>Questions 1 - 2: Check to see if the ordered pair is a solution to the given equation.&lt;br&gt;3x + 4y = 2  &#38;nbsp;&#38;nbsp;(2,-1)</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		
+			<label>y = 3x + 4   &#38;nbsp;&#38;nbsp;(-1,7)</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Fill in the table using the given x-values then sketch the graphs.&lt;br&gt;y = 3x - 2 &lt;br&gt;&lt;img src=/webdav/res703/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the x and the y-intercepts for the following equations. Use them to sketch their graphs.&lt;br&gt;-3x + 5y = 15&lt;img src=/webdav/res703/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 5 -6: Identify the slope and the y-intercept from the equations.&lt;br&gt; y = - &#188; x + 4 .</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = 2x + 1</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Identify the slope and the y-intercept of the equation. Use them to sketch the graph of the line.&lt;br&gt;&lt;img src=/webdav/res703/int_math_1/pictures/image3.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	
+	
+	
+</assessment>
+

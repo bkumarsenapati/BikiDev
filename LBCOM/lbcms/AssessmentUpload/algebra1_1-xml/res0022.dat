@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.11 Practice Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_1.gif&gt;</label>
+			<choice>
+				<choicelabel>Real number</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational number</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_2.gif&gt;</label>
+			<choice>
+				<choicelabel>Real number</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rational number</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Irrational number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Whole number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Counting number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the expression using the order of operations. &lt;br&gt;4 + 3(-6) - 1 = </label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>7(3 - 10) + 3&lt;sup&gt;2&lt;/sup&gt;=</label>
+			<blank>
+				<accepted>-40</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>4 - (-3 + 8)</label>
+			<blank>
+				<accepted>-1</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_6.gif&gt;</label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>5&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>25</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-9</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>2&lt;sup&gt;0&lt;/sup&gt;</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>(-3)&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>9</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_11.gif&gt;</label>
+			<blank>
+				<accepted>13</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_12.gif&gt;</label>
+			<blank>
+				<accepted>-9</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0022/educator_algebra1/pictures/M3images/M3examq_13.gif&gt;</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>For dinner, Sandra paid $2 more than Sally at a local fast food restaurant. Together they spent $10.00. Write an equation for the total amount in terms of x (where x= Sally&apos;s amount paid).</label>
+			<choice>
+				<choicelabel>x + x + 2 = 10</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x - 5 = 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + x - 2 =10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x + x =10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that best represents the information below. Ten more than three times a number is eight more than two times the number. </label>
+			<choice>
+				<choicelabel>10(3n) = 8(2n)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 + 3n = 8 + n</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 + 8 = 2n + 3n</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3n + 10 = 2n + 8</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that best represents the problem below. The sum of three consecutive even integer is twelve. </label>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 2) = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 3) = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 2) + (x + 4) = 12</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 2x + 4x = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>8 - 14 =</label>
+			<blank>
+				<accepted>-6</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-12 + 10 =</label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-7 - 8 =</label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-3 - (-1) =</label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-8(-5)=</label>
+			<blank>
+				<accepted>40</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>-12 divided by 2 =</label>
+			<blank>
+				<accepted>-6</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Essay</type>
+		<label>If you show your work, you may receive partial credit. Evaluate each problem when a = 4, b = -2 and c = -1.&lt;br&gt;a) 2(b + c) &lt;br&gt;b) ab - c &lt;br&gt;c) &lt;img src=/webdav/res0022/educator_alg1_v5/pictures/mod3/03_10p_05.gif&gt; &lt;br&gt;d) (a + c) + (b + a) &lt;br&gt;e) 3a&lt;sup&gt;2&lt;/sup&gt;</label>
+		<credit>5</credit>
+	</item>
+</assessment>

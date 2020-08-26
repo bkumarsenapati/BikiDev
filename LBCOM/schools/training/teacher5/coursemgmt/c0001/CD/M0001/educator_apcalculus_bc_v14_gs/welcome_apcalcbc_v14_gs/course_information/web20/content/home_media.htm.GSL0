@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Media Sharing</title>
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function nav()
+   {
+   var w = document.myform.mylist.selectedIndex;
+   var url_add = document.myform.mylist.options[w].value;
+   window.location.href = url_add;
+   }
+//-->
+</script>
+
+</head>
+
+<body>
+<div class="wrapper">
+    <div id="blogs"></div>
+  <div id="conferencing"></div>
+  <div id="office"></div>
+    
+  <br class="clear" />
+
+<div id="history"></div>
+<div id="media"></div>
+
+<div id="contentBox">
+
+<div class="dropDown">
+	<form name="myform">
+	  <select name="mylist" onchange="nav()">
+        <option value="" >Select...</option>
+        <option value="../index.htm">Introduction</option>
+        <option value="home_imaging.htm">Digital Imaging</option>
+        <option value="home_blogger.htm">Kingdom of Bloggers</option>
+        <option value="home_office.htm">Liberated Office Tools</option>
+        <option value="home_learning.htm">Collaborative Learning</option>
+        <option value="home_media.htm" selected="selected">Audio and Video</option>
+        <option value="home_networking.htm">Social Networking</option>
+        <option value="home_knowledge.htm">Knowledge Sharing</option>
+        <option value="home_presentation.htm">Online Presentation</option>
+                              </select>
+	</form>
+</div>
+    
+    <div class="segmentTitle">
+    	<h1>Audio and Video</h1>
+    </div>
+    
+    <br class="clear"/>
+    
+    <hr />
+	<div class="mainText">
+        
+      <p><strong>Visit the following links to learn about each media sharing and audio tools!</strong></p>
+      <table width="786" height="123" border="0" align="center" cellpadding="2" cellspacing="2">
+        <tr>
+          <td width="256"><div align="center"><span class="center"><a href="http://l.flvsgl.com/GSL02c1c74f3786b2a70ce465f8f89064d1e/" target="_blank"><img src="../images/schooltube.jpg" alt="schooltube" width="200" height="66" align="middle" /></a></span></div></td>
+          <td width="523">SchoolTube a site the allows students to share video online.</td>
+        </tr>
+        <tr>
+          <td><div align="center"><span class="center"><a href="http://l.flvsgl.com/GSL01479aabf62af847a1c63487a8124c111/" target="_blank"><img src="../images/teachertube.jpg" alt="teachertube" width="200" height="66" align="middle" /></a></span></div></td>
+          <td>TeacherTube is an online community where teachers and students share instructional videos.</td>
+        </tr>
+        <tr>
+          <td><div align="center"><span class="center"><a href="http://l.flvsgl.com/GSL052ac4e75fb6f73acea8a4c4a27ce2ab7/" target="_blank"><a href="http://l.flvsgl.com/GSL052ac4e75fb6f73acea8a4c4a27ce2ab7/" target="_blank"><img src="../images/audacity.jpg" alt="audacity" width="200" height="66" align="middle" /></a></a></span></div></td>
+          <td>Audacity® is a free audio program that records and edits sounds.</td>
+        </tr>
+      </table>
+      <p>&nbsp;</p>
+        
+      <p class="center">&nbsp;</p>
+    </div>
+</div>
+
+<br class="clear" />
+
+   <div class="push"></div>
+   </div>
+  <div class="footer">
+  <div id="social"></div>
+<div id="online"></div>
+<div id="knowledge"></div>
+</div>
+
+</body>
+</html>

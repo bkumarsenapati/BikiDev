@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.13 Practice Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Please refer to this cylinder for questions 1-4 and use 3.14 for pi when required. &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_01.gif&gt;&lt;br&gt;&lt;br&gt;Find the radius of the cylinder above.  </label>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_01.gif&gt;&lt;br&gt;&lt;br&gt;Refer to the cylinder above.  Find the circumference of the circle shown on the top of the cylinder.</label>
+			<choice>
+				<choicelabel>18.84 inches</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>37.68 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9.42 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>28.26 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_01.gif&gt;&lt;br&gt;&lt;br&gt;Refer to the cylinder above.  Find the volume.</label>
+			<choice>
+				<choicelabel>190.2 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>376.8 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>188.4 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>282.6 cubic inches</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following expressions is a quadratic polynomial?</label>
+			<choice>
+				<choicelabel>x&lt;sup&gt;4&lt;/sup&gt; + 2x&lt;sup&gt;3&lt;/sup&gt;+ x - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;3&lt;/sup&gt; + 3x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt; + 2x + 1</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>None of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Classify this polynomial according to the number of terms:x&lt;sup&gt;2&lt;/sup&gt;+3x -9</label>
+			<choice>
+				<choicelabel>Monomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Binomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Trinomial</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Classify this polynomial according to the number of terms:3x&lt;sup&gt;4&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>Monomial</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Binomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Trinomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the degree of this term:5x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the degree of this polynomial: 6x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt;-3xy&lt;sup&gt;2&lt;/sup&gt;-2x </label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Simplify the following expression: (3x&lt;sup&gt;2&lt;/sup&gt;+2x -3) + (5x&lt;sup&gt;2&lt;/sup&gt; +5)</label>
+			<blank>
+				<accepted>8x^2+2x+2</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Simplify the following expression:(2x&lt;sup&gt;2&lt;/sup&gt; -5x +10) - (x&lt;sup&gt;2&lt;/sup&gt; -7x +3)</label>
+			<blank>
+				<accepted>x^2+2x+7</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Multiply and simplify:4x&lt;sup&gt;3&lt;/sup&gt;(5x&lt;sup&gt;2&lt;/sup&gt;-2x)</label>
+			<blank>
+				<accepted>20x^5-8x^4</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Multiply and simplify:(x-3)(2x+5)</label>
+			<blank>
+				<accepted>2x^2-x-15</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Multiply and simplify:(x+3)(x+3)</label>
+			<blank>
+				<accepted>x^2+6x+9</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents.  For example x squared is written x^2.  Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Multiply and simplify:(x+2)(3x&lt;sup&gt;2&lt;/sup&gt;-4x -1)</label>
+			<blank>
+				<accepted>3x^3+2x^2-9x-2</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify completely:&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_16_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>100xy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_16_ansb.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_16_ansc.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_16_ansd.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify completely: :&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_17_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_17_ansa.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_17_ansb.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_17_ansc.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_17_ansd.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify completely: &lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_18a.gif&gt;&lt;br&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_18b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_18c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_18d.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Already Simplified</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify completely::&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_19_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_19_ansa.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_19_ansb.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>20x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_19_ansd.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Divide and simplify commpletely: :&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_20_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_20_ansa.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_20_ansb.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_20_ansc.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_20_ansd.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Divide and simplify completely::&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_21_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_21_ansa.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_21_ansb.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_21_ansc.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_21_ansd.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Divide and simplify completely: &lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_22a.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_22b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_22c.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_alg1_v5/pictures/06_13_22d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Already Simplified</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_23_Q_1.gif&gt;would simplify to x&lt;sup&gt;4&lt;/sup&gt;y&lt;sup&gt;4&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3.7</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Add and simplify::&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_24_Q.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_24_ansa.gif&gt;</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_24_ansb.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_24_ansc.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_24_ansd.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>A right triangle has two legs with lengths 3 inches and 4 inches.  Find the length of the hypotenuse. </label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_25_ansa.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_25_ansc.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 inches</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>A right triangle has one leg with length 6 feet and a hypotenuse of length 10 feet.  Find the length of the other leg. </label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_26_ansa.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0083/educator_algebra1/pictures/M6images/6_26_ansd.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Give an example of a real-life application of the Pythagorean Theorem. </label>
+		<credit>1</credit>
+	</item>
+</assessment>

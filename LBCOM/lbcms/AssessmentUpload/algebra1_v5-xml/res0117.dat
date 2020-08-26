@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.01 Lab">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Submit your answers along with the date you posted in the discussion board and the name of the student to whom you replied.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

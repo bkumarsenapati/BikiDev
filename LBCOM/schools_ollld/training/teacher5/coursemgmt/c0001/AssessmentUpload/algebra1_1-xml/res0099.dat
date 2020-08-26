@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="07.14 Module 7 Test ">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>12 </give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Uniform</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Uniform</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>The Greatest Common Factor for the polynomial 6x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt; + 12xy&lt;sup&gt;2&lt;/sup&gt; + 21xy is the term 3xy.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>The Greatest Common Factor for the polynomial 12x&lt;sup&gt;4&lt;/sup&gt;y – 16x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;2&lt;/sup&gt; + 32y&lt;sup&gt;3&lt;/sup&gt; is the term 4x&lt;sup&gt;2&lt;/sup&gt;y.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>The Greatest Common Factor for the polynomial 15x&lt;sup&gt;2&lt;/sup&gt;y&lt;sup&gt;3&lt;/sup&gt;z + 5xy&lt;sup&gt;2&lt;/sup&gt;z&lt;sup&gt;2&lt;/sup&gt; - 20yz&lt;sup&gt;3&lt;/sup&gt; is the term 5yz.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+		<label>The polynomial 4x&lt;sup&gt;2&lt;/sup&gt; - 16 is a difference of squares.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+		<label>The polynomial 4x&lt;sup&gt;2&lt;/sup&gt; + 16 is a difference of squares.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+		<label>The polynomial 8x&lt;sup&gt;2&lt;/sup&gt; - 9 is a difference of squares.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>The polynomial 6xy + 3y – 4x – 2 can be factored into (2x + 1) times  ___?___.</label>
+			<choice>
+				<choicelabel>(3y – 2)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(6y – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3y + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>The polynomial 14xy – 7x – 6y + 3 can be factored into (7x - 3) times  ___?___.</label>
+			<choice>
+				<choicelabel>(2y + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2y – 1)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4y – 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>The polynomial 8ab + 10b – 12ac – 15c can be factored into (2b – 3c) times  ___?___.</label>
+			<choice>
+				<choicelabel>(4a – 5c)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3a – c)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4a + 5)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor the polynomial x&lt;sup&gt;2&lt;/sup&gt; + 2x – 15.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)|(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor the polynomial x&lt;sup&gt;2&lt;/sup&gt; + x – 6.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Factor the polynomial x&lt;sup&gt;2&lt;/sup&gt; - 6x + 5.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(x – 1)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor the polynomial 6x&lt;sup&gt;2&lt;/sup&gt; + 11x + 4.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(2x + 1)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor the polynomial 6x&lt;sup&gt;2&lt;/sup&gt; + 7x – 20.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(2x + 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x – 4)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Factor the polynomial 3x&lt;sup&gt;2&lt;/sup&gt; - x - 10.  Which one of the following is a factor?</label>
+			<choice>
+				<choicelabel>(2x + 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(3x – 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2x – 1)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(x – 2)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Which statement below BEST describes how you would factor this polynomial completely?  3x&lt;sup&gt;2&lt;/sup&gt; - 75</label>
+			<choice>
+				<choicelabel>Take out the GCF.  Nothing else can be done.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the difference of squares.</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There is no GCF, so factor the trinomial.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the difference of squares.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Which statement below BEST describes how you would factor this polynomial completely?  6x&lt;sup&gt;4&lt;/sup&gt; - 6</label>
+			<choice>
+				<choicelabel>Take out the GCF.  Nothing else can be done.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the difference of squares.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There is no GCF, so factor the trinomial.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the difference of squares.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Which statement below BEST describes how you would factor this polynomial completely?  6x&lt;sup&gt;2&lt;/sup&gt; + 20x + 6.</label>
+			<choice>
+				<choicelabel>Take out the GCF.  Nothing else can be done.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the trinomial.</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There is no GCF, so factor the trinomial.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take out the GCF, then factor the difference of squares.  One of the factors is a difference of squares, so factor it further.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Solve the given equation by factoring.  
+&lt;br&gt; 2x&lt;sup&gt;2&lt;/sup&gt; - 5x – 3. 
+&lt;br&gt;One of the solutions is -1/2, what is the other solution?</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Solve the given equation by factoring.  
+&lt;br&gt; 3x&lt;sup&gt;2&lt;/sup&gt; - 48. 
+&lt;br&gt;One of the solutions is -4, what is the other solution?</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Solve the given equation by factoring.  
+&lt;br&gt;x&lt;sup&gt;2&lt;/sup&gt; - 4x. 
+&lt;br&gt;One of the solutions is 0, what is the other solution?</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>none of the above</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Solve the given equation by using the quadratic formula.  
+&lt;br&gt; 2x&lt;sup&gt;2&lt;/sup&gt; - 3x – 4 = 0.  What value is under the radical in your answer?  (Note:  You are asked only to identify the value under the radical, not the solution to the equation.)</label>
+			<choice>
+				<choicelabel>23</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>32</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>41</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Solve the given equation by using the quadratic formula.  
+&lt;br&gt; 5x&lt;sup&gt;2&lt;/sup&gt; - 2x – 2 = 0.  What value is under the radical in your answer?  (Note:  You are asked only to identify the value under the radical, not the solution to the equation.)</label>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>36</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>44</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>440</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Solve the given equation by using the quadratic formula.  
+&lt;br&gt; 3x&lt;sup&gt;2&lt;/sup&gt; - 8x  + 2 = 0.  What value is under the radical in your answer?  (Note:  You are asked only to identify the value under the radical, not the solution to the equation.)</label>
+			<choice>
+				<choicelabel>30</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>40</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>52</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>88</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>Use the following quadratic equation to complete parts a – c below. Be sure to show all of your steps for part a and b.
+&lt;br&gt;2x&lt;sup&gt;2&lt;/sup&gt; + 10x + 12 = 0.
+&lt;br&gt;
+&lt;br&gt;a.  Solve by factoring.
+&lt;br&gt;b.  Solve using the quadratic formula.
+&lt;br&gt;c.  Describe the relationship between your answers for parts a and b.</label>
+		<credit>15</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>Use the following quadratic equation to complete parts a – c below.
+&lt;br&gt;3x&lt;sup&gt;2&lt;/sup&gt; + 2x - 5 = 0.
+&lt;br&gt;
+&lt;br&gt;a.  Solve by factoring.
+&lt;br&gt;b.  Solve using the quadratic formula.
+&lt;br&gt;c.  Describe the relationship between your answers for parts a and b.</label>
+		<credit>15</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>10</group>
+		<label>Factor the following.  You will earn 5 points for each polynomial that is factored correctly.  Please label your individual answers with a – f.
+&lt;br&gt;
+&lt;br&gt;a.) 4x&lt;sup&gt;2&lt;/sup&gt; - 25
+&lt;br&gt;
+&lt;br&gt;b.) 3x&lt;sup&gt;2&lt;/sup&gt; + 6y
+&lt;br&gt;
+&lt;br&gt;c.) x&lt;sup&gt;2&lt;/sup&gt; - 7x + 10
+&lt;br&gt;
+&lt;br&gt;d.) 2x&lt;sup&gt;2&lt;/sup&gt; - 9x – 18
+&lt;br&gt;
+&lt;br&gt;e.) 2ax + 6bx + ay + 3by
+&lt;br&gt;
+&lt;br&gt;f.) 6x&lt;sup&gt;2&lt;/sup&gt; + 12x – 48</label>
+		<credit>30</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>10</group>
+		<label>Factor the following.  You will earn 5 points for each polynomial that is factored correctly.  Please label your individual answers with a – f.
+&lt;br&gt;
+&lt;br&gt;a.) 36x&lt;sup&gt;2&lt;/sup&gt; - 49y&lt;sup&gt;2&lt;/sup&gt;
+&lt;br&gt;
+&lt;br&gt;b.) 4xy&lt;sup&gt;2&lt;/sup&gt; - 7y
+&lt;br&gt;
+&lt;br&gt;c.) x&lt;sup&gt;2&lt;/sup&gt; - 5x – 24
+&lt;br&gt;
+&lt;br&gt;d.) 3x&lt;sup&gt;2&lt;/sup&gt; + 14x – 24
+&lt;br&gt;
+&lt;br&gt;e.) 8ax + 20a + 6bx + 15b
+&lt;br&gt;
+&lt;br&gt;f.) 3x&lt;sup&gt;3&lt;/sup&gt; + 18x&lt;sup&gt;2&lt;/sup&gt; - 48x</label>
+		<credit>30</credit>
+	</item>
+	<item>
+		<type>Matching</type>
+		<label></label>
+		<group>11</group>
+			<matchpair>
+				<term>Factor 2x&lt;sup&gt;2&lt;/sup&gt; - 8</term>
+				<definition>2(x + 2)(x - 2)</definition>
+				<credit>4</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 2x&lt;sup&gt;2&lt;/sup&gt; + 8x + 8</term>
+				<definition>2(x + 2)&lt;sup&gt;2&lt;/sup&gt;</definition>
+				<credit>4</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 2x&lt;sup&gt;2&lt;/sup&gt; + 8 </term>
+				<definition>2(x&lt;sup&gt;2&lt;/sup&gt; + 4)</definition>
+				<credit>4</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 2x&lt;sup&gt;2&lt;/sup&gt; + 12x + 16 </term>
+				<definition>2(x + 2)(x + 4)</definition>
+				<credit>4</credit>
+			</matchpair>
+			<matchpair>
+				<term>Factor 2x&lt;sup&gt;2&lt;/sup&gt; + 9x + 8</term>
+				<definition>prime</definition>
+				<credit>4</credit>
+			</matchpair>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>12 </group>
+		<label>  Has the polynomial below has been factored correctly and completely? Explain your answer.
+&lt;br&gt;x&lt;sup&gt;5&lt;/sup&gt; - 16x&lt;sup&gt;3&lt;/sup&gt; + 8x&lt;sup&gt;2&lt;/sup&gt;  - 128
+&lt;br&gt;x&lt;sup&gt;3&lt;/sup&gt;(x&lt;sup&gt;2&lt;/sup&gt;  - 16)  + 8(x&lt;sup&gt;2&lt;/sup&gt;  - 16)
+&lt;br&gt;(x&lt;sup&gt;2&lt;/sup&gt; -16)(x&lt;sup&gt;3&lt;/sup&gt; + 8)  
+&lt;br&gt;</label>
+		<credit>3</credit>
+	</item>
+</assessment>

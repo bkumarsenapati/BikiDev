@@ -1,0 +1,25 @@
+
+body	{ margin: 0px 0px 0px 0px; /*background-color: #541A0A;*/} 
+
+
+
+h1 { padding: 10px;  font-size:28px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; color: #FFFFFF; font-weight: bold; vertical-align: bottom; }
+
+
+
+.nav_table {width: 100%; height: 100%; border: 0px; border-collapse:collapse; }
+
+.main_table_left {width: 100%;  }
+
+.main_table_center {width: 100%; }
+
+.main_table_right {width: 100%;  }
+
+.left_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.left_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }
+
+.shome_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.shome_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }
+
+.right_button  { display: block; width: 114px; height: 39px; background: url("../images/home_grey.png") no-repeat 0 0;  }
+.right_button:hover { background: url("../images/home_orange.png") no-repeat 0 0;  }

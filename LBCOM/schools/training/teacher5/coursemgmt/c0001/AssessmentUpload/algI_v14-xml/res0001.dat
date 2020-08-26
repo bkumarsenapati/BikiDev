@@ -1,0 +1,2584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="01.00 Module One Pretest">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>25</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="15">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="16">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="17">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="18">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="19">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="20">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="21">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="22">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="23">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="24">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="25">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -7 - 10</label>
+			<choice>
+				<choicelabel>-17</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>17</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -7 - 8</label>
+			<choice>
+				<choicelabel>-1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-15</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -7 - 5</label>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -7 - 12</label>
+			<choice>
+				<choicelabel>19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-19</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -6 - (-2)</label>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -6 - (-4)</label>
+			<choice>
+				<choicelabel>-10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -6 - (-1)</label>
+			<choice>
+				<choicelabel>-7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -6 - (-3)</label>
+			<choice>
+				<choicelabel>18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -12 + 20</label>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>32</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -10 + 16</label>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>26</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -14 + 8</label>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>22</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>[1.01]&lt;br /&gt;&lt;br /&gt;Evaluate: -12 + 16</label>
+			<choice>
+				<choicelabel>28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 3&lt;sup&gt;2&lt;/sup&gt; + (5 - 2) santhosh 4 - &lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_13.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>19</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>46</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 3&lt;sup&gt;2&lt;/sup&gt; + (6 - 2) santhosh 4 - &lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_14.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>20</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>23</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>26</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 3&lt;sup&gt;2&lt;/sup&gt; + (7 - 2) santhosh 4 - &lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_15.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>54</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>27</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 3&lt;sup&gt;2&lt;/sup&gt; + (8 - 2) santhosh 4 - &lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_16.gif&quot; align=&quot;absmiddle&quot; alt=&quot;6 over 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>30</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>58</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>31</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 2 santhosh 4 - 8  2</label>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 3 santhosh 4 - 8  2</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 4 santhosh 4 - 8  2</label>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 5 santhosh 4 - 8  2</label>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 4 - 14  7 + 3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>11</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-61</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 4 - 28  7 + 3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>-9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 4 - 35  7 + 3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>-10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: 4 - 49  7 + 3&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>-12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: [(21 + 6) - 3&lt;sup&gt;2&lt;/sup&gt;]  9 santhosh 2</label>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>52</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: [(30 + 6) - 3&lt;sup&gt;2&lt;/sup&gt;] ----- 9 santhosh 2</label>
+			<choice>
+				<choicelabel>6.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1.5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>34</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: [(40 + 5) - 3&lt;sup&gt;2&lt;/sup&gt;] ----- 9 santhosh 2</label>
+			<choice>
+				<choicelabel>8.6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>43</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>[1.02]&lt;br /&gt;&lt;br /&gt;Evaluate: [(51 + 3) - 3&lt;sup&gt;2&lt;/sup&gt;] ----- 9 santhosh 2</label>
+			<choice>
+				<choicelabel>52</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>13.3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2.5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;2x - 6y + 2z - 5x - 3y + 8z</label>
+			<choice>
+				<choicelabel>-3x - 9y + 10z</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x + 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x + 9y - 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x - 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;x - 6y + 2z - 5x - 3y + 8z</label>
+			<choice>
+				<choicelabel>-4x + 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4x - 9y + 10z</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4x + 9y - 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x -9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;3x - 6y + 2z - 5x - 3y + 8z</label>
+			<choice>
+				<choicelabel>-2x + 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 9y - 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x - 9y + 10z</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x - 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;4x - 6y + 2z - 5x - 3y + 8z</label>
+			<choice>
+				<choicelabel>-x + 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-x + 9y - 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 9y + 10z</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-x - 9y + 10z</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;2x - 10y + 3x&lt;sup&gt;2&lt;/sup&gt; + 7y - 10x</label>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 8x - 3y</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 8x - 17y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; + 8x - 3y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 12x + 3y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;2x - 8y + 3x&lt;sup&gt;2&lt;/sup&gt; + 7y - 12x</label>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 14x - y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 10x - y</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 10x - 15y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; + 10x - y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;2x - 6y + 3x&lt;sup&gt;2&lt;/sup&gt; + 7y - 14x</label>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; + 12x + y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 12x - y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 12x + y</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 12x - 13y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>[1.03] Simplify the following expression.&lt;br /&gt;2x - 4y + 3x&lt;sup&gt;2&lt;/sup&gt; + 7y - 16x</label>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 14x - 3y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; + 14x + 3y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 18x + 3y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 14x + 3y</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y if x = -1 and y = -2</label>
+			<choice>
+				<choicelabel>0</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y if x = -1 and y = -3</label>
+			<choice>
+				<choicelabel>-10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y if x = -1 and y = -4</label>
+			<choice>
+				<choicelabel>-12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y if x = -1 and y = -5</label>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y - z, if x = 2, y = 3, and z = -4</label>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y - z, if x = 2, y = 3, and z = -6</label>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y - z, if x = 2, y = 3, and z = -8</label>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>22</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>[1.03] Evaluate the following expression using the values given.&lt;br /&gt;Find 4x - 2y - z, if x = 2, y = 3, and z = -10</label>
+			<choice>
+				<choicelabel>-8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>24</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>[1.03] x santhosh x santhosh x = ?</label>
+			<choice>
+				<choicelabel>x&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x(x + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>[1.03] x santhosh x = ?</label>
+			<choice>
+				<choicelabel>2x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x(x + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>[1.03] x santhosh x santhosh x santhosh x = ?</label>
+			<choice>
+				<choicelabel>4x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x(x + 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;4&lt;/sup&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>[1.03] x santhosh x santhosh x santhosh x santhosh x = ?</label>
+			<choice>
+				<choicelabel>5x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x(x + 5)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;5&lt;/sup&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>[1.03] Jon and Lexi are playing a marble game. According to their rules, 4 points are awarded for each red marble collected and 2 points are awarded for each blue marble collected. Which expression represents Jon&apos;s total score if he has &lt;i&gt;r&lt;/i&gt; red marbles and &lt;i&gt;b&lt;/i&gt; blue marbles?</label>
+			<choice>
+				<choicelabel>4r + 2b</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4r - 2b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2r - 4b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6rb</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>[1.03] Jon and Lexi are playing a marble game. According to their rules, 6 points are awarded for each red marble collected and 2 points are awarded for each blue marble collected. Which expression represents Jon&apos;s total score if he has &lt;i&gt;r&lt;/i&gt; red marbles and &lt;i&gt;b&lt;/i&gt; blue marbles?</label>
+			<choice>
+				<choicelabel>6r - 2b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6r + 2b</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6r - 4b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8rb</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>[1.03] Jon and Lexi are playing a marble game. According to their rules, 4 points are awarded for each red marble collected and 3 points are awarded for each blue marble collected. Which expression represents Jon&apos;s total score if he has &lt;i&gt;r&lt;/i&gt; red marbles and &lt;i&gt;b&lt;/i&gt; blue marbles?</label>
+			<choice>
+				<choicelabel>4r - 3b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2r - 3b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4r + 3b</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7rb</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.1"></standard>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>[1.03] Jon and Lexi are playing a marble game. According to their rules, 4 points are awarded for each red marble collected and 7 points are awarded for each blue marble collected. Which expression represents Jon&apos;s total score if he has &lt;i&gt;r&lt;/i&gt; red marbles and &lt;i&gt;b&lt;/i&gt; blue marbles?</label>
+			<choice>
+				<choicelabel>4r - 7b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2r - 7b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>11rb</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4r + 7b</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-6(2u - 1)</label>
+			<choice>
+				<choicelabel>-12u + 6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12u - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12u - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12u - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-3(2u - 1)</label>
+			<choice>
+				<choicelabel>-5u - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6u + 3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5u + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6u - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-4(2u - 1)</label>
+			<choice>
+				<choicelabel>8u + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8u - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8u + 4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8u - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-2(2u - 1)</label>
+			<choice>
+				<choicelabel>-4u - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4u + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4u - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4u + 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;5t - 6(1 + t)</label>
+			<choice>
+				<choicelabel>-t - 6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-t + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>t + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6t - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;5t - 3(1 + t)</label>
+			<choice>
+				<choicelabel>6t - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2t - 3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8t - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2t + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;5t - 8(1 + t)</label>
+			<choice>
+				<choicelabel>6t - 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>13t - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3t - 8</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3t + 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;5t - 2(1 + t)</label>
+			<choice>
+				<choicelabel>6t - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3t + 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3t + 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3t - 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-3(2d - 1) + 4d</label>
+			<choice>
+				<choicelabel>-2d + 3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2d - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10d - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10d + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-2(3d - 1) + 4d</label>
+			<choice>
+				<choicelabel>-2d - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2d + 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2d - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10d + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-4(3d - 1) + 4d</label>
+			<choice>
+				<choicelabel>-12d + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8d - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-8d + 4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16d + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;-2(5d - 1) + 4d</label>
+			<choice>
+				<choicelabel>-6d - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-10d + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14d + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6d + 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>[1.05] Identify which distributive property problem below would help you solve the following scenario: &lt;br /&gt; Your English class has 27 students. You would like to treat the class to cookies. You would like each person to have 3 cookies. Which expression would help you figure out how many cookies you would need to bake?</label>
+			<choice>
+				<choicelabel>3(20 + 7)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(27 + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(20 - 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(27 - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>[1.05] Identify which distributive property problem below would help you solve the following scenario:&lt;br /&gt; Your English class has 29 students. You would like to treat the class to cookies. You would like each person to have 3 cookies. Which expression would help you figure out how many cookies you would need to bake?</label>
+			<choice>
+				<choicelabel>3(29 + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(20 + 9)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(20 - 9)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(29 - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>[1.05] Identify which distributive property problem below would help you solve the following scenario:&lt;br /&gt; Your English class has 37 students. You would like to treat the class to cookies. You would like each person to have 3 cookies. Which expression would help you figure out how many cookies you would need to bake?</label>
+			<choice>
+				<choicelabel>3(37 + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(30 - 7)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(30 + 7)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(37 - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>[1.05] Identify which distributive property problem below would help you solve the following scenario:&lt;br /&gt; Your English class has 34 students. You would like to treat the class to cookies. You would like each person to have 3 cookies. Which expression would help you figure out how many cookies you would need to bake?</label>
+			<choice>
+				<choicelabel>3(34 + 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(20 - 4)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(34 - 3)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3(30 + 4)</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_68.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;(g - 12)</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_68a.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_68b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_68c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_68d.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_69.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;(g - 8)</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_69a.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g - 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_69b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g - 4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_69c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_69d.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g + 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_70.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;(g - 16)</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_70a.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 16</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_70b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_70c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_70d.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over four&quot; /&gt;g - 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_71.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;(g - 12)</label>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_71a.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g - 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_71b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_71c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_71d.gif&quot; align=&quot;absmiddle&quot; alt=&quot;one over two&quot; /&gt;g - 6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>19</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_72.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of negative 3 times x minus 9 all divided by negative 3&quot; /&gt;</label>
+			<choice>
+				<choicelabel>x + 3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>19</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_73.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of negative 2 times x minus 12 all divided by negative 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>x - 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 6</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>19</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_74.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of negative 4 times x minus 16 all divided by negative 4&quot; /&gt;</label>
+			<choice>
+				<choicelabel>x - 16</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4x + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 4</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>19</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_75.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of negative 5 times x minus 10 all divided by negative 5&quot; /&gt;</label>
+			<choice>
+				<choicelabel>x - 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 2</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>20</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_76.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of 12 times x minus 10 all divided by negative 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>-6x + 5</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6x - 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>20</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_77.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of 4 times x minus 10 all divided by negative 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>-2x - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 5</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>20</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_78.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of 6 times x minus 10 all divided by negative 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>-3x - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x + 5</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3x - 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<standard state="MA.912.A.3.2"></standard>
+		<type>Multiple Choice</type>
+		<group>20</group>
+			<label>[1.05] Use the distributive property to simplify the expression below:&lt;br /&gt;&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_79.gif&quot; align=&quot;absmiddle&quot; alt=&quot;The quantity of 8 times x minus 10 all divided by negative 2&quot; /&gt;</label>
+			<choice>
+				<choicelabel>-4x - 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x - 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4x + 5</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Tom&apos;s Tent Rental charges a flat rate of $100 per day plus $10 for each hour the tent is used. If the number of hours is represented by &quot;h&quot;, which algebraic expression represents the overall rate for the day using &quot;h&quot;?</label>
+			<choice>
+				<choicelabel>100 + 10h</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>100 + h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>90h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Skate station charges a flat rate of $5.00 per day for skate rental plus $2.00 per hour of skating. If the number of hours is represented by &quot;h&quot;, which algebraic expression represents the overall rate for &quot;h&quot; hours of skating?</label>
+			<choice>
+				<choicelabel>5h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 + 2h</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 + h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Fun world charges a flat rate of $10.00 per day for stroller rental plus $2.00 per hour the stroller is being used. If the number of hours is represented by &quot;h&quot;, which algebraic expression represents the overall rate for &quot;h&quot; hours of stroller rental?</label>
+			<choice>
+				<choicelabel>10h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 + h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10 + 2h</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Fran&apos;s mower rental charges a flat rate of $12.00 per day for mower rental plus $2.00 per hour the mower is being used. If the number of hours is represented by &quot;h&quot;, which algebraic expression represents the overall rate for &quot;h&quot; hours of mower rental?</label>
+			<choice>
+				<choicelabel>12h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12 + h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14h</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12 + 2h</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Jon decides to take his seven year old son to the movies. The price for the child&apos;s ticket is 3.75 dollars less than the price for the adult&apos;s ticket. If you represent the price for the child&apos;s ticket using the variable &quot;x&quot;, how would you write the algebraic expression for the adult&apos;s ticket price?</label>
+			<choice>
+				<choicelabel>x + 3.75</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3.75x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_85c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;x over 3.75&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;3.75&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Sarah decides to take her six year old son to the circus. The price for the child&apos;s ticket is 4.75 dollars less than the price for the adult&apos;s ticket. If you represent the price for the child&apos;s ticket using the variable &quot;x&quot;, how would you write the algebraic expression for the adult&apos;s ticket price?</label>
+			<choice>
+				<choicelabel>4.75x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 4.75</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_86c.gif&quot; align=&quot;absmiddle&quot; alt=&quot;x over 4.75&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;4.75&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Joe decides to take his six year old son to the planetarium. The price for the child&apos;s ticket is 5.75 dollars less than the price for the adult&apos;s ticket. If you represent the price for the child&apos;s ticket using the variable &quot;x&quot;, how would you write the algebraic expression for the adult&apos;s ticket price?</label>
+			<choice>
+				<choicelabel>5.75x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_87b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;x over 5.75&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 5.75</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;5.75&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Lacey decides to take her five year old son to the history museum. The price for the child&apos;s ticket is 2.75 dollars less than the price for the adult&apos;s ticket. If you represent the price for the child&apos;s ticket using the variable &quot;x&quot;, how would you write the algebraic expression for the adult&apos;s ticket price?</label>
+			<choice>
+				<choicelabel>2.75x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=&quot;/webdav/res0001/educator_algebra1_v14/01_00_88b.gif&quot; align=&quot;absmiddle&quot; alt=&quot;x over 2.75&quot; /&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;sup&gt;2.75&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 2.75</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>[1.06]&lt;br&gt; &lt;br&gt;Select the verbal phrase that corresponds with the given expression. &lt;br&gt; &lt;br&gt;5(x + y)</label>
+			<choice>
+				<choicelabel>Five times the quantity x plus y </choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The sum of x and y to the fifth power</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Five times x plus y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x plus five times y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>[1.06]&lt;br&gt; &lt;br&gt;Select the verbal phrase that corresponds with the given expression. &lt;br&gt; &lt;br&gt;5(x - y)</label>
+			<choice>
+				<choicelabel>The difference of x and y to the fifth power</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Five times the quantity y less than x </choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Five times x minus y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x minus five times y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>[1.06]&lt;br&gt; &lt;br&gt;Select the verbal phrase that corresponds with the given expression. &lt;br&gt; &lt;br&gt;(x - 3)&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>x minus 3 squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x less than 3 squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity 3 minus x squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The difference of x and 3 squared </choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>[1.06]&lt;br&gt; &lt;br&gt;Select the verbal phrase that corresponds with the given expression. &lt;br&gt; &lt;br&gt;(x - 4)&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>x minus 4 squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x less than 4 squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The difference of x and 4 squared </choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity 4 minus x squared</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>24</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Which phrase matches the algebraic expression below?&lt;br /&gt;2(x + 7) + 10</label>
+			<choice>
+				<choicelabel>Two times the sum of x and seven plus ten</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times the difference of x and seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times x minus seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times x plus the sum of seven and ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>24</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Which phrase matches the algebraic expression below?&lt;br /&gt;2(x - 7) + 10</label>
+			<choice>
+				<choicelabel>Two times the sum of x and seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times the difference of x and seven plus ten</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times x minus seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Two times x minus the sum of seven and ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>24</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Which phrase matches the algebraic expression below?&lt;br /&gt;3(x + 7) + 10</label>
+			<choice>
+				<choicelabel>Three times the difference of x and seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times x minus seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times the sum of x and seven plus ten</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times x plus the sum of seven and ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>24</group>
+			<label>[1.06]&lt;br /&gt;&lt;br /&gt;Which phrase matches the algebraic expression below?&lt;br /&gt;3(x - 7) + 10</label>
+			<choice>
+				<choicelabel>Three times the sum of x and seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times x minus seven plus ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times x minus the sum of seven and ten</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Three times the difference of x and seven plus ten</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>25</group>
+		<label>[1.06]&lt;br /&gt;&lt;br /&gt;Peter&apos;s age can be described as 2 more than 3 times his son&apos;s age. If his son&apos;s age is represented by the variable &quot;s&quot;, write the algebraic expression representing Peter&apos;s age using &quot;s&quot;.</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>25</group>
+		<label>[1.06]&lt;br /&gt;&lt;br /&gt;Nathan&apos;s age can be described as 5 more than 3 times his son&apos;s age. If his son&apos;s age is represented by the variable &quot;s&quot;, write the algebraic expression representing Nathan&apos;s age using &quot;s&quot;.</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>25</group>
+		<label>[1.06]&lt;br /&gt;&lt;br /&gt;Seth&apos;s age can be described as 4 less than 2 times his cousin&apos;s age. If his cousin&apos;s age is represented by the variable &quot;m&quot;, write the algebraic expression representing Seth&apos;s age using &quot;m&quot;.</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>25</group>
+		<label>[1.06]&lt;br /&gt;&lt;br /&gt;Ryan&apos;s age can be described as 5 less than 2 times his cousin&apos;s age. If his cousin&apos;s age is represented by the variable &quot;m&quot;, write the algebraic expression representing Ryan&apos;s age using &quot;m&quot;.</label>
+		<credit>4</credit>
+	</item>
+</assessment>

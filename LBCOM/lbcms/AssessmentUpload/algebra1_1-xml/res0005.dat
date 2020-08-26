@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="02.03 Charts">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0005/educator_alg1_v5/203_01.gif&gt;
+This stem and leaf plot shows your math test scores out of 50 points.  Use this plot to answer this question. 
+
+The lowest score you earned is:</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>35</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>38</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0005/educator_alg1_v5/203_01.gif&gt;
+This stem and leaf plot shows your math test scores out of 50 points.  Use this plot to answer this question. 
+
+The highest score you earned is:</label>
+			<choice>
+				<choicelabel>5000</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>500</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0005/educator_alg1_v5/203_01.gif&gt;
+This stem and leaf plot shows your math test scores out of 50 points.  Use this plot to answer this question. 
+
+The mode of your scores is:</label>
+			<choice>
+				<choicelabel>35</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>42</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>45</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0005/educator_alg1_v5/203_01.gif&gt;
+This stem and leaf plot shows your math test scores out of 50 points.  Use this plot to answer this question. 
+
+The median of your test scores is:</label>
+			<choice>
+				<choicelabel>44</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>44.5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>45</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>50</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0005/educator_alg1_v5/203_01.gif&gt;
+This stem and leaf plot shows your math test scores out of 50 points.  Use this plot to answer this question. 
+
+
+
+The mean (or average) of your test scores is:</label>
+			<choice>
+				<choicelabel>661</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>15</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>44.06</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>4.40</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>A pizza shop offers NY style pizza and Chicago Style pizza.  They also offer vegetable toppings of olives, peppers, and anchovies.  To finish your potential upset stomach, you can also have two cheese choices, Mozzarella or Monterey Jack.
+
+&lt;img src=/webdav/res0005/educator_alg1_v5/203_02.gif&gt;
+
+
+
+How many different combinations of pizza can this shop make?  </label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>A pizza shop offers NY style pizza and Chicago Style pizza.  They also offer vegetable toppings of olives, peppers, and anchovies.  To finish your potential upset stomach, you can also have two cheese choices, Mozzarella or Monterey Jack.
+
+&lt;img src=/webdav/res0005/educator_alg1_v5/203_02.gif&gt;
+
+
+
+Explain the reasoning behind how you arrived at your answer to the previous question.  Use the tree diagram to help you if necessary.</label>
+		<credit>3</credit>
+	</item>
+</assessment>

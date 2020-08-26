@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.11 Discussion Based Assessment">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<standard state=""></standard>
+		<label>Submit your completed assignment following the instructions in the lesson.</label>
+		<credit>25</credit>
+	</item>
+</assessment>

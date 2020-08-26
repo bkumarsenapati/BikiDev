@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.09 Variation">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>If y varies directly as x, and y = 16 when x = 20. 
+
+Find y when x = 5.</label>
+			<choice>
+				<choicelabel>A.) 3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 4</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 6</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A Go-ped traveled 9 miles in  24 minutes.
+
+How long would it take to go 27 miles?</label>
+			<choice>
+				<choicelabel>A.) 1 hour, 6 minutes</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 1 hour, 12 minutes</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 1 hour, 26 minutes</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 1 hour</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Write the number answer in the blank. Do not include the word inches or any form of that word. For example, if your answer is 65 inches, just type 65 in the blank.
+
+Be sure to change the &quot;6 foot deep&quot; measurement to inches before you begin to solve the proportion. There are 12 inches in a foot.
+
+The depth of a pool varies directly with how many gallons of water it will hold.  If a 6 foot deep pool holds 10,000 gallons of water, a pool that holds 12,500 gallons of water should be __________inches deep, according to this theory.</label>
+			<blank>
+				<accepted>90</accepted>
+				<credit>1.0</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Solve for x
+
+&lt;img src=/webdav/res0036/educator_algebra1/pictures/M4images/04.07variation.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) 12</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 14</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 18</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 22</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>3/5 = 36/60</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>1.0</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

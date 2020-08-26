@@ -1,0 +1,1484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest identifier="man00001" xmlns:uc="http://www.ucompass.com/content-packaging/">
+	<organizations default="toc00001">
+		<organization identifier="toc00001">
+			<item identifier="itm0001" identifierref="res0001">
+				<title>01.05 Submitting</title>
+			</item>
+			<item identifier="itm0002" identifierref="res0002">
+				<title>01.07 Summary</title>
+			</item>
+			<item identifier="itm0003" identifierref="res0003">
+				<title>01.08 Diagnostic</title>
+			</item>
+			<item identifier="itm0004" identifierref="res0004">
+				<title>01.09 Module 1 Survey</title>
+			</item>
+			<item identifier="itm0005" identifierref="res0005">
+				<title>02.03 Charts</title>
+			</item>
+			<item identifier="itm0006" identifierref="res0006">
+				<title>02.04 Problem Solving Assignment</title>
+			</item>
+			<item identifier="itm0007" identifierref="res0007">
+				<title>02.05 Lab</title>
+			</item>
+			<item identifier="itm0008" identifierref="res0008">
+				<title>02.07 Test</title>
+			</item>
+			<item identifier="itm0009" identifierref="res0009">
+				<title>02.08 Module 2 Survey</title>
+			</item>
+			<item identifier="itm0010" identifierref="res0010">
+				<title>03.00 Module 3 Pretest </title>
+			</item>
+			<item identifier="itm0011" identifierref="res0011">
+				<title>03.01 Number System Relationships</title>
+			</item>
+			<item identifier="itm0012" identifierref="res0012">
+				<title>03.01H Honors Number Systems</title>
+			</item>
+			<item identifier="itm0013" identifierref="res0013">
+				<title>03.02 Integers</title>
+			</item>
+			<item identifier="itm0014" identifierref="res0014">
+				<title>03.03 PEMDAS</title>
+			</item>
+			<item identifier="itm0015" identifierref="res0015">
+				<title>03.04 Quiz 1</title>
+			</item>
+			<item identifier="itm0016" identifierref="res0016">
+				<title>03.05 Absolute Value</title>
+			</item>
+			<item identifier="itm0017" identifierref="res0017">
+				<title>03.06 Exponents</title>
+			</item>
+			<item identifier="itm0018" identifierref="res0018">
+				<title>03.07 Evaluating Expressions</title>
+			</item>
+			<item identifier="itm0019" identifierref="res0019">
+				<title>03.08 Connections</title>
+			</item>
+			<item identifier="itm0020" identifierref="res0020">
+				<title>03.09 Quiz 2</title>
+			</item>
+			<item identifier="itm0021" identifierref="res0021">
+				<title>03.10 Lab</title>
+			</item>
+			<item identifier="itm0022" identifierref="res0022">
+				<title>03.11 Practice Test</title>
+			</item>
+			<item identifier="itm0023" identifierref="res0023">
+				<title>03.12 Test</title>
+			</item>
+			<item identifier="itm0024" identifierref="res0024">
+				<title>03.12H Honors Test</title>
+			</item>
+			<item identifier="itm0025" identifierref="res0025">
+				<title>03.13 Module 3 Survey</title>
+			</item>
+			<item identifier="itm0026" identifierref="res0026">
+				<title>04.00 Module 4 Pretest</title>
+			</item>
+			<item identifier="itm0027" identifierref="res0027">
+				<title>04.01 Rules</title>
+			</item>
+			<item identifier="itm0028" identifierref="res0028">
+				<title>04.01H Honors</title>
+			</item>
+			<item identifier="itm0029" identifierref="res0029">
+				<title>04.02 Simplify</title>
+			</item>
+			<item identifier="itm0030" identifierref="res0030">
+				<title>04.03 Solving Equations</title>
+			</item>
+			<item identifier="itm0031" identifierref="res0031">
+				<title>04.04 Advanced Equations</title>
+			</item>
+			<item identifier="itm0032" identifierref="res0032">
+				<title>04.05 Solving Equations with Fractions</title>
+			</item>
+			<item identifier="itm0033" identifierref="res0033">
+				<title>04.06 Quiz 1</title>
+			</item>
+			<item identifier="itm0034" identifierref="res0034">
+				<title>04.07 Absolute Value</title>
+			</item>
+			<item identifier="itm0035" identifierref="res0035">
+				<title>04.08 Literal</title>
+			</item>
+			<item identifier="itm0036" identifierref="res0036">
+				<title>04.09 Variation</title>
+			</item>
+			<item identifier="itm0037" identifierref="res0037">
+				<title>04.10 Quiz 2</title>
+			</item>
+			<item identifier="itm0038" identifierref="res0038">
+				<title>04.11 Functions</title>
+			</item>
+			<item identifier="itm0039" identifierref="res0039">
+				<title>04.12 Functional Notation</title>
+			</item>
+			<item identifier="itm0040" identifierref="res0040">
+				<title>04.12H HONORS Functional Notation</title>
+			</item>
+			<item identifier="itm0041" identifierref="res0041">
+				<title>04.13H Honors</title>
+			</item>
+			<item identifier="itm0042" identifierref="res0042">
+				<title>04.14 Lab</title>
+			</item>
+			<item identifier="itm0043" identifierref="res0043">
+				<title>04.15 Quiz 3</title>
+			</item>
+			<item identifier="itm0044" identifierref="res0044">
+				<title>04.16 Problems</title>
+			</item>
+			<item identifier="itm0045" identifierref="res0045">
+				<title>04.17 Practice Test</title>
+			</item>
+			<item identifier="itm0046" identifierref="res0046">
+				<title>04.18 Oral Assessment</title>
+			</item>
+			<item identifier="itm0047" identifierref="res0047">
+				<title>04.19 Test</title>
+			</item>
+			<item identifier="itm0048" identifierref="res0048">
+				<title>04.19H Honors Test</title>
+			</item>
+			<item identifier="itm0049" identifierref="res0049">
+				<title>04.20 Module 4 Survey</title>
+			</item>
+			<item identifier="itm0050" identifierref="res0050">
+				<title>05.00 Module 5 Pretest</title>
+			</item>
+			<item identifier="itm0051" identifierref="res0051">
+				<title>05.01 Linear Equations</title>
+			</item>
+			<item identifier="itm0052" identifierref="res0052">
+				<title>05.02 Slope and Intercepts</title>
+			</item>
+			<item identifier="itm0053" identifierref="res0053">
+				<title>05.03 Advanced Slope</title>
+			</item>
+			<item identifier="itm0054" identifierref="res0054">
+				<title>05.05 Quiz 1</title>
+			</item>
+			<item identifier="itm0055" identifierref="res0055">
+				<title>05.06 Writing Equations of Lines</title>
+			</item>
+			<item identifier="itm0056" identifierref="res0056">
+				<title>05.07 Graphing Linear Equations</title>
+			</item>
+			<item identifier="itm0057" identifierref="res0057">
+				<title>05.09 Quiz 2</title>
+			</item>
+			<item identifier="itm0058" identifierref="res0058">
+				<title>05.10 Lab</title>
+			</item>
+			<item identifier="itm0059" identifierref="res0059">
+				<title>05.11 Solving Systems of Equations</title>
+			</item>
+			<item identifier="itm0060" identifierref="res0060">
+				<title>05.12 Systems of Equations - Part Two</title>
+			</item>
+			<item identifier="itm0061" identifierref="res0061">
+				<title>05.13 Substitution Method</title>
+			</item>
+			<item identifier="itm0062" identifierref="res0062">
+				<title>05.14 HONORS Word Problems</title>
+			</item>
+			<item identifier="itm0063" identifierref="res0063">
+				<title>05.15 Field Trip</title>
+			</item>
+			<item identifier="itm0064" identifierref="res0064">
+				<title>05.16 Practice  Test</title>
+			</item>
+			<item identifier="itm0065" identifierref="res0065">
+				<title>05.17 Oral Assessment</title>
+			</item>
+			<item identifier="itm0066" identifierref="res0066">
+				<title>05.18 Test</title>
+			</item>
+			<item identifier="itm0067" identifierref="res0067">
+				<title>05.18H HONORS Test</title>
+			</item>
+			<item identifier="itm0068" identifierref="res0068">
+				<title>05.19 Module 5 Survey</title>
+			</item>
+			<item identifier="itm0069" identifierref="res0069">
+				<title>05.20 Semester 1 Exam</title>
+			</item>
+			<item identifier="itm0070" identifierref="res0070">
+				<title>05.20H Honors Semester Exam</title>
+			</item>
+			<item identifier="itm0071" identifierref="res0071">
+				<title>06.00 Module 6 Pretest</title>
+			</item>
+			<item identifier="itm0072" identifierref="res0072">
+				<title>06.01 Add Polys</title>
+			</item>
+			<item identifier="itm0073" identifierref="res0073">
+				<title>06.02 Multiplication and Division of Polys</title>
+			</item>
+			<item identifier="itm0074" identifierref="res0074">
+				<title>06.03 Powers</title>
+			</item>
+			<item identifier="itm0075" identifierref="res0075">
+				<title>06.04 FOIL Assignment</title>
+			</item>
+			<item identifier="itm0076" identifierref="res0076">
+				<title>06.05 Quiz 1</title>
+			</item>
+			<item identifier="itm0077" identifierref="res0077">
+				<title>06.06 Roots</title>
+			</item>
+			<item identifier="itm0078" identifierref="res0078">
+				<title>06.07 Multiplying and Dividing Roots</title>
+			</item>
+			<item identifier="itm0079" identifierref="res0079">
+				<title>06.08 Quiz 2</title>
+			</item>
+			<item identifier="itm0080" identifierref="res0080">
+				<title>06.10 Pythagorean Theorem</title>
+			</item>
+			<item identifier="itm0081" identifierref="res0081">
+				<title>06.11 Quiz 3</title>
+			</item>
+			<item identifier="itm0082" identifierref="res0082">
+				<title>06.12 Lab</title>
+			</item>
+			<item identifier="itm0083" identifierref="res0083">
+				<title>06.13 Practice Test</title>
+			</item>
+			<item identifier="itm0084" identifierref="res0084">
+				<title>06.14 Test</title>
+			</item>
+			<item identifier="itm0085" identifierref="res0085">
+				<title>06.15 Module 6 Survey</title>
+			</item>
+			<item identifier="itm0086" identifierref="res0086">
+				<title>07.00 Module 7 Pretest</title>
+			</item>
+			<item identifier="itm0087" identifierref="res0087">
+				<title>07.01 GCF</title>
+			</item>
+			<item identifier="itm0088" identifierref="res0088">
+				<title>07.02 Difference of Squares</title>
+			</item>
+			<item identifier="itm0089" identifierref="res0089">
+				<title>07.03 Factoring by Grouping</title>
+			</item>
+			<item identifier="itm0090" identifierref="res0090">
+				<title>07.04 Trinomials</title>
+			</item>
+			<item identifier="itm0091" identifierref="res0091">
+				<title>07.05 Quiz</title>
+			</item>
+			<item identifier="itm0092" identifierref="res0092">
+				<title>07.06 Trinomials Part 2</title>
+			</item>
+			<item identifier="itm0093" identifierref="res0093">
+				<title>07.07 Factoring Completely</title>
+			</item>
+			<item identifier="itm0094" identifierref="res0094">
+				<title>07.08 Solving by Factoring</title>
+			</item>
+			<item identifier="itm0095" identifierref="res0095">
+				<title>07.09 Quadratic Formula</title>
+			</item>
+			<item identifier="itm0096" identifierref="res0096">
+				<title>07.10 HONORS Lab</title>
+			</item>
+			<item identifier="itm0097" identifierref="res0097">
+				<title>07.12 Practice Test</title>
+			</item>
+			<item identifier="itm0098" identifierref="res0098">
+				<title>07.13 Oral Assessment</title>
+			</item>
+			<item identifier="itm0099" identifierref="res0099">
+				<title>07.14 Module 7 Test </title>
+			</item>
+			<item identifier="itm0100" identifierref="res0100">
+				<title>07.15 Module 7 Survey</title>
+			</item>
+			<item identifier="itm0101" identifierref="res0101">
+				<title>08.00 Module 8 Pretest</title>
+			</item>
+			<item identifier="itm0102" identifierref="res0102">
+				<title>08.01 Simplifying Rational Expressions</title>
+			</item>
+			<item identifier="itm0103" identifierref="res0103">
+				<title>08.02 Multiplying and Dividng Rational Expressions</title>
+			</item>
+			<item identifier="itm0104" identifierref="res0104">
+				<title>08.03 Quiz 1</title>
+			</item>
+			<item identifier="itm0105" identifierref="res0105">
+				<title>08.04 Adding and Subtracting Rational Expressions</title>
+			</item>
+			<item identifier="itm0106" identifierref="res0106">
+				<title>08.05 HONORS</title>
+			</item>
+			<item identifier="itm0107" identifierref="res0107">
+				<title>08.06 Solving Equations with Rational Expressions</title>
+			</item>
+			<item identifier="itm0108" identifierref="res0108">
+				<title>08.07 HONORS Part 2</title>
+			</item>
+			<item identifier="itm0109" identifierref="res0109">
+				<title>08.08 Quiz 2</title>
+			</item>
+			<item identifier="itm0110" identifierref="res0110">
+				<title>08.09 Lab</title>
+			</item>
+			<item identifier="itm0111" identifierref="res0111">
+				<title>08.09D Lab Discussion</title>
+			</item>
+			<item identifier="itm0112" identifierref="res0112">
+				<title>08.10 Field Trip</title>
+			</item>
+			<item identifier="itm0113" identifierref="res0113">
+				<title>08.11 Practice Test</title>
+			</item>
+			<item identifier="itm0114" identifierref="res0114">
+				<title>08.12 Test</title>
+			</item>
+			<item identifier="itm0115" identifierref="res0115">
+				<title>08.13 Module 8 Survey</title>
+			</item>
+			<item identifier="itm0116" identifierref="res0116">
+				<title>09.00 Module 9 Pretest</title>
+			</item>
+			<item identifier="itm0117" identifierref="res0117">
+				<title>09.01 Lab</title>
+			</item>
+			<item identifier="itm0118" identifierref="res0118">
+				<title>09.02 Inequalities</title>
+			</item>
+			<item identifier="itm0119" identifierref="res0119">
+				<title>09.03 Graphing</title>
+			</item>
+			<item identifier="itm0120" identifierref="res0120">
+				<title>09.04 HONORS Graphing</title>
+			</item>
+			<item identifier="itm0121" identifierref="res0121">
+				<title>09.05 Quiz 1</title>
+			</item>
+			<item identifier="itm0122" identifierref="res0122">
+				<title>09.07 Systems</title>
+			</item>
+			<item identifier="itm0123" identifierref="res0123">
+				<title>09.08 HONORS Problems</title>
+			</item>
+			<item identifier="itm0124" identifierref="res0124">
+				<title>09.09 Thinking Discussion</title>
+			</item>
+			<item identifier="itm0125" identifierref="res0125">
+				<title>09.10 Practice Test</title>
+			</item>
+			<item identifier="itm0126" identifierref="res0126">
+				<title>09.11 Oral Assessment</title>
+			</item>
+			<item identifier="itm0127" identifierref="res0127">
+				<title>09.12 Test</title>
+			</item>
+			<item identifier="itm0128" identifierref="res0128">
+				<title>09.13 Module 9 Survey</title>
+			</item>
+			<item identifier="itm0129" identifierref="res0129">
+				<title>10.01 Review Part 1</title>
+			</item>
+			<item identifier="itm0130" identifierref="res0130">
+				<title>10.02 Review Part 2</title>
+			</item>
+			<item identifier="itm0131" identifierref="res0131">
+				<title>10.03 Review Part 3</title>
+			</item>
+			<item identifier="itm0132" identifierref="res0132">
+				<title>10.04 Semester Exam</title>
+			</item>
+			<item identifier="itm0133" identifierref="res0133">
+				<title>10.05 Final Exam A</title>
+			</item>
+		</organization>
+	</organizations>
+<resources>
+	<resource uc:file="res0001.dat" uc:title="01.05 Submitting" identifier="res0001" type="assessment/x-uc-qti-pool" xml:base="res0001">
+	</resource>
+	<resource uc:file="res0002.dat" uc:title="01.07 Summary" identifier="res0002" type="assessment/x-uc-qti-pool" xml:base="res0002">
+	</resource>
+	<resource uc:file="res0003.dat" uc:title="01.08 Diagnostic" identifier="res0003" type="assessment/x-uc-qti-pool" xml:base="res0003">
+		<file href="01.07_02.gif"/>
+		<file href="01.07_03.gif"/>
+		<file href="01.07_04.gif"/>
+		<file href="01.07_05.gif"/>
+		<file href="01.07_06.gif"/>
+		<file href="01.07_07.gif"/>
+		<file href="01.07_12.gif"/>
+		<file href="01.07_13.gif"/>
+	</resource>
+	<resource uc:file="res0004.dat" uc:title="01.09 Module 1 Survey" identifier="res0004" type="assessment/x-uc-qti-pool" xml:base="res0004">
+	</resource>
+	<resource uc:file="res0005.dat" uc:title="02.03 Charts" identifier="res0005" type="assessment/x-uc-qti-pool" xml:base="res0005">
+		<file href="203_01.gif"/>
+		<file href="203_01.gif"/>
+		<file href="203_01.gif"/>
+		<file href="203_01.gif"/>
+		<file href="203_01.gif"/>
+		<file href="203_02.gif"/>
+		<file href="203_02.gif"/>
+	</resource>
+	<resource uc:file="res0006.dat" uc:title="02.04 Problem Solving Assignment" identifier="res0006" type="assessment/x-uc-qti-pool" xml:base="res0006">
+		<file href="205_01.gif"/>
+		<file href="205_01.gif"/>
+		<file href="205_01.gif"/>
+		<file href="205_01.gif"/>
+		<file href="205_02.gif"/>
+		<file href="205_03.gif"/>
+		<file href="205_02.gif"/>
+		<file href="205_03.gif"/>
+		<file href="205_02.gif"/>
+		<file href="205_03.gif"/>
+	</resource>
+	<resource uc:file="res0007.dat" uc:title="02.05 Lab" identifier="res0007" type="assessment/x-uc-qti-pool" xml:base="res0007">
+	</resource>
+	<resource uc:file="res0008.dat" uc:title="02.07 Test" identifier="res0008" type="assessment/x-uc-qti-pool" xml:base="res0008">
+		<file href="M2FAq_2.gif"/>
+		<file href="M2FAq_4.gif"/>
+		<file href="M2FAq_7.gif"/>
+		<file href="M2FAq_8b.gif"/>
+		<file href="M2FAq_8a.gif"/>
+		<file href="M2FAq_3.gif"/>
+		<file href="M2FAq_5.gif"/>
+		<file href="M2FAq_10.gif"/>
+	</resource>
+	<resource uc:file="res0009.dat" uc:title="02.08 Module 2 Survey" identifier="res0009" type="assessment/x-uc-qti-pool" xml:base="res0009">
+	</resource>
+	<resource uc:file="res0010.dat" uc:title="03.00 Module 3 Pretest " identifier="res0010" type="assessment/x-uc-qti-pool" xml:base="res0010">
+		<file href="A1M3PT_2d.gif"/>
+		<file href="A1M3PT_2e.gif"/>
+		<file href="A1M3PT_2f.gif"/>
+		<file href="A1M3PT_10.gif"/>
+		<file href="A1M3PT_12.gif"/>
+		<file href="A1M3PT_13.gif"/>
+		<file href="A1M3PT_14.gif"/>
+		<file href="A1M3PT_15.gif"/>
+		<file href="A1M3PT_16.gif"/>
+		<file href="A1M3PT_17.gif"/>
+	</resource>
+	<resource uc:file="res0011.dat" uc:title="03.01 Number System Relationships" identifier="res0011" type="assessment/x-uc-qti-pool" xml:base="res0011">
+		<file href="M3A2_1.gif"/>
+		<file href="M3A2_2.gif"/>
+		<file href="M3A2_3.gif"/>
+	</resource>
+	<resource uc:file="res0012.dat" uc:title="03.01H Honors Number Systems" identifier="res0012" type="assessment/x-uc-qti-pool" xml:base="res0012">
+	</resource>
+	<resource uc:file="res0013.dat" uc:title="03.02 Integers" identifier="res0013" type="assessment/x-uc-qti-pool" xml:base="res0013">
+		<file href="M3A3_1.gif"/>
+	</resource>
+	<resource uc:file="res0014.dat" uc:title="03.03 PEMDAS" identifier="res0014" type="assessment/x-uc-qti-pool" xml:base="res0014">
+	</resource>
+	<resource uc:file="res0015.dat" uc:title="03.04 Quiz 1" identifier="res0015" type="assessment/x-uc-qti-pool" xml:base="res0015">
+		<file href="03_04_01_5.gif"/>
+		<file href="M3Q1_5.gif"/>
+		<file href="03_04_01_3.gif"/>
+		<file href="03_04_01_4.gif"/>
+		<file href="M3Q1_6.gif"/>
+		<file href="03_04_01_2.gif"/>
+		<file href="03_04_01_1.gif"/>
+		<file href="03_04_03.gif"/>
+		<file href="M3Q1_7.gif"/>
+		<file href="03_04_03_1.gif"/>
+		<file href="03_04_04.gif"/>
+		<file href="03_04_03_2.gif"/>
+		<file href="03_04_05.gif"/>
+		<file href="03_04_06.gif"/>
+		<file href="03_04_06_1.gif"/>
+		<file href="M3Q1_8.gif"/>
+		<file href="03_04_08.gif"/>
+		<file href="03_04_09.gif"/>
+		<file href="03_04_07.gif"/>
+		<file href="M3Q1_4.gif"/>
+		<file href="03_04_10.gif"/>
+		<file href="M3Q1_3.gif"/>
+	</resource>
+	<resource uc:file="res0016.dat" uc:title="03.05 Absolute Value" identifier="res0016" type="assessment/x-uc-qti-pool" xml:base="res0016">
+		<file href="3.06aevaluate.gif"/>
+	</resource>
+	<resource uc:file="res0017.dat" uc:title="03.06 Exponents" identifier="res0017" type="assessment/x-uc-qti-pool" xml:base="res0017">
+		<file href="3_07_13.gif"/>
+		<file href="3_07_14.gif"/>
+		<file href="3_07_15.gif"/>
+		<file href="3_07_16.gif"/>
+		<file href="3_07_17.gif"/>
+		<file href="3_07_18.gif"/>
+		<file href="3_07_19.gif"/>
+		<file href="3_07_20.gif"/>
+	</resource>
+	<resource uc:file="res0018.dat" uc:title="03.07 Evaluating Expressions" identifier="res0018" type="assessment/x-uc-qti-pool" xml:base="res0018">
+	</resource>
+	<resource uc:file="res0019.dat" uc:title="03.08 Connections" identifier="res0019" type="assessment/x-uc-qti-pool" xml:base="res0019">
+	</resource>
+	<resource uc:file="res0020.dat" uc:title="03.09 Quiz 2" identifier="res0020" type="assessment/x-uc-qti-pool" xml:base="res0020">
+		<file href="M3Q2_8.gif"/>
+		<file href="03_07_01.gif"/>
+		<file href="A1M3Q2_9.gif"/>
+		<file href="03_07_02.gif"/>
+		<file href="03_07_03.gif"/>
+		<file href="03_07_04.gif"/>
+		<file href="A1M3Q2_10.gif"/>
+		<file href="03_07_05.gif"/>
+		<file href="A1M3Q2_11.gif"/>
+	</resource>
+	<resource uc:file="res0021.dat" uc:title="03.10 Lab" identifier="res0021" type="assessment/x-uc-qti-pool" xml:base="res0021">
+	</resource>
+	<resource uc:file="res0022.dat" uc:title="03.11 Practice Test" identifier="res0022" type="assessment/x-uc-qti-pool" xml:base="res0022">
+		<file href="M3examq_1.gif"/>
+		<file href="M3examq_2.gif"/>
+		<file href="03_10p_01.gif"/>
+		<file href="03_10p_02.gif"/>
+		<file href="03_10p_03.gif"/>
+		<file href="M3examq_6.gif"/>
+		<file href="M3examq_11.gif"/>
+		<file href="M3examq_12.gif"/>
+		<file href="M3examq_13.gif"/>
+		<file href="03_10p_06.gif"/>
+		<file href="03_10p_07.gif"/>
+		<file href="03_10p_08.gif"/>
+		<file href="03_10p_05.gif"/>
+	</resource>
+	<resource uc:file="res0023.dat" uc:title="03.12 Test" identifier="res0023" type="assessment/x-uc-qti-pool" xml:base="res0023">
+		<file href="03_10t_01.gif"/>
+		<file href="03_10t_02.gif"/>
+		<file href="03_10t_03.gif"/>
+		<file href="03_10t_05.gif"/>
+		<file href="03_10t_04.gif"/>
+		<file href="03_10t_07.gif"/>
+		<file href="03_10t_06.gif"/>
+		<file href="03_10t_10.gif"/>
+		<file href="03_10t_08.gif"/>
+		<file href="03_10t_12.gif"/>
+		<file href="03_10t_11.gif"/>
+		<file href="03_10t_13.gif"/>
+		<file href="03_10t_16.gif"/>
+		<file href="03_10t_15.gif"/>
+		<file href="03_10t_18.gif"/>
+		<file href="03_10t_17.gif"/>
+		<file href="03_10t_19.gif"/>
+		<file href="03_10t_21.gif"/>
+		<file href="03_10t_20.gif"/>
+		<file href="03_10t_23.gif"/>
+		<file href="03_10t_22.gif"/>
+		<file href="03_10t_25.gif"/>
+		<file href="03_10t_24.gif"/>
+		<file href="03_10t_26.gif"/>
+		<file href="03_10t_27.gif"/>
+		<file href="03_10t_28.gif"/>
+		<file href="03_10t_29.gif"/>
+		<file href="03_10t_30.gif"/>
+		<file href="03_10t_33.gif"/>
+		<file href="03_10t_34.gif"/>
+		<file href="03_10t_39.gif"/>
+		<file href="03_10t_40.gif"/>
+	</resource>
+	<resource uc:file="res0024.dat" uc:title="03.12H Honors Test" identifier="res0024" type="assessment/x-uc-qti-pool" xml:base="res0024">
+		<file href="M3HA_1.gif"/>
+		<file href="M3HA_3.gif"/>
+		<file href="M3HA_2.gif"/>
+		<file href="M3HA_4.gif"/>
+		<file href="M3HA_5.gif"/>
+		<file href="M3HA_6.gif"/>
+		<file href="M3HA_7.gif"/>
+		<file href="M3HA_8.gif"/>
+	</resource>
+	<resource uc:file="res0025.dat" uc:title="03.13 Module 3 Survey" identifier="res0025" type="assessment/x-uc-qti-pool" xml:base="res0025">
+	</resource>
+	<resource uc:file="res0026.dat" uc:title="04.00 Module 4 Pretest" identifier="res0026" type="assessment/x-uc-qti-pool" xml:base="res0026">
+		<file href="A1M4PT_8.gif"/>
+		<file href="A1M4PT_14.gif"/>
+		<file href="A1M4PT_17.gif"/>
+		<file href="A1M4PT_20.gif"/>
+	</resource>
+	<resource uc:file="res0027.dat" uc:title="04.01 Rules" identifier="res0027" type="assessment/x-uc-qti-pool" xml:base="res0027">
+		<file href="A1M4A2_7.gif"/>
+		<file href="A1M4A2_8.gif"/>
+	</resource>
+	<resource uc:file="res0028.dat" uc:title="04.01H Honors" identifier="res0028" type="assessment/x-uc-qti-pool" xml:base="res0028">
+	</resource>
+	<resource uc:file="res0029.dat" uc:title="04.02 Simplify" identifier="res0029" type="assessment/x-uc-qti-pool" xml:base="res0029">
+	</resource>
+	<resource uc:file="res0030.dat" uc:title="04.03 Solving Equations" identifier="res0030" type="assessment/x-uc-qti-pool" xml:base="res0030">
+		<file href="04_03_05.gif"/>
+		<file href="04_03_06.gif"/>
+		<file href="04_03_10.gif"/>
+		<file href="04_03_11.gif"/>
+		<file href="04_03_18.gif"/>
+		<file href="M4A4E2_hint2.gif"/>
+		<file href="M4A4E2_hint.gif"/>
+		<file href="M4A4E2_9.gif"/>
+	</resource>
+	<resource uc:file="res0031.dat" uc:title="04.04 Advanced Equations" identifier="res0031" type="assessment/x-uc-qti-pool" xml:base="res0031">
+	</resource>
+	<resource uc:file="res0032.dat" uc:title="04.05 Solving Equations with Fractions" identifier="res0032" type="assessment/x-uc-qti-pool" xml:base="res0032">
+	</resource>
+	<resource uc:file="res0033.dat" uc:title="04.06 Quiz 1" identifier="res0033" type="assessment/x-uc-qti-pool" xml:base="res0033">
+		<file href="04_04_01.gif"/>
+		<file href="04_04_02.gif"/>
+	</resource>
+	<resource uc:file="res0034.dat" uc:title="04.07 Absolute Value" identifier="res0034" type="assessment/x-uc-qti-pool" xml:base="res0034">
+	</resource>
+	<resource uc:file="res0035.dat" uc:title="04.08 Literal" identifier="res0035" type="assessment/x-uc-qti-pool" xml:base="res0035">
+		<file href="04.06literal1.gif"/>
+		<file href="04.06literal1.gif"/>
+		<file href="04.06literal2.gif"/>
+		<file href="04.06literal2.gif"/>
+		<file href="04.06literal3.gif"/>
+	</resource>
+	<resource uc:file="res0036.dat" uc:title="04.09 Variation" identifier="res0036" type="assessment/x-uc-qti-pool" xml:base="res0036">
+		<file href="04.07variation.gif"/>
+	</resource>
+	<resource uc:file="res0037.dat" uc:title="04.10 Quiz 2" identifier="res0037" type="assessment/x-uc-qti-pool" xml:base="res0037">
+		<file href="04_q2_04.gif"/>
+	</resource>
+	<resource uc:file="res0038.dat" uc:title="04.11 Functions" identifier="res0038" type="assessment/x-uc-qti-pool" xml:base="res0038">
+	</resource>
+	<resource uc:file="res0039.dat" uc:title="04.12 Functional Notation" identifier="res0039" type="assessment/x-uc-qti-pool" xml:base="res0039">
+	</resource>
+	<resource uc:file="res0040.dat" uc:title="04.12H HONORS Functional Notation" identifier="res0040" type="assessment/x-uc-qti-pool" xml:base="res0040">
+	</resource>
+	<resource uc:file="res0041.dat" uc:title="04.13H Honors" identifier="res0041" type="assessment/x-uc-qti-pool" xml:base="res0041">
+	</resource>
+	<resource uc:file="res0042.dat" uc:title="04.14 Lab" identifier="res0042" type="assessment/x-uc-qti-pool" xml:base="res0042">
+	</resource>
+	<resource uc:file="res0043.dat" uc:title="04.15 Quiz 3" identifier="res0043" type="assessment/x-uc-qti-pool" xml:base="res0043">
+		<file href="A1M4Q3_3.gif"/>
+		<file href="A1M4Q3_3.gif"/>
+		<file href="A1M4Q4_4a.gif"/>
+		<file href="A1M4Q4_4a.gif"/>
+		<file href="A1M4Q4_4b.gif"/>
+		<file href="A1M4Q4_4b.gif"/>
+	</resource>
+	<resource uc:file="res0044.dat" uc:title="04.16 Problems" identifier="res0044" type="assessment/x-uc-qti-pool" xml:base="res0044">
+	</resource>
+	<resource uc:file="res0045.dat" uc:title="04.17 Practice Test" identifier="res0045" type="assessment/x-uc-qti-pool" xml:base="res0045">
+		<file href="4_8_Q.gif"/>
+		<file href="4_10_Q.gif"/>
+		<file href="4_19_Q.gif"/>
+		<file href="4_20_Q.gif"/>
+	</resource>
+	<resource uc:file="res0046.dat" uc:title="04.18 Oral Assessment" identifier="res0046" type="assessment/x-uc-qti-pool" xml:base="res0046">
+	</resource>
+	<resource uc:file="res0047.dat" uc:title="04.19 Test" identifier="res0047" type="assessment/x-uc-qti-pool" xml:base="res0047">
+		<file href="A1M4FA_2a.gif"/>
+		<file href="A1M4FA_2b.gif"/>
+		<file href="A1M4FA_2c.gif"/>
+		<file href="A1M4FA_2d.gif"/>
+		<file href="A1M4FA_6c.gif"/>
+		<file href="A1M4FA_8c.gif"/>
+		<file href="A1M4FA_21a.gif"/>
+		<file href="A1M4FA_21b.gif"/>
+		<file href="A1M4FA_21c.gif"/>
+		<file href="A1M4FA_21d.gif"/>
+		<file href="A1M4FA_22a.gif"/>
+		<file href="A1M4FA_22b.gif"/>
+		<file href="A1M4FA_22c.gif"/>
+		<file href="A1M4FA_22d.gif"/>
+		<file href="A1M4FA_26.gif"/>
+		<file href="A1M4FA_27.gif"/>
+	</resource>
+	<resource uc:file="res0048.dat" uc:title="04.19H Honors Test" identifier="res0048" type="assessment/x-uc-qti-pool" xml:base="res0048">
+		<file href="A1M4HA_5.gif"/>
+	</resource>
+	<resource uc:file="res0049.dat" uc:title="04.20 Module 4 Survey" identifier="res0049" type="assessment/x-uc-qti-pool" xml:base="res0049">
+	</resource>
+	<resource uc:file="res0050.dat" uc:title="05.00 Module 5 Pretest" identifier="res0050" type="assessment/x-uc-qti-pool" xml:base="res0050">
+	</resource>
+	<resource uc:file="res0051.dat" uc:title="05.01 Linear Equations" identifier="res0051" type="assessment/x-uc-qti-pool" xml:base="res0051">
+		<file href="0501_01a.gif"/>
+		<file href="0501_01b.gif"/>
+		<file href="0501_01c.gif"/>
+		<file href="0501_01d.gif"/>
+	</resource>
+	<resource uc:file="res0052.dat" uc:title="05.02 Slope and Intercepts" identifier="res0052" type="assessment/x-uc-qti-pool" xml:base="res0052">
+	</resource>
+	<resource uc:file="res0053.dat" uc:title="05.03 Advanced Slope" identifier="res0053" type="assessment/x-uc-qti-pool" xml:base="res0053">
+		<file href="50_03a.gif"/>
+		<file href="50_03b.gif"/>
+	</resource>
+	<resource uc:file="res0054.dat" uc:title="05.05 Quiz 1" identifier="res0054" type="assessment/x-uc-qti-pool" xml:base="res0054">
+		<file href="m5q1_3.gif"/>
+		<file href="m5q1_3b.gif"/>
+		<file href="m5q1_3c.gif"/>
+		<file href="m5q1_3d.gif"/>
+	</resource>
+	<resource uc:file="res0055.dat" uc:title="05.06 Writing Equations of Lines" identifier="res0055" type="assessment/x-uc-qti-pool" xml:base="res0055">
+	</resource>
+	<resource uc:file="res0056.dat" uc:title="05.07 Graphing Linear Equations" identifier="res0056" type="assessment/x-uc-qti-pool" xml:base="res0056">
+	</resource>
+	<resource uc:file="res0057.dat" uc:title="05.09 Quiz 2" identifier="res0057" type="assessment/x-uc-qti-pool" xml:base="res0057">
+	</resource>
+	<resource uc:file="res0058.dat" uc:title="05.10 Lab" identifier="res0058" type="assessment/x-uc-qti-pool" xml:base="res0058">
+	</resource>
+	<resource uc:file="res0059.dat" uc:title="05.11 Solving Systems of Equations" identifier="res0059" type="assessment/x-uc-qti-pool" xml:base="res0059">
+	</resource>
+	<resource uc:file="res0060.dat" uc:title="05.12 Systems of Equations - Part Two" identifier="res0060" type="assessment/x-uc-qti-pool" xml:base="res0060">
+	</resource>
+	<resource uc:file="res0061.dat" uc:title="05.13 Substitution Method" identifier="res0061" type="assessment/x-uc-qti-pool" xml:base="res0061">
+	</resource>
+	<resource uc:file="res0062.dat" uc:title="05.14 HONORS Word Problems" identifier="res0062" type="assessment/x-uc-qti-pool" xml:base="res0062">
+	</resource>
+	<resource uc:file="res0063.dat" uc:title="05.15 Field Trip" identifier="res0063" type="assessment/x-uc-qti-pool" xml:base="res0063">
+	</resource>
+	<resource uc:file="res0064.dat" uc:title="05.16 Practice  Test" identifier="res0064" type="assessment/x-uc-qti-pool" xml:base="res0064">
+	</resource>
+	<resource uc:file="res0065.dat" uc:title="05.17 Oral Assessment" identifier="res0065" type="assessment/x-uc-qti-pool" xml:base="res0065">
+	</resource>
+	<resource uc:file="res0066.dat" uc:title="05.18 Test" identifier="res0066" type="assessment/x-uc-qti-pool" xml:base="res0066">
+		<file href="M5FAQ2.gif"/>
+	</resource>
+	<resource uc:file="res0067.dat" uc:title="05.18H HONORS Test" identifier="res0067" type="assessment/x-uc-qti-pool" xml:base="res0067">
+		<file href="A1M5HA_2.gif"/>
+		<file href="A1M5HA_3.gif"/>
+		<file href="A1M5HA_4.gif"/>
+	</resource>
+	<resource uc:file="res0068.dat" uc:title="05.19 Module 5 Survey" identifier="res0068" type="assessment/x-uc-qti-pool" xml:base="res0068">
+	</resource>
+	<resource uc:file="res0069.dat" uc:title="05.20 Semester 1 Exam" identifier="res0069" type="assessment/x-uc-qti-pool" xml:base="res0069">
+		<file href="A1SE_2.gif"/>
+		<file href="A1SE_3.gif"/>
+		<file href="A1SE_7.gif"/>
+		<file href="A1SE_16.gif"/>
+		<file href="A1SE_17.gif"/>
+		<file href="A1SE_18.gif"/>
+		<file href="A1SE_19.gif"/>
+		<file href="A1SE_20.gif"/>
+		<file href="A1SE_32.gif"/>
+		<file href="A1SE_40a.gif"/>
+		<file href="A1SE_40b.gif"/>
+		<file href="A1SE_40c.gif"/>
+		<file href="A1SE_42.gif"/>
+	</resource>
+	<resource uc:file="res0070.dat" uc:title="05.20H Honors Semester Exam" identifier="res0070" type="assessment/x-uc-qti-pool" xml:base="res0070">
+		<file href="A1SEH_1.gif"/>
+		<file href="A1SEH_2.gif"/>
+		<file href="A1SEH_3.gif"/>
+		<file href="A1SEH_4.gif"/>
+	</resource>
+	<resource uc:file="res0071.dat" uc:title="06.00 Module 6 Pretest" identifier="res0071" type="assessment/x-uc-qti-pool" xml:base="res0071">
+		<file href="A1M6PT_2.gif"/>
+		<file href="A1M6PT_3.gif"/>
+		<file href="A1M6PT_4.gif"/>
+		<file href="A1M6PT_5.gif"/>
+		<file href="A1M6PT_5a.gif"/>
+		<file href="A1M6PT_5b.gif"/>
+		<file href="A1M6PT_5c.gif"/>
+		<file href="A1M6PT_5d.gif"/>
+		<file href="A1M6PT_6.gif"/>
+		<file href="A1M6PT_6a.gif"/>
+		<file href="A1M6PT_6b.gif"/>
+		<file href="A1M6PT_6c.gif"/>
+		<file href="A1M6PT_6d.gif"/>
+		<file href="A1M6PT_7.gif"/>
+		<file href="A1M6PT_7b.gif"/>
+		<file href="A1M6PT_7c.gif"/>
+		<file href="A1M6PT_7d.gif"/>
+		<file href="A1M6PT_8.gif"/>
+		<file href="A1M6PT_8a.gif"/>
+		<file href="A1M6PT_8b.gif"/>
+		<file href="A1M6PT_8c.gif"/>
+		<file href="A1M6PT_8d.gif"/>
+		<file href="A1M6PT_9.gif"/>
+		<file href="A1M6PT_9a.gif"/>
+		<file href="A1M6PT_9b.gif"/>
+		<file href="A1M6PT_9c.gif"/>
+		<file href="A1M6PT_9d.gif"/>
+		<file href="A1M6PT_10.gif"/>
+		<file href="A1M6PT_10a.gif"/>
+		<file href="A1M6PT_10b.gif"/>
+		<file href="A1M6PT_10c.gif"/>
+		<file href="A1M6PT_11.gif"/>
+		<file href="A1M6PT_15.gif"/>
+		<file href="A1M6PT_16.gif"/>
+		<file href="A1M6PT_17.gif"/>
+		<file href="A1M6PT_17a.gif"/>
+		<file href="A1M6PT_17b.gif"/>
+		<file href="A1M6PT_17c.gif"/>
+		<file href="A1M6PT_17d.gif"/>
+		<file href="A1M6PT_18.gif"/>
+		<file href="A1M6PT_18a.gif"/>
+		<file href="A1M6PT_18b.gif"/>
+		<file href="A1M6PT_18c.gif"/>
+		<file href="A1M6PT_18d.gif"/>
+		<file href="A1M6PT_20.gif"/>
+		<file href="A1M6PT_20a.gif"/>
+		<file href="A1M6PT_20b.gif"/>
+		<file href="A1M6PT_20c.gif"/>
+	</resource>
+	<resource uc:file="res0072.dat" uc:title="06.01 Add Polys" identifier="res0072" type="assessment/x-uc-qti-pool" xml:base="res0072">
+	</resource>
+	<resource uc:file="res0073.dat" uc:title="06.02 Multiplication and Division of Polys" identifier="res0073" type="assessment/x-uc-qti-pool" xml:base="res0073">
+		<file href="6_02_1.gif"/>
+		<file href="6_02_1a.gif"/>
+		<file href="6_02_2.gif"/>
+		<file href="6_02_2a.gif"/>
+		<file href="6_02_3.gif"/>
+		<file href="6_02_3a.gif"/>
+		<file href="6_02_4.gif"/>
+		<file href="6_02_4a.gif"/>
+		<file href="6_02_5.gif"/>
+		<file href="6_02_5a.gif"/>
+	</resource>
+	<resource uc:file="res0074.dat" uc:title="06.03 Powers" identifier="res0074" type="assessment/x-uc-qti-pool" xml:base="res0074">
+	</resource>
+	<resource uc:file="res0075.dat" uc:title="06.04 FOIL Assignment" identifier="res0075" type="assessment/x-uc-qti-pool" xml:base="res0075">
+	</resource>
+	<resource uc:file="res0076.dat" uc:title="06.05 Quiz 1" identifier="res0076" type="assessment/x-uc-qti-pool" xml:base="res0076">
+		<file href="A1M6Q1_1.gif"/>
+		<file href="A1M6Q1_2.gif"/>
+		<file href="A1M6Q1_3.gif"/>
+	</resource>
+	<resource uc:file="res0077.dat" uc:title="06.06 Roots" identifier="res0077" type="assessment/x-uc-qti-pool" xml:base="res0077">
+		<file href="0606_01.gif"/>
+		<file href="0606_02.gif"/>
+		<file href="0606_03.gif"/>
+		<file href="0606_04.gif"/>
+		<file href="0606_05.gif"/>
+	</resource>
+	<resource uc:file="res0078.dat" uc:title="06.07 Multiplying and Dividing Roots" identifier="res0078" type="assessment/x-uc-qti-pool" xml:base="res0078">
+		<file href="0707_01.gif"/>
+		<file href="0707_02.gif"/>
+		<file href="0707_03.gif"/>
+		<file href="0707_04.gif"/>
+		<file href="0707_05.gif"/>
+		<file href="0707_06.gif"/>
+		<file href="0707_07.gif"/>
+	</resource>
+	<resource uc:file="res0079.dat" uc:title="06.08 Quiz 2" identifier="res0079" type="assessment/x-uc-qti-pool" xml:base="res0079">
+		<file href="A1M6Q2_1.gif"/>
+		<file href="A1M6Q2_2.gif"/>
+		<file href="A1M6Q2_3.gif"/>
+		<file href="A1M6Q2_4.gif"/>
+		<file href="A1M6Q2_5.gif"/>
+		<file href="A1M6Q2_7.gif"/>
+		<file href="A1M6Q2_6.gif"/>
+		<file href="A1M6Q2_8.gif"/>
+		<file href="A1M6Q2_9.gif"/>
+		<file href="A1M6Q2_10.gif"/>
+		<file href="A1M6Q2_11.gif"/>
+	</resource>
+	<resource uc:file="res0080.dat" uc:title="06.10 Pythagorean Theorem" identifier="res0080" type="assessment/x-uc-qti-pool" xml:base="res0080">
+		<file href="M6A8_01.gif"/>
+		<file href="M6a8_04d.gif"/>
+		<file href="M6a8_05.gif"/>
+		<file href="M6a8_06.gif"/>
+		<file href="M6a8_08.gif"/>
+		<file href="M6a8_10.gif"/>
+	</resource>
+	<resource uc:file="res0081.dat" uc:title="06.11 Quiz 3" identifier="res0081" type="assessment/x-uc-qti-pool" xml:base="res0081">
+		<file href="A1M6Q3_1.gif"/>
+		<file href="A1M6Q3_4.gif"/>
+		<file href="A1M6Q3_4d.gif"/>
+		<file href="A1M6Q3_5.gif"/>
+		<file href="A1M6Q3_5a.gif"/>
+		<file href="A1M6Q3_5b.gif"/>
+		<file href="A1M6Q3_6.gif"/>
+		<file href="A1M6Q3_6a.gif"/>
+	</resource>
+	<resource uc:file="res0082.dat" uc:title="06.12 Lab" identifier="res0082" type="assessment/x-uc-qti-pool" xml:base="res0082">
+	</resource>
+	<resource uc:file="res0083.dat" uc:title="06.13 Practice Test" identifier="res0083" type="assessment/x-uc-qti-pool" xml:base="res0083">
+		<file href="06_13_01.gif"/>
+		<file href="06_13_01.gif"/>
+		<file href="06_13_01.gif"/>
+		<file href="6_16_Q.gif"/>
+		<file href="6_16_ansb.gif"/>
+		<file href="6_16_ansc.gif"/>
+		<file href="6_16_ansd.gif"/>
+		<file href="6_17_Q.gif"/>
+		<file href="6_17_ansa.gif"/>
+		<file href="6_17_ansb.gif"/>
+		<file href="6_17_ansc.gif"/>
+		<file href="6_17_ansd.gif"/>
+		<file href="06_13_18a.gif"/>
+		<file href="06_13_18b.gif"/>
+		<file href="06_13_18c.gif"/>
+		<file href="06_13_18d.gif"/>
+		<file href="6_19_Q.gif"/>
+		<file href="6_19_ansa.gif"/>
+		<file href="6_19_ansb.gif"/>
+		<file href="6_19_ansd.gif"/>
+		<file href="6_20_Q.gif"/>
+		<file href="6_20_ansa.gif"/>
+		<file href="6_20_ansb.gif"/>
+		<file href="6_20_ansc.gif"/>
+		<file href="6_20_ansd.gif"/>
+		<file href="6_21_Q.gif"/>
+		<file href="6_21_ansa.gif"/>
+		<file href="6_21_ansb.gif"/>
+		<file href="6_21_ansc.gif"/>
+		<file href="6_21_ansd.gif"/>
+		<file href="06_13_22a.gif"/>
+		<file href="06_13_22b.gif"/>
+		<file href="06_13_22c.gif"/>
+		<file href="06_13_22d.gif"/>
+		<file href="6_23_Q_1.gif"/>
+		<file href="6_24_Q.gif"/>
+		<file href="6_24_ansa.gif"/>
+		<file href="6_24_ansb.gif"/>
+		<file href="6_24_ansc.gif"/>
+		<file href="6_24_ansd.gif"/>
+		<file href="6_25_ansa.gif"/>
+		<file href="6_25_ansc.gif"/>
+		<file href="6_26_ansa.gif"/>
+		<file href="6_26_ansd.gif"/>
+	</resource>
+	<resource uc:file="res0084.dat" uc:title="06.14 Test" identifier="res0084" type="assessment/x-uc-qti-pool" xml:base="res0084">
+		<file href="06_15_01.gif"/>
+		<file href="M6FAq_7c.gif"/>
+		<file href="M6FAq_7d.gif"/>
+		<file href="M6FAq_8.gif"/>
+		<file href="M6FAq_9.gif"/>
+		<file href="M6FAq_10.gif"/>
+		<file href="M6FAq_11.gif"/>
+		<file href="M6FA_q12.gif"/>
+		<file href="M6FAq_13.gif"/>
+		<file href="M6FAq_14.gif"/>
+		<file href="M6FAq_15.gif"/>
+		<file href="M6FAq_16.gif"/>
+		<file href="M6FAq_16d.gif"/>
+		<file href="M6FAq_17.gif"/>
+		<file href="M6FAq_17a.gif"/>
+		<file href="M6FAq_17b.gif"/>
+		<file href="M6FAq_17c.gif"/>
+		<file href="M6FAq_17d.gif"/>
+		<file href="M6FAq_18.gif"/>
+		<file href="M6FAq_18a.gif"/>
+		<file href="M6FA_q18b.gif"/>
+		<file href="M6FA_q18c.gif"/>
+		<file href="M6FA_q18d.gif"/>
+		<file href="M6FAq_19.gif"/>
+		<file href="M6FAq_19b.gif"/>
+		<file href="M6FAq_19c.gif"/>
+		<file href="M6FAq_19d.gif"/>
+		<file href="M6FAq_20.gif"/>
+		<file href="M6FAq_20a.gif"/>
+		<file href="M6FAq_20b.gif"/>
+		<file href="M6FAq_20c.gif"/>
+		<file href="06_15_18a.gif"/>
+		<file href="06_15_18b.gif"/>
+		<file href="06_15_18c.gif"/>
+		<file href="06_15_18d.gif"/>
+		<file href="06_15_18e.gif"/>
+		<file href="M6FAq_23.gif"/>
+		<file href="06_15_21a.gif"/>
+		<file href="06_15_21b.gif"/>
+		<file href="06_15_21c.gif"/>
+		<file href="06_15_21d.gif"/>
+		<file href="06_15_22a.gif"/>
+		<file href="06_15_22b.gif"/>
+		<file href="06_15_22c.gif"/>
+		<file href="06_15_22d.gif"/>
+		<file href="M6FAq_26.gif"/>
+	</resource>
+	<resource uc:file="res0085.dat" uc:title="06.15 Module 6 Survey" identifier="res0085" type="assessment/x-uc-qti-pool" xml:base="res0085">
+	</resource>
+	<resource uc:file="res0086.dat" uc:title="07.00 Module 7 Pretest" identifier="res0086" type="assessment/x-uc-qti-pool" xml:base="res0086">
+		<file href="07_10_15a.gif"/>
+		<file href="07_10_15b.gif"/>
+		<file href="07_10_15c.gif"/>
+		<file href="07_10_16a.gif"/>
+		<file href="07_10_16b.gif"/>
+		<file href="07_10_16c.gif"/>
+	</resource>
+	<resource uc:file="res0087.dat" uc:title="07.01 GCF" identifier="res0087" type="assessment/x-uc-qti-pool" xml:base="res0087">
+	</resource>
+	<resource uc:file="res0088.dat" uc:title="07.02 Difference of Squares" identifier="res0088" type="assessment/x-uc-qti-pool" xml:base="res0088">
+	</resource>
+	<resource uc:file="res0089.dat" uc:title="07.03 Factoring by Grouping" identifier="res0089" type="assessment/x-uc-qti-pool" xml:base="res0089">
+	</resource>
+	<resource uc:file="res0090.dat" uc:title="07.04 Trinomials" identifier="res0090" type="assessment/x-uc-qti-pool" xml:base="res0090">
+	</resource>
+	<resource uc:file="res0091.dat" uc:title="07.05 Quiz" identifier="res0091" type="assessment/x-uc-qti-pool" xml:base="res0091">
+	</resource>
+	<resource uc:file="res0092.dat" uc:title="07.06 Trinomials Part 2" identifier="res0092" type="assessment/x-uc-qti-pool" xml:base="res0092">
+	</resource>
+	<resource uc:file="res0093.dat" uc:title="07.07 Factoring Completely" identifier="res0093" type="assessment/x-uc-qti-pool" xml:base="res0093">
+	</resource>
+	<resource uc:file="res0094.dat" uc:title="07.08 Solving by Factoring" identifier="res0094" type="assessment/x-uc-qti-pool" xml:base="res0094">
+	</resource>
+	<resource uc:file="res0095.dat" uc:title="07.09 Quadratic Formula" identifier="res0095" type="assessment/x-uc-qti-pool" xml:base="res0095">
+		<file href="07_09_01a.gif"/>
+		<file href="07_09_01b.gif"/>
+		<file href="07_09_01c.gif"/>
+		<file href="07_09_02a.gif"/>
+		<file href="07_09_02b.gif"/>
+		<file href="07_09_02c.gif"/>
+		<file href="07_09_03a.gif"/>
+		<file href="07_09_03b.gif"/>
+		<file href="07_09_03c.gif"/>
+	</resource>
+	<resource uc:file="res0096.dat" uc:title="07.10 HONORS Lab" identifier="res0096" type="assessment/x-uc-qti-pool" xml:base="res0096">
+	</resource>
+	<resource uc:file="res0097.dat" uc:title="07.12 Practice Test" identifier="res0097" type="assessment/x-uc-qti-pool" xml:base="res0097">
+		<file href="07_10_15a.gif"/>
+		<file href="07_10_15b.gif"/>
+		<file href="07_10_15c.gif"/>
+		<file href="07_10_16a.gif"/>
+		<file href="07_10_16b.gif"/>
+		<file href="07_10_16c.gif"/>
+	</resource>
+	<resource uc:file="res0098.dat" uc:title="07.13 Oral Assessment" identifier="res0098" type="assessment/x-uc-qti-pool" xml:base="res0098">
+	</resource>
+	<resource uc:file="res0099.dat" uc:title="07.14 Module 7 Test " identifier="res0099" type="assessment/x-uc-qti-pool" xml:base="res0099">
+	</resource>
+	<resource uc:file="res0100.dat" uc:title="07.15 Module 7 Survey" identifier="res0100" type="assessment/x-uc-qti-pool" xml:base="res0100">
+	</resource>
+	<resource uc:file="res0101.dat" uc:title="08.00 Module 8 Pretest" identifier="res0101" type="assessment/x-uc-qti-pool" xml:base="res0101">
+		<file href="m8ptq2.gif"/>
+		<file href="m8ptq1.gif"/>
+		<file href="m8ptq3.gif"/>
+		<file href="m8ptq4.gif"/>
+		<file href="m8ptq5.gif"/>
+		<file href="m8ptq6.gif"/>
+		<file href="m8ptq7.gif"/>
+		<file href="m8ptq8.gif"/>
+		<file href="m8ptq9.gif"/>
+	</resource>
+	<resource uc:file="res0102.dat" uc:title="08.01 Simplifying Rational Expressions" identifier="res0102" type="assessment/x-uc-qti-pool" xml:base="res0102">
+	</resource>
+	<resource uc:file="res0103.dat" uc:title="08.02 Multiplying and Dividng Rational Expressions" identifier="res0103" type="assessment/x-uc-qti-pool" xml:base="res0103">
+	</resource>
+	<resource uc:file="res0104.dat" uc:title="08.03 Quiz 1" identifier="res0104" type="assessment/x-uc-qti-pool" xml:base="res0104">
+		<file href="A1M8Q1_1a.gif"/>
+		<file href="A1M8Q1_1b.gif"/>
+		<file href="A1M8Q1_1c.gif"/>
+		<file href="A1M8Q1_1d.gif"/>
+		<file href="A1M8Q1_2.gif"/>
+		<file href="A1M8Q1_3d.gif"/>
+		<file href="A1M8Q1_4.gif"/>
+		<file href="A1M8Q1_5a.gif"/>
+		<file href="A1M8Q1_5b.gif"/>
+		<file href="A1M8Q1_5c.gif"/>
+		<file href="A1M8Q1_5d.gif"/>
+		<file href="A1M8Q1_5e.gif"/>
+		<file href="A1M8Q1_6.gif"/>
+		<file href="A1M8Q1_6a.gif"/>
+		<file href="A1M8Q1_7.gif"/>
+		<file href="A1M8Q1_7b.gif"/>
+		<file href="A1M8Q1_7c.gif"/>
+		<file href="A1M8Q1_7d.gif"/>
+		<file href="A1M8Q1_8.gif"/>
+		<file href="A1M8Q1_8a.gif"/>
+		<file href="A1M8Q1_8b.gif"/>
+		<file href="A1M8Q1_8c.gif"/>
+		<file href="A1M8Q1_8d.gif"/>
+		<file href="A1M8Q1_9.gif"/>
+		<file href="A1M8Q1_9a.gif"/>
+		<file href="A1M8Q1_9d.gif"/>
+		<file href="A1M8Q1_10.gif"/>
+		<file href="A1M8Q1_10a.gif"/>
+		<file href="A1M8Q1_10d.gif"/>
+		<file href="A1M8Q1_11.gif"/>
+		<file href="A1M8Q1_11a.gif"/>
+		<file href="A1M8Q1_11b.gif"/>
+		<file href="A1M8Q1_11d.gif"/>
+		<file href="A1M8Q1_12.gif"/>
+		<file href="A1M8Q1_12a.gif"/>
+		<file href="A1M8Q1_12b.gif"/>
+		<file href="A1M8Q1_13.gif"/>
+		<file href="A1M8Q1_13b.gif"/>
+		<file href="A1M8Q1_13c.gif"/>
+		<file href="A1M8Q1_14.gif"/>
+		<file href="A1M8Q1_14b.gif"/>
+		<file href="A1M8Q1_14c.gif"/>
+		<file href="A1M8Q1_14d.gif"/>
+		<file href="A1M8Q1_15.gif"/>
+		<file href="A1M8Q1_15a.gif"/>
+		<file href="A1M8Q1_15b.gif"/>
+		<file href="A1M8Q1_15c.gif"/>
+		<file href="A1M8Q1_15d.gif"/>
+		<file href="A1M8Q1_last.gif"/>
+	</resource>
+	<resource uc:file="res0105.dat" uc:title="08.04 Adding and Subtracting Rational Expressions" identifier="res0105" type="assessment/x-uc-qti-pool" xml:base="res0105">
+	</resource>
+	<resource uc:file="res0106.dat" uc:title="08.05 HONORS" identifier="res0106" type="assessment/x-uc-qti-pool" xml:base="res0106">
+	</resource>
+	<resource uc:file="res0107.dat" uc:title="08.06 Solving Equations with Rational Expressions" identifier="res0107" type="assessment/x-uc-qti-pool" xml:base="res0107">
+	</resource>
+	<resource uc:file="res0108.dat" uc:title="08.07 HONORS Part 2" identifier="res0108" type="assessment/x-uc-qti-pool" xml:base="res0108">
+	</resource>
+	<resource uc:file="res0109.dat" uc:title="08.08 Quiz 2" identifier="res0109" type="assessment/x-uc-qti-pool" xml:base="res0109">
+		<file href="A1M8Q2_1.gif"/>
+		<file href="A1M8Q2_2.gif"/>
+		<file href="A1M8Q2_3.gif"/>
+		<file href="A1M8Q2_3c.gif"/>
+		<file href="A1M8Q2_3d.gif"/>
+		<file href="A1M8Q2_4.gif"/>
+		<file href="A1M8Q2_4a.gif"/>
+		<file href="A1M8Q2_4b.gif"/>
+		<file href="A1M8Q2_4c.gif"/>
+		<file href="A1M8Q2_4d.gif"/>
+		<file href="A1M8Q2_5.gif"/>
+		<file href="A1M8Q2_5a.gif"/>
+		<file href="A1M8Q2_5b.gif"/>
+		<file href="A1M8Q2_5d.gif"/>
+		<file href="A1M8Q2_6.gif"/>
+		<file href="A1M8Q2_6a.gif"/>
+		<file href="A1M8Q2_6d.gif"/>
+		<file href="A1M8Q2_7.gif"/>
+		<file href="A1M8Q2_7a.gif"/>
+		<file href="A1M8Q2_7c.gif"/>
+		<file href="A1M8Q2_7d.gif"/>
+		<file href="A1M8Q2_8.gif"/>
+		<file href="A1M8Q2_9.gif"/>
+		<file href="A1M8Q2_10.gif"/>
+		<file href="A1M8Q2_10d.gif"/>
+		<file href="A1M8Q2_11.gif"/>
+		<file href="A1M8Q2_11a.gif"/>
+		<file href="A1M8Q2_11B.gif"/>
+		<file href="A1M8Q2_11c.gif"/>
+		<file href="A1M8Q2_11d.gif"/>
+		<file href="A1M8Q2_12.gif"/>
+		<file href="A1M8Q2_12b.gif"/>
+		<file href="A1M8Q2_12d.gif"/>
+		<file href="A1M8Q2_13.gif"/>
+		<file href="A1M8Q2_14.gif"/>
+		<file href="A1M8Q2_15.gif"/>
+		<file href="A1M8Q2_15a.gif"/>
+		<file href="A1M8Q2_15b.gif"/>
+		<file href="A1M8Q2_15c.gif"/>
+		<file href="A1M8Q2_15d.gif"/>
+		<file href="A1M8Q2_16.gif"/>
+		<file href="A1M8Q2_16c.gif"/>
+		<file href="A1M8Q2_17.gif"/>
+		<file href="A1M8Q2_17b.gif"/>
+		<file href="A1M8Q2_17c.gif"/>
+		<file href="A1M8Q2_17d.gif"/>
+	</resource>
+	<resource uc:file="res0110.dat" uc:title="08.09 Lab" identifier="res0110" type="assessment/x-uc-qti-pool" xml:base="res0110">
+	</resource>
+	<resource uc:file="res0111.dat" uc:title="08.09D Lab Discussion" identifier="res0111" type="assessment/x-uc-qti-pool" xml:base="res0111">
+	</resource>
+	<resource uc:file="res0112.dat" uc:title="08.10 Field Trip" identifier="res0112" type="assessment/x-uc-qti-pool" xml:base="res0112">
+	</resource>
+	<resource uc:file="res0113.dat" uc:title="08.11 Practice Test" identifier="res0113" type="assessment/x-uc-qti-pool" xml:base="res0113">
+		<file href="08_05p_04.gif"/>
+		<file href="08_05p_04a.gif"/>
+		<file href="08_05p_05.gif"/>
+		<file href="08_05p_05a.gif"/>
+		<file href="08_05p_05b.gif"/>
+		<file href="08_05p_05c.gif"/>
+		<file href="08_05p_05d.gif"/>
+		<file href="8_11_feedback6.gif"/>
+		<file href="08_05p_06.gif"/>
+		<file href="08_05p_06a.gif"/>
+		<file href="08_05p_06b.gif"/>
+		<file href="08_05p_06c.gif"/>
+		<file href="08_05p_06d.gif"/>
+		<file href="8_11_feedback7.gif"/>
+		<file href="08_05p_07.gif"/>
+		<file href="08_05p_07a.gif"/>
+		<file href="08_05p_07c.gif"/>
+		<file href="8_11_feedback8.gif"/>
+		<file href="08_05p_08.gif"/>
+		<file href="08_05p_08a.gif"/>
+		<file href="08_05p_08b.gif"/>
+		<file href="08_05p_08c.gif"/>
+		<file href="08_05p_08d.gif"/>
+		<file href="08_05p_09.gif"/>
+		<file href="08_05p_09a.gif"/>
+		<file href="08_05p_09d.gif"/>
+		<file href="08_05p_10.gif"/>
+		<file href="08_05p_10a.gif"/>
+		<file href="08_05p_10c.gif"/>
+		<file href="08_05p_11.gif"/>
+		<file href="08_05p_11a.gif"/>
+		<file href="08_05p_11b.gif"/>
+		<file href="08_05p_12.gif"/>
+		<file href="08_05p_13.gif"/>
+		<file href="8_11_feedback14.gif"/>
+		<file href="08_05p_14.gif"/>
+		<file href="08_05p_15.gif"/>
+	</resource>
+	<resource uc:file="res0114.dat" uc:title="08.12 Test" identifier="res0114" type="assessment/x-uc-qti-pool" xml:base="res0114">
+		<file href="08_06t_35.gif"/>
+		<file href="08_06t_01.gif"/>
+		<file href="08_06t_02.gif"/>
+		<file href="08_06t_03.gif"/>
+		<file href="08_06t_04.gif"/>
+		<file href="08_06t_05.gif"/>
+		<file href="08_06t_06.gif"/>
+		<file href="08_06t_07.gif"/>
+		<file href="08_06t_08.gif"/>
+		<file href="08_06t_09.gif"/>
+		<file href="08_06t_10.gif"/>
+		<file href="08_06t_11.gif"/>
+		<file href="08_06t_12.gif"/>
+		<file href="08_06t_13.gif"/>
+		<file href="08_06t_14.gif"/>
+		<file href="08_06t_15.gif"/>
+		<file href="08_06t_16.gif"/>
+		<file href="08_06t_17.gif"/>
+		<file href="08_06t_18.gif"/>
+		<file href="08_06t_19.gif"/>
+		<file href="08_06t_20.gif"/>
+		<file href="08_06t_21.gif"/>
+		<file href="08_06t_22.gif"/>
+		<file href="08_06t_23.gif"/>
+		<file href="08_06t_24.gif"/>
+		<file href="08_06t_25.gif"/>
+		<file href="08_06t_26.gif"/>
+		<file href="08_06t_27.gif"/>
+		<file href="08_06t_28.gif"/>
+		<file href="08_06t_29.gif"/>
+		<file href="08_06t_30.gif"/>
+		<file href="08_06t_31.gif"/>
+		<file href="08_06t_32.gif"/>
+		<file href="08_06t_33.gif"/>
+		<file href="08_06t_34.gif"/>
+	</resource>
+	<resource uc:file="res0115.dat" uc:title="08.13 Module 8 Survey" identifier="res0115" type="assessment/x-uc-qti-pool" xml:base="res0115">
+	</resource>
+	<resource uc:file="res0116.dat" uc:title="09.00 Module 9 Pretest" identifier="res0116" type="assessment/x-uc-qti-pool" xml:base="res0116">
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9pt.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+	</resource>
+	<resource uc:file="res0117.dat" uc:title="09.01 Lab" identifier="res0117" type="assessment/x-uc-qti-pool" xml:base="res0117">
+	</resource>
+	<resource uc:file="res0118.dat" uc:title="09.02 Inequalities" identifier="res0118" type="assessment/x-uc-qti-pool" xml:base="res0118">
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+	</resource>
+	<resource uc:file="res0119.dat" uc:title="09.03 Graphing" identifier="res0119" type="assessment/x-uc-qti-pool" xml:base="res0119">
+	</resource>
+	<resource uc:file="res0120.dat" uc:title="09.04 HONORS Graphing" identifier="res0120" type="assessment/x-uc-qti-pool" xml:base="res0120">
+	</resource>
+	<resource uc:file="res0121.dat" uc:title="09.05 Quiz 1" identifier="res0121" type="assessment/x-uc-qti-pool" xml:base="res0121">
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+	</resource>
+	<resource uc:file="res0122.dat" uc:title="09.07 Systems" identifier="res0122" type="assessment/x-uc-qti-pool" xml:base="res0122">
+	</resource>
+	<resource uc:file="res0123.dat" uc:title="09.08 HONORS Problems" identifier="res0123" type="assessment/x-uc-qti-pool" xml:base="res0123">
+	</resource>
+	<resource uc:file="res0124.dat" uc:title="09.09 Thinking Discussion" identifier="res0124" type="assessment/x-uc-qti-pool" xml:base="res0124">
+	</resource>
+	<resource uc:file="res0125.dat" uc:title="09.10 Practice Test" identifier="res0125" type="assessment/x-uc-qti-pool" xml:base="res0125">
+	</resource>
+	<resource uc:file="res0126.dat" uc:title="09.11 Oral Assessment" identifier="res0126" type="assessment/x-uc-qti-pool" xml:base="res0126">
+	</resource>
+	<resource uc:file="res0127.dat" uc:title="09.12 Test" identifier="res0127" type="assessment/x-uc-qti-pool" xml:base="res0127">
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="A1M9FA_11.gif"/>
+	</resource>
+	<resource uc:file="res0128.dat" uc:title="09.13 Module 9 Survey" identifier="res0128" type="assessment/x-uc-qti-pool" xml:base="res0128">
+	</resource>
+	<resource uc:file="res0129.dat" uc:title="10.01 Review Part 1" identifier="res0129" type="assessment/x-uc-qti-pool" xml:base="res0129">
+	</resource>
+	<resource uc:file="res0130.dat" uc:title="10.02 Review Part 2" identifier="res0130" type="assessment/x-uc-qti-pool" xml:base="res0130">
+	</resource>
+	<resource uc:file="res0131.dat" uc:title="10.03 Review Part 3" identifier="res0131" type="assessment/x-uc-qti-pool" xml:base="res0131">
+	</resource>
+	<resource uc:file="res0132.dat" uc:title="10.04 Semester Exam" identifier="res0132" type="assessment/x-uc-qti-pool" xml:base="res0132">
+		<file href="m9pt.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="A1M8Q2_3.gif"/>
+		<file href="A1M8Q2_3c.gif"/>
+		<file href="A1M8Q2_3d.gif"/>
+		<file href="A1M8Q2_7.gif"/>
+		<file href="A1M8Q2_7a.gif"/>
+		<file href="A1M8Q2_7c.gif"/>
+		<file href="A1M8Q2_7d.gif"/>
+		<file href="A1M8Q2_14.gif"/>
+		<file href="A1M8Q2_15.gif"/>
+		<file href="A1M8Q2_15a.gif"/>
+		<file href="A1M8Q2_15b.gif"/>
+		<file href="A1M8Q2_15c.gif"/>
+		<file href="A1M8Q2_15d.gif"/>
+		<file href="m8ptq6.gif"/>
+		<file href="m8ptq7.gif"/>
+		<file href="m8ptq9.gif"/>
+		<file href="A1M7FA_1.gif"/>
+		<file href="A1M7FA_1a.gif"/>
+		<file href="A1M7FA_2.gif"/>
+		<file href="A1M7FA_3.gif"/>
+		<file href="A1M7FA_3a.gif"/>
+		<file href="A1M7FA_3b.gif"/>
+		<file href="A1M7FA_3c.gif"/>
+		<file href="A1M7FA_5.gif"/>
+		<file href="A1M7FA_5a.gif"/>
+		<file href="A1M7FA_5b.gif"/>
+		<file href="A1M7FA_6.gif"/>
+		<file href="A1M7FA_6c.gif"/>
+		<file href="A1M7FA_7.gif"/>
+		<file href="A1M7FA_7c.gif"/>
+		<file href="A1M7FA_7d.gif"/>
+		<file href="A1M7FA_13.gif"/>
+		<file href="A1M7FA_parabola.gif"/>
+		<file href="A1M6Q1_1.gif"/>
+		<file href="A1M6Q2_1.gif"/>
+		<file href="A1M6Q2_5.gif"/>
+		<file href="A1M6Q2_7.gif"/>
+		<file href="A1M6Q2_8.gif"/>
+		<file href="final_16.gif"/>
+		<file href="final_16a.gif"/>
+		<file href="final_16b.gif"/>
+		<file href="final_20.gif"/>
+		<file href="final_20c.gif"/>
+		<file href="final_20d.gif"/>
+		<file href="final_21.gif"/>
+		<file href="final_30b.gif"/>
+		<file href="final_30c.gif"/>
+		<file href="final_30d.gif"/>
+		<file href="final_31.gif"/>
+		<file href="final_31a.gif"/>
+		<file href="final_31b.gif"/>
+		<file href="final_31c.gif"/>
+		<file href="final_32.gif"/>
+		<file href="final_32a.gif"/>
+		<file href="final_32d.gif"/>
+		<file href="final_33.gif"/>
+		<file href="final_33c.gif"/>
+		<file href="final_33d.gif"/>
+		<file href="final_35.gif"/>
+		<file href="final_35c.gif"/>
+		<file href="final_35d.gif"/>
+		<file href="final_36.gif"/>
+		<file href="final_39a.gif"/>
+		<file href="final_39b.gif"/>
+		<file href="final_39c.gif"/>
+		<file href="final_39d.gif"/>
+		<file href="final_40a.gif"/>
+		<file href="final_40b.gif"/>
+		<file href="final_40c.gif"/>
+		<file href="final_40d.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="m9greaterthanequalto.gif"/>
+		<file href="m9lessthanequalto.gif"/>
+		<file href="M6FAq_9.gif"/>
+		<file href="M6FAq_10.gif"/>
+		<file href="M6FAq_11.gif"/>
+		<file href="M6FAq_13.gif"/>
+		<file href="M6FAq_14.gif"/>
+		<file href="M6FAq_16.gif"/>
+		<file href="M6FAq_16d.gif"/>
+		<file href="M6FAq_17.gif"/>
+		<file href="M6FAq_17a.gif"/>
+		<file href="M6FAq_17b.gif"/>
+		<file href="M6FAq_17c.gif"/>
+		<file href="M6FAq_17d.gif"/>
+		<file href="10_04_71a.gif"/>
+		<file href="10_04_71b.gif"/>
+		<file href="10_04_71c.gif"/>
+		<file href="10_04_71d.gif"/>
+		<file href="M6FAq_19.gif"/>
+		<file href="M6FAq_19b.gif"/>
+		<file href="M6FAq_19c.gif"/>
+		<file href="M6FAq_19d.gif"/>
+		<file href="M6FAq_20.gif"/>
+		<file href="M6FAq_20a.gif"/>
+		<file href="M6FAq_20b.gif"/>
+		<file href="M6FAq_20c.gif"/>
+		<file href="M6FAq_21.gif"/>
+		<file href="M6FAq_21a.gif"/>
+		<file href="M6FAq_21b.gif"/>
+		<file href="M6FAq_21c.gif"/>
+		<file href="M6FAq_21d.gif"/>
+		<file href="M6FAq_23.gif"/>
+		<file href="M6FAq_25.gif"/>
+		<file href="M6FAq_25a.gif"/>
+		<file href="M6FAq_25b.gif"/>
+		<file href="M6FAq_25c.gif"/>
+		<file href="M6FAq_25d.gif"/>
+		<file href="A1M6Q3_4.gif"/>
+		<file href="A1M6Q3_4d.gif"/>
+		<file href="A1M6Q3_5.gif"/>
+		<file href="A1M6Q3_5a.gif"/>
+		<file href="A1M6Q3_5b.gif"/>
+		<file href="A1M6Q3_6.gif"/>
+		<file href="A1M6Q3_6a.gif"/>
+	</resource>
+	<resource uc:file="res0133.dat" uc:title="10.05 Final Exam A" identifier="res0133" type="assessment/x-uc-qti-pool" xml:base="res0133">
+		<file href="final_5a.gif"/>
+		<file href="final_5b.gif"/>
+		<file href="final_5c.gif"/>
+		<file href="final_5d.gif"/>
+		<file href="final_16.gif"/>
+		<file href="final_16a.gif"/>
+		<file href="final_16b.gif"/>
+		<file href="final_19_1.jpg"/>
+		<file href="final_20.gif"/>
+		<file href="final_20c.gif"/>
+		<file href="final_20d.gif"/>
+		<file href="final_21.gif"/>
+		<file href="final_30b.gif"/>
+		<file href="final_30c.gif"/>
+		<file href="final_30d.gif"/>
+		<file href="final_31.gif"/>
+		<file href="final_31a.gif"/>
+		<file href="final_31b.gif"/>
+		<file href="final_31c.gif"/>
+		<file href="final_32.gif"/>
+		<file href="final_32a.gif"/>
+		<file href="final_32d.gif"/>
+		<file href="final_33.gif"/>
+		<file href="final_33c.gif"/>
+		<file href="final_33d.gif"/>
+		<file href="final_34.gif"/>
+		<file href="final_34a.gif"/>
+		<file href="final_34d.gif"/>
+		<file href="final_35.gif"/>
+		<file href="final_35c.gif"/>
+		<file href="final_35d.gif"/>
+		<file href="final_36.gif"/>
+		<file href="final_39a.gif"/>
+		<file href="final_39b.gif"/>
+		<file href="final_39c.gif"/>
+		<file href="final_39d.gif"/>
+		<file href="final_40a.gif"/>
+		<file href="final_40b.gif"/>
+		<file href="final_40c.gif"/>
+		<file href="final_40d.gif"/>
+		<file href="final_41.gif"/>
+		<file href="final_45.gif"/>
+		<file href="final_48.gif"/>
+	</resource>
+</resources>
+</manifest>

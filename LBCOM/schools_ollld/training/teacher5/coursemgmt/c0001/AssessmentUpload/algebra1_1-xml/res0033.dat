@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="04.06 Quiz 1">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>14</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which expression means 5 more than some number?</label>
+			<choice>
+				<choicelabel>5 &gt; x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 5</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 + x = 5x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which expression means 8 more than some number?</label>
+			<choice>
+				<choicelabel>8 &gt; x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 8</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8 + x = 8x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which equation means &quot;Four less than twice a number is 42&quot;?</label>
+			<choice>
+				<choicelabel>4 - 2n = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 - (2 + n) = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 &lt; 2n = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2n - 4 = 42</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which equation means &quot;Four more than twice a number is 42&quot;?</label>
+			<choice>
+				<choicelabel>4 + 2 + n = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2n + 4 = 42</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 - (2 + n) = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4 &gt; 2n = 42</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>The equation 2(w + 3) + 2w = 26 represents the following sentence. The rectangle whose length is three more than its width has a perimeter of 26.</label>
+			<choice>
+				<choicelabel>false</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>true</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify the expression by distributing and collecting like terms.
+&lt;br&gt; 
+&lt;br&gt;2 - (x + 3)</label>
+			<choice>
+				<choicelabel>-x + 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-x - 1</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify the expression by distributing and collecting like terms.
+&lt;br&gt; 
+&lt;br&gt;2 - (x + 4)</label>
+			<choice>
+				<choicelabel>-x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>–x - 2</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify the expression by collecting like terms.
+&lt;br&gt; 
+&lt;br&gt;2x + 3y - x + 5y </label>
+			<choice>
+				<choicelabel>10y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4xy + 5y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9xy&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 8y</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>3x + 2(x - 5) + 7 can be simplified to 5x + 2.</label>
+			<choice>
+				<choicelabel>false</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>true</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Simplify the expression by collecting like terms.
+&lt;br&gt; 
+&lt;br&gt;7xy + 4x - 8y - 2xy - 7x + 6 </label>
+			<choice>
+				<choicelabel>5xy - 3x - 8y + 6</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5xy - 8y + 11x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6xy + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5xy + 3x - 8y + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>Solve. (Enter your answer as &quot;x=some number&quot;. For example if your answer is 5, type &quot;x=5&quot; in the blank.) 
+&lt;br&gt; 
+&lt;br&gt;x - 3 = 5__________</label>
+			<blank>
+				<accepted>x=8</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>Solve. (Enter your answer as &quot;x=some number&quot;. For example if your answer is 5, type &quot;x=5&quot; in the blank.) 
+&lt;br&gt; 
+&lt;br&gt;x - 2 = 5__________</label>
+			<blank>
+				<accepted>x=7</accepted>
+				<credit>1</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>Solve. (Enter your answer as &quot;x=some number&quot;. For example if your answer is 5, type &quot;x=5&quot; in the blank.) 
+&lt;br&gt; 
+&lt;br&gt;-3x = 27__________</label>
+			<blank>
+				<accepted>x=-9</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>Solve. (Enter your answer as &quot;x=some number&quot;. For example if your answer is 5, type &quot;x=5&quot; in the blank.)
+&lt;br&gt;-3x = 15__________</label>
+			<blank>
+				<accepted>x=-5</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>4(2x - 3)= -20 </label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0033/educator_alg1_v5/pictures/mod3/04_04_01.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -1</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>2(4x – 3) = -30</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0033/educator_alg1_v5/pictures/mod3/04_04_02.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -3</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>The equation 2(3x + 5) = 4x + 10 has &quot;no solutions&quot;.</label>
+			<choice>
+				<choicelabel>false</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>true</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Solve the given equation: 16(x - 1) = 12x + 36 </label>
+			<choice>
+				<choicelabel>37/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>13</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Solve the given equation: 12(x – 1) = 16x + 36 </label>
+			<choice>
+				<choicelabel>-37/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-12</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-11/2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Solve the given equation: 6x + 2(x + 7) = 46 </label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Solve the given equation: 3x + 2(x + 5) = 40 </label>
+			<choice>
+				<choicelabel>No solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>3(x + 4) = 3x + 12
+&lt;br&gt; 
+&lt;br&gt;Choose the property that is illustrated by the equation above.</label>
+			<choice>
+				<choicelabel>Commutative property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Distributive property</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Associative property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Multiplicative Inverse</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="04.19 Test">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>24</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="15">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="16">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="17">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>2</give>
+		</group>
+		<group id="18">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="19">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="20">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="21">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>2</give>
+		</group>
+		<group id="22">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>2</give>
+		</group>
+		<group id="23">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="24">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>If 10 = 2(5) then 2(5) = 10 is an example of which of the following properties?</label>
+			<choice>
+				<choicelabel>Identity property of multiplication</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Symmetric property of equality</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Commutative property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Transitive property</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>x + 3 = 3 + x is an example of which of the following properties?</label>
+			<choice>
+				<choicelabel>Associative property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Symmetric property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Commutative property of equality</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Identity property of addition</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which is an example of the Identity property of multiplication?</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_2a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_2b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_2c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_2d.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>If 2x + 5 = 10 and 10 = y - 8 then 2x + 5 = y - 8 is an example of which of these properties?</label>
+			<choice>
+				<choicelabel>Identity property of multiplication</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Reflexive property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Symmetric property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Transitive property of equality</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>5 + x = 5 + x is an example of which of these properties?</label>
+			<choice>
+				<choicelabel>Identity property of multiplication</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Reflexive property of equality</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Symmetric property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Transitive property of equality</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify the expression by distributing and collecting like terms.  
+&lt;br&gt;  
+&lt;br&gt;5x - 2(x + 4)</label>
+			<choice>
+				<choicelabel>3x + 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x + 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x - 8</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Simplify the expression by distributing and collecting like terms:
+&lt;br&gt; 
+&lt;br&gt;4x – 2(x + 4)
+&lt;br&gt;</label>
+			<choice>
+				<choicelabel>2x – 8</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x – 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x + 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x – 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify the expression by distributing and collecting like terms.  
+&lt;br&gt;  
+&lt;br&gt;3(4x - 1) + 2(x + 4)</label>
+			<choice>
+				<choicelabel>14x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14x + 5</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>14x - 11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>24x - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify the expression by distributing and collecting like terms. 
+&lt;br&gt; 
+&lt;br&gt;2(4x - 1) + 2(x + 4)</label>
+			<choice>
+				<choicelabel>10x + 7</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8x + 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>10x + 6</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Simplify the expression by distributing and collecting like terms.  
+&lt;br&gt; 
+&lt;br&gt;7 - 4(x - 3)- 9x</label>
+			<choice>
+				<choicelabel>-6x - 9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-5x + 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-13x + 19</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-13x - 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>Simplify the expression by distributing and collecting like terms. 
+&lt;br&gt; 
+&lt;br&gt;7 – 4(x – 3) – 5x</label>
+			<choice>
+				<choicelabel>-9x - 5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-9x + 19</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-x + 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4x + 19</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Find the solution to the equation.  
+&lt;br&gt; 
+&lt;br&gt;3x - 1 = 9</label>
+			<choice>
+				<choicelabel>x = 10/3</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 8/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Find the solution to the equation. 
+&lt;br&gt; 
+&lt;br&gt;3x - 2 = 9</label>
+			<choice>
+				<choicelabel>x = 10/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 11/3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>Find the solution to the equation. 
+&lt;br&gt; 
+&lt;br&gt;3x - 4 = 9</label>
+			<choice>
+				<choicelabel>x = 10/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 8/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 13/3</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 1/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Find the solution to the equation.  
+&lt;br&gt; 
+&lt;br&gt;5(x + 3) + 9 = 3(x - 2) + 6</label>
+			<choice>
+				<choicelabel>x = 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -12</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Find the solution to the equation. 
+&lt;br&gt; 
+&lt;br&gt;5(x + 3) + 9 = 3(x - 2) + 4</label>
+			<choice>
+				<choicelabel>x = 13
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -7
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -13</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>Find the solution to the equation. 
+&lt;br&gt; 
+&lt;br&gt;5(x + 3) + 9 = 3(x - 2) + 2</label>
+			<choice>
+				<choicelabel>x = -14
+&lt;br&gt;</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -15
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = 14
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x = -8
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>9</group>
+			<label>Find the solution to the equation.  
+&lt;br&gt;  
+&lt;br&gt;&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_6c.gif&gt;</label>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a = 4/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a = 100/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a = 20</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>Find the solution to the equation: 
+&lt;br&gt;
+&lt;br&gt;|x| = 2</label>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2, -2</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>Find the solution to the equation |x| = 3.</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3, -3
+&lt;br&gt;</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>Find the solution to the equation |x| = 4.</label>
+			<choice>
+				<choicelabel>4
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-4
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>no solutions
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4, -4</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>Find the solution(s) to the equation.
+&lt;br&gt;
+&lt;br&gt;|x + 4| = 7</label>
+			<choice>
+				<choicelabel>3, -3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3, -11</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>11, -11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4, -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>Find the solution(s) to the equation.
+&lt;br&gt; 
+&lt;br&gt;|x + 4| = 9</label>
+			<choice>
+				<choicelabel>3, -3
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5, -13</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>11, -11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4, -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>Find the solution(s) to the equation.
+&lt;br&gt; 
+&lt;br&gt;|x + 4| = 11</label>
+			<choice>
+				<choicelabel>3, -3
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>7, -15</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>11, -11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4, -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>Solve the equation for the indicated variable.
+&lt;br&gt;
+&lt;br&gt;i = prt
+&lt;br&gt;
+&lt;br&gt;Solve for &quot;p.&quot;</label>
+			<choice>
+				<choicelabel>p = irt</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>p = i/rt</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>p = ir/t</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>p = it/r</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>Solve the equation for the indicated variable.
+&lt;br&gt;
+&lt;br&gt;&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_8c.gif&gt;
+&lt;br&gt;Note: Use NO spaces between letters, numbers and symbols in your answers.</label>
+			<choice>
+				<choicelabel>c = D-a-b/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>c = 3D+a-b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>c = -a-b/3D</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>c = 3D-a-b</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>Which of the following phrases represents an inverse relationship?</label>
+			<choice>
+				<choicelabel>The farther I drive, the longer the time on the road</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The faster I drive, the more gas I use</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The farther I drive, the less distance to my destination</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The faster I drive, the farther I get from my departure point</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>15</group>
+		<label>The following is an example of a direct relationship: 
+&lt;br&gt;
+&lt;br&gt;The further you drive your car, the less gas you have in the tank.   </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>16</group>
+		<label>The following is an example of an inverse relationship:
+&lt;br&gt;
+&lt;br&gt;The closer you get to a light bulb (your distance is decreasing), the more intense the light is. </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>Choose the proportion you would use to solve the problem below.  
+&lt;br&gt; 
+&lt;br&gt;A truck can pump 800 gallons of oil in 35 minutes.  How much oil can it pump in 2 hours?</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_21a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_21b.gif&gt;</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_21c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_21d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>Choose the proportion you would use to solve the problem below.  
+&lt;br&gt; 
+&lt;br&gt;Katherine drove 100 miles on 7 gallons of gasoline.  How far can she drive on a full tank of 20 gallons?</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_22a.gif&gt;</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_22b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_22c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_22d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>18</group>
+		<label>Write a proportion and solve. You should enter your answer only in the blank provided.
+&lt;br&gt;
+&lt;br&gt;A college student pays $280 for a three hour course.  How much would he have to pay for a class load of 16 hours?  Round your answer to the nearest whole dollar.  Be sure to put a dollar sign ($) on your answer.__________</label>
+			<blank>
+				<accepted>$1493</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>19</group>
+			<label>Which set of ordered pairs is a function?</label>
+			<choice>
+				<choicelabel>(2,3),(-4,5),(2,7),(7,-2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,3),(-4,5),(-2,7),(-4,-2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,3),(-4,5),(-2,7),(7,7)</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>(2,3),(-4,5),(2,-7),(7,-2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>20</group>
+			<label>(4,-2),(6,3),(4,2),(5,4)
+&lt;br&gt;
+&lt;br&gt;Is the set of ordered pairs shown above a function?</label>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_26.gif&gt;
+&lt;br&gt;
+&lt;br&gt;Is the graph shown above a function?</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>&lt;img src=/webdav/res0047/educator_algebra1/pictures/M4images/A1M4FA_27.gif&gt;
+&lt;br&gt;
+&lt;br&gt;Is the graph shown above a function?</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>22</group>
+		<label>f(x)= 2x + 1
+&lt;br&gt;
+&lt;br&gt;Use the function shown above to find the value of f(-2).__________</label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>22</group>
+		<label>g(x) = 4x - 5
+&lt;br&gt;
+&lt;br&gt;Use the function shown above to find the value of g(0).__________</label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>Which of the following correctly represents the statement:  5 less than twice a number is 25.</label>
+			<choice>
+				<choicelabel>5 - 2n = 25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 - (1/2)n = 25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5n = 25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2n - 5 = 25</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>Find the solution to the equation.  Remember there will be two solutions.  Show all work if you want to be eligible for partial credit.
+&lt;br&gt;
+&lt;br&gt;|x - 2| + 3 = 10</label>
+		<credit>4.0</credit>
+	</item>
+</assessment>

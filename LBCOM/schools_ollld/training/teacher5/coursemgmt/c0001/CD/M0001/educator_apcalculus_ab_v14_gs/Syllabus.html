@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  dir="ltr" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>StudyForge - Course Syllabus</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+</head>
+<body>
+
+
+<div id="sf_container">
+  
+       
+<script type="text/javascript">
+function confirm_lesson_sess_rem(){
+var r=confirm("Are you sure you want to remove all of your current lesson edits?");
+if (r==true)
+  {
+  $.ajax({url:"lessonbuilderDD.php?stop=true",success:function(){document.location.reload(true)}});
+  }
+}
+function no_save_button(){
+    alert("Please specify a chapter for your lesson to go into by clicking on Construct->Lesson");
+}
+function save_button(){
+    var r=confirm("Are you ready to Create your lesson?");
+    if (r==true)
+      {
+      window.location.href = "createLesson.php";
+      }
+}
+</script>            
+    
+    <div class="clearer"></div>
+    <div id="sf_content">
+<form action="course_syllabus.php" method="get">
+
+<script>
+$(function(){
+    $('select.course-selector').change(function() {
+        this.form.submit();
+    });
+});
+</script>
+</form>
+
+<h3><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=course&resource_id=96" >FLVS Calculus AB and BC</a></h3>
+<ul>    
+
+	<li style="font-weight:bold;">Chapter 1: Functions</li>
+		<ul>
+			<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti1" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4682">
+					<input type="submit" value="Lesson 1: Introduction to StudyForge">
+					</form>
+				</p>
+			</li>
+			
+			<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti2" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4675">
+					<input type="submit" value="Lesson 2: Introduction to Calculus">
+					</form>
+				</p>
+			</li>
+			<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti3" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4676">
+					<input type="submit" value="Lesson 3: Review of Function Terminology And More">
+					</form>
+				</p>
+</li>
+
+
+<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti4" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4677">
+					<input type="submit" value="Lesson 4: Graphing Calculators">
+					</form>
+				</p>
+</li>
+
+
+<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti5" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4678">
+					<input type="submit" value="Lesson 5: Compositions and Transformations of Functions">
+					</form>
+				</p>
+</li>
+
+
+<li style="margin-bottom:2em;">
+				<p>
+					<form name="lti6" action="http://my.learnk12.com/~k12cr/dist/lms.php" method="post">
+					<input type="hidden" name="endpoint" value="http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4679">
+					<input type="submit" value="Lesson 6: Some Common Functions">
+					</form>
+				</p>
+</li>    </ul>    
+
+
+<li style="font-weight:bold;">Chapter 2: Limits and Continuity</li>
+    <ul>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4684" >Lesson 1: Introduction to Limits</a></p></li>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4685" >Lesson 2: Properties of Limits</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4685</em></p></li>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4686" >Lesson 3: Limits Involving Infinity</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4686</em></p></li>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4687" >Lesson 4: Continuity</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4687</em></p></li>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4688" >Lesson 5: Applications of Limits</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4688</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 3: Differentiation</li>
+    <ul>  <li style="margin-bottom:2em;"> <p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4689" target="_blank>Lesson 1: The Derivative</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4689</em></p></li>        <li style="margin-bottom:2em;"><p><a href="http://my.learnk12.com/~k12cr/dist/lms.php?endpoint=http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4690" >Lesson 2: Rules of Differentiation</a></p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4690</em></p></li>        <li style="margin-bottom:2em;"><p><a href="" >Lesson 3: Trigonometric Derivatives and The Chain Rule</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4691</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Inverse Functions</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4694</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Exponential and Logarithmic Functions</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4695</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 6: Derivatives of Exponential, Logarithmic, and Inverse Trig Functions</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4692</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 7: Implicit Differentiation</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4693</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 4: Applications of Derivatives</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Analyzing Functions Part I: Curve Sketching</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4696</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Analyzing Functions Part II: Maximums and Minimums</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4697</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Applied Maximum and Minimum Problems</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4698</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Distance, Velocity, Acceleration, and Rectilinear Motion</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4699</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Related Rates</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4700</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 6: The Mean-Value Theorem </p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4701</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 7: Linearization</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4703</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 5: Integration</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Area Approximation and Riemann Sums</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4704</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Introduction to the Definite Integral</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4705</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: The Fundamental Theorem of Calculus</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4706</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Integrals and Antiderivatives</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4707</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Integration by Substitution</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4708</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 6: The Definite Integral</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4709</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 6: Applications of Integrals</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Finding The Area Under and Between Curves</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4711</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Volume by Discs (Slicing)</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4710</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Average Value of a Function and Rectilinear Motion Revisited</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4714</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 7: Differential Equations and More Riemann Sums</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Differential Equations - An Introduction</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4715</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Initial Value Problems and Slope Fields</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4716</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Numerical Approximation Methods with Integrals</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4718</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 8: Supplemental Topics</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Exploring the Graphs of f, f Prime, and f Double Prime</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4719</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Relative Rates of Growth</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4746</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Using Calculus With Data in a Table</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4720</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Functions Defined By Integrals</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4721</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Integration by Parts</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4765</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 6: Integrating Using Partial Fractions</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4766</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 7: Improper Integrals</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4767</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 9: Analytic Geometry</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Parametric Curves</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4768</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Polar Curves</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4769</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Vector Curves</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4770</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Length of Planar Curves</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4771</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Area of Planar Curves (Polar Curves only)</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4772</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 10: Series and Convergence</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Series</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4773</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Convergence</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4774</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Tests for Convergence Part I</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4775</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Tests for Convergence Part II</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4776</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Error Bound</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4777</em></p></li>    </ul>    <li style="font-weight:bold;">Chapter 11: Polynomial Series and Approximations</li>
+    <ul>        <li style="margin-bottom:2em;"><p>Lesson 1: Maclaurin Series</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4778</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 2: Taylor Series and Error Bound</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4779</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 3: Power Series</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4780</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 4: Radius and Interval of Convergence</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4781</em></p></li>        <li style="margin-bottom:2em;"><p>Lesson 5: Applications of Polynomial Series</p><p>LTI link: <em>http://tool.studyforge.net/lti.php?resource_type=lesson&resource_id=4782</em></p></li>    </ul></ul>    </div>
+    <div class="clearer" style="margin-bottom:20px;"></div>
+</div>
+<script type="text/javascript" src="includes/tinymce/tiny_mce.js"></script>
+<script type="text/javascript">
+
+var tinyMCE_options = {
+    // General options
+    mode : "specific_textareas",
+    editor_selector : "tinymce",
+    theme : "advanced",
+    plugins : "autolink,lists,spellchecker,pagebreak,style,layer,table,save,advhr,advimage,advlink,emotions,iespell,inlinepopups,insertdatetime,preview,media,searchreplace,print,contextmenu,paste,directionality,fullscreen,noneditable,visualchars,nonbreaking,xhtmlxtras,template,dragmath",
+
+    // Theme options
+    content_css : "http://tool.studyforge.net/blocks/loms/includes/style.css",
+    theme_advanced_buttons1 : "bold,italic,underline,|,justifyleft,justifycenter,justifyright,justifyfull,|,formatselect,|,undo,|,bullist,numlist,|,outdent,indent,|,code,link,unlink,|,sub,sup,|,dragmath",
+    theme_advanced_buttons2 : "",
+    theme_advanced_buttons3 : "",
+    theme_advanced_fonts : "Arial=arial,helvetica,sans-serif;Courier New=courier new,courier,monospace;AkrutiKndPadmini=Akpdmi-n",
+    theme_advanced_font_sizes: "16px",
+    theme_advanced_toolbar_location : "top",
+    theme_advanced_toolbar_align : "left",
+    theme_advanced_statusbar_location : "none",
+    theme_advanced_resizing : true,
+    width: "100%"
+}
+tinyMCE.init(tinyMCE_options);
+        
+</script></body>
+</html>

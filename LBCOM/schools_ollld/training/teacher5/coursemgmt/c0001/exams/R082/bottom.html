@@ -1,0 +1,165 @@
+<html><head><meta http-equiv='Content-Type' content='text/html; charset=windows-1252'>
+<meta name='GENERATOR' content='Microsoft FrontPage 4.0'><meta name='ProgId' content='FrontPage.Editor.Document'><title></title>
+<META HTTP-EQUIV='Expires' CONTENT='Mon, 04 Dec 1999 21:29:02 GMT'>
+<SCRIPT LANGUAGE='JavaScript'>;
+		var sht_type=false;
+	function c_status(){
+	var fr=parent.mid_f.document.q_paper;
+	var qIds=parent.mid_f.qIds;		
+	var qTypes=parent.mid_f.qType;
+		var c=0;	
+		for(var i=0;i<qIds.length;i++){
+			var q_id=qIds[i];
+			var qType=qTypes[i];			
+			if(qType==0 || qType==1 || qType==2){
+				for(var j=0;j<fr.elements[q_id].length;j++){
+					if(fr.elements[q_id][j].checked==true){
+						c++; break;
+					}
+				}
+			}		
+			else if (qType==4 || qType==5){
+				for(var j=0;j<fr.elements[q_id].length;j++){
+					if(fr.elements[q_id][j].value!=''){
+						c++; break;
+					}
+				}
+			}
+			else if (qType==3) {
+				if(fr.elements[q_id].length>0){
+					for(var j=0;j<fr.elements[q_id].length;j++){
+						if(fr.elements[q_id][j].value!=''){
+							c++; break;
+						}
+					}
+				}else{
+					if(fr.elements[q_id].value!='')				
+						c++;
+				}
+			} else {
+				if(fr.elements[q_id].value!='' || fr.elements[q_id+'_f'].value!='')							
+					c++;
+			}
+		}
+		refresh();
+		alert(c+' question(s) is(are) answered');
+		return; 
+	}
+function go(isSingle,qId,qNo,isTimeOut){	
+		var ansStr;
+		if(isSingle==false){
+			if(isTimeOut!=true){
+				if (confirm('Are you sure that you want to submit your test?')==false)
+					return false;		
+			}
+		}else{
+			if (confirm('Do you want to view the feedback for this question?')==false)
+					return false;		
+		}
+		ansStr=ans_str(isSingle,qId);	
+		document.bpanel.ansstr.value=ansStr;	
+			document.bpanel.issingle.value='false';
+		if (isSingle==true){
+			document.bpanel.ans.value=ansStr;
+			document.bpanel.qid.value=qId;
+			document.bpanel.issingle.value='true';
+			document.bpanel.qno.value=qNo;
+		}
+		if(sht_type==true)	
+				parent.mid_f.document.q_paper.submit();
+		else 
+			 document.bpanel.submit();
+ }
+
+	function ans_str(isSingle,qId){
+	var fr=parent.mid_f.document.q_paper;
+	var qIds=parent.mid_f.qIds;		
+	var qTypes=parent.mid_f.qType;
+		var ansStr='';	
+		sht_type=false;
+		for(var i=0;i<qIds.length;i++){
+			var q_id=qIds[i];
+			var qType=qTypes[i];
+	if (isSingle==true){
+		if (qId!=q_id)
+				continue;
+	}
+			if(qType==0 || qType==1 || qType==2){
+				for(var j=0;j<fr.elements[q_id].length;j++){
+					if(fr.elements[q_id][j].checked==true)
+						ansStr=ansStr+'1';
+					else
+						ansStr=ansStr+'0';
+				}
+			}else if (qType==4 || qType==5){
+				for(var j=0;j<fr.elements[q_id].length;j++){
+					if(fr.elements[q_id][j].value!=''){
+						ansStr=ansStr+fr.elements[q_id][j].value;
+					} else {
+						ansStr=ansStr+'-';
+					}
+				}
+			}
+			else if(qType==3){
+				if(fr.elements[q_id].length>0){
+					for(var j=0;j<fr.elements[q_id].length;j++){
+						if(fr.elements[q_id][j].value!=''){
+							ansStr=ansStr+fr.elements[q_id][j].value +'~';
+						} else {
+							ansStr=ansStr+'~';
+						}
+					}
+  ansStr=ansStr.substring(0,ansStr.length-1); 
+ 				}else{
+					if (fr.elements[q_id].value!='')
+						ansStr=ansStr+fr.elements[q_id].value;
+					else
+						ansStr=ansStr+' ';
+				}
+			} else{
+					sht_type=true;
+					if (fr.elements[q_id].value!=''  && fr.elements[q_id+'_f'].value==''){
+						ansStr=ansStr+fr.elements[q_id].value;
+					}else
+						ansStr=ansStr+' ';				
+			}
+			if (isSingle!=true)
+				ansStr=ansStr+'##';		}
+		if(sht_type==true)
+			document.bpanel.shorttype.value='1';
+		return ansStr;
+	}
+ function refresh(){
+	var fr=parent.mid_f.document.q_paper;
+	var nqs=parent.mid_f.qIds.length;
+	var qid,view='';
+	var nPgs=0;
+	for(pc=1,i=1;i<=nqs;i++){
+		qid="Q"+i;
+		if(fr.elements[qid].checked == true)
+			view=view+"<a href='#' onclick='go_qno("+i+")'; return false;'><font face='arial' size='2' class='ans'>"+i+"</font></a>&nbsp;&nbsp;"
+		else
+			view=view+"<a href='#' onclick='go_qno("+i+")'; return false;'><font face='arial' size='2' class='n_ans'>"+i+"</font></a>&nbsp;&nbsp;"
+		if((i%5)==0){
+			var x=parent.top_f.document.getElementById('q_ids_'+pc);
+			x.innerHTML=view;
+			view='';
+			pc++;
+		}else if(i==nqs){
+			var x=parent.top_f.document.getElementById('q_ids_'+pc);
+			x.innerHTML=view;			view='';		}
+	}
+ }
+</SCRIPT>
+ </head>
+<body leftmargin='0' oncontextmenu='return false;'><form name='bpanel' method='POST' action='/LBCOM/exam.ProcessResponse'>
+<input type='hidden' name='ansstr'>
+<input type='hidden' name='examid' value='R082'>
+<input type='hidden' name='coursename' value='Demo Course 1'>
+<input type='hidden' name='shorttype' value='0'>
+<input type='hidden' name='issingle' value='false'>
+<input type='hidden' name='ans' value=''><input type='hidden' name='qid' value=''><input type='hidden' name='qno' value=''><table border='0' width='101%' bordercolordark='#FFFFFF' cellspacing='1' bgcolor='#B0A890'> <tr><td width='46%' valign='middle' bgcolor='#B0A890'><font face='Arial' size='2'>
+<input type='image' src='/LBCOM/images/std_status.gif' name='status' onclick='c_status();return false;'></font></td><td width='7%'>&nbsp;</td>
+<td width='49%'><p align='right'><font face='Arial' size='2'>
+<input type='image' src='/LBCOM/images/std_submit.gif' name='submit' onclick="go(false,'','',false);return false;"></font></td></tr></table></form></body>
+</html>

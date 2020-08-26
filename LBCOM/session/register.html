@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/Learnbeyond-login.css">
+
+<head>
+<meta charset="utf-8">
+<title>Register - Learnbeyond</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="Responsive HTML template for Your company" name="description">
+<meta content=" " name="author">
+
+<link href="favicon.ico" rel="shortcut icon">
+	<script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/backstretch.js"></script>
+    <script src="js/Learnbeyond-login.js"></script>
+<SCRIPT LANGUAGE="JavaScript" src="/LBCOM/common/Validations.js"></SCRIPT>
+<script language="javascript" src="../validationscripts.js"></script>
+<script language="JavaScript">
+<!-- 
+var usr;
+var popUpsBlocked=false;
+var popmessage="";
+var cookiemess="";
+var uname="";
+var password="";
+var fname="";
+var lname="";
+var email="";
+var errmsg="";res=true;
+var x = navigator;
+function validate(frm){
+	
+	var homepage=document.regform;
+	if((popUpsBlocked)||(!x.cookieEnabled)){
+		alert("please ensure that browser is configured as recommended in 'Browser Specific Requirements'");
+//		window.location="/LBCOM/tech.html#browsers";
+//		return false;
+	}
+	
+	if(homepage.fname.value=="")
+	{
+		alert("Please enter First Name");
+		homepage.fname.focus();
+		return false;
+	}
+	else
+		fname=homepage.fname.value;
+
+	if(homepage.lname.value=="")
+	{
+		alert("Please enter Last Name");
+		homepage.lname.focus();
+		return false;
+	}
+	else
+     lname=homepage.lname.value;
+
+	 if(homepage.uname.value=="")
+	{
+		alert("Please enter Username");
+		homepage.uname.focus();
+		return false;
+	}
+	else
+     uname=homepage.uname.value;
+	
+	if(homepage.password.value=="")
+	{
+		alert("Please enter Password");
+		homepage.password.focus();
+		return false;
+	}
+	else
+     pwd=homepage.password.value;
+
+	 if(isValidEmail(homepage.email.value)==false)
+	{
+		homepage.email.focus();
+		return false;
+	}
+	
+	return false;
+	 
+} 
+
+//-->
+</script>
+</head>
+<body>
+<div class="navbar navbar-fixed-top">
+<div class="navbar-inner">
+<div class="container">
+<a class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+<a class="brand" href="/LBCOM/">
+<img alt="Learnbeyond" src="images/logo.png">
+</a>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="span6">
+<div class="register-info-wraper">
+<div id="register-info">
+<h1>Learnbeyond an online training portal.</h1>
+<ul dir="rtl">
+<li>Working at your own pace anytime, anywhere</li>
+<li>Learn from your peers</li>
+<li>Take higher level classes whenever you are ready</li>
+<li>Teamwork with others to progress forward</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="span6">
+<div id="register-wraper">
+<form id="register-form" name="regform" class="form" onSubmit="validate();return false;">
+<legend>
+Register as
+<span class="blue">Student</span>
+</legend>
+<div class="body">
+<div class="control-group control-inline">
+<label for="name">First name</label>
+<input class="input-medium" type="text" name="fname" required>
+</div>
+<div class="control-group control-inline">
+<label for="surname">Last name</label>
+<input class="input-medium" type="text" name="lname" required>
+</div>
+<label>Username</label>
+<input class="input-huge" type="text" name="uname" required>
+<label>E-mail</label>
+<input class="input-huge" type="text" name="email" required>
+<label>Password</label>
+<input class="input-huge" type="text" name="password" required>
+</div>
+<div class="footer">
+<label class="checkbox inline">
+<input id="inlineCheckbox1" type="checkbox" value="option1">
+I agree to the <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a>
+</label>
+<button class="btn btn-success" type="submit">Register</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<footer class="white navbar-fixed-bottom">
+Already have an account?
+<a class="btn btn-black" href="/LBCOM/">Sign in</a>
+</footer>
+
+<div class="backstretch" style="left: 0px; top: 0px; overflow: hidden; margin: 0px; padding: 0px; height: 273px; width: 1349px; z-index: -999999; position: fixed;">
+<img style="position: absolute; margin: 0px; padding: 0px; border: medium none; width: 1349px; height: 758.442px; max-width: none; z-index: -999999; left: 0px; top: -242.721px;" src="bg4.png">
+</div>
+</body>
+</html>

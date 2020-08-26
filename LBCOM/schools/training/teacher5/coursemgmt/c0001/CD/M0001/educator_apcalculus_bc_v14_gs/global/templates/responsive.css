@@ -1,0 +1,56 @@
+/* 
+
+RESPONSIVE.CSS 
+---------------------------------------------------------------------------
+Use this document when you need to add responsiveness to any page or course. 
+Define the style inside each querie to make it change for the various sizes.
+
+*/
+
+/* iPad Landscape, FLVS standard Width */
+@media screen and (max-width: 1024px){
+	
+	
+}
+/* Course inside Educator 1024 (Chrome, FF, Safari) */
+@media screen and (max-width: 844px){
+	
+	
+}
+/* Course inside Educator 1024 (IE) */
+@media screen and (max-width: 824px){
+	
+	
+}
+/* Kindle Fire Landscape */
+@media screen and (max-width: 800px){
+	
+}
+/* iPad Portrait inside Educator*/
+@media screen and (max-width: 568px){
+	
+}
+/* iPad Portrait */
+@media screen and (max-width: 768px){
+	
+}
+/* Kindle Fire Portrait */
+@media screen and (max-width: 600px){
+	
+	
+}
+/* iPhone/iPod Touch Landscape */
+@media screen and (max-width : 480px) {
+	
+	
+}
+/* iPhone/iPod Touch Portrait */
+@media screen and (max-width : 320px) {
+	
+}
+
+
+
+
+
+

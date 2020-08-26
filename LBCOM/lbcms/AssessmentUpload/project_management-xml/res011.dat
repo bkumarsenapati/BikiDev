@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Project Management Chapter Test 1">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+      
+	
+	<item>
+		<type>Multiple Choice</type>
+		   <label>________ is typically not referred to as a buffer type in critical chain project management.</label>
+			<choice>
+				<choicelabel>Resource buffer</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Free buffer</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Feeding buffer</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Project buffer</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A company has to make a choice between two projects, because the available resources in money and kind are not sufficient to run both at the same time. Each project would take 9 months and would cost &#36;250,000.&lt;br&gt;The first project is a process optimization which would result in a cost reduction of &#36;120,000 per year. This benefit would be achieved immediately after the end of the project.&lt;br.&lt;br&gt;The second project would be the development of a new product which could produce the following net profits after the end of the project: &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;1. year:        &#36;  15,000 &lt;br&gt;&lt;br&gt;2. year:  &#36;  125,000 &lt;br&gt;&lt;br&gt;3. year:  &#36;  220,000 &lt;br&gt;&lt;br&gt;Assumed is a discount rate of 5% per year. Looking at the present values of the benefits of these projects in the first 3 years, what is true?</label>
+			<choice>
+				<choicelabel>Both projects are equally attractive.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The first project is more attractive by app. 7%.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The second project is more attractive by app. 5%.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The first project is more attractive by app. 3%.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A production process has been defined as part of an industrial equipment manufacturing project. The process is intended to produce steel bolts with a length of 20 cm. The control limits are 19.955cm and 20.045cm. &lt;br&gt;&lt;br&gt;The measurements made at the end of the process yielded the following results:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;20.033cm, 19.982cm, 19,995cm, 20.006cm, 19.970cm, 19.968cm, 19.963cm, 19.958cm, 19.962cm, 19.979cm, 19.959cm. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;What should be done?</label>
+			<choice>
+				<choicelabel>The process is under control. It should not be adjusted.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A special cause should be investigated, the process should be adjusted.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The control limits should be adjusted.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The measuring equipment should be recalibrated.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Your project management team includes two external consultants each from a different company. You found that repeated conflicts between the two consultants already slow down project progress and jeopardize achievement of objectives.&lt;br&gt;&lt;br&gt;&lt;br&gt;Which stage of team development can be difficult to overcome in such a situation?</label>
+			<choice>
+				<choicelabel>Storming from Forming, Storming, Norming, Performing</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Panic from Enthusiasm, Panic, Hope, Solution</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Kickoff from Assignment, Kickoff, Training, Communicating</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Frustration from Direction, Frustration, Cooperation, Collaboration</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>During a project, earned value analysis is performed, resulting in the following numbers:&lt;br&gt;&lt;br&gt;&lt;br&gt;EV: 523,000; PV: 623,000; AC: 643,000.&lt;br&gt;&lt;br&gt;&lt;br&gt;Which results are correct?</label>
+			<choice>
+				<choicelabel>CV: +120,000; SV: +100,000</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>CV: +100,000; SV: +120,000</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>CV: -100,000; SV: -120,000</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>CV: -120,000; SV: -100,000</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A project manager spent some days to create a multi-page document, which he called project charter. The document should have been issued by the project sponsor. The sponsor found the document outsized and asked for a condensed document. &lt;br&gt;&lt;br&gt;&lt;br&gt;Which of the following is usually not an element of the project charter?</label>
+			<choice>
+				<choicelabel>The authority level of the project manager</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Detailed control account and work package descriptions</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The business need that the project was undertaken to address</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>High-level risks</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A document called ____________ is created by decomposing the project scope into smaller, more manageable elements.</label>
+			<choice>
+				<choicelabel>Scope Statement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Network Logic Diagram</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Work Breakdown Structure</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Requested Change</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which of the following tools is used to create a risk management plan?</label>
+			<choice>
+				<choicelabel>Risk planning meetings</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Documentation reviews</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Data precision rankings</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Diagramming techniques</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>In order to speed up a project, you made a decision to fast-track a phase currently performed with five team members, and another one which was planned to begin in four weeks time with another five team members. &lt;br&gt;&lt;br&gt;Which of the following activities should you do first?</label>
+			<choice>
+				<choicelabel>Make sure that all exit criteria of the consecutive phase have been met to ensure the flow of communications in a team situation which is more complex by a factor of 2.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Make sure that all entry criteria of the previous phase have been met by planning and performing a phase gate meeting to assess technical aptness.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Make sure that all exit criteria of the previous phase have been met by planning and performing a phase gate meeting to assess technical performance.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Restructure your team and delegate tasks in order to ensure the flow of communications in a team with the number of communication channels increased by a factor of 4.5.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A project manager has been asked to support an internal project request by developing a business case.&lt;br&gt;&lt;br&gt;&lt;br&gt;What kind of information is the person expected to provide in the document?</label>
+			<choice>
+				<choicelabel>The detailed information from a business standpoint to determine whether bidding for the customer project will be successful.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The detailed information from a project management standpoint to determine whether the project will be successful.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The detailed information from a technical standpoint to determine whether the project will be successful.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The necessary information from a business standpoint to determine whether the project is worth the investment.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>You found the following earned value analysis information for a project that was recently closed-out:&lt;br&gt;&lt;br&gt;&lt;br&gt;SPI = 0.7, CPI = 1.0</label>
+			<choice>
+				<choicelabel>The project has been cancelled while it was executed. At that time the project was behind schedule and on budget.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The project&#39;s deliverables have all been finished. The project came in behind schedule but on budget. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The project&#39;s deliverables have all been finished. The project came in ahead of schedule but on budget. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The project&#39;s deliverables have all been finished. The project came in on schedule but over budget.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Which should be included in a requirements management plan?</label>
+			<choice>
+				<choicelabel>The document should trace requirements to project scope / WBS deliverables. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It should describe how requirements activities will be planned, tracked, and reported.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It should trace high-level requirements to more detailed requirements.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It should trace requirements to business needs, opportunities, goals, and objectives.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>In a traditionally drawn decision tree, a circle represents ___________.</label>
+			<choice>
+				<choicelabel>a chance to which no expected monetary value can be assigned so that a likely pay-off can not be shown.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a decision to which no expected monetary value can be assigned so that a likely pay-off can not be shown.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a chance to which an expected monetary value may be assigned to calculate the most likely pay-off.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a decision to which an expected monetary value may be assigned to calculate the most likely pay-off.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A project management team has subcontracted work to a service company. Which of the following tools is the best choice to assure that this company will be able to meet the quality requirements of the project?</label>
+			<choice>
+				<choicelabel>Quality audit</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Deliverable inspection</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Fixed price contract</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Service level agreement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>With your team you are using judgment from subject matter experts to identify and analyze project risks. There is a small number of experts available, but some of them have long been in a teacher-student or manager-assistant relationship.&lt;br&gt;&lt;br&gt;&lt;br&gt;Which of the following techniques can ensure best that there is no dominating opinion during an expert review?</label>
+			<choice>
+				<choicelabel>Peer review </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>SWOT analysis</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Delphi technique</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Monetary value calculation</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>You are running a project for a customer based on a cost-reimbursable contract with the following terms:Target costs:    &lt;br&gt;&lt;br&gt; &#36;  1,000,000 &lt;br&gt;Fixed fee: &#36; 100,000 &lt;br&gt;Benefit/cost sharing: 80% / 20% &lt;br&gt;Price ceiling: &#36; 1,200,000 &lt;br&gt;&lt;br&gt;Which is the PTA (= point of total assumption, break point) of the project?</label>
+			<choice>
+				<choicelabel>&#36;1,300,000 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&#36;1,500,000</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&#36;80,000</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&#36;1,125,000</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>During execution of a project which is performed for a customer on a T&amp;M (time and material) contract base, a new project manager is taking over the assignment. &lt;br&gt;He discovers that two members assigned to the project have charged time without performing any work for the project customer. Upon further investigation, he determines that this occurred because there have been no other project assignments open for these employees. The customer is unaware of these facts. &lt;br&gt;What should the project manager do?</label>
+			<choice>
+				<choicelabel>Try to find some productive work for these staff members in the project and leave them on the team.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The best thing is to do nothing. The customer will not realize the problem anyway.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Try to find a responsible person for the over-assignment who can be made accountable.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Take the two people off the team immediately and arrange for the refund of the excess charges to the customer.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Start dates in the following network logic diagram are defined as early morning, finish dates are evening.&lt;br&gt;If tasks are scheduled to begin at early start date, what is true?&lt;br&gt;&lt;img src=/webdav/res011/project_management/pictures/image1.gif&gt;&lt;br&gt;&lt;img src=/webdav/res011/project_management/pictures/image2.png&gt;</label>
+			<choice>
+				<choicelabel>Activity B has a free float of 10 d.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Activity B has a total float of 10 d.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Activity A has a free float of 10 d.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Activity A has a total float of 10 d.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Your project is executed with a globally spread virtual team. The project progress has been found to be too slow. Which measure is most likely to immediately speed up the project?</label>
+			<choice>
+				<choicelabel>Technical training for all team members</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Daily phone conferences and detailed reporting</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A team meeting at a location convenient to all team members</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Collocation of team members at a suitable place</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A project management team wants to procure some customized products which are available in identical grade and quality from many vendors. What should be included in the procurement package to ensure that their offers will be comparable?</label>
+			<choice>
+				<choicelabel>A statement of work describing the needs of the project in sufficient detail to enable vendors to make suitable proposals</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A statement of work specifying attributes and metrics of the requested deliverables in detail to allow vendors submission of bids</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The approved project scope statement, the WBS which should be broken down to work package level and the WBS dictionary</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The risk management plan and the reports from those risk management reviews which have been made so far</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	
+</assessment>

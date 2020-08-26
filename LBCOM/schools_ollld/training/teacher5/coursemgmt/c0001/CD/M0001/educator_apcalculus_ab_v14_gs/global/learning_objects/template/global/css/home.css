@@ -1,0 +1,47 @@
+body {
+	/*background-color:#000000;*/
+	background-image:url(../imgs/index/bg.png);
+	background-repeat:no-repeat;
+	background-position:top center;
+}
+
+a, a:visited {
+	color: #333;
+	text-decoration:none;
+}
+a img { border:none; }
+
+/* The container is the div block that contains the links to the individual modules */
+
+
+/*
+
+Levels
+
+*/
+ul.levels {
+	background-color:#fff;
+	text-align:center;
+	border: 1px solid #333;
+}
+ul.levels li {
+	list-style-type: none;
+}
+
+ul.levels li a {
+	/*background-repeat: repeat-y;
+	/* Safari 4-5, Chrome 1-9 /
+	background: -webkit-gradient(linear, left top, right top, from(#fff), to(#f4f4f4));
+	/* Safari 5.1, Chrome 10+ *
+	background: -webkit-linear-gradient(top, #fff, #f4f4f4);
+	/* Firefox 3.6+ *
+	background: -moz-linear-gradient(top, #fff, #f4f4f4);  
+	/* IE 10 *
+	background: -ms-linear-gradient(top, #fff, #f4f4f4);
+	/* Opera 11.10+ *
+	background: -o-linear-gradient(top, #fff, #f4f4f4)*/;
+}
+ul.levels li a:hover {
+	color: #FFF;
+	background-color: #000;
+}

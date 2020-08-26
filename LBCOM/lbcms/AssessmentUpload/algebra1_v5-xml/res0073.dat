@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.02 Multiplication and Division of Polys">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Matching</type>
+		<label>This question has no label</label>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_1.gif&gt;</term>
+				<definition>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_1a.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_2.gif&gt;</term>
+				<definition>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_2a.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_3.gif&gt;</term>
+				<definition>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_3a.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_4.gif&gt;</term>
+				<definition>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_4a.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+			<matchpair>
+				<term>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_5.gif&gt;</term>
+				<definition>&lt;img src=/webdav/res0073/educator_alg1_v4/pictures/M6images/6_02_5a.gif&gt;</definition>
+				<credit>2</credit>
+			</matchpair>
+	</item>
+</assessment>

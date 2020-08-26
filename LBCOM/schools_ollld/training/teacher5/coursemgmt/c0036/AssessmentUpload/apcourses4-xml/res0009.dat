@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="01.09 Price Ceilings and Floors">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>1</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>3</give>
+		</group>
+		
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price ceiling on ice cream? </label>
+			<choice>
+				<choicelabel>There will be an increase in supply of ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in demand for ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in demand for and a decrease in supply of ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded will be greater than the quantity supplied of ice cream. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied will be greater than the quantity demanded for ice cream.  </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price floor on ice cream?  </label>
+			<choice>
+				<choicelabel>There will be an increase in supply of ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in demand for ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be a decrease in demand for and an increase in supply of ice cream.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded will be greater than the quantity supplied of ice cream. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied will be greater than the quantity demanded for ice cream. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price floor on strawberries?  </label>
+			<choice>
+				<choicelabel>There will be an increase in demand for and a decrease in supply of strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in supply of strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied of strawberries will increase. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in demand for strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded for strawberries will increase.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price ceiling on strawberries?  </label>
+			<choice>
+				<choicelabel>There will be a decrease in demand for and an increase in supply of strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be a decrease in supply of strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied of strawberries will decrease. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be a decrease in demand for strawberries.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded for strawberries will decrease.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price floor on bottled drinks?  </label>
+			<choice>
+				<choicelabel>There will be a decrease in demand for and an increase in supply of bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be a decrease in demand for bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded for bottled drinks will decrease.  </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be a decrease in supply of bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied of bottled drinks will decrease. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Which of the following will occur if the government institutes an effective price ceiling on bottled drinks?  </label>
+			<choice>
+				<choicelabel>There will be an increase in demand for and a decrease in supply of bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in supply of bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity supplied of bottled drinks will increase. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There will be an increase in demand for bottled drinks.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The quantity demanded for bottled drinks will increase. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>When the government sets an effective price floor </label>
+			<choice>
+				<choicelabel>there will be an increase in supply.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be an increase in demand.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be a decrease in supply.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be a decrease in demand.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>neither supply nor demand will change. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>When the government sets an effective price ceiling </label>
+			<choice>
+				<choicelabel>there will be an increase in supply.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be an increase in demand.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be a decrease in supply.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>there will be a decrease in demand.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>neither supply nor demand will change. </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>When the government sets an effective price floor </label>
+			<choice>
+				<choicelabel>suppliers are helped and consumers are helped.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>suppliers are hurt and consumers are helped.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>suppliers are helped and consumers are hurt.   </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>suppliers are hurt and consumers are hurt.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>supply increases due to the increase in price.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>When the government sets an effective price ceiling, which of the following is true? </label>
+			<choice>
+				<choicelabel>Suppliers are helped and consumers are helped.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Suppliers are hurt and consumers are helped.   </choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Suppliers are helped and consumers are hurt.  </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Suppliers are hurt and consumers are hurt.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Demand increases due to the decrease in price.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	
+</assessment>

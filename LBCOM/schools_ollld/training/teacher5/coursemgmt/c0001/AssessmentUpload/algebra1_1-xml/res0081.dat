@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.11 Quiz 3">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Add or Subtract the following radical expressions. Simplify your answers. Do not use decimal approximations for answers. &lt;b&gt;Show your work.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_1.gif&gt;</label>
+		<credit>10.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the Pythagorean Theorem to determine if the following triangle with sides a, b, &amp; c is a right triangle. Answer Yes or No.&lt;br&gt;&lt;br&gt;triangle: a=5, b=10, c=15</label>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the Pythagorean Theorem to determine if the following triangle with sides a, b, &amp; c is a right triangle. Answer Yes or No.&lt;br&gt;&lt;br&gt;triangle: a=12, b=9, c=15</label>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the Pythagorean Theorem to find the missing side.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_4.gif&gt;</label>
+			<choice>
+				<choicelabel>25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12.5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_4d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the Pythagorean Theorem to find the missing side.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_5.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_5a.gif&gt;</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_5b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>200</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>100</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use the Pythagorean Theorem to find the missing side.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_6.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0081/educator_algebra1/pictures/M6images/A1M6Q3_6a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>81</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>9</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

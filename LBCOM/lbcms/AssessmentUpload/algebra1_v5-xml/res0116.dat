@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.00 Module 9 Pretest">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+		<label>The symbol &quot; &gt; &quot; means &quot;less than&quot; when solving an inequality  &lt;br&gt; </label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>3x - 4 &lt; 5x + 6</label>
+			<choice>
+				<choicelabel>x &lt; -5</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -5</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; 10/8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 1/4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Choose the best description of the inequality x &lt; 2 graphed on a number line.</label>
+			<choice>
+				<choicelabel>A closed dot on 2, with an arrow pointing to the right&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A closed dot on 2, with an arrow pointing to the left&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>An open dot on 2, with an arrow pointing to the right&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>An open dot on 2, with an arrow pointing to the left</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>An inequality graphed on a coordinate plane with a dashed line, would represent that the inequality was?</label>
+			<choice>
+				<choicelabel>Either less than or greater than symbol</choicelabel>
+				<credit>10</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Either less than or equal to/greater than or equal to symbol</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Only greater than or equal to symbol</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Only less than or equal to symbol</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+		<label>In the process of solving an inequality, you must reverse the sign of the inequality if you multiply or divide by a negative number.</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>3x + 4 &gt; 2x + 10</label>
+			<choice>
+				<choicelabel>x &lt; 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 6</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 5/14&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; 14</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Which of the following inequalities is equivalent to: &lt;br&gt;-5 &lt; x + 1</label>
+			<choice>
+				<choicelabel>x &lt; -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &lt; -6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x &gt; -6</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>-5x&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;25</label>
+			<choice>
+				<choicelabel>x &lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;-5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;-5&lt;br&gt;</choicelabel>
+				<credit>10</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;5&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>x&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;5</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9pt.gif&gt;&lt;br&gt;&lt;br&gt;Which of the following inequalities represents the graph shown above? </label>
+			<choice>
+				<choicelabel>y &lt; 1/2x - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9lessthanequalto.gif&gt;1/2x - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y &gt; 1/2x - 1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>y&lt;img src=/webdav/res0116/educator_algebra1/pictures/M9images/m9greaterthanequalto.gif&gt;1/2x - 1</choicelabel>
+				<credit>10</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>3</group>
+		<label>Solve the following inequality.&lt;br&gt;&lt;br&gt;3(x+2) &lt; 2x + 10</label>
+		<credit>10</credit>
+	</item>
+</assessment>

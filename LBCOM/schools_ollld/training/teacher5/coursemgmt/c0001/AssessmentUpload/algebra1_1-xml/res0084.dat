@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.14 Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Please refer to this cylinder for questions 1-3 and use 3.14 for pi when required.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_01.gif&gt;&lt;br&gt;&lt;br&gt;Find the radius of the cylinder shown above.</label>
+			<choice>
+				<choicelabel>A.) 8 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 4 inches</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 16 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 12 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Please refer to the cylinder shown in question #1 &lt;br&gt;&lt;br&gt;Find the circumference of the circle shown in the cylinder above. (round to the nearest hundredth) </label>
+			<choice>
+				<choicelabel>A.) 25.20 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 50.27 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 37.70 inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 25.12 inches</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Please refer to the cylinder shown in question #1 &lt;br&gt;&lt;br&gt;Find the volume of the cylinder. </label>
+			<choice>
+				<choicelabel>A.) 2411.52 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 301.59 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 602.88 cubic inches</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 904.32 cubic inches</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Which of the following is a quadratic polynomial?</label>
+			<choice>
+				<choicelabel>a.  3x - 4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>b.  3x - 2y + 4z - 6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_7c.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_7d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Classify this polynomial according to the number of terms:&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_8.gif&gt;</label>
+			<choice>
+				<choicelabel>A.)  Monomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.)  Binomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.)  Trinomial</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.)  Quadnomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the degree of this term:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_9.gif&gt;</label>
+			<choice>
+				<choicelabel>A.)  2nd degree</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.)  3rd degree</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.)  4th degree</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.)  5th degree</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Simplify the following:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_10.gif&gt;__________</label>
+			<blank>
+				<accepted>9y^2+4y-1</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Simplify the following:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_11.gif&gt;__________</label>
+			<blank>
+				<accepted>2x^2-9x+7</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Multiply and simplify:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FA_q12.gif&gt;__________</label>
+			<blank>
+				<accepted>-3x^8+3x^4</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Multiply and Simplfy:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_13.gif&gt;__________</label>
+			<blank>
+				<accepted>3x^2-4x-15</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Mulitply and simplify: &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_14.gif&gt;__________</label>
+			<blank>
+				<accepted>x^2-4x+4</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;Multiply and simplify:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_15.gif&gt;__________</label>
+			<blank>
+				<accepted>x^3+4x^2-x-4</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify completely:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_16.gif&gt;</label>
+			<choice>
+				<choicelabel>a.  200y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>b.  100y</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>c.  20y</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>d.  &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_16d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify completely:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_17.gif&gt;</label>
+			<choice>
+				<choicelabel>A.)  &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_17a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.)  &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_17b.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.)  &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_17c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.)  &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_17d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify completely: &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_18.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_18a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FA_q18b.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FA_q18c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FA_q18d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Multiply and simplify completely:  &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_19.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) 10x</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_19b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_19c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_19d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Divide and simplify completely.  Don&apos;t forget to rationalize the denominator:  &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_20.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_20a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B. &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_20b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_20c.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) 5/3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Remember to simplify completely.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_18a.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_18b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_18c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_18d.gif&gt;</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_18e.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>True or False: &lt;br&gt;&lt;br&gt;(x+3)(x+3) = x&lt;sup&gt;2&lt;/sup&gt; + 9</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_23.gif&gt;&lt;br&gt;&lt;br&gt;The problem shown above would be simplified to &quot;a to the third power b squared&quot; (a^3b^2).</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_21a.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_21b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_21c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_21d.gif&gt;</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) Already Simplified</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>&lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_22a.gif&gt;</label>
+			<choice>
+				<choicelabel>A.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_22b.gif&gt;</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_22c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) &lt;img src=/webdav/res0084/educator_alg1_v5/pictures/06_15_22d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) Already Simplified</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer. &lt;br&gt;&lt;br&gt;Write the formula for the Pythagorean Theorem using a and b for the sides and c for the hypotenuse.</label>
+		<credit>3.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Use this street map for questions 27-30. &lt;br&gt;&lt;img src=/webdav/res0084/educator_algebra1/pictures/M6images/M6FAq_26.gif&gt;&lt;br&gt;&lt;br&gt;Consider the accident above. How far is it to the hospital going West on Oak and then North on Elm?</label>
+			<choice>
+				<choicelabel>A.) 12 mi.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 10 mi.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 22 mi.</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) not enough information given</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>How far is it to the hospital taking Main Street?</label>
+			<choice>
+				<choicelabel>A.) 22 mi.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 15.6 mi.</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 244 mi.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) not enough information given</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Is Main Street the shortest route?</label>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What&apos;s the difference in mileage between taking Main Street or going West on Oak, North on Elm?</label>
+			<choice>
+				<choicelabel>A.) 6.4</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B.) 12.8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>C.) 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>D.) not enough information given</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

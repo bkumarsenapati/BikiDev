@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Course Viewer | ECON 252: Financial Markets</title>
+        <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+        <!-- bootstrap 3.0.2 -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- font Awesome -->
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <!-- Ionicons -->
+        <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />
+        <!-- Morris chart -->
+        <link href="css/morris/morris.css" rel="stylesheet" type="text/css" />
+        <!-- jvectormap -->
+        <link href="css/jvectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" type="text/css" />
+        <!-- fullCalendar -->
+        <link href="css/fullcalendar/fullcalendar.css" rel="stylesheet" type="text/css" />
+        <!-- Daterange picker -->
+        <link href="css/daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css" />
+        <!-- bootstrap wysihtml5 - text editor -->
+        <link href="css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+        <!-- Theme style -->
+        <link href="css/AdminLTE.css" rel="stylesheet" type="text/css" />
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="skin-blue">
+        <!-- header logo: style can be found in header.less -->
+        <header class="header">
+            <!-- <a href="index.html" class="logo"> -->
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+                
+            <!-- </a> -->
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+              <h2>ECON 252: Financial Markets</h2>
+            </nav>
+        </header>
+        <div class="wrapper row-offcanvas row-offcanvas-left">
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="left-side sidebar-offcanvas">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar user panel -->
+                      <div class="user-panel">
+                       <p class="text-light-blue">Course Progress<p>
+						
+                                    <div class="progress progress-striped active">
+                                        <div class="progress-bar progress-bar-primary" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+                                            <span class="sr-only">40% Complete (success)</span>
+                                        </div><p class="text-blue">&nbsp;40%</p>
+                                    </div>
+                    </div> 
+                    <!-- search form -->
+                    <!-- <form action="#" method="get" class="sidebar-form">
+                        <div class="input-group">
+                            <input type="text" name="q" class="form-control" placeholder="Search..."/>
+                            <span class="input-group-btn">
+                                <button type='submit' name='seach' id='search-btn' class="btn btn-flat"><i class="fa fa-search"></i></button>
+                            </span>
+                        </div>
+                    </form> -->
+                    <!-- /.search form -->
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                   <ul class="sidebar-menu">
+                        
+                        <li class="treeview">
+                            <a href="coursehome.html" target="content">
+                                <i class="fa fa-folder"></i>
+                                <span>Course Home</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+								 <li><a href="coursehome.html" target="content"><i class="fa fa-angle-double-right"></i>Welcome</a></li>
+                                <li><a href="syllabus.html" target="content"><i class="fa fa-angle-double-right"></i>Syllabus</a></li>
+                                <!-- <li><a href="calendar.html" target="content"><i class="fa fa-angle-double-right"></i>Calendar</a></li> -->
+                                <!-- <li><a href="pages/charts/inline.html"><i class="fa fa-angle-double-right"></i> Syllabus</a></li> -->
+                            </ul>
+                        </li>
+                        <li class="treeview">
+                            <a href="#" target="content">
+                                <i class="fa fa-book"></i>
+                                <span>Lecture Notes</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="lecture1.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 1</a></li>
+                                <li><a href="lecture2.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 2</a></li>
+                                <li><a href="lecture3.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 3</a></li>
+                                <li><a href="lecture4.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 4</a></li>
+                                <li><a href="lecture5.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 5</a></li>
+								<li><a href="lecture6.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 6</a></li>
+                                <li><a href="lecture7.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 7</a></li>
+                                <li><a href="lecture8.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 8</a></li>
+                                <li><a href="lecture9.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 9</a></li>
+                                <li><a href="lecture10.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 10</a></li>
+                                <li><a href="lecture11.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 11</a></li>
+                                <li><a href="lecture12.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 12</a></li>
+                                <li><a href="lecture13.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 13</a></li>
+								<li><a href="lecture14.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 14</a></li>
+                                <li><a href="lecture15.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 15</a></li>
+                                <li><a href="lecture16.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 16</a></li>
+								<li><a href="lecture17.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 17</a></li>
+                                <li><a href="lecture18.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 18</a></li>
+                                <li><a href="lecture19.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 19</a></li>
+                                <li><a href="lecture20.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 20</a></li>
+                                <li><a href="lecture21.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 21</a></li>
+								<li><a href="lecture22.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 22</a></li>
+                                <li><a href="lecture23.html" target="content"><i class="fa fa-angle-double-right"></i>Lecture 23</a></li>
+                                
+                            </ul>
+                        </li>
+                      <li class="treeview">
+                            <a href="#" target="content">
+                                <i class="fa fa-book"></i>
+                                <span>Assignments</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						<li class="treeview">
+                            <a href="#" target="content">
+                                <i class="fa fa-book"></i>
+                                <span>Assessments</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						
+						<li class="treeview">
+                            <a href="#" target="content">
+                                <i class="fa fa-list-alt"></i>
+                                <span>Course Tools</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#" target="content"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+                <!-- /.sidebar -->
+            </aside>
+
+            <!-- Right side column. Contains the navbar and content of the page -->
+            <aside class="right-side">
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>
+                        Course Home
+                        <!-- <small>Control panel</small> -->
+                    </h1>
+                    <!-- <ol class="breadcrumb">
+                        <li><a href="#" target="content"><i class="fa fa-dashboard"></i> Home</a></li>
+                        <li class="active">Dashboard</li>
+                    </ol> -->
+                </section>
+
+                <!-- Main content -->
+                <section class="content">
+
+                    <!-- Small boxes (Stat box) -->
+                 
+<!-- Main row -->
+                    <div class="row">
+                        <!-- Left col -->
+                        <section class="col-lg-12"> 
+                            <!-- Box (with bar chart) -->
+                            <div class="box box-solid">
+                                <!-- <div class="box-header">
+                                  <h3 class="box-title"> Course Description </h3>
+                                </div> --><!-- /.box-header -->
+                                <div class="box-body">
+								              <!-- iframe -->
+		<!-- <iframe name="content" src="coursehome.html" width="100%" height="1500px" frameborder="0">
+</iframe> -->
+<div style="display:block;" class="course_tab" id="course_syllabus">
+    <h2>Syllabus</h2>
+    <h3>Professor</h3>
+    <p>Robert J.  Shiller, Arthur M. Okun Professor of Economics</p>
+    <h3>Description</h3>
+    <p></p>
+    <p>An
+ overview of the ideas, methods, and institutions that permit human 
+society to manage risks and foster enterprise. Description of practices 
+today and analysis of prospects for the future. Introduction to risk 
+management and behavioral finance principles to understand the 
+functioning of securities, insurance, and banking industries.</p>
+    <p></p>
+    <h3>Texts</h3>
+    <p><strong>Main texts</strong></p>
+    <p>Fabozzi, Frank J., Franco Modigliani, Frank J. Jones, and Michael G. Ferri. <em>Foundations of Financial Markets and Institutions</em>, 4th ed. Prentice Hall, 2010.</p>
+    <p>Shiller, Robert J. <em>Finance and the Good Society</em>. Princeton University Press, 2012.</p>
+    <p><strong>Course Packet</strong></p>
+    <p>Brandeis, Louis D. <em>Other People's Money and How the Bankers Use It.</em>&nbsp;Augustus M. Kelley Publishers, Reprints of Economic Classics, 1971.</p>
+    <p>Brealey, Richard. Stuart C. Myers, and Franklin Allen. <em>Principles of Corporate Finance</em>, 8th edition. McGraw-Hill/Irwin, 2005.</p>
+    <p>Bagehot, Walter. <em>Lombard Street: A Description of the Money Market.</em> Scribner, Armstrong &amp; Co, 1873.&nbsp;<span>(freely available as a Google eBook)</span></p>
+    <p>Carnegie, Andrew. <em>The Gospel of Wealth and Other Timely Essays.</em> The Century Company, 1901. (freely available as a Google eBook)</p>
+    <p>Commodity Futures Trading Commission and Securities Exchange Commission. <em>Findings Regarding the Market Events of May 6, 2010.</em>
+ Report to the Joint Advisory Committee on Emerging Regulatory Issues, 
+Washington DC: U.S. Commodity Futures Trading Commission, September 30, 
+2010</p>
+    <p>Conant, Charles A. <em>Wall Street and the Country: A Study of Recent Financial Tendencies.</em> G.P. Putnam's Sons, 1904. (<span>freely available as a Google eBook)</span></p>
+    <p>Douglas, William O. <em>Democracy and Finance</em>. Yale University Press, 1940.</p>
+    <p>Ellis, Charles. <em>The Partnership: The Making of Goldman Sachs.</em> Penguin, 2008.</p>
+    <p>Fraser, Steve. <em>Wall Street: America's Dream Palace.</em> Yale University Press, 2009.</p>
+    <p>Gorton,
+ Gary. "Slapped in the Face by the Invisible Hand: Banking and the Panic
+ of 2007." Federal Reserve Bank of Atlanta Financial Markets Conference,
+ 2009.</p>
+    <p>Hawtrey, R. G. <em>The Art of Central Banking</em>. Longmans, Green and Co., 1932.</p>
+    <p>Johnson,
+ Simon, Rafael La Porta, Florencio Lopez-di-Silanos, and Andrei 
+Shleifer. &quot;Tunneling.&quot; American Economic Review, 2000, 90(2).</p>
+    <p>Lehrer, Jonah. "The Truth Wears Off: Is there Something Wrong with the Scientific Method?" The New Yorker, December 13, 2010.</p>
+    <p>O'Barr, William M. and John M. Conley. <em>Fortune &amp; Folly: The Wealth &amp; Power of Institutional Investing</em>. Business-One Irwin, 1992.</p>
+    <p>Seligman, Edwin R. A. <em>The Income Tax: A Study of the History, Theory, and Practice of Income Taxation at Home and Abroad.</em> 2nd edition, MacMillan, 1914.&nbsp;<span>(freely available as a Google eBook)</span></p>
+    <p>Shiller, Robert J. <em>Irrational Exuberance</em>, 2nd edition. Doubleday, 2006.</p>
+    <p>Shiller, Robert J. <em>The New Financial Order: Risk in the 21st Century</em>. Princeton University Press, 2003.</p>
+    <p>Siegel, Jeremy J. <em>Stocks for the Long Run: the definitive guide to financial market returns and long-term investment strategies</em>, 4th edition. McGraw-Hill, 2008.</p>
+    <p>Sullivan, Teresa, Elizabeth Warren and Jay Lawrence Westbrook. <em>The Fragile Middle Class: Americans in Debt</em>. Yale University Press, 2000.</p>
+    <p>Sumner, William Graham. <em>What the Social Classes Owe Each Other.</em> Harper Brothers, 1883.&nbsp;<span>(freely available as a Google eBook)</span></p>
+    <p>Swensen, David. <em>Pioneering Portfolio Management</em>. Free Press, 2000.</p>
+    <p>Thaler, Richard H. and Cass R. Sunstein. <em>Nudge: Improving Decisions about Health, Wealth and Happiness.</em> Yale University Press, 2008.</p>
+    <p>"The Gospel of Wealth" (Review) San Francisco Chronicle, February 9, 1890.</p>
+    <p>Unger, Peter. <em>Living High and Letting Die: Our Illusion of Innocence</em>. Oxford University Press, 1996.</p>
+    <p>Working, Holbrook, &quot;Futures Trading and Hedging,&quot; American Economic Review, June 1953.</p>
+    <p>World Economic Forum.&nbsp;<em>Partnering to Strengthen Public Governance.</em> Geneva, 2008.</p>
+    <h3>Requirements</h3>
+    <p>Some
+ facility with elementary algebra and calculus required. Course exams 
+consist of roughly 50% math and theory problems and 50% facts and 
+general understanding questions about financial markets.</p>
+    <h3>Grading</h3>
+    <p>Midterm exam 1: 20%<br> Midterm exam 2: 30%<br> Problem sets: 10%<br> Final exam: 40%</p>
+</div>
+                                   
+
+                                </div><!-- /.box-body -->
+                            </div><!-- /.box -->
+
+                        </section><!-- right col -->
+                    </div><!-- /.row (main row) -->
+
+
+                </section><!-- /.content -->
+            </aside><!-- /.right-side -->
+        </div><!-- ./wrapper -->
+
+        <!-- add new calendar event modal -->
+
+
+        <!-- jQuery 2.0.2 -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <!-- jQuery UI 1.10.3 -->
+        <script src="js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <!-- Morris.js charts -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+        <script src="js/plugins/morris/morris.min.js" type="text/javascript"></script>
+        <!-- Sparkline -->
+        <script src="js/plugins/sparkline/jquery.sparkline.min.js" type="text/javascript"></script>
+        <!-- jvectormap -->
+        <script src="js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" type="text/javascript"></script>
+        <script src="js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" type="text/javascript"></script>
+        <!-- fullCalendar -->
+        <script src="js/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
+        <!-- jQuery Knob Chart -->
+        <script src="js/plugins/jqueryKnob/jquery.knob.js" type="text/javascript"></script>
+        <!-- daterangepicker -->
+        <script src="js/plugins/daterangepicker/daterangepicker.js" type="text/javascript"></script>
+        <!-- Bootstrap WYSIHTML5 -->
+        <script src="js/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" type="text/javascript"></script>
+        <!-- iCheck -->
+        <script src="js/plugins/iCheck/icheck.min.js" type="text/javascript"></script>
+
+        <!-- AdminLTE App -->
+        <script src="js/AdminLTE/app.js" type="text/javascript"></script>
+        
+        <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+        <script src="js/AdminLTE/dashboard.js" type="text/javascript"></script>     
+        
+        <!-- AdminLTE for demo purposes -->
+        <script src="js/AdminLTE/demo.js" type="text/javascript"></script>
+
+    </body>
+</html>

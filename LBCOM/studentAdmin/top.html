@@ -1,0 +1,168 @@
+<html>
+
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta name="generator" content="Namo WebEditor v5.0">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+var studentChatWin=null;
+var stuExamHistoryWin=null;
+var stuAnsSheetWin=null;
+var studenteClassRoomWin=null;
+var studentUserManualwin=null;
+var studentExamWin=null;
+var studentViewMatWin=null;
+var studentPasswordWin=null;
+var studentNoticeBoardWin=null;
+var stuAsgnHtmlEditorWin=null;
+var stuAsgnAttemptsWin=null;
+var stuAsgnAttemptsFileWin=null;
+var stuAsgnTeacherRemarkWin=null;
+var stuAsgnPerDocWin=null;
+var stuAsgnTeacherInstWin=null;
+// last 6 varables are added by Ghanendra
+var logout1=false;
+
+function closestudentview(){
+	// Added by Rajesh	
+	if(logout1)return false;
+	if((parent.window.opener!=undefined)||(parent.window.opener!=null)){
+		if(parent.window.opener.window.sview.closed!=true){			
+				parent.window.opener.current_login= "Teacher";
+				parent.window.opener.oldPosition();
+				parent.window.close();
+				return false
+		}
+	}
+	return false
+	// Added By Rajesh
+}
+
+// this function gives warning to student before closing or reloading the main page regarding all popup close
+ function showwarning()
+  {     
+     return 'Reloading/closing this page or logout will close all the popups!';
+   }
+
+// this function will close all the popups related to hotschools. modified by ghanendra
+function closeallpop()
+{
+         closestudentview();
+         if(studentViewMatWin!=null && !studentViewMatWin.closed)	// coursemgmt/student/ViewMaterial.jsp
+		studentViewMatWin.close();
+	
+	if(studentPasswordWin!=null && !studentPasswordWin.closed)	// studentAdmin/modifyStudentReg.jsp
+		studentPasswordWin.close();
+
+	if(studentNoticeBoardWin!=null && !studentNoticeBoardWin.closed)	// teacherAdmin/ShowDeptFiles.jsp
+		studentNoticeBoardWin.close();
+
+	if(stuExamHistoryWin!=null && !stuExamHistoryWin.closed)	//coursemgmt/student/StudentInbox.jsp
+		stuExamHistoryWin.close();
+
+	if(studentChatWin!=null && !studentChatWin.closed)	// studentAdmin/left.jsp
+		studentChatWin.close();
+
+	if(studenteClassRoomWin!=null && !studenteClassRoomWin.closed)	// studentAdmin/left.jsp
+		studenteClassRoomWin.close();
+
+	if(studentUserManualwin!=null && !studentUserManualwin.closed)	// studentAdmin/top.html (this file only)
+		studentUserManualwin.close();
+
+	if(studentExamWin!=null && !studentExamWin.closed)	// exam/ExamPassword.jsp and exam/StudentExamsList.jsp
+		studentExamWin.close();
+		
+	if(stuAsgnHtmlEditorWin!=null && !stuAsgnHtmlEditorWin.closed) 
+		stuAsgnHtmlEditorWin.close();
+		
+	if(stuAsgnAttemptsWin!=null && !stuAsgnAttemptsWin.closed)
+		stuAsgnAttemptsWin.close();
+		
+	if(stuAsgnAttemptsFileWin!=null && !stuAsgnAttemptsFileWin.closed) 
+		stuAsgnAttemptsFileWin.close();
+	
+	if(stuAsgnTeacherRemarkWin!=null && !stuAsgnTeacherRemarkWin.closed) 
+		stuAsgnTeacherRemarkWin.close();			
+		
+	if(stuAsgnPerDocWin!=null && !stuAsgnPerDocWin.closed)
+		stuAsgnPerDocWin.close();
+		
+	if(stuAsgnTeacherInstWin!=null && !stuAsgnTeacherInstWin.closed) 
+		stuAsgnTeacherInstWin.close();		
+        return true;
+}
+
+// This function is used to close all the windows related to hotschools when a student logs out.
+function logout()
+{
+	// Added by Rajesh	
+	logout1=true;
+	if((parent.window.opener!=undefined)||(parent.window.opener!=null)){
+		if(parent.window.opener.window.sview.closed!=true){			
+			parent.window.opener.current_login= "Teacher";
+			parent.window.opener.oldPosition();
+			parent.window.close();
+			return false
+		}
+		
+	}
+	// Added By Rajesh
+	parent.frames["bottom"].logcookie();
+	//popups close is done by unload event  so i removed the popup close statements from here :  Ghanendra
+	parent.location.href="/LBCOM/common/Logout.jsp";
+	return false;
+}
+
+function usermanual()
+{
+	//studentUserManualwin=window.open("/LBCOM/manuals/learner_UG/","UserManual","resizable=yes,scrollbars,width=750,height=550,toolbars=no");
+
+	studentUserManualwin=window.open("/LBCOM/studentAdmin/Video_Tutorials/TrainingTutorials.html","UserManual","resizable=yes,scrollbars,width=750,height=550,toolbars=no");
+}
+//-->
+</SCRIPT>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" onunload="javascript:closeallpop()" onbeforeunload="javascript: return showwarning();">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="0">
+    <tr>
+        <td width="208" height="24">
+            <p><img src="../images/hsn/logo.gif"  border="0" ></p>
+        </td>
+        <td width="387" height="24">
+            <p>&nbsp;</p>
+        </td>
+        <td align="center" height="24">
+			<!-- BEGIN Help Center Live Code, ? Michael Bird 2004 -->
+			<div Title="Click here for live help"id="HCLInitiate" style="position:absolute; z-index:1; top: 40%; left:40%; visibility: hidden;">
+			<a href="javascript:initiate_accept()"><img src="//oh.learnbeyond.net/~oh/hcl/inc/skins/default/images/lh/initiate.gif" border="0"></a>
+			<a href="javascript:initiate_decline()">
+			<img Title="Click here for online Support" src="//oh.learnbeyond.net/~oh/hcl/inc/skins/default/images/lh/initiate_close.gif" border="0"></a></div>
+			<script type="text/javascript" language="javascript" src="//oh.learnbeyond.net/~oh/hcl/lh/live.php?department=Hotschools"></script>
+			<!-- END Help Center Live Code, ? Michael Bird 2004 -->
+		</td>
+        
+		<td width="104" height="24" align="center" valign="top">
+            <p align="left"><a href="javascript://" onclick="return usermanual();"><img src="../images/hsn/umanual.gif" 
+			Title="User Manual"	width="81" height="48" border="0"></a></p>
+        </td>
+        <td width="93" height="24" align="center" valign="top">
+            <p align="left"><a href="javascript://" onclick="return logout();"><img src="../images/hsn/logout.gif" Title="Logout" width="59" height="48" border="0"></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="1004" colspan="5" bgcolor="#546878"> &nbsp;           
+            <iframe name="usage" width="0" height="0"></iframe>
+        </td>
+    </tr>
+    <tr>
+        <td width="1004" colspan="5" bgcolor="#dcdcde"> &nbsp;
+
+            &nbsp;
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>

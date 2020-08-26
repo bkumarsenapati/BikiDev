@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Blog Programs</title>
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function nav()
+   {
+   var w = document.myform.mylist.selectedIndex;
+   var url_add = document.myform.mylist.options[w].value;
+   window.location.href = url_add;
+   }
+//-->
+</script>
+
+</head>
+
+<body>
+<div class="wrapper">
+    <div id="blogs"></div>
+  <div id="conferencing"></div>
+  <div id="office"></div>
+    
+  <br class="clear" />
+
+<div id="history"></div>
+<div id="media"></div>
+
+<div id="contentBox">
+
+<div class="dropDown">
+	<form name="myform">
+	  <select name="mylist" onchange="nav()">
+        <option value="" >Select...</option>
+        <option value="../index.htm">Introduction</option>
+        <option value="home_imaging.htm">Digital Imaging</option>
+        <option value="home_blogger.htm" selected="selected">Kingdom of Bloggers</option>
+        <option value="home_office.htm">Liberated Office Tools</option>
+        <option value="home_learning.htm">Collaborative Learning</option>
+        <option value="home_media.htm">Audio and Video</option>
+        <option value="home_networking.htm">Social Networking</option>
+        <option value="home_knowledge.htm">Knowledge Sharing</option>
+        <option value="home_presentation.htm">Online Presentation</option>
+                              </select>
+	</form>
+</div>
+    
+    <div class="segmentTitle">
+    	<h1>Blog Programs</h1>
+    </div>
+    
+    <br class="clear"/>
+    
+    <hr />
+	<div class="mainText">
+        <p>Blogs are websites that both professional and  amateur authors use to provide commentary on a variety of topics.  Blogs do not fact check and often contain  opinion.  For this reason, information  gained from blogs may not be reliable for research purposes.</p>
+        
+	  <p>Visit the following to learn about each blog tool!</p>
+        
+        <p class="icons">
+        <a href="http://www.blogger.com/" target="_blank"><img src="../images/google_blogger.gif" width="200" height="66" alt="Google Blogger" /></a>
+        <a href="http://l.flvsgl.com/GSL08018b1bc3591a99346ca9c4274d73c30/" target="_blank"><img src="../images/eduBlogs.jpg" width="200" height="66" alt="Edu Blogs" /></a>        </p>
+    </div>
+</div>
+
+<br class="clear" />
+
+   <div class="push"></div>
+   </div>
+  <div class="footer">
+  <div id="social"></div>
+<div id="online"></div>
+<div id="knowledge"></div>
+</div>
+
+</body>
+</html>

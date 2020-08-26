@@ -1,0 +1,875 @@
+
+@namespace "http://www.w3.org/1999/xhtml";
+@namespace xul "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul";
+[dir="rtl"] {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+[dir="ltr"] {
+    direction: ltr;
+    unicode-bidi: embed;
+}
+bdi:-moz-dir(ltr), [dir="auto"]:-moz-dir(ltr) {
+    direction: ltr;
+}
+bdi:-moz-dir(rtl), [dir="auto"]:-moz-dir(rtl) {
+    direction: rtl;
+}
+address, address[dir], article, article[dir], aside, aside[dir], blockquote, blockquote[dir], body, body[dir], caption, caption[dir], center, center[dir], col, col[dir], colgroup, colgroup[dir], dd, dd[dir], dir, dir[dir], div, div[dir], dl, dl[dir], dt, dt[dir], fieldset, fieldset[dir], figcaption, figcaption[dir], figure, figure[dir], footer, footer[dir], form, form[dir], h1, h1[dir], h2, h2[dir], h3, h3[dir], h4, h4[dir], h5, h5[dir], h6, h6[dir], header, header[dir], hgroup, hgroup[dir], hr, hr[dir], html, html[dir], legend, legend[dir], li, li[dir], listing, listing[dir], main, main[dir], marquee, marquee[dir], menu, menu[dir], nav, nav[dir], noframes, noframes[dir], ol, ol[dir], p, p[dir], plaintext, plaintext[dir], pre, pre[dir], section, section[dir], summary, summary[dir], table, table[dir], tbody, tbody[dir], td, td[dir], tfoot, tfoot[dir], th, th[dir], thead, thead[dir], tr, tr[dir], ul, ul[dir], xmp, xmp[dir] {
+    unicode-bidi: -moz-isolate;
+}
+bdi, bdi[dir], output, output[dir], [dir="auto"] {
+    unicode-bidi: -moz-isolate;
+}
+bdo, bdo[dir] {
+    unicode-bidi: bidi-override;
+}
+bdo[dir="auto"] {
+    unicode-bidi: -moz-isolate-override;
+}
+textarea[dir="auto"], pre[dir="auto"] {
+    unicode-bidi: -moz-plaintext;
+}
+article, aside, div, dt, figcaption, footer, form, header, hgroup, html, main, nav, section {
+    display: block;
+}
+body {
+    display: block;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+}
+p, dl, multicol {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+}
+dd {
+    display: block;
+    margin-left-ltr-source: logical;
+    margin-right-rtl-source: logical;
+    margin-start-value: 40px;
+}
+blockquote, figure {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 1em;
+}
+address {
+    display: block;
+    font-style: italic;
+}
+center {
+    display: block;
+    text-align: -moz-center;
+}
+blockquote[type="cite"] {
+    border-bottom-color: blue;
+    border-bottom-width: thin;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: blue;
+    border-left-style-ltr-source: logical;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: blue;
+    border-right-style-rtl-source: logical;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-start-color-value: -moz-use-text-color;
+    border-start-style-value: solid;
+    border-start-width-value: medium;
+    border-top-color: blue;
+    border-top-width: thin;
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-left-ltr-source: logical;
+    padding-right-rtl-source: logical;
+    padding-start-value: 1em;
+}
+span[_moz_quote="true"] {
+    color: blue;
+}
+pre[_moz_quote="true"] {
+    color: blue;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+}
+h2, *:-moz-any(article, aside, nav, section) h1 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+}
+h3, *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) h1 {
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+}
+h4, *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) h1 {
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.33em;
+}
+h5, *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) h1 {
+    display: block;
+    font-size: 0.83em;
+    font-weight: bold;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.67em;
+}
+h6, *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) *:-moz-any(article, aside, nav, section) h1 {
+    display: block;
+    font-size: 0.67em;
+    font-weight: bold;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2.33em;
+}
+listing {
+    display: block;
+    font-family: -moz-fixed;
+    font-size: medium;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    white-space: pre;
+}
+xmp, pre, plaintext {
+    display: block;
+    font-family: -moz-fixed;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    white-space: pre;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 2px;
+    box-sizing: border-box;
+    display: table;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-indent: 0;
+}
+table[align="left"] {
+    float: left;
+}
+table[align="right"] {
+    float: right;
+    text-align: start;
+}
+table[rules] {
+    border-bottom-style: hidden;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: hidden;
+    border-top-width: thin;
+}
+table:-moz-table-border-nonzero {
+    border-bottom-style: outset;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: outset;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: outset;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: outset;
+    border-top-width: thin;
+}
+table[frame] {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: hidden;
+    border-bottom-width: thin;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-color: -moz-use-text-color;
+    border-top-style: hidden;
+    border-top-width: thin;
+}
+table[frame="void"] {
+    border-bottom-style: hidden;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-top-style: hidden;
+}
+table[frame="above"] {
+    border-bottom-style: hidden;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-top-style: outset;
+}
+table[frame="below"] {
+    border-bottom-style: outset;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-top-style: hidden;
+}
+table[frame="lhs"] {
+    border-bottom-style: hidden;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: outset;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-top-style: hidden;
+}
+table[frame="rhs"] {
+    border-bottom-style: hidden;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: outset;
+    border-top-style: hidden;
+}
+table[frame="hsides"] {
+    border-bottom-style: outset;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: hidden;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: hidden;
+    border-top-style: outset;
+}
+table[frame="vsides"] {
+    border-bottom-style: hidden;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: outset;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: outset;
+    border-top-style: hidden;
+}
+table[frame="box"], table[frame="border"] {
+    border-bottom-style: outset;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: outset;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: outset;
+    border-top-style: outset;
+}
+table:-moz-table-border-nonzero > * > tr > td, table:-moz-table-border-nonzero > * > tr > th, table:-moz-table-border-nonzero > * > td, table:-moz-table-border-nonzero > * > th, table:-moz-table-border-nonzero > td, table:-moz-table-border-nonzero > th {
+    border-bottom-style: inset;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: inset;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: inset;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: inset;
+    border-top-width: thin;
+}
+table[rules]:not([rules="none"]):not([rules=""]) {
+    border-collapse: collapse;
+}
+table[rules]:not([rules=""]) > tr > td, table[rules]:not([rules=""]) > * > tr > td, table[rules]:not([rules=""]) > tr > th, table[rules]:not([rules=""]) > * > tr > th, table[rules]:not([rules=""]) > td, table[rules]:not([rules=""]) > th {
+    border-bottom-style: none;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: none;
+    border-top-width: thin;
+}
+table[rules][rules="none"] > tr > td, table[rules][rules="none"] > * > tr > td, table[rules][rules="none"] > tr > th, table[rules][rules="none"] > * > tr > th, table[rules][rules="none"] > td, table[rules][rules="none"] > th {
+    border-bottom-style: none;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: none;
+    border-top-width: thin;
+}
+table[rules][rules="all"] > tr > td, table[rules][rules="all"] > * > tr > td, table[rules][rules="all"] > tr > th, table[rules][rules="all"] > * > tr > th, table[rules][rules="all"] > td, table[rules][rules="all"] > th {
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+table[rules][rules="rows"] > tr, table[rules][rules="rows"] > * > tr {
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+table[rules][rules="cols"] > tr > td, table[rules][rules="cols"] > * > tr > td, table[rules][rules="cols"] > tr > th, table[rules][rules="cols"] > * > tr > th {
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+}
+table[rules][rules="groups"] > colgroup {
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: solid;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: thin;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: solid;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: thin;
+}
+table[rules][rules="groups"] > tfoot, table[rules][rules="groups"] > thead, table[rules][rules="groups"] > tbody {
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+caption {
+    display: table-caption;
+    text-align: center;
+}
+table[align="center"] > caption {
+    margin-left: auto;
+    margin-right: auto;
+}
+table[align="center"] > caption[align="left"] {
+    margin-right: 0;
+}
+table[align="center"] > caption[align="right"] {
+    margin-left: 0;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+}
+col {
+    display: table-column;
+}
+colgroup {
+    display: table-column-group;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+}
+tfoot {
+    display: table-footer-group;
+    vertical-align: middle;
+}
+table > tr {
+    vertical-align: middle;
+}
+td {
+    display: table-cell;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    text-align: inherit;
+    vertical-align: inherit;
+}
+th {
+    display: table-cell;
+    font-weight: bold;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-top: 1px;
+    vertical-align: inherit;
+}
+tr > form:-moz-is-html, tbody > form:-moz-is-html, thead > form:-moz-is-html, tfoot > form:-moz-is-html, table > form:-moz-is-html {
+    display: none !important;
+}
+table[bordercolor] > tbody, table[bordercolor] > thead, table[bordercolor] > tfoot, table[bordercolor] > col, table[bordercolor] > colgroup, table[bordercolor] > tr, table[bordercolor] > * > tr, table[bordercolor] > tr > td, table[bordercolor] > * > tr > td, table[bordercolor] > tr > th, table[bordercolor] > * > tr > th {
+    border-bottom-color: inherit;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: inherit;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: inherit;
+    border-top-color: inherit;
+}
+q:before {
+    content: open-quote;
+}
+q:after {
+    content: close-quote;
+}
+b, strong {
+    font-weight: bolder;
+}
+i, cite, em, var, dfn {
+    font-style: italic;
+}
+tt, code, kbd, samp {
+    font-family: -moz-fixed;
+}
+u, ins {
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: underline;
+    -moz-text-decoration-style: solid;
+}
+s, strike, del {
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: line-through;
+    -moz-text-decoration-style: solid;
+}
+big {
+    font-size: larger;
+}
+small {
+    font-size: smaller;
+}
+sub {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: sub;
+}
+sup {
+    font-size: smaller;
+    line-height: normal;
+    vertical-align: super;
+}
+nobr {
+    white-space: nowrap;
+}
+mark {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: yellow;
+    background-image: none;
+    background-origin: padding-box;
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: auto auto;
+    color: black;
+}
+abbr[title], acronym[title] {
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-left-ltr-source: logical;
+    padding-right-rtl-source: logical;
+    padding-start-value: 40px;
+}
+menu[type="context"] {
+    display: none !important;
+}
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    padding-left-ltr-source: logical;
+    padding-right-rtl-source: logical;
+    padding-start-value: 40px;
+}
+li {
+    display: list-item;
+}
+:-moz-any(ul, ol, dir, menu, dl) ul, *:-moz-any(ul, ol, dir, menu, dl) ol, *:-moz-any(ul, ol, dir, menu, dl) dir, *:-moz-any(ul, ol, dir, menu, dl) menu, *:-moz-any(ul, ol, dir, menu, dl) dl {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+:-moz-any(ol, ul, menu, dir) ul, *:-moz-any(ol, ul, menu, dir) menu, *:-moz-any(ol, ul, menu, dir) dir {
+    list-style-type: circle;
+}
+:-moz-any(ol, ul, menu, dir) *:-moz-any(ol, ul, menu, dir) ul, *:-moz-any(ol, ul, menu, dir) *:-moz-any(ol, ul, menu, dir) menu, *:-moz-any(ol, ul, menu, dir) *:-moz-any(ol, ul, menu, dir) dir {
+    list-style-type: square;
+}
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    -moz-float-edge: margin-box;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: inset;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 1px;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: inset;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 1px;
+    border-top-color: -moz-use-text-color;
+    border-top-style: inset;
+    border-top-width: 1px;
+    box-sizing: border-box;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+}
+hr[size="1"] {
+    border-bottom-style: none;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-top-style: solid;
+}
+img:-moz-broken:before, input:-moz-broken:before, img:-moz-user-disabled:before, input:-moz-user-disabled:before, img:-moz-loading:before, input:-moz-loading:before, applet:-moz-empty-except-children-with-localname(param):-moz-broken:before, applet:-moz-empty-except-children-with-localname(param):-moz-user-disabled:before {
+    content: -moz-alt-content !important;
+    unicode-bidi: -moz-isolate;
+}
+:-moz-any(object, applet):-moz-any(:-moz-broken, *:-moz-user-disabled) > *|* {
+    vertical-align: inherit;
+}
+img:-moz-suppressed, input:-moz-suppressed, object:-moz-suppressed, embed:-moz-suppressed, applet:-moz-suppressed {
+    display: none !important;
+    visibility: hidden !important;
+}
+img[usemap], object[usemap] {
+    color: blue;
+}
+frameset {
+    -moz-border-bottom-colors: none !important;
+    -moz-border-left-colors: none !important;
+    -moz-border-right-colors: none !important;
+    -moz-border-top-colors: none !important;
+    border-bottom-color: -moz-use-text-color !important;
+    border-bottom-style: none !important;
+    border-bottom-width: medium !important;
+    border-image-outset: 0 0 0 0 !important;
+    border-image-repeat: stretch stretch !important;
+    border-image-slice: 100% 100% 100% 100% !important;
+    border-image-source: none !important;
+    border-image-width: 1 1 1 1 !important;
+    border-left-color-ltr-source: physical !important;
+    border-left-color-rtl-source: physical !important;
+    border-left-color-value: -moz-use-text-color !important;
+    border-left-style-ltr-source: physical !important;
+    border-left-style-rtl-source: physical !important;
+    border-left-style-value: none !important;
+    border-left-width-ltr-source: physical !important;
+    border-left-width-rtl-source: physical !important;
+    border-left-width-value: medium !important;
+    border-right-color-ltr-source: physical !important;
+    border-right-color-rtl-source: physical !important;
+    border-right-color-value: -moz-use-text-color !important;
+    border-right-style-ltr-source: physical !important;
+    border-right-style-rtl-source: physical !important;
+    border-right-style-value: none !important;
+    border-right-width-ltr-source: physical !important;
+    border-right-width-rtl-source: physical !important;
+    border-right-width-value: medium !important;
+    border-top-color: -moz-use-text-color !important;
+    border-top-style: none !important;
+    border-top-width: medium !important;
+    display: block !important;
+    float: none !important;
+    overflow-x: -moz-hidden-unscrollable;
+    overflow-y: -moz-hidden-unscrollable;
+    position: static !important;
+}
+link {
+    display: none;
+}
+frame {
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+iframe {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: inset;
+    border-bottom-width: 2px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: inset;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: 2px;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: inset;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: 2px;
+    border-top-color: -moz-use-text-color;
+    border-top-style: inset;
+    border-top-width: 2px;
+}
+noframes {
+    display: none;
+}
+spacer {
+    float: none !important;
+    position: static !important;
+}
+canvas {
+    -moz-user-select: none;
+}
+:-moz-focusring:not(input):not(button):not(select):not(textarea):not(iframe):not(frame):not(body):not(html) {
+    outline-color: -moz-use-text-color;
+    outline-style: dotted;
+    outline-width: 1px;
+}
+base, basefont, datalist, head, meta, script, style, title, noembed, param, template {
+    display: none;
+}
+area {
+    display: none !important;
+}
+iframe:-moz-full-screen {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-bottom-color: -moz-use-text-color;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    border-left-color-value: -moz-use-text-color;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-left-style-value: none;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-left-width-value: medium;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-right-color-value: -moz-use-text-color;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-right-style-value: none;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-right-width-value: medium;
+    border-top-color: -moz-use-text-color;
+    border-top-style: none;
+    border-top-width: medium;
+}
+video > xul|videocontrols, audio > xul|videocontrols {
+    -moz-binding: url("chrome://global/content/bindings/videocontrols.xml#videoControls");
+    -moz-box-orient: vertical;
+    display: -moz-box;
+}
+video:not([controls]) > xul|videocontrols, audio:not([controls]) > xul|videocontrols {
+    -moz-binding: none;
+    visibility: hidden;
+}
+audio:not([controls]) {
+    display: none;
+}
+*|*::-moz-html-canvas-content {
+    display: block !important;
+    transform: translate(0px) !important;
+}
+video > .caption-box {
+    overflow-x: hidden;
+    overflow-y: hidden;
+    position: relative;
+}
+marquee {
+    -moz-binding: url("chrome://xbl-marquee/content/xbl-marquee.xml#marquee-horizontal");
+    display: inline-block;
+    text-align: start;
+    vertical-align: text-bottom;
+    width: -moz-available;
+}
+marquee[direction="up"], marquee[direction="down"] {
+    -moz-binding: url("chrome://xbl-marquee/content/xbl-marquee.xml#marquee-vertical");
+    height: 200px;
+}
+@media print {
+marquee {
+    -moz-binding: none;
+}
+}

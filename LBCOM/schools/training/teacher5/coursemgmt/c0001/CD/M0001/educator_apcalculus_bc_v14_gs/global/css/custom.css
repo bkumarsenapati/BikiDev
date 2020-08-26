@@ -1,0 +1,184 @@
+.dbaList {
+	list-style-type:decimal; 
+	padding-left:25px;
+}
+.dbaList_alpha {
+	list-style-type:lower-alpha;
+	padding-left:5px;
+}
+
+.noBullet {
+	list-style:none;
+	margin-bottom:0px;	
+	padding-bottom:0px;
+}
+
+.noBullet ol li {
+	padding-bottom: 0px;
+}
+
+mtd:nth-child(1),
+td.fm-mtd:nth-child(1)  {
+text-align:right;	
+}
+
+mtd:nth-child(3),
+td.fm-mtd:nth-child(3)  {
+text-align:left;	
+}
+
+.table-math,
+.f_t {
+	margin:0 auto;
+	font-size:15px;
+}
+
+.table-math td:nth-child(4),
+.f_t .f_n {
+	padding-left:5px;
+}
+
+.table-math td:nth-child(1),
+.f_t .f_r, .Sequationright1{ 
+	text-align:right;
+	border:0; 
+	padding:0 2px 0 0;
+	margin:0; 
+	white-space:nowrap;
+}
+
+.table-math td:nth-child(2),
+.f_t .f_c, .Sequationmiddle1 { 
+	text-align:center;
+	font-size:12px;
+	border:0 2px 0 2px;
+	width:20px;
+	padding:0;
+	margin:0; 
+	white-space: nowrap;
+}
+.table-math td:nth-child(3),
+.f_t .f_l, .Sequationleft1{ 
+	text-align:left;
+	border:0;
+	padding:0 2px 0 0;
+	margin:0; 
+	white-space: nowrap;
+}
+.va_c { 
+	vertical-align:middle;
+}
+.table-math.table-padded td,
+.f_t_pad td { 
+	padding:8px; 
+	text-align:center;
+}
+.table-math.table-padded,
+.f_t_pad {
+	margin:auto;
+	
+}
+
+/* styles jqmath to desired font, weight, and removes defualt italics */
+.fm-radicand {
+	border-top-width: 0.1em !important;
+}
+/* because jqMath uses important... */
+.math fmath table .f_l {
+	text-align: left !important;
+}
+
+.fm-mi-length-1, .math fmath, .math mi, .fm-mtd, mtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11pt;
+	font-style:normal !important;	
+	/*padding: 4px; Removed because it was causing spacing issues*/
+}
+.math mn {
+		font-family: Arial, Helvetica, sans-serif;
+	font-style:normal !important;	
+	/*padding: 4px; Removed because it was causing spacing issues*/
+}
+.math mo {
+	font-size:11pt;
+}
+.math .fm-script mi, .math .fm-script mn, .math .fm-script mo {
+	font-size:8pt;
+}
+.fm-mi-length-1.irrational, .math .irrational, .math fmath.irrational, .math mi.irrational, .math mn.irrational, .math mo.irrational {
+	font-style: italic !important;
+}
+
+/* align the jqMath tables, right on the left side, left on the right side. */
+mtd:nth-child(1),
+td.fm-mtd:nth-child(1)  {
+text-align:right;	
+}
+
+mtd:nth-child(3),
+td.fm-mtd:nth-child(3)  {
+text-align:left;	
+}
+
+/* jqMath is using important tags which requires important to override */
+.math .math-sum.red,
+.redunderline,
+.math .math-sum-row.red { 
+	border-bottom: #a20000 1px solid !important; 
+}
+.math mtr.redunderline,
+.math mtd.redunderline,
+fmath td.redunderline { 
+	border-bottom: #a20000 1px solid !important; 
+}
+/* javascript adds .redunderline so remove the 2nd red underline */
+/*.math mtd.redunderline, */
+fmath td.redunderline,
+fmath mrow.math-sum-row.red,
+fmath tr.redunderline mrow.math-sum-row.red{ 
+	border-bottom: none !important; 
+}
+
+.math .math-sum.blue {
+	border-bottom: #0066cc 1px solid; 
+}
+
+.math .math-sum, 
+.math .math_sum,
+.math .math-sum-row { 
+	border-bottom: black 1px solid; 
+}
+
+/* Colors for browsers that do NOT support MathML (fake math) */
+.math .red-num .fm-num-frac,
+.math .red-den .fm-den-frac {
+	color: #a20000;
+}
+/* Colors for browsers that support MathML */
+.math mfrac.red-num mn:nth-child(1),
+.math mfrac.red-num mrow:nth-child(1),
+.math mfrac.red-den mn:nth-child(2),
+.math mfrac.red-den mrow:nth-child(2) {
+	color:#a20000;
+}
+
+/* Strikeout for browsers that do NOT support MathML (fake math) */
+.text-strikeout, .strikeout, 
+mrow.strikeout{
+	text-decoration: line-through;
+	text-decoration-color:red;
+}
+
+.text-strikeout .fm-num-frac,
+.text-strikeout .fm-den-frac {
+	text-decoration: line-through;
+	text-decoration-color:red;
+}
+/* Strikeout for browsers that support MathML */
+.math mfrac.text-strikeout mn:nth-child(1),
+.math mfrac.text-strikeout mrow:nth-child(1),
+.math mfrac.text-strikeout mn:nth-child(2),
+.math mfrac.text-strikeout mrow:nth-child(2) {
+	text-decoration: line-through;
+	text-decoration-color:red;
+}

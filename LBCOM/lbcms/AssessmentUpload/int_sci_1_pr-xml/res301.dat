@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Integrated Science 1 Unit 1 Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+      
+	<item>
+		<type>Multiple Choice</type>
+		   <label>In an acceleration graph showing speed versus time, a straight line shows the acceleration is </label>
+			
+		
+		         <choice>
+				<choicelabel>decreasing.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increasing.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>changing.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>constant.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	     </item>
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>Which of the following is an example of exerting a force? </label>
+			<choice>
+				<choicelabel>a child running through a field</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a train speeding down a track</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a carpenter hammering a nail</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>an airplane soaring through the sky</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>Snowshoes enable a person to walk on deep snow because the snowshoes </label>
+			<choice>
+				<choicelabel>decrease the person&#39;s weight on the snow.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increase the area over which the person&#39;s weight is distributed.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increase the pressure on the snow.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increase the buoyancy of the person..</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>The transfer of energy by electromagnetic waves is called</label>
+			<choice>
+				<choicelabel>conduction.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>convection.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>radiation.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>insulation</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A measure of the average kinetic energy of the individual particles in an object is called</label>
+			<choice>
+				<choicelabel>thermal energy.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>conduction.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>convection.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>temperature.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+
+	</item>
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A person standing on a moving escalator is &#38;nbsp;&lt;u&gt;moving&lt;/u&gt;&#38;nbsp; relative to another person standing on the escalator________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+
+	<item>
+		<type>Multiple Choice</type>
+		   <label>A &#38;nbsp;&lt;u&gt;slanted&lt;/u&gt;&#38;nbsp; line on a motion graph means that the object is at rest_______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+
+
+      <item>
+		<type>Multiple Choice</type>
+		   <label>A straight line on a graph of &#38;nbsp;&lt;u&gt;speed versus time&lt;/u&gt;&#38;nbsp; means that the object has a constant acceleration_________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+   
+        <item>
+		<type>Multiple Choice</type>
+		   <label>The property of matter that resists a change in motion is called &#38;nbsp;&lt;u&gt;inertia&lt;/u&gt;&#38;nbsp;______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+  
+      <item>
+		<type>Multiple Choice</type>
+		   <label>The air pressure at an altitude of 3 km is &#38;nbsp;&lt;u&gt;less&lt;/u&gt;&#38;nbsp; than the air pressure at 1 km__________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>The volume of liquid displaced by a floating cork is &#38;nbsp;&lt;u&gt;less than&lt;/u&gt;&#38;nbsp; the volume of the object__________</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>As an airplane wing moves, air moves &#38;nbsp;&lt;u&gt;faster&lt;/u&gt;&#38;nbsp; above the wing than below it_______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+						
+	     </item>
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>A compressed spring has &#38;nbsp;&lt;u&gt;elastic potential&lt;/u&gt;&#38;nbsp; energy______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	     </item>
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>An ice cube melts when its &#38;nbsp;&lt;u&gt;mechanical&lt;/u&gt;&#38;nbsp; energy increases______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False.</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+						
+	     </item>
+	     <item>
+		<type>Multiple Choice</type>
+		   <label>&#38;nbsp;&lt;u&gt;Energy&lt;/u&gt;&#38;nbsp; is the rate at which work is done_______</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>False.</choicelabel>
+				<credit>3</credit>
+				<elements>radio</elements>
+			</choice>
+						
+	     </item>
+
+	<item>
+		<type>Fill in the Blank</type>
+		<label>According to Newton&#39;s third law of motion, the strength of a reaction force is _____ the strength of the action force.</label>
+		<blank>
+			<accepted>equal to</accepted>
+			<credit>2</credit>
+		</blank>
+	</item>
+	<item>
+		<type>Fill in the Blank</type>
+		<label>An electric motor converts electrical energy to _____ energy.</label>
+		<blank>
+			<accepted>mechanical</accepted>
+			<credit>2</credit>
+		</blank>
+	</item>
+	<item>
+		<type>Fill in the Blank</type>
+		<label>If two glasses of water are at the same temperature, the average _____ energy of the particles of water in each glass is the same.</label>
+		<blank>
+			<accepted>kinetic</accepted>
+			<credit>2</credit>
+		</blank>
+	</item>
+	<item>
+		<type>Fill in the Blank</type>
+		<label>The most disorganized state of matter is the _____ state.</label>
+		<blank>
+			<accepted>gas</accepted>
+			<credit>2</credit>
+		</blank>
+	</item>
+	<item>
+		<type>Fill in the Blank</type>
+		<label>As a substance changes state, there is no change in the _____ of the substance.</label>
+		<blank>
+			<accepted>temperature</accepted>
+			<credit>2</credit>
+		</blank>
+	</item>
+       
+	<item>
+		<type>Essay</type>
+		<label>Questions 21 - 22: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image1.jpg&gt; What is Kathy&#39;s average speed?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>How long after Kathy started jogging did Rachel begin jogging?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 23 - 24: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image2.jpg&gt; What happened to the speed of the ball during the final two seconds?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Does the graph indicate that the ball decelerated? Explain your answer.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 25: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image3.jpg&gt; Compare the acceleration of the 1-kg object with that of the 2-kg object.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 26: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image4.jpg&gt; The fluids in both containers are identical, and both blocks are the same size. Therefore, what can we conclude about the densities of the blocks?</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 27: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image5.jpg&gt; Which letter represents the position at which the basketball has the greatest kinetic energy? Explain.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 28: &lt;img src=/webdav/res302/int_sci_1_pr/pictures/image6.jpg&gt; Describe how the kinetic and potential energies of the pendulum are changing at position B</label>
+		<credit>5</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>Question 29:Explain why wedges and screws are actually types of inclined planes.</label>
+		<credit>10</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Question 30:Explain how both plants and animals stored the energy found in fossil fuels.</label>
+		<credit>10</credit>
+	</item>
+	
+	
+</assessment>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<sitemap title="" href="../index.htm">
+
+	<lesson title="Course Framework Learning Object">
+	
+		<level title="Level One: Grades 6-8">
+			<page href="../pages/01.htm" title="Learning Object: Page 1" />
+			<page href="../pages/02.htm" title="Learning Object: Page 2" />
+			<page href="../pages/03.htm" title="Learning Object: Page 3" />
+			<page href="../pages/end_01.htm" title="Learning Object: Page 3 Complete" last="last" />			
+		</level>
+		
+		<level title="Level Two: Grades 9-10">
+			<page href="../pages/04.htm" title="Learning Object: Page 4" />
+		</level>
+		
+		<level title="Level Three: Grades 11-12">
+			<page href="../pages/05.htm" title="Learning Object: Page 5" />
+		</level>
+	
+	</lesson>
+
+</sitemap>

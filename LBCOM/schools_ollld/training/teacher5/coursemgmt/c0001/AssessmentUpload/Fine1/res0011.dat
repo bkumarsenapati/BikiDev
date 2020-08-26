@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="01.12 Line of Best Fit (Honors Only)">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Please attach your work file here.  Refer to the directions in the lesson about what to submit.</label>
+		<credit>15</credit>
+	</item>
+</assessment>

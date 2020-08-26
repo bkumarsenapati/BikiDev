@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.12H Honors Test">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that best represents the perimeter of the rectangle described below.&lt;br&gt;&lt;br&gt;The length of a rectangle is 2 more than three times the width.  The perimeter is 48 feet.</label>
+			<choice>
+				<choicelabel>L = 3w + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>w + (3w + 2) = 48</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3w + (2w + 3) = 48</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2w + 2(3w + 2) = 48</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that best represents the sentence below.&lt;br&gt;&lt;br&gt;John and Sally had lunch together on Friday.  Sally paid $2 less than John.  The total bill was $19.64.</label>
+			<choice>
+				<choicelabel>J + (J - 2) = $19.64</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>S + (S - 2) = $19.64</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2S = $19.64</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>S = $19.64 - 2S</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Choose the equation that best represents the sentence below.&lt;br&gt;&lt;br&gt;There are 50 people on a committee.  There are six fewer women than men.</label>
+			<choice>
+				<choicelabel>w + (w + 6) = 50</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2w = 56</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>m + (m - 6) = 50</choicelabel>
+				<credit>4.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2m = 44</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Translate the following problem using only the variable x.  Do not solve the equation.&lt;br&gt;&lt;br&gt;Eight times the first of three consecutive odd integers is ten more than twice the second.&lt;br&gt;Note: Write your answer using NO SPACES between your characters and symbols.  Example: (4+5)-1=8</label>
+			<blank>
+				<accepted>8x=2(x+2)+10</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Translate the following problem using only one variable.  Do not solve the equation.&lt;br&gt;&lt;br&gt;The area of a rectangular yard is 200 square feet.  The width of the yard is 5 feet less than half the length.  &lt;br&gt;Remember the formula for area of a rectangle is A=lw)&lt;br&gt;&lt;br&gt;NOTE: Write your answer with NO SPACES between your characters and symbols.  Example (4=5)-1=8</label>
+			<blank>
+				<accepted>200=(1/2L-5)L</accepted>
+				<credit>4.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate the expression when a = 4, b = -2, c = 10 and d = -15.  Round your answer to the nearest hundredth.  Show work if you want to receive partial credit.&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_1.gif&gt;</label>
+			<blank>
+				<accepted>0.21</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Essay</type>
+		<label>Evaluate the expression when a = 4, b = -2, c = 10 and d = -15.  Round your answer to the nearest hundredth.  Show work if you want to receive partial credit.&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_3.gif&gt;</label>
+		<credit>3.0</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Evaluate the expression when a = 4, b = -2, c = 10 and d = -15.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_2.gif&gt;</label>
+			<choice>
+				<choicelabel>685</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4915</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4885</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>715</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Evaluate the expression when a = 4, b = -2, c = 10 and d = -15.&lt;br&gt;&lt;br&gt;ab - (d - 10b)=</label>
+			<choice>
+				<choicelabel>-11</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-13</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>27</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>29</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Evaluate the expression when a = 4, b = -2, c = 10 and d = -15.&lt;br&gt;&lt;br&gt;-3(b - 5d) + b(c - d)=</label>
+			<choice>
+				<choicelabel>-185</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>241</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-269</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-169</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_4.gif&gt;=__________</label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_5.gif&gt;=__________</label>
+			<blank>
+				<accepted>5</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_6.gif&gt;=__________</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>Evaluate.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_7.gif&gt;=__________</label>
+			<blank>
+				<accepted>4</accepted>
+				<credit>3.0</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Evaluate.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0024/educator_algebra1/pictures/M3images/M3HA_8.gif&gt;=</label>
+			<choice>
+				<choicelabel>-9</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/6</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/9</choicelabel>
+				<credit>3.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

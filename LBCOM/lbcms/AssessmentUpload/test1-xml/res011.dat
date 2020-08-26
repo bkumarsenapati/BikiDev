@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="Unit 10 Quiz">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+      
+        	
+	
+	<item>
+		<type>Essay</type>
+		<label>Find the Geometric Mean Between:&lt;br&gt;16 and 9</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res011/int_math3/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the measure of the altitude:&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Determine if the following group of numbers is Pythagorean Triples; explain why or why not.&lt;br&gt;5, 12, 13</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;Find y: &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image5.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;Find y: &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image6.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;Find y: &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image7.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find x:&lt;br&gt;Find y: &lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res011/int_math3/pictures/image8.gif&gt;</label>
+		<credit>4</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		   <label>&lt;img src=/webdav/res011/int_math3/pictures/image9.gif&gt;</label>
+			<choice>
+				<choicelabel>12 units</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res011/int_math3/pictures/image10.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res011/int_math3/pictures/image11.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res011/int_math3/pictures/image12.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	
+</assessment>

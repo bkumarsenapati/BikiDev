@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.00 Module 6 Pretest">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>What type of polynomial is 4x - 8, categorized by the number of terms?</label>
+			<choice>
+				<choicelabel>Monomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Binomial</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Trinomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>Quadnomial</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>What is the degree of this polynomial&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_2.gif&gt;?</label>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_3.gif&gt;</label>
+			<blank>
+				<accepted>5x^2+2x+6</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>1</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_4.gif&gt;</label>
+			<blank>
+				<accepted>4x^2–9x+5</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Multiply the monomials&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_5.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_5a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_5b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_5c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_5d.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Multiply the monomials&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_6.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_6a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_6b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_6c.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_6d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Divide the monomials&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_7.gif&gt;</label>
+			<choice>
+				<choicelabel>7xy</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_7b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_7c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_7d.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>Divide the monomials&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_8.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_8a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_8b.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_8c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_8d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Raise the monomial to the power&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_9.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_9a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_9b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_9c.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_9d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>Raise the monomial to the power&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_10.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_10a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_10b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_10c.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16a</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_11.gif&gt;</label>
+			<blank>
+				<accepted>12x^3y^5-6x^5y^4</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer&lt;br&gt;&lt;br&gt;Multiply: (x-4)(x+3)</label>
+			<blank>
+				<accepted>x^2-x-12</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use the caret key ^ for your exponents. For example x squared is written x^2. Do not put spaces in your answer.  &lt;br&gt;&lt;br&gt;Multiply: (2x + 3)(x - 1) = </label>
+			<blank>
+				<accepted>2x^2+x-3</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>Which of the following numbers is not a perfect square?</label>
+			<choice>
+				<choicelabel>25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>81</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>40</choicelabel>
+				<credit>5</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>49</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>100</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use sqrt for the square root symbol. For example 5 times the square root of 2x is written 5sqrt2x. Use the caret key for powers. Do not put spaces in your answer&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_15.gif&gt;</label>
+			<blank>
+				<accepted>3sqrt2</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>The way that you type in your answer in the blank will be important for the grading process. Please use sqrt for the square root symbol. For example 5 times the square root of 2x is written 5sqrt2x. Use the caret key for powers. Do not put spaces in your answer&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_16.gif&gt;</label>
+			<blank>
+				<accepted>4xy^4sqrt2x</accepted>
+				<credit>5</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Divide and simplify COMPLETELY: &lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_17.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_17a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_17b.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_17c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_17d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Simplify the square roots and combine like terms: &lt;br&gt;&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_18.gif&gt;</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_18a.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_18b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_18c.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_18d.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>5</group>
+		<label>Describe everything you know about the Pythagorean Theorem. Include the formula using a and b for the sides and c for the hypotenuse.</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_20.gif&gt;&lt;br&gt;In the triangle shown above, what is the value of the missing side?</label>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_20a.gif&gt;</choicelabel>
+				<credit>5</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_20b.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>&lt;img src=/webdav/res0071/educator_algebra1/pictures/M6images/A1M6PT_20c.gif&gt;</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>75</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+</assessment>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="03.09 Quiz 2">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>10</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Simplify: 4&lt;sup&gt;2&lt;/sup&gt;</label>
+			<choice>
+				<choicelabel>8
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>0
+&lt;br&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>16
+&lt;br&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>|4 - 12|=__________</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>|5 - 12|=__________</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>2</group>
+		<label>|5 - 11|=__________</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>2|3 - (4 + 8)|=__________</label>
+			<blank>
+				<accepted>18</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>2|3 - (4 + 5)| =__________</label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>2|3 - (4 + 3)| =__________</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>|-2 + 9| - 20=__________</label>
+			<blank>
+				<accepted>-13</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>|-3 + 9| - 20=__________</label>
+			<blank>
+				<accepted>-14</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>|-4 + 9| - 20</label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Choose the equation that best represents the following sentences.
+&lt;br&gt;Bob paid $5 less than Tim at a local pizza parlor. Together they spent $12.95.</label>
+			<choice>
+				<choicelabel>B - 5 = 12.95</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>B + (B - 5)= 12.95</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>T + B = 12.95</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>T + (T - 5) = 12.95</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Choose the equation that best represents the following sentence.
+&lt;br&gt;Eighteen more than three times a number is equal to nine more than twice a number.</label>
+			<choice>
+				<choicelabel>18 + 3 + n = 9 + 2 + n</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18 + 3n = 9 + 2n</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18(3n) = 9(2n)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18 + 3n = 9 + (n + 2)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>Choose the equation that best represents the following sentence.
+&lt;br&gt;The sum of three consecutive odd integers is equal to 99.</label>
+			<choice>
+				<choicelabel>x + 2x + 4x = 99</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 2) = 99</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 2) + (x + 4) = 99</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 3) = 99</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>&lt;img src=/webdav/res0020/educator_algebra1/pictures/M3images/M3Q2_8.gif&gt;=__________</label>
+			<blank>
+				<accepted>25</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label> 6&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>36</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>&lt;img src=/webdav/res0020/educator_algebra1/pictures/M3images/A1M3Q2_9.gif&gt;=__________</label>
+			<blank>
+				<accepted>-16</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label> -2&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label> -7&lt;sup&gt;2&lt;/sup&gt;</label>
+			<blank>
+				<accepted>-49</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>&lt;img src=/webdav/res0020/educator_algebra1/pictures/M3images/A1M3Q2_10.gif&gt;=__________</label>
+			<blank>
+				<accepted>1/8</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label> &lt;img src=/webdav/res0020/educator_algebra1/pictures/M3images/A1M3Q2_11.gif&gt;=__________</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>Evaluate the expression 2x - y when x is 4 and y is -2.__________</label>
+			<blank>
+				<accepted>10</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>Evaluate the expression 2x – y when x is 3 and y is -2.__________</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>Evaluate the expression 2x – y when x is 5 and y is -2.__________</label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>10</group>
+		<label>Evaluate the expression -3(x + y) when x is -1 and y is 0.__________</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>10</group>
+		<label>Evaluate the expression -3(x + y) when x is -2 and y is 0.__________</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>10</group>
+		<label>Evaluate the expression -3(x + y) when x is -3 and y is 0.__________</label>
+			<blank>
+				<accepted>9</accepted>
+				<credit>2</credit>
+			</blank>
+ </item>
+</assessment>

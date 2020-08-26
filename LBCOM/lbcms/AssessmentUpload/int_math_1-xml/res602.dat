@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 6 Quiz Lessons 3 - 4">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=/webdav/res602/int_math_1/pictures/image1.gif&gt;</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res602/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>1</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;img src=/webdav/res602/int_math_1/pictures/image3.gif&gt;</label>
+			<choice>
+				<choicelabel>Yes</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>No</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res602/int_math_1/pictures/image4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	
+	
+</assessment>
+

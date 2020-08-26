@@ -1,0 +1,2024 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="04.09 Module Four Exam">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<noGroups>29</noGroups>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="15">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="16">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="17">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="18">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="19">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="20">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="21">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="22">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="23">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="24">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="25">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="26">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="27">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="28">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="29">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;p&gt;Which of these experiments tests a chemical property of an object?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>heating the object to determine its melting point</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>shining a bright light on the object and testing for decomposition</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>placing the object in water to see if it dissolves</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>trying to lift the object with a magnet</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;p&gt;A scientist is performing an experiment on a powder. Which of the following is a sign that a chemical change has definitely occurred during his experiment?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The powder catches on fire.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The powder releases bubbles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The powder heats up.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The powder breaks apart into smaller particles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>&lt;p&gt;Which of the following is a physical change?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>A newspaper burns when placed in a fire.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>An iron chair rusts when left outside.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A sample of water boils and releases gas.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A plant changes carbon dioxide and water into sugar.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;p&gt;Which of the following represents a chemical change?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>rocks being smoothed by rapid water movement</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>the pink color of a rose</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>iron&#8216;s attraction to a magnet</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>decomposition of stone due to acid rain</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;p&gt;Which is a characteristic of a physical change?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The chemical bonds in the substance are unchanged.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The change cannot be seen.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The molecules all move at the same speed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The substance has reacted with another substance.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label>&lt;p&gt;Hydrochloric acid and sodium hydroxide are mixed together to form salt and water. During the reaction, the temperature of the solution increases. Which of these best explains why this is considered to be a chemical change?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>No energy was destroyed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Heat was given off.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It involved liquids.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>New substances formed.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;p&gt;Which of these is a physical property?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>flammability</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>pH value</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>reactivity with oxygen</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>smell</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;p&gt;A scientist is trying to identify an unknown substance. The answer to which of the following questions would give the scientist information about a chemical property of the substance?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Is it possible to change the shape of the substance?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Does the substance corrode when left in water?</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>What color is the substance?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>At what temperature does the substance melt?</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>3</group>
+			<label>&lt;p&gt;Which describes how chemical changes are different from physical changes?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Chemical changes can be measured, but physical changes cannot.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Chemical changes involve the formation of a new substance.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Chemical changes release energy, but physical changes absorb energy.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Chemical changes cannot be caused by oxygen.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;p&gt;Which element has two valence electrons?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>lithium (Li)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>argon (Ar)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>calcium (Ca)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>fluorine (F)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;p&gt;Which element would you expect to have a higher electronegativity than nitrogen (N)?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>fluorine (F)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>cesium (Cs)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>boron (B)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>phosphorous (P)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>4</group>
+			<label>&lt;p&gt;Where are the nonmetals located on the periodic table?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>only in the first column</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>in between the metalloids and the metals</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>on the far right side</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>in the bottom two rows</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;p&gt;Which element has 7 valence electrons?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>nitrogen (N)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>neon (Ne)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>lithium (Li)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>chlorine (Cl)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;p&gt;What do all elements in a column in the periodic table have in common?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Their atoms have the same number of valence electrons. </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Their atoms have the same atomic mass.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Their atoms have the same number of protons and electrons.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Their atoms have the same number of neutrons.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>5</group>
+			<label>&lt;p&gt;Which of these pairs of elements have the same number of valence electrons?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>hydrogen (H) and helium (He)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>sodium (Na) and potassium (K)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>carbon (C) and oxygen (O)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>boron (B) and beryllium (Be)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;p&gt;Magnesium (Mg) reacts explosively with oxygen (O&lt;sub&gt;2&lt;/sub&gt;) gas. Which of these elements is most likely to react with oxygen in a similar way?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>manganese (Mn)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>calcium (Ca)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>bromine (Br)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>sulfur (S)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>aluminum (Al) </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;p&gt;Neon (Ne) is very unreactive. Which of these elements most likely shares this property?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>sodium (Na)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>xenon (Xe)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>boron (B)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>phosphorus (P)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>6</group>
+			<label>&lt;p&gt;Which non&#8211;metal below is most reactive?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>chlorine (Cl)</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>helium (He)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>silicon (Si)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>argon (Ar)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;p&gt;Which statement is true about two isotopes of the same element?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>They have the same mass number.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They have different numbers of protons.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They have different locations on the periodic table.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They have different numbers of neutrons.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;p&gt;Which statement accurately describes the charge of the nucleus of an atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The nucleus can be either positively charged or neutral.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The nucleus never has an electrical charge.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The nucleus always has a positive charge.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The charge of a nucleus can change from positive to negative.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>7</group>
+			<label>&lt;p&gt;An atom has an atomic number of 12 and a mass number of 25. How many neutrons does the atom have?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>13</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>25</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>37</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;p&gt;Which statement best describes an atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>protons and neutrons grouped in a specific pattern </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>protons and electrons spread around randomly </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a group of protons and neutrons that are surrounded by electrons</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>a ball of electrons and neutrons surrounded by protons</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;p&gt;Which statement best describes why electrons are typically not included when determining the mass of an atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The charge of a proton cancels the charge of an electron.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The protons and neutrons are much more massive than the electrons.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons have a negative charge.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons are located outside the nucleus.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>8</group>
+			<label>&lt;p&gt;Which statement about subatomic particles is true?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Protons are the only subatomic particles to have charge.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons are the subatomic particles with the smallest mass.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Neutrons orbit the nucleus of the atom.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Subatomic particles all have the same mass.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>&lt;p&gt;Describe the particles that make up the nucleus of an atom in terms of mass and charge.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>&lt;p&gt;Describe the charges of the particles in the atom and how charge is distributed within an atom.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>9</group>
+		<label>&lt;p&gt;Explain where most of the mass of an atom is located. Also, explain why some particles that make up the atom do not contribute much to its mass.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>&lt;p&gt;Which state of matter has both a fixed shape and a fixed volume?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>&lt;p&gt;In which state of matter do the particles have the most energy?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>10</group>
+			<label>&lt;p&gt;The glow of a fluorescent light bulb or a neon sign is caused by which state of matter?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>&lt;p&gt;Which state of matter has a definite volume, but does not have a definite shape?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>&lt;p&gt;Which state of matter contains particles that move slightly in a fixed position?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>11</group>
+			<label>&lt;p&gt;Which state of matter is made up of electrically charged particles?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>&lt;p&gt;What happens to the molecules in a glass of water as the water evaporates?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>They slow down.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They move faster.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They increase in volume.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They are destroyed.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>&lt;p&gt;A scientist places an air&#8211;filled balloon into a freezer and observes that the balloon shrinks. Which best explains why this happens?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The air particles inside the balloon turn from gas to liquid.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The air particles inside the balloon make holes in the balloon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The air particles inside the balloon move faster and have more collisions with the sides of the balloon.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The air particles inside the balloon move slower and push less against the sides of the balloon.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>12</group>
+			<label>&lt;p&gt;Which is true about the temperature of a gas?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>At a higher temperature, the particles have a higher average kinetic energy.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>At a higher temperature, the volume of the gas is smaller.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>At a lower temperature, there are more particles in the gas.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>At a lower temperature, the particles in the gas move faster.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>&lt;p&gt;A balloon is filled with helium gas. What will happen as the average kinetic energy of the helium particles increases?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The balloon will decrease in total volume.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The temperature of the balloon will decrease.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The gas atoms will strike the sides of the balloon more often.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The gas inside the balloon will change into a liquid.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>&lt;p&gt;What must happen for liquid water to become water vapor?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The water molecules must lose energy and stop moving.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The water molecules must exert less pressure on their container.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The water molecules must gain kinetic energy.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The water molecules must lose heat and gain volume.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>13</group>
+			<label>&lt;p&gt;How does the motion of particles in a gas change as the gas cools?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>They move more slowly.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They move in a more circular pattern.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They move faster.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They move more randomly.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>&lt;p&gt;Which phase change is the result of particles moving more quickly?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>liquid to gas</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid to solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas to liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas to solid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>&lt;p&gt;Which best describes the transition from gas to liquid?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Energy must be removed because particles in liquid move more slowly.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Energy must be added because particles in liquid move more quickly.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Energy is neither added nor removed in this phase transition.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Energy is either removed or added, depending on the type of particles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>&lt;p&gt;When liquid helium is exposed to room temperature, it forms a gas. Which best explains why this happens?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The liquid helium absorbs energy from the air in the room.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The particles in the air absorb the energy of the liquid helium.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The helium particles release energy and slow down.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The air in the room has less energy than the liquid helium.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>15</group>
+		<label>&lt;p&gt;Describe the events that occur as water molecules start in hot bath water and end up on the surface of the bathroom mirror.&lt;/p&gt; </label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>15</group>
+		<label>&lt;p&gt;A cold glass is left sitting outside on a hot day. Soon, water droplets form on the outside of the glass. Describe the events that must occur for the water droplets to form on the glass.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>15</group>
+		<label>&lt;p&gt;Over time, a household freezer will develop a layer of ice that coats the inside and grows thicker over time. Describe what happens to cause this layer of ice to form and grow.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>&lt;p&gt;How does the movement of particles of matter change when temperature increases?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>decreases.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increases.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>increases then decreases.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>does not change.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>&lt;p&gt;What happens to a sheet of copper as the average kinetic energy of the copper molecules decreases?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>It melts.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It expands.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It gets cooler.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It gains energy.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>&lt;p&gt;What happens to acetone molecules when you add heat to a beaker of liquid acetone?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>They gain a higher average kinetic energy.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They rearrange into a more ordered state.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They get closer together.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They move more slowly.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>&lt;p&gt;In which of these substances are the molecules probably moving most quickly?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid iron at /amp;#8722;45&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>solid iron at 300&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid iron at 1600&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid iron at 1800&#176;C</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>&lt;p&gt;The molecules in a steel bar absorb energy and begin moving more quickly. What is most likely happening to the steel bar?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Its temperature is increasing.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is shrinking.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is condensing.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Its mass is decreasing.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>17</group>
+			<label>&lt;p&gt;Salt dissolves more quickly in water when the water molecules are moving very quickly. In which of these water samples would salt dissolve most slowly?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>water at 15&#176;C</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>water at 50&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>water at 75&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>water at 98&#176;C</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>&lt;p&gt;An ice cube is placed on a hot stove. Which of these statements best describes how heat moves between the ice cube and the stove?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Heat moves from the ice cube to the stove through conduction.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Heat moves from the stove to the ice cube through conduction.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Heat moves from the ice cube to the stove through convection.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Heat moves from the stove to the ice cube through convection.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>&lt;p&gt;Which state of matter is least likely to transfer heat by convection?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>solid</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>liquid</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>gas</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>plasma</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>18</group>
+			<label>&lt;p&gt;Scientists can detect heat from some kinds of objects in space. This heat is most likely transmitted by which of the following?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>convection only</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>radiation only</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>convection and conduction</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>radiation and conduction</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>19</group>
+		<label>&lt;p&gt;A glass of water sitting in direct sunlight evaporates over time. Explain this phase change in terms of the types of heat transfer that occur.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>19</group>
+		<label>&lt;p&gt;A scientist places a strip of hot metal on top of a block of another metal with a lower melting point. The second metal quickly melts. Explain this phase change in terms of the types of heat transfer that occur.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>19</group>
+		<label>&lt;p&gt;If you hold your hand over a pot of boiling water, it feels hot. Explain how the boiling water is transferring heat to your hand.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>20</group>
+		<label>&lt;p&gt;Describe how J.J. Thomson&#8216;s cathode&#8211;ray tube experiments led to his Plum Pudding model of the atom.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>20</group>
+		<label>&lt;p&gt;Describe the results of Ernest Rutherford&#8216;s gold&#8211;foil experiment and explain how his results changed ideas about the distribution of positive charge within the atom.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>20</group>
+		<label>&lt;p&gt;Explain how the results of Ernest Rutherford&#8216;s gold&#8211;foil experiment showed that the atom is mostly empty space.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>&lt;p&gt;Which of the following is the most recent addition to the accepted model of the atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Atoms are indivisible particles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Protons are located in the nucleus.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons form a cloud around the nucleus.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Neutrons orbit the nucleus along circular paths.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>&lt;p&gt;Which of these ideas was part of the earliest model of the atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Atoms can produce streams of charged particles. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons move too fast to describe where they are located.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Neutrons are located in the same place as protons.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Atoms are hard, tiny particles like billiard balls. </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>21</group>
+			<label>&lt;p&gt;Which describes a way that the Plum Pudding model was shown to be incorrect?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Neutrons were shown to be located in the nucleus.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Electrons were shown to be located outside the nucleus.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Protons were shown to be positively charged.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Atoms were shown to contain mostly empty space.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>&lt;p&gt;Which of these statements best describes the relationship between matter, pure substances, and mixtures?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Pure substances can be divided into two groups: matter and mixtures.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Matter can be divided into two groups: pure substances and mixtures.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Mixtures and matter are two of many different types of pure substances. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pure substances and matter are two of many different types of mixtures.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>&lt;p&gt;Which of these statements best describes the relationship between elements, compounds, and pure substances?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Pure substances can be divided into two groups: elements and compounds.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Compounds can be divided into two groups: pure substances and elements.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Elements and pure substances are two of many different types of compounds. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pure substances and compounds are two of many different types of elements.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>22</group>
+			<label>&lt;p&gt;Which of these statements about mixtures is true?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Mixtures are made up of elements bonded together.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Elements and compounds are types of mixtures.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Pure substances are made up of mixtures combined in specific ratios.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Mixtures are classified based on the distribution of particles in them.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>&lt;p&gt;What does it mean to say that scientific models are open to change?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Scientific models are usually not very accurate.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientific models can be adjusted when new information is found.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>People can adjust scientific models to fit their personal beliefs.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Experimental results can be changed to fit the accepted model.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>&lt;p&gt;Many scientists have contributed to the current accepted atomic model. Which of the following would be a reasonable description of this current atomic model?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The model has changed very little over its entire history.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The model gradually changed as new scientific data was gathered.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The model is virtually complete and is unlikely to change much.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The model quickly and rapidly changed until technology caught up.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>23</group>
+			<label>&lt;p&gt;Which best describes why scientific models change over time?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Models can be changed by scientists who are more famous than previous scientists.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>As technology advances, new experiments often expose problems in accepted theories.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists tend to value new theories because they are more exciting.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A newer theory is more valid because it uses more mathematics.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>&lt;p&gt;A student claims that since the model of the atom has been changed so many times, that means it is a weak model. State whether you agree with this student and why or why not.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>&lt;p&gt;When devising a model, scientists can only use the information available during their lifetime. This means that the current model of the atom may be changed when new experiments are performed in the future. Does this mean that the currently accepted model of the atom is useless? Explain your answer.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>&lt;p&gt;The first periodic table developed by Mendeleev was not completely accurate, but was a great step toward accomplishing the periodic table of elements we use today. Explain how the modern periodic table is credible today because of Mendeleev&#8216;s work.&lt;/p&gt;</label>
+		<credit>5</credit>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>25</group>
+			<label>&lt;p&gt;Why is disagreement among scientists important to the progress of science?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Facing disagreement forces scientists to prove their theories more conclusively.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Disagreement proves that no scientific theories are valid.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A scientific model is not useful unless every scientist agrees it is perfect.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists do not learn new information when their hypothesis is proven to be incorrect.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>25</group>
+			<label>&lt;p&gt;Many scientists contributed to the current model of atoms. Which of the following offers a hypothesis on how people&#8216;s backgrounds and interests influence their work?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>A person with more activities and interest is more creative and intelligent.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A person&#8216;s background and interests can give him a unique perspective in his research.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>If a person has an outside influence on his work, it is more credible to the general public.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A person&#8216;s involvement in arts and literature will help them notice more details in their research.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>25</group>
+			<label>&lt;p&gt;If different groups of scientist have access to the same data, how can they draw different conclusions?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Scientists manipulate data to fit their hypotheses, which results in different conclusions. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientific predictions must list every possibility, and so scientists are not technically incorrect. </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists have different specialties and will interpret data differently, depending on their specialties. </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientific predictions are not usually testable, so this leads to different conclusions.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>26</group>
+			<label>&lt;p&gt;Which was a testable idea that J.J. Thomson developed through his experiments?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Atoms are the most important substances in the universe.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is impossible to divide an atom into smaller parts.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There are electrically neutral particles inside atoms.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Atoms contain small, negatively charged particles.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>26</group>
+			<label>&lt;p&gt;Which best describes a way that an experiment contradicted an existing model of the atom?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Thomson showed that neutrons must be located in the center of an atom.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Rutherford showed that the atom must have a nucleus.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Bohr showed that atoms must contain negative charges.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Chadwick showed that atoms cannot contain neutral particles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>26</group>
+			<label>&lt;p&gt;How have the competing explanations&apos; experiments on atoms affected the development of the atomic model?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The atomic model better represents the actual functioning of an atom.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The atomic model has become much simpler than it used to be.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The atomic model now involves fewer subatomic particles.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The atomic model has become less strong over time.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>27</group>
+			<label>&lt;p&gt;Which is true about scientific theories?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>They are the result of a single experiment.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They are the results of many experiments over a long period of time.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They are proposed by scientists who wish to investigate a new topic.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>They are only based on the most recent evidence.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>27</group>
+			<label>&lt;p&gt;Which best describes the current atomic theory?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Since it is only a theory it should not be used in practice.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It has not been tested enough to be useful for developing technology.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is the most powerful explanation scientists have to offer at this time.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>There is very little chance it will be changed in the future.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>27</group>
+			<label>&lt;p&gt;Which best describes how the current scientific model of the atom was developed?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The model was the result of hundreds of years of experiments.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Recent experiments invalidated most of the work of the last 200 years.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Most of the discoveries from the early 1900s were shown to be incorrect.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>New experiments were ignored if they did not agree with the accepted theory.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>28</group>
+			<label>&lt;p&gt;A student says that since the atomic theory is just a theory, it should not be considered useful. Which statement best argues against the student&#8216;s opinion?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Scientific theories change over time.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientific theories are the results of many experiments and observations.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists often do not agree about specific details of scientific theories.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists often propose competing theories.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientific theories do not become Scientific Laws.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>28</group>
+			<label>&lt;p&gt;Which best explains why scientific theories grow stronger over time?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>As more scientists attempt to find holes in the current theory, adjustments are made which make the theory stronger.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>More students are taught about the theory, and so there are more people who believe the theory to be true.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists believe that older theories are stronger than newer theories.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>New evidence is ignored if it contradicts the older, more accepted theories.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>28</group>
+			<label>&lt;p&gt;Why does the modern atomic theory used today represent the best explanation scientists have to offer?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Modern technology supports the current atomic theory.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The model of the atom has not changed much in over 75 years.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The modern atomic theory contains over 200 years of research. </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Scientists have not been successful in disproving the atomic theory.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>29</group>
+			<label>&lt;p&gt;Why is having a scientific model of the atom important?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>The model allows us to predict how atoms will behave in certain situations.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>The atom is the smallest known particle in the universe.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Models are used to prove which scientist is correct in a debate.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is impossible to predict how atoms behave in nature.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>29</group>
+			<label>&lt;p&gt;Which best describes the current atomic model?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>It is not an exact representation of the atom, but is close enough to be very useful.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is not an exact representation of the atom, so it is not very useful.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It describes exactly how the atom behaves in every circumstance.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>It is so trusted that no new information could possibly cause a change to the model.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>29</group>
+			<label>&lt;p&gt;Which of the following is true about scientific models?&lt;/p&gt;</label>
+			<choice>
+				<choicelabel>Models are used to simplify the study of things.</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Computer models are the most reliable kind of model.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>Models explain past, present and future information.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>A model is accurate if it does not change over time.</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

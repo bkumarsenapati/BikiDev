@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+
+<!-- 
+This file is used to define template sets for various devices and screen resolutions
+
+Options:
+
+device="all|mobile|desktop" 
+max_res="default | #"
+
+Rules:
+
+You MUST list the default template set first...
+You MUST list the external template set second...
+You MUST list the other templates based on descending max resoluton (1024, 768, 480, 320)
+
+-->
+	<!-- DESKTOPS / LESSON PAGES -->
+	<set orientation='default' device="all">
+		<template>menu.htm</template>
+		<template>body.htm</template>
+	</set>
+	<!-- DESKTOPS / EXTERNAL PAGES -->
+	<set orientation='external' device="all">
+		<template>body.htm</template>
+	</set>
+	
+	<!-- Tablets Landscape -->
+	<set orientation='landscape' device='tablet'>
+		<template>menu.htm</template>
+		<template>body.htm</template>
+	</set>
+	
+	<!-- Tablets Portrait -->
+	<set orientation='portrait' device='tablet'>
+		<template>menu.htm</template>
+		<template>body.htm</template>
+	</set>
+	
+	<!-- Phone Landscape -->
+	<set orientation='landscape' device='phone'>
+		<template>menu.htm</template>
+		<template>body.htm</template>
+	</set>
+	
+	<!-- Phone Portrait -->
+	<set orientation='portrait' device='phone'>
+		<template>menu.htm</template>
+		<template>body.htm</template>
+	</set>
+
+</templates>

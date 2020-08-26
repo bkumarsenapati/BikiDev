@@ -1,0 +1,312 @@
+<html>
+<head><title></title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function redirect(user,school){
+	alert("We are Sorry. You don't have access to this Forum");
+	document.location.href="ShowDirTopics.jsp?emailid="+user+"&schoolid="+school;
+}
+//-->
+</SCRIPT>
+</head>
+<body topmargin="0" leftmargin="0">
+<%@  page language="java"  import="java.sql.*,java.util.*,coursemgmt.ExceptionsFile" %>
+<%@ page errorPage="/ErrorPage.jsp" %>
+<jsp:useBean id="con1" class="sqlbean.DbBean" scope="page" />
+
+<%!
+String user,dir="",schoolid="",replycount="",user1="",topic="",maxdate="",topic1="",one="",two="",three="",posteddate=" ",forumid,utype,acode="",temp="",message="",grade;
+int sno=0;
+String tStatus="",fcolor="",tMsgStatus="",status="";
+String month[]={" ","Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec"};
+
+private String check4Opostrophe(String s){
+  StringBuffer stringbuffer = new StringBuffer(s);
+        int i = 0;
+        int j = 0;
+        while(i < s.length()) 
+            if(s.charAt(i++) == '\'')
+            {
+                stringbuffer.replace(j + i, j + i, "'");
+                j++;
+            }
+
+        return stringbuffer.toString();
+}
+%>
+<%
+Connection con=null;
+Statement stmt=null,stmt1=null;
+ResultSet rs=null,rs1=null;
+%>
+<%
+user=(String)session.getAttribute("emailid");
+schoolid=(String)session.getAttribute("schoolid");
+utype=(String)session.getAttribute("logintype");
+forumid=request.getParameter("fid");
+dir=request.getParameter("fname");
+status=request.getParameter("status");
+System.out.println("status.."+status);
+if(status==null || status.equals("null"))
+{
+	System.out.println("if.."+status);
+	status="1";
+}
+boolean flag=false;
+%>
+<table width="100%">
+<tr>
+<td width="289">
+	<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="99%" id="AutoNumber1" align="left">
+	  <tr>
+		<td width="42%" align="center">
+		<p align="center"><a href="/LBRT/schoolAdmin/Forums/ForumManagement.jsp?userid=<%=user%>&schoolid=<%=schoolid%>">Forum Index</a></td>
+		<td width="158%" align="center">
+		<p align="center">Forum Management</td>
+
+	  </tr>
+	</table>
+</td>
+</tr>
+<td>&nbsp;</td>
+<tr>
+  <td width="100%"><b>Forum Management</b> is where you can manage all aspects of your forums and threads. It is very intuitive and easy to use. To add new thread in a forun, click the <b>Add New Thread</b> link in that forum. To edit your thread, just click the Edit picture.
+</td>
+</tr>
+
+<tr>
+  <td width="289">&nbsp;</td>
+</tr>
+
+  <tr>
+  <td width="289" align="right">
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1" align="left">
+	  <tr>
+		<td width="100%" align="left">
+		<%
+		if(!status.equals("0"))
+		{%>
+			<font color="#000000" size="2" face="Arial, Arial, Helvetica, sans-serif"> 
+      <b><a href="PostNewThread.jsp?mode=add&fid=<%= forumid %>&fname=<%=dir%>" style="color: #000000;text-decoration:none">Add New Thread</a></font>
+	  <%}
+	  else
+	  {%>
+	  <font color="#000000" size="2" face="Arial, Arial, Helvetica, sans-serif"> 
+      <b><font style="color: red;text-decoration:none">Forum has been closed</font>
+	  <%}%>
+		</td>
+		<!-- <td width="167%" align="center">
+			<p align="center"><font color="#000000" size="2" face="Arial, Arial, Helvetica, sans-serif"> 
+      <b><a href="PostNewTopic.jsp?fid=<%= forumid %>&fname=<%=dir%>" style="color: #000000;text-decoration:none">Add New Thread</a></font></p>
+		</td> -->
+	  </tr>
+ 
+	</table>
+  </td>
+ </tr>
+</table>
+<table width="100%">
+<tr>
+ <td bgColor="#F0B850" align="right" width="100%"><a href="ForumMgmtIndex.jsp?emailid=<%= user %>&schoolid=<%= schoolid %>" style="COLOR: #000080; TEXT-DECORATION: none"><b><font face="Arial" color=black size="2">Back</font></b></a></td>
+ </tr>
+ </table>
+<table border="1" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="76%" id="AutoNumber2">
+  <tr>
+    <td width="5%">&nbsp;</td>
+    <td width="2%">&nbsp;</td>
+    <td width="50%"><font color="#800000" face="Arial" size="2"><b>Forum: 
+      <%= dir %></b></font></td>
+    <td width="8%"><font color="#800000" face="Arial" size="2"><b>Author</b></font></td>
+	<td width="8%"><font color="#800000" face="Arial" size="2"><b>Replies</b></font></td>
+	<td width="10%"><font color="#800000" face="Arial" size="2"><b>No of Views</b></font></td>
+	<td width="36%"><font color="#800000" face="Arial" size="2"><b>Created Date</b></font></td>
+	<td width="8%"><font color="#800000" face="Arial" size="2"><b>Status</b></font></td>
+  </tr>
+<%
+try{
+	con = con1.getConnection();
+	stmt=con.createStatement();
+	rs=stmt.executeQuery("select * from forum_master where school_id='"+schoolid+"' and forum_id='"+forumid+"' and created_by='"+user+"' and creator_type='"+utype+"'");
+	if(!rs.next()){
+	if(utype.equals("student")){
+		rs=stmt.executeQuery("select grade from studentprofile where username='"+user+"' and schoolid='"+schoolid+"'");
+		if(rs.next())
+			grade=rs.getString(1);
+		/*if(!grade.equals("GradeK")){
+			temp=grade.substring(0,grade.indexOf('G'));
+			if(temp.length()>3)
+				temp=temp.substring(0,2);
+			else
+				temp=temp.substring(0,1);
+		}
+		else 
+			temp = "K";*/
+		temp=grade;
+		acode="-S:"+temp+":ALL-";
+	}
+	if(utype.equals("teacher")){
+		rs=stmt.executeQuery("select class_id from teachprofile where username='"+user+"' and schoolid='"+schoolid+"'");
+		if(rs.next())
+			grade=rs.getString(1);
+		/*if(!grade.equals("GradeK")){
+			temp=grade.substring(0,grade.indexOf('G'));
+			if(temp.length()>3)
+				temp=temp.substring(0,2);
+			else
+				temp=temp.substring(0,1);
+		}
+		else 
+			temp = "K";*/
+		temp=grade;
+		acode="-T:"+temp+":ALL-";
+	}
+	if(!utype.equals("admin")){
+		rs=stmt.executeQuery("select * from forum_master where school_id='"+schoolid+"' and forum_id='"+forumid+"' and access_code like '%"+acode+"%'");
+		if(!rs.next()){
+%>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+redirect('<%=user%>','<%=schoolid%>');
+//-->
+</SCRIPT>
+<%
+		}
+	}}
+}
+catch(Exception ex){
+	ExceptionsFile.postException("ShowThreads.jsp","operations on database","Exception",ex.getMessage());
+	out.println(ex+" its first");
+}
+%>
+<center>
+<%
+        String d1=new java.util.Date().toString();
+        StringTokenizer stz=new StringTokenizer(d1," ");
+        String dd,mon,yy,d;
+        mon=stz.nextToken();
+        mon=stz.nextToken();
+        dd=stz.nextToken();
+        yy=stz.nextToken();
+        yy=stz.nextToken();
+        yy=stz.nextToken();
+        d=yy+"-"+mon+"-"+dd;
+		try
+        {
+          stmt1=con.createStatement(); 
+          rs=stmt.executeQuery("select * from forum_post_topic_reply where forum_id='"+forumid+"' and school_id='"+schoolid+"' and trans_type='1'");
+          while (rs.next())
+          {
+			sno=rs.getInt(1);
+			user1=rs.getString(4);
+			topic=rs.getString(6);
+			message=rs.getString(7);
+			String temp=check4Opostrophe(topic);
+			topic1=topic.replace('_','\'');
+			maxdate=rs.getString(8);
+            replycount="0";
+			flag=true;
+            String query1="select count(*) from forum_post_topic_reply where forum_id='"+forumid+"' and topic='"+temp+"' and trans_type='2' and school_id='"+schoolid+"'";
+			rs1=stmt1.executeQuery(query1);         
+			if(rs1.next()){				
+			    replycount=rs1.getString(1);
+				tStatus=rs.getString("status");
+				if(tStatus.equals("1"))
+				{
+					fcolor="#008000";
+					tMsgStatus="Active";
+				}
+				else if(tStatus.equals("0"))
+				{
+					fcolor="red";
+					tMsgStatus="Inactive";
+				}
+				else if(tStatus.equals("2"))
+				{
+					fcolor="red";
+					tMsgStatus="Inactive";
+				}
+				System.out.println("tStatus...&&&&&&&"+tStatus);
+			}
+            try
+			{
+				StringTokenizer stzd1=new StringTokenizer(maxdate," ");
+			    if(stzd1.hasMoreTokens())
+				{
+					maxdate=stzd1.nextToken();
+				}
+		        StringTokenizer stzd=new StringTokenizer(maxdate,"-");
+		        one=stzd.nextToken();
+				two=stzd.nextToken();
+		        three=stzd.nextToken();
+		        int m=Integer.parseInt(two);
+		        posteddate=month[m]+" "+three+","+one;
+			}
+	        catch(Exception ee)
+		    {
+				ExceptionsFile.postException("ShowThreads.jsp","tokenizing the string","Exception",ee.getMessage());
+	           out.println(ee+" hhh");
+		    }
+			%>
+     <tr>
+	 <td width="5%"><a href="/LBRT/schoolAdmin/PostNewThread.jsp?sno=<%=sno%>&utype=<%=utype%>&fid=<%=forumid%>&fname=<%=dir%>&tid=<%=topic%>&message=<%=message%>&mode=edit">
+			<img border="0" src="images/button_edit.gif" width="39" height="21" title="Edit Forum" border=0></a></td>
+			<td width="2%"><a href="/LBRT/schoolAdmin/DeleteThread.jsp?mode=delete&sno=<%=sno%>&sid=<%=schoolid%>&fid=<%=forumid%>&topic=<%=topic1%>&user=<%=user1%>&postdate=<%= posteddate %>&dir=<%= dir %>&status=<%=tStatus%>" onclick="return confirm('Are you sure that you want to delete this thread?')"><img border="0" src="images/del.gif" width="19" height="21" TITLE="Delete Forum" border=0></a></td>
+	   <td bgColor="#E2E2E2" align=left width="25%">
+     <font size="2" color="#000000" face="Arial">&nbsp;<%= topic1 %></font></td>
+      <td bgColor="#E2E2E2" align=center width="8%"><font color="#000000" size="2" face="Arial"><%= user1 %></font></td>
+      <td bgColor="#E2E2E2" align="center" width="8%"><font color="#000000" size="2" face="Arial"><%= replycount %></font></td>
+	  <td bgColor="#E2E2E2" align="center" width="10%"><font color="#000000" size="2" face="Arial">1</font></td>
+      <td bgColor="#E2E2E2" align=center width="36%"><font color="#000000" size="2" face="Arial"><%= posteddate %></font></td>
+	  <td bgColor="#E2E2E2" align=center width="8%">
+	  <%if(!tStatus.equals("2"))
+		{%>
+		<font color="#000000" size="2" face="Arial" title="Change Forum Status"><a href="/LBRT/forums/ChangeThreadStatus.jsp?fid=<%=forumid%>&fname=<%=dir%>&status=<%=tStatus%>&userid=<%=user1%>&sno=<%=sno%>&topic=<%= topic %>"><%=tMsgStatus%></font></a>
+	  
+	  <%
+		}
+		else
+		{%>
+		<font color="#000000" size="2" face="Arial" title="Change Forum Status"><%=tMsgStatus%></font>
+		
+		<%}%>
+	  </td>
+    </tr>
+<%
+      }
+	 if(flag==false)
+		out.println("<tr><td bgColor=\"#E2E2E2\" colspan=8 width=\"100%\">&nbsp;</td></tr><tr><td bgColor=\"#E2E2E2\" colspan=8 align=center width=\"100%\"><-- No Topics Available --></td></tr><tr><td bgColor=\"#E2E2E2\" colspan=8 width=\"100%\">&nbsp;</td></tr>");
+          
+	}
+	catch(Exception e)
+	{
+		ExceptionsFile.postException("ShowThreads.jsp","operations on database","Exception",e.getMessage());
+		out.println(e);
+	}
+	finally
+    {
+		try
+        {
+			if(stmt1!=null)
+				stmt1.close();
+			if(stmt!=null)
+		        stmt.close();
+			if(con!=null)
+		        con.close();
+        }catch(Exception e){
+			ExceptionsFile.postException("ShowThreads.jsp","closing the resultset ,statment and connection object","Exception",e.getMessage());
+			System.out.println("Connection close failed");
+		}
+
+    }
+%>
+</table>
+<table width="100%">
+<tr>
+	  <td bgColor="#F0B850" colspan=4 align="left" width="100%">&nbsp;</td>
+</tr>
+</table>
+</center>
+</body>
+</html>

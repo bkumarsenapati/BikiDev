@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Courseviewer</title>
+        <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+        <!-- bootstrap 3.0.2 -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- font Awesome -->
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <!-- Ionicons -->
+        <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />
+        <!-- Morris chart -->
+        <link href="css/morris/morris.css" rel="stylesheet" type="text/css" />
+        <!-- jvectormap -->
+        <link href="css/jvectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" type="text/css" />
+        <!-- fullCalendar -->
+        <link href="css/fullcalendar/fullcalendar.css" rel="stylesheet" type="text/css" />
+        <!-- Daterange picker -->
+        <link href="css/daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css" />
+        <!-- bootstrap wysihtml5 - text editor -->
+        <link href="css/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+        <!-- Theme style -->
+        <link href="css/AdminLTE.css" rel="stylesheet" type="text/css" />
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body class="skin-blue">
+        <!-- header logo: style can be found in header.less -->
+        <header class="header">
+            <!-- <a href="index.html" class="logo"> -->
+                <!-- Add the class icon to your logo image or logo icon to add the margining -->
+                
+            <!-- </a> -->
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top" role="navigation">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+              <h2>ECON 252: Financial Markets</h2>
+            </nav>
+        </header>
+        <div class="wrapper row-offcanvas row-offcanvas-left">
+            <!-- Left side column. contains the logo and sidebar -->
+            <aside class="left-side sidebar-offcanvas">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Sidebar user panel -->
+                    <!-- <div class="user-panel">
+                        <div class="pull-left image">
+                            <img src="img/avatar3.png" class="img-circle" alt="User Image" />
+                        </div>
+                        <div class="pull-left info">
+                            <p>Hello, Jane</p>
+
+                            <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                        </div>
+                    </div> -->
+                    <!-- search form -->
+                    <!-- <form action="#" method="get" class="sidebar-form">
+                        <div class="input-group">
+                            <input type="text" name="q" class="form-control" placeholder="Search..."/>
+                            <span class="input-group-btn">
+                                <button type='submit' name='seach' id='search-btn' class="btn btn-flat"><i class="fa fa-search"></i></button>
+                            </span>
+                        </div>
+                    </form> -->
+                    <!-- /.search form -->
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                    <ul class="sidebar-menu">
+                        
+                        <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-folder"></i>
+                                <span>Course Home</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="syllabus.html"><i class="fa fa-angle-double-right"></i> Syllabus</a></li>
+                                <li><a href="calendar.html"><i class="fa fa-angle-double-right"></i> Calendar</a></li>
+                                <!-- <li><a href="pages/charts/inline.html"><i class="fa fa-angle-double-right"></i> Syllabus</a></li> -->
+                            </ul>
+                        </li>
+                        <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-book"></i>
+                                <span>Lecture Notes</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Introduction</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Company Valuation</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Cash Flow Analysis</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Earnings for Valuation</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Comparative Analysis</a></li>
+								 <li><a href="#"><i class="fa fa-angle-double-right"></i>Turbo Accounting I </a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Companies Cook the Books</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i>Earnings Management</a></li>
+                              
+                            </ul>
+                        </li>
+                      <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-book"></i>
+                                <span>Assignments</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						<li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-book"></i>
+                                <span>Assessments</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						<li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-book"></i>
+                                <span>Unit 1</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						<li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-book"></i>
+                                <span>Unit 2</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+						<li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-list-alt"></i>
+                                <span>Course Tools</span>
+                                <i class="fa fa-angle-right pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 1</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 2</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 3</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 4</a></li>
+                                <li><a href="#"><i class="fa fa-angle-double-right"></i> Lesson 5</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </section>
+                <!-- /.sidebar -->
+            </aside>
+
+            <!-- Right side column. Contains the navbar and content of the page -->
+            <aside class="right-side">
+                <!-- Content Header (Page header) -->
+                <section class="content-header">
+                    <h1>
+                        Course Home
+                        <!-- <small>Control panel</small> -->
+                    </h1>
+                    <!-- <ol class="breadcrumb">
+                        <li><a href="#"><i class="fa fa-dashboard"></i> Home</a></li>
+                        <li class="active">Dashboard</li>
+                    </ol> -->
+                </section>
+
+                <!-- Main content -->
+                <section class="content">
+
+                    <!-- Small boxes (Stat box) -->
+                 
+<!-- Main row -->
+                    <div class="row">
+                        <!-- Left col -->
+                        <section class="col-lg-12"> 
+                            <!-- Box (with bar chart) -->
+                            <div class="box box-solid">
+                                <div class="box-header">
+                                  <!-- <h3 class="box-title"> Course Description </h3> -->
+                                </div><!-- /.box-header -->
+                                <div class="box-body">
+                                            <table class="tablewidth75" summary="See table caption for summary." style="margin: 11px 0px 0px; padding: 0px; border: 1px solid rgb(153, 153, 153); border-collapse: collapse; border-spacing: 0px; empty-cells: show; width: 587px; font-size: 0.92em; color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal;
+widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;">
+    <thead style="margin: 0px; padding: 0px; border: 0px;">
+    <tr style="margin: 0px; padding: 0px; border: 0px;">
+        <th scope="col" style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-size: 1em; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: rgb(255, 255, 255); text-transform: uppercase; text-align: left; background-color: rgb(127, 110, 106);">LEC&nbsp;#</th>
+        <th scope="col" style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-size: 1em; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: rgb(255, 255, 255); text-transform: uppercase; text-align: left; background-color: rgb(127, 110, 106);">TOPICS</th>
+        <th scope="col" style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-size: 1em; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: rgb(255, 255, 255); text-transform: uppercase; text-align: left; background-color: rgb(127, 110, 106);">KEY DATES</th>
+    </tr>
+    </thead><tbody style="margin: 0px; padding: 0px; border: 0px;">
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">1</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Introduction: Accounting Scandals, Business Valuation and Market Efficiency</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">2</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">The Basics of Company Valuation: DCF Foundations Setting the Stage for Using Accounting Information</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">3</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Cash Flow Analysis: Is Cash King?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">4</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Using Accounting Earnings for Valuation - Why Earnings and Not Cash Flow?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Submit group names and select company for Project</td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">5</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Comparative Analysis: What Do Analysts Do?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">6</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Turbo Accounting I - A Review of&nbsp;How to Read a Financial Statement</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Homework #1 Due</td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">7</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">How Companies Cook the Books</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">8</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Detecting Earnings Management: Applied Analysis</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">9</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">1) Quiz #1 - In Class<br style="margin: 0px; padding: 0px; border: 0px;"><br style="margin: 0px; padding: 0px; border: 0px;">2) Final Guidance/Overview on Part 1 of Project</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Optional Review Session scheduled day before Quiz</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+        <td colspan="2" style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"><strong style="margin: 0px; padding: 0px; border: 0px;">You must e-mail Part 1 of your team's report to me and to the due diligence team by 5:00 pm the day after class 9.</strong></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">10</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Analyst Team Presentations and Due Diligence Response by Matched Teams</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">&quot;Cash Flow Projections and Earnings Quality&quot;</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">11</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Analyst Team Presentations and Due Diligence Response by Matched Teams</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">&quot;Cash Flow Projections and Earnings Quality&quot;</td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">12</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Risk Assessment: Do Financial Statements Capture Risk?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">13</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Risk I: Cost of Capital: Is CAPM Dead?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">14</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Risk and Accounting Trading Strategies: Do Investors Understand Accounting?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">15</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Risk II: Accounting #'s in Contracts: Ratio Analysis and Bankruptcy Detection</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">16</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Mergers and Acquisitions: Impairment of Goodwill, Writedowns, Private Firm Valuation</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Homework #2 Due</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">17</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Employee Stock Options and Valuation: Should Options be Expensed? Understanding the current debate</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">18</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">1) Quiz #2 - In Class<br style="margin: 0px; padding: 0px; border: 0px;"><br style="margin: 0px; padding: 0px; border: 0px;">2) Final Guidance/Overview on Part 2 of Project</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Optional Review Session scheduled day before Quiz</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">19</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Off Balance Sheet Activities - Deconstructing the Enron Debacle and Beyond</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">20</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Pension Plans - The Next Accounting Disaster?</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);"></td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">21</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">International Financial Analysis</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">22</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Hot Topics in Accounting and Valuation: + Capstone</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Homework #3 Due</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"></td>
+        <td colspan="2" style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);"><strong style="margin: 0px; padding: 0px; border: 0px;">You must e-mail your team's complete report (Part 1 and Part 2) to me and to the due diligence team by 5:00 pm the day after class 23.</strong></td>
+    </tr>
+    <tr class="row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">23</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">Analyst Team Presentations and Due Diligence Response by Matched Teams</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51); background-color: rgb(229, 224, 219);">&quot;Company Valuation and Risk Assessment&quot;</td>
+    </tr>
+    <tr class="alt-row" style="margin: 0px; padding: 0px; border: 0px;">
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">24</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">Analyst Team Presentations and Due Diligence Response by Matched Teams</td>
+        <td style="margin: 0px; padding: 8px; border: 1px solid rgb(73, 66, 63); font-family: verdana, arial, helvetica, sans-serif; color: rgb(51, 51, 51);">&quot;Company Valuation and Risk Assessment&quot;</td>
+    </tr>
+    </tbody>
+</table>
+                                </div><!-- /.box-body -->
+                            </div><!-- /.box -->
+
+                        </section><!-- right col -->
+                    </div><!-- /.row (main row) -->
+
+
+                </section><!-- /.content -->
+            </aside><!-- /.right-side -->
+        </div><!-- ./wrapper -->
+
+        <!-- add new calendar event modal -->
+
+
+        <!-- jQuery 2.0.2 -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+        <!-- jQuery UI 1.10.3 -->
+        <script src="js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+        <!-- Bootstrap -->
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <!-- Morris.js charts -->
+        <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+        <script src="js/plugins/morris/morris.min.js" type="text/javascript"></script>
+        <!-- Sparkline -->
+        <script src="js/plugins/sparkline/jquery.sparkline.min.js" type="text/javascript"></script>
+        <!-- jvectormap -->
+        <script src="js/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" type="text/javascript"></script>
+        <script src="js/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" type="text/javascript"></script>
+        <!-- fullCalendar -->
+        <script src="js/plugins/fullcalendar/fullcalendar.min.js" type="text/javascript"></script>
+        <!-- jQuery Knob Chart -->
+        <script src="js/plugins/jqueryKnob/jquery.knob.js" type="text/javascript"></script>
+        <!-- daterangepicker -->
+        <script src="js/plugins/daterangepicker/daterangepicker.js" type="text/javascript"></script>
+        <!-- Bootstrap WYSIHTML5 -->
+        <script src="js/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js" type="text/javascript"></script>
+        <!-- iCheck -->
+        <script src="js/plugins/iCheck/icheck.min.js" type="text/javascript"></script>
+
+        <!-- AdminLTE App -->
+        <script src="js/AdminLTE/app.js" type="text/javascript"></script>
+        
+        <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+        <script src="js/AdminLTE/dashboard.js" type="text/javascript"></script>     
+        
+        <!-- AdminLTE for demo purposes -->
+        <script src="js/AdminLTE/demo.js" type="text/javascript"></script>
+
+    </body>
+</html>

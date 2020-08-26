@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="03.02 Integers">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>- 5 + 8= __________</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>- 5 + 8 - (- 4)= __________</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>- 5(8)= __________</label>
+			<blank>
+				<accepted>-40</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0013/educator_algebra1/pictures/M3images/M3A3_1.gif&gt; is equal to __________</label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>(- 7)(- 7)= __________</label>
+			<blank>
+				<accepted>49</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>8 + (- 15) __________</label>
+			<blank>
+				<accepted>-7</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>- 12 - (- 12)= __________</label>
+			<blank>
+				<accepted>0</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>When x = 1 and y = - 2 find the value of 7x - 4y __________</label>
+			<blank>
+				<accepted>15</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>When x = - 3 and y = 0, find the value of 5x + 5y __________</label>
+			<blank>
+				<accepted>-15</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>When x = 8 and y = - 4, find the value of 2x - y __________</label>
+			<blank>
+				<accepted>20</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+</assessment>

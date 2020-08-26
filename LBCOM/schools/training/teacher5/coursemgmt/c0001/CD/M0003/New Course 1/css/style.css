@@ -1,0 +1,17 @@
+
+body	{ margin: 0px 0px 0px 0px; background-color: #7b7b7b; /*background-image: url(../images/course_02-1.jpg); */background-repeat: repeat-x; font:10px; font-family : Arial, Geneva, Verdana, Helvetica, sans-serif; letter-spacing: 0px; color: #9d9573; } 
+
+
+
+h1 { padding: 10px;  font-size:28px; font-family: Arial, Geneva, Verdana, Helvetica, sans-serif; color: #FFFFFF; font-weight: bold; vertical-align: bottom; }
+
+
+
+.main_table {width: 820px; height: 100%; border: 0px; border-collapse:collapse; background-repeat: repeat-x;  }
+
+.main_table_c1 {width: 10px; /*background-image: url(../images/course_03.jpg);*/ height: 100%; }
+
+.main_table_c2 {width: 10px; height: 100%; background-color: #FFFFFF; text-align: Center; vertical-align: top;}
+
+.main_table_c3 {width: 10px; /*background-image: url(../images/course_05.jpg); */height: 100%; }
+

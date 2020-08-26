@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 9 Quiz Lessons 3 - 4">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+	
+	<item>
+		<type>Essay</type>
+		<label>Questions 1 - 4:  Identify if the graphs and equations are direct or inverse variations.&lt;br&gt;&lt;img src=/webdav/res902/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res902/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res902/int_math_1/pictures/image3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = .5x</label>
+		<credit>2</credit>
+	</item>
+	
+	<item>
+		<type>Essay</type>
+		<label>The following variables vary directly. Find the k value and  write the direct variation equation.&lt;br&gt;x = 2, y = 10 &lt;br&gt;y = 5x</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>The following variables vary indirectly. Find the k value and write the indirect variation equation.&lt;br&gt; x = 2, y = 3 &lt;br&gt;y = 6/x</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 7 - 10:  Identify if the following are representing Exponential Growth or Exponential Decay.&lt;br&gt; y = 3(.2)&lt;sup&gt;x&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = (5)&lt;sup&gt;x&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res902/int_math_1/pictures/image4.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res902/int_math_1/pictures/image5.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	
+	
+	
+</assessment>
+

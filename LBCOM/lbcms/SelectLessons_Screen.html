@@ -1,0 +1,132 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<SCRIPT LANGUAGE="JavaScript"> 
+<!--
+ 
+function goUnit(cId)
+{
+	
+	var unitId=document.frm.unitid.value;
+	window.location="UnitLessonArchives.jsp?userid=teacher5&courseid="+cId+"&coursename=Testcourse&unitid=DU1173&unitname=Unit 2&lessonid=null&lessonname=null&gradeid="+unitId+"";
+	
+}
+ 
+ 
+function goValidate(uId)
+{	
+	var obj=document.setmarking;
+	var unitId=document.frm.unitid.value;
+	var lessonId=document.frm.lessonid.value;
+	
+	if(unitId=="uall")
+	{
+		alert("Please select Course");
+		window.document.frm.unitid.focus();
+		return false;
+		
+	}
+	else if(lessonId=="lall")
+	{
+		alert("Please select Unit");
+		window.document.frm.lessonid.focus();
+		return false;
+		
+	}
+	else
+	{		
+		
+	window.location="SelectLessons.jsp?userid=teacher5&courseid=DC216&coursename=Testcourse&unitid=DU1173&unitname=Unit 2&lessonid=null&lessonname=null&gradeid="+unitId+"&standardid="+uId;		
+		
+		return false;
+	}
+	
+}
+var lessonids=new Array();
+function validate()
+{
+	var obj=document.frm;
+	var flag=false;
+	var stdCount=0;
+ 
+	for(i=0;i<obj.elements.length;i++)
+	{
+		if (obj.elements[i].type=="checkbox" && obj.elements[i].name=="lessonid" && obj.elements[i].checked==true)
+		{
+			lessonids[i]=obj.elements[i].value;
+			//alert(obj.elements[i].value);
+			stdCount=stdCount+1;
+		}
+	}
+	if(stdCount < 1)
+	{
+		alert("You have to select atleast one lesson!!!");
+		return false;
+	}
+	else
+	{
+		alert("action"+lessonids);
+		window.location.href="CrtLessonArchives.jsp?userid=teacher5&courseid=DC216&unitid=DU1173&lessonid=null&lessonids="+lessonids;
+		return false;
+	}
+	
+}
+</SCRIPT>
+
+ 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="whiteBgClass" >
+ 
+<tr>
+	<td width="15" height="70">&nbsp;</td>
+	<td width="368" height="70">
+		<img src="images/logo.png" width="368" height="101" border="0">
+	</td>
+    <td> <a href="#" onClick="viewUserManual();return false;"><img src="http://demo.learnbeyond.com:8080/LBCOM/com/images/helpmanaual.png" border="0" style="margin-left:320px;"></a></td>
+    <td width="423" height="70" align="right">
+		<img src="images/mahoning-Logo.gif" width="208" height="70" border="0">
+    </td>
+</tr>
+  </table>
+<table width="90%" border="0" cellspacing="0" cellpadding="0" height="32" style="border-collapse: collapse" bordercolor="#111111">
+        <tr  class="gridhdrNew">
+               <td align="left" width="419" height="30" valign="middle">
+					<b><a href="CourseHome.jsp?userid=teacher5">&nbsp;Course Home</a>
+					&gt;&gt; <a href="CourseUnits.jsp?userid=teacher5&courseid=DC216&coursename=Testcourse">
+						Testcourse</a>
+					&gt;&gt; Unit 2</b></td>
+                <td align="center" width="10" height="30">
+               
+                                        <p align="right"><img src="images/createnew.gif" width="20" height="20" border="0"></p>
+</td>
+                <td width="107" align="left" height="30">
+ 
+				<a href="LessonArchives.jsp?userid=teacher5&courseid=DC216&coursename=Testcourse&unitid=DU1173&unitname=Unit 2">Lesson Archived</a></td>
+				<td align="center" width="10" height="30">
+               
+                                        <p align="right"><img src="images/createnew.gif" width="20" height="20" border="0"></p>
+</td>
+				<td width="107" align="left" height="30">
+					<a href="AddLesson.jsp?userid=teacher5&courseid=DC216&coursename=Testcourse&unitid=DU1173&unitname=Unit 2">Add New Lesson</a></td>
+        </tr>
+            </table><br/>
+<form name="frm" method="post" action="">
+<div align="center" style="margin-top:40px;">
+
+ 
+<table>
+<tr>
+	<td colspan=4 align="right" ><input class="button" type="button" value="Submit" align="absmiddle" onClick="return validate('DC216');"></td>
+</tr>
+</table>
+ 
+<input type="hidden" name="courseid" value="DC216">
+ 
+	
+		
+</div>
+		 </form>

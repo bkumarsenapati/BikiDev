@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="05.03 Advanced Slope">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<label>&lt;img src=/webdav/res0053/educator_alg1_v5/50_03a.gif&gt;
+
+The slope of this line is?</label>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>1/3</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>6/2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>&lt;img src=/webdav/res0053/educator_alg1_v5/50_03b.gif&gt;
+
+The slope of this line is ________?</label>
+			<blank>
+				<accepted>-1</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>y = -5x + ½
+
+The slope of this line is ½</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>What is the slope of a line that with the points (2,4) and (4,-2)?</label>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-1/3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>-3</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>A line which contains these points: (3,3) /amp; 
+(8,-2) would have a slope of _________?
+
+(simplify your answer)</label>
+			<blank>
+				<accepted>-1</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>A line with a slope of m=4 could contain these points (1,6) /amp; (-1,-2).
+</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit>1</credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>Find the x intercept of this equation:
+
+2x + 3y = 12</label>
+			<choice>
+				<choicelabel>(0,6)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(6,0)</choicelabel>
+				<credit>1</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(4,0)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>(0,4)</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<label>What is the y-intercept of this equation:
+
+y = 2x + 5
+
+DO NOT WRITE AS AN ORDERED PAIR</label>
+			<blank>
+				<accepted>5</accepted>
+				<credit>1</credit>
+			</blank>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<label>The y-intercept of this equation: 8x + 4y = 24
+is (6,0)</label>
+			<choice>
+				<choicelabel>True</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>		
+			<choice>
+				<choicelabel>False</choicelabel>
+				<credit>.5</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Find the slope of a line containing these points.
+
+(5,-2) /amp; (-3,2)
+
+You must show all work to receive credit.
+
+</label>
+		<credit>2</credit>
+	</item>
+</assessment>

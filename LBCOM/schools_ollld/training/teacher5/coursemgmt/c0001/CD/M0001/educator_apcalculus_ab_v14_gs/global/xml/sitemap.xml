@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemap>
+    
+    <!--: Getting Started -->
+   <!--num="00.01" time="5" points="0"-->
+<module title="Getting Started" visible="true">
+
+		<lesson title="00.01 Things to Know" name="Things to Know&lt;br/&gt;00.01" num="00.01" time="5" points="0">
+			<section title="00.01 Lesson Pages">
+				<page href="../getting_started/00_01_01.htm" title="00.01: Page 1"/>
+				<!--<page href="../getting_started/00_01_02.htm" title="00.01: Page 2"/>-->
+			</section>
+		</lesson>
+		<lesson title="00.02 Navigation" name="Navigation&lt;br/&gt;00.02" num="00.02" time="5" points="0">
+			<section title="00.02 Lesson Pages">
+				<page href="../getting_started/00_02_01.htm" title="00.02: Page 1"/>
+			</section>
+		</lesson>
+		<lesson title="00.03 Lessons and Assessments" name="Lessons and Assessments&lt;br/&gt;00.03" num="00.03" time="5" points="0">
+			<section title="00.03 Lesson Pages">
+				<page href="../getting_started/00_03_01.htm" title="00.03: Page 1"/>
+				<page href="../getting_started/00_03_02.htm" title="00.03: Page 2"/>
+			</section>
+		</lesson>
+		<lesson title="00.04 Course Specifics" name="Course Specifics&lt;br/&gt;00.04" num="00.04" time="5" points="0">
+			<section title="00.04 Lesson Pages">
+				<page href="../getting_started/00_04_01.htm" title="00.04: Page 1"/>
+				<!--<page href="../getting_started/00_04_02.htm" title="00.04: Page 2"/>-->
+				<page href="../getting_started/00_04_03.htm" title="00.04: Page 2"/>
+				<!--<page href="../getting_started/00_04_04.htm" title="00.04: Page 4"/>-->
+			</section>
+		</lesson>
+		<lesson title="00.05 Online Learning 101" name="Online Learning&lt;br/&gt;00.05" num="00.05" time="5" points="0">
+			<section title="00.05 Lesson Pages">
+				<page href="../getting_started/00_05_01.htm" title="00.05: Page 1"/>
+				<page href="../getting_started/00_05_02.htm" title="00.05: Page 2"/>
+				<page href="../getting_started/00_05_03.htm" title="00.05: Page 3"/>
+			</section>
+		</lesson>
+		<lesson title="00.06 Pace" name="Pace&lt;br/&gt;00.06" num="00.06" time="5" points="0">
+			<section title="00.06 Lesson Pages">
+				<page href="../getting_started/00_06_01.htm" title="00.06: Page 1"/>
+			</section>
+		</lesson>
+		<lesson title="00.07 Academic Integrity" name="Academic Integrity&lt;br/&gt;00.07" num="00.07" time="5" points="0">
+			<section title="00.07 Lesson Pages">
+				<page href="../getting_started/00_07_01.htm" title="00.07: Page 1"/>
+				<page href="../getting_started/00_07_02.htm" title="00.07: Page 2"/>
+				<page href="../getting_started/00_07_03.htm" title="00.07: Page 3"/>
+				<page href="../getting_started/00_07_04.htm" title="00.07: Page 4"/>
+			</section>
+		</lesson>
+	</module>
+
+    <!--: Module 1 -->
+    <module title="Functions" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module One Checklist and Pretest" num="01.00" time="45" points="1">
+            <section title="01.00 Learn">
+                <page href="../module01/01_00_01.htm" title="01.00: Page 1" />
+            </section>
+            <section title="01.00 Assess">
+                <page href="../module01/01_00_assessment.htm" title="01.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Course Introduction" num="01.01" time="45" points="0">
+            <section title="01.01 Learn">
+                <page href="../module01/01_01_01.htm" title="01.01: Page 1" />
+                <!--<page href="../module01/01_01_02.htm" title="01.01: Page 2" />-->
+            </section>
+            <section title="01.01 Assess">
+                <page href="../module01/01_01_assessment.htm" title="01.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Introduction to Calculus" num="01.02" time="30" points="0">
+            <section title="01.02 Learn">
+                <page href="../module01/01_02_01.htm" title="01.02: Page 1" />
+                <!--<page href="../module01/01_02_02.htm" title="01.02: Page 2" />-->
+            </section>
+            <section title="01.02 Assess">
+                <page href="../module01/01_02_assessment.htm" title="01.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Review of Function Terminology and More" num="01.03" time="45" points="20">
+            <section title="01.03 Learn">
+                <page href="../module01/01_03_01.htm" title="01.03: Page 1" />
+                <!--<page href="../module01/01_03_02.htm" title="01.03: Page 2" />-->
+            </section>
+            <section title="01.03 Assess">
+                <page href="../module01/01_03_assessment.htm" title="01.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Graphing Calculators" num="01.04" time="45" points="20">
+            <section title="01.04 Learn">
+                <page href="../module01/01_04_01.htm" title="01.04: Page 1" />
+                <!--<page href="../module01/01_04_02.htm" title="01.04: Page 2" />-->
+            </section>
+            <section title="01.04 Assess">
+                <page href="../module01/01_04_assessment.htm" title="01.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Compositions and Transformations of Functions" num="01.05" time="45" points="20">
+            <section title="01.05 Learn">
+                <page href="../module01/01_05_01.htm" title="01.05: Page 1" />
+                <!--<page href="../module01/01_05_02.htm" title="01.05: Page 2" />-->
+            </section>
+            <section title="01.05 Assess">
+                <page href="../module01/01_05_assessment.htm" title="01.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Some Common Functions" num="01.06" time="45" points="20">
+            <section title="01.06 Learn">
+                <page href="../module01/01_06_01.htm" title="01.06: Page 1" />
+               <!-- <page href="../module01/01_06_02.htm" title="01.06: Page 2" />-->
+            </section>
+            <section title="01.06 Assess">
+                <page href="../module01/01_06_assessment.htm" title="01.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="01.07" time="60" points="50">
+            <section title="01.07 Learn">
+                <page href="../module01/01_07_01.htm" title="01.07: Page 1" />
+            </section>
+            <section title="01.07 Assess">
+                <page href="../module01/01_07_assessment.htm" title="01.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module One Practice Test" num="01.08" time="45" points="1">
+            <section title="01.08 Assess">
+                <page href="../module01/01_08_assessment.htm" title="01.08: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module One Test" num="01.09" time="90" points="100">
+            <section title="01.09 Assess">
+                <page href="../module01/01_09_assessment.htm" title="01.09: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 2 -->
+    <module title="Limits and Continuity" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Two Checklist and Pretest" num="02.00" time="45" points="1">
+            <section title="02.00 Learn">
+                <page href="../module02/02_00_01.htm" title="02.00: Page 1" />
+            </section>
+            <section title="02.00 Assess">
+                <page href="../module02/02_00_assessment.htm" title="02.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Introduction to Limits" num="02.01" time="90" points="20">
+            <section title="02.01 Learn">
+                <page href="../module02/02_01_01.htm" title="02.01: Page 1" />
+                <!--<page href="../module02/02_01_02.htm" title="02.01: Page 2" />-->
+            </section>
+            <section title="02.01 Assess">
+                <page href="../module02/02_01_assessment.htm" title="02.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Properties of Limits" num="02.02" time="90" points="20">
+            <section title="02.02 Learn">
+                <page href="../module02/02_02_01.htm" title="02.02: Page 1" />
+                <!--<page href="../module02/02_02_02.htm" title="02.02: Page 2" />-->
+            </section>
+            <section title="02.02 Assess">
+                <page href="../module02/02_02_assessment.htm" title="02.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Limits Involving Infinity" num="02.03" time="90" points="20">
+            <section title="02.03 Learn">
+                <page href="../module02/02_03_01.htm" title="02.03: Page 1" />
+                <!--<page href="../module02/02_03_02.htm" title="02.03: Page 2" />-->
+            </section>
+            <section title="02.03 Assess">
+                <page href="../module02/02_03_assessment.htm" title="02.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Continuity" num="02.04" time="90" points="20">
+            <section title="02.04 Learn">
+                <page href="../module02/02_04_01.htm" title="02.04: Page 1" />
+                <!--<page href="../module02/02_04_02.htm" title="02.04: Page 2" />-->
+            </section>
+            <section title="02.04 Assess">
+                <page href="../module02/02_04_assessment.htm" title="02.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Applications of Limits" num="02.05" time="90" points="20">
+            <section title="02.05 Learn">
+                <page href="../module02/02_05_01.htm" title="02.05: Page 1" />
+                <!--<page href="../module02/02_05_02.htm" title="02.05: Page 2" />-->
+            </section>
+            <section title="02.05 Assess">
+                <page href="../module02/02_05_assessment.htm" title="02.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="02.06" time="60" points="50">
+            <section title="02.06 Learn">
+                <page href="../module02/02_06_01.htm" title="02.06: Page 1" />
+            </section>
+            <section title="02.06 Assess">
+                <page href="../module02/02_06_assessment.htm" title="02.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Two Practice Test" num="02.07" time="45" points="1">
+            <section title="02.07 Assess">
+                <page href="../module02/02_07_assessment.htm" title="02.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Two Test" num="02.08" time="90" points="100">
+            <section title="02.08 Assess">
+                <page href="../module02/02_08_assessment.htm" title="02.08: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 3 -->
+    <module title="Differentiation" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Three Checklist and Pretest" num="03.00" time="45" points="1">
+            <section title="03.00 Learn">
+                <page href="../module03/03_00_01.htm" title="03.00: Page 1" />
+            </section>
+            <section title="03.00 Assess">
+                <page href="../module03/03_00_assessment.htm" title="03.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="The Derivative" num="03.01" time="90" points="20">
+            <section title="03.01 Learn">
+                <page href="../module03/03_01_01.htm" title="03.01: Page 1" />
+                <!--<page href="../module03/03_01_02.htm" title="03.01: Page 2" />-->
+            </section>
+            <section title="03.01 Assess">
+                <page href="../module03/03_01_assessment.htm" title="03.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Rules of Differentiation" num="03.02" time="90" points="20">
+            <section title="03.02 Learn">
+                <page href="../module03/03_02_01.htm" title="03.02: Page 1" />
+                <!--<page href="../module03/03_02_02.htm" title="03.02: Page 2" />-->
+            </section>
+            <section title="03.02 Assess">
+                <page href="../module03/03_02_assessment.htm" title="03.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Trigonometric Derivatives and the Chain Rule" num="03.03" time="90" points="20">
+            <section title="03.03 Learn">
+                <page href="../module03/03_03_01.htm" title="03.03: Page 1" />
+                <!--<page href="../module03/03_03_02.htm" title="03.03: Page 2" />-->
+            </section>
+            <section title="03.03 Assess">
+                <page href="../module03/03_03_assessment.htm" title="03.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Inverse Functions" num="03.04" time="45" points="0">
+            <section title="03.04 Learn">
+                <page href="../module03/03_04_01.htm" title="03.04: Page 1" />
+               <!-- <page href="../module03/03_04_02.htm" title="03.04: Page 2" />-->
+            </section>
+            <section title="03.04 Assess">
+                <page href="../module03/03_04_assessment.htm" title="03.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Exponential and Logarithmic Functions" num="03.05" time="45" points="0">
+            <section title="03.05 Learn">
+                <page href="../module03/03_05_01.htm" title="03.05: Page 1" />
+               <!-- <page href="../module03/03_05_02.htm" title="03.05: Page 2" />-->
+            </section>
+            <section title="03.05 Assess">
+                <page href="../module03/03_05_assessment.htm" title="03.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Derivatives of Exponential, Logarithmic, and Inverse Trig Functions" num="03.06" time="90" points="20">
+            <section title="03.06 Learn">
+                <page href="../module03/03_06_01.htm" title="03.06: Page 1" />
+                <!--<page href="../module03/03_06_02.htm" title="03.06: Page 2" />-->
+            </section>
+            <section title="03.06 Assess">
+                <page href="../module03/03_06_assessment.htm" title="03.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Implicit Differentiation" num="03.07" time="90" points="20">
+            <section title="03.07 Learn">
+                <page href="../module03/03_07_01.htm" title="03.07: Page 1" />
+               <!-- <page href="../module03/03_07_02.htm" title="03.07: Page 2" />-->
+            </section>
+            <section title="03.07 Assess">
+                <page href="../module03/03_07_assessment.htm" title="03.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="03.08" time="60" points="50">
+            <section title="03.08 Learn">
+                <page href="../module03/03_08_01.htm" title="03.08: Page 1" />
+            </section>
+            <section title="03.08 Assess">
+                <page href="../module03/03_08_assessment.htm" title="03.08: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Three Practice Test" num="03.09" time="45" points="1">
+            <section title="03.09 Assess">
+                <page href="../module03/03_09_assessment.htm" title="03.09: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Three Test" num="03.10" time="90" points="100">
+            <section title="03.10 Assess">
+                <page href="../module03/03_10_assessment.htm" title="03.10: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 4 -->
+    <module title="Applications of Derivatives" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Four Checklist and Pretest" num="04.00" time="45" points="1">
+            <section title="04.00 Learn">
+                <page href="../module04/04_00_01.htm" title="04.00: Page 1" />
+            </section>
+            <section title="04.00 Assess">
+                <page href="../module04/04_00_assessment.htm" title="04.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Analyzing Functions Part I: Curve Sketching" num="04.01" time="90" points="20">
+            <section title="04.01 Learn">
+                <page href="../module04/04_01_01.htm" title="04.01: Page 1" />
+                <!--<page href="../module04/04_01_02.htm" title="04.01: Page 2" />-->
+            </section>
+            <section title="04.01 Assess">
+                <page href="../module04/04_01_assessment.htm" title="04.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Analyzing Functions Part II: Maximums and Minimums" num="04.02" time="90" points="20">
+            <section title="04.02 Learn">
+                <page href="../module04/04_02_01.htm" title="04.02: Page 1" />
+                <!--<page href="../module04/04_02_02.htm" title="04.02: Page 2" />-->
+            </section>
+            <section title="04.02 Assess">
+                <page href="../module04/04_02_assessment.htm" title="04.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Applied Maximum and Minimum Problems" num="04.03" time="90" points="20">
+            <section title="04.03 Learn">
+                <page href="../module04/04_03_01.htm" title="04.03: Page 1" />
+                <!--<page href="../module04/04_03_02.htm" title="04.03: Page 2" />-->
+            </section>
+            <section title="04.03 Assess">
+                <page href="../module04/04_03_assessment.htm" title="04.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Distance, Velocity, Acceleration, and Rectilinear Motion" num="04.04" time="90" points="20">
+            <section title="04.04 Learn">
+                <page href="../module04/04_04_01.htm" title="04.04: Page 1" />
+                <!--<page href="../module04/04_04_02.htm" title="04.04: Page 2" />-->
+            </section>
+            <section title="04.04 Assess">
+                <page href="../module04/04_04_assessment.htm" title="04.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Related Rates" num="04.05" time="90" points="20">
+            <section title="04.05 Learn">
+                <page href="../module04/04_05_01.htm" title="04.05: Page 1" />
+                <!--<page href="../module04/04_05_02.htm" title="04.05: Page 2" />-->
+            </section>
+            <section title="04.05 Assess">
+                <page href="../module04/04_05_assessment.htm" title="04.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="The Mean-Value Theorem and L&#8217;H&#244;pital&#8217;s Rule" num="04.06" time="90" points="20">
+            <section title="04.06 Learn">
+                <page href="../module04/04_06_01.htm" title="04.06: Page 1" />
+                <!--<page href="../module04/04_06_02.htm" title="04.06: Page 2" />-->
+            </section>
+            <section title="04.06 Assess">
+                <page href="../module04/04_06_assessment.htm" title="04.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Linearization" num="04.07" time="90" points="20">
+            <section title="04.07 Learn">
+                <page href="../module04/04_07_01.htm" title="04.07: Page 1" />
+                <!--<page href="../module04/04_07_02.htm" title="04.07: Page 2" />-->
+            </section>
+            <section title="04.07 Assess">
+                <page href="../module04/04_07_assessment.htm" title="04.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="04.08" time="60" points="50">
+            <section title="04.08 Learn">
+                <page href="../module04/04_08_01.htm" title="04.08: Page 1" />
+            </section>
+            <section title="04.08 Assess">
+                <page href="../module04/04_08_assessment.htm" title="04.08: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Four Practice Test" num="04.09" time="45" points="1">
+            <section title="04.09 Assess">
+                <page href="../module04/04_09_assessment.htm" title="04.09: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Four Test" num="04.10" time="90" points="100">
+            <section title="04.10 Assess">
+                <page href="../module04/04_10_assessment.htm" title="04.10: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Segment One Practice Exam" num="04.11" time="45" points="1">
+            <section title="04.11 Assess">
+                <page href="../module04/04_11_assessment.htm" title="04.11: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Segment One Exam" num="04.12" time="90" points="280">
+            <section title="04.12 Assess">
+                <page href="../module04/04_12_assessment.htm" title="04.12: Activity" />
+            </section>
+        </lesson>
+    </module>
+ 
+    <!--: Module 5 -->
+    <module title="Integration" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Five Checklist and Pretest" num="05.00" time="45" points="1">
+            <section title="05.00 Learn">
+                <page href="../module05/05_00_01.htm" title="05.00: Page 1" />
+            </section>
+            <section title="05.00 Assess">
+                <page href="../module05/05_00_assessment.htm" title="05.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Area Approximation and Riemann Sums" num="05.01" time="90" points="20">
+            <section title="05.01 Learn">
+                <page href="../module05/05_01_01.htm" title="05.01: Page 1" />
+                <!--<page href="../module05/05_01_02.htm" title="05.01: Page 2" />-->
+            </section>
+            <section title="05.01 Assess">
+                <page href="../module05/05_01_assessment.htm" title="05.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Introduction to the Definite Integral" num="05.02" time="90" points="20">
+            <section title="05.02 Learn">
+                <page href="../module05/05_02_01.htm" title="05.02: Page 1" />
+                <!--<page href="../module05/05_02_02.htm" title="05.02: Page 2" />-->
+            </section>
+            <section title="05.02 Assess">
+                <page href="../module05/05_02_assessment.htm" title="05.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="The Fundamental Theorem of Calculus" num="05.03" time="90" points="20">
+            <section title="05.03 Learn">
+                <page href="../module05/05_03_01.htm" title="05.03: Page 1" />
+                <!--<page href="../module05/05_03_02.htm" title="05.03: Page 2" />-->
+            </section>
+            <section title="05.03 Assess">
+                <page href="../module05/05_03_assessment.htm" title="05.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Integrals and Antiderivatives" num="05.04" time="90" points="20">
+            <section title="05.04 Learn">
+                <page href="../module05/05_04_01.htm" title="05.04: Page 1" />
+                <!--<page href="../module05/05_04_02.htm" title="05.04: Page 2" />-->
+            </section>
+            <section title="05.04 Assess">
+                <page href="../module05/05_04_assessment.htm" title="05.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Integration by Substitution" num="05.05" time="90" points="20">
+            <section title="05.05 Learn">
+                <page href="../module05/05_05_01.htm" title="05.05: Page 1" />
+                <!--<page href="../module05/05_05_02.htm" title="05.05: Page 2" />-->
+            </section>
+            <section title="05.05 Assess">
+                <page href="../module05/05_05_assessment.htm" title="05.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="The Definite Integral" num="05.06" time="90" points="20">
+            <section title="05.06 Learn">
+                <page href="../module05/05_06_01.htm" title="05.06: Page 1" />
+                <!--<page href="../module05/05_06_02.htm" title="05.06: Page 2" />-->
+            </section>
+            <section title="05.06 Assess">
+                <page href="../module05/05_06_assessment.htm" title="05.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="05.07" time="60" points="50">
+            <section title="05.07 Learn">
+                <page href="../module05/05_07_01.htm" title="05.07: Page 1" />
+            </section>
+            <section title="05.07 Assess">
+                <page href="../module05/05_07_assessment.htm" title="05.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Five Practice Test" num="05.08" time="45" points="1">
+            <section title="05.08 Assess">
+                <page href="../module05/05_08_assessment.htm" title="05.08: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Five Test" num="05.09" time="90" points="100">
+            <section title="05.09 Assess">
+                <page href="../module05/05_09_assessment.htm" title="05.09: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 6 -->
+    <module title="Application of Integrals" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Six Checklist and Pretest" num="06.00" time="45" points="1">
+            <section title="06.00 Learn">
+                <page href="../module06/06_00_01.htm" title="06.00: Page 1" />
+            </section>
+            <section title="06.00 Assess">
+                <page href="../module06/06_00_assessment.htm" title="06.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Finding the Area Under and Between Curves " num="06.01" time="90" points="20">
+            <section title="06.01 Learn">
+                <page href="../module06/06_01_01.htm" title="06.01: Page 1" />
+                <!--<page href="../module06/06_01_02.htm" title="06.01: Page 2" />-->
+            </section>
+            <section title="06.01 Assess">
+                <page href="../module06/06_01_assessment.htm" title="06.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Volume by Discs (Slicing)" num="06.02" time="90" points="20">
+            <section title="06.02 Learn">
+                <page href="../module06/06_02_01.htm" title="06.02: Page 1" />
+                <!--<page href="../module06/06_02_02.htm" title="06.02: Page 2" />-->
+            </section>
+            <section title="06.02 Assess">
+                <page href="../module06/06_02_assessment.htm" title="06.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Average Value of a Function and Rectilinear Motion Revisited" num="06.03" time="90" points="20">
+            <section title="06.03 Learn">
+                <page href="../module06/06_03_01.htm" title="06.03: Page 1" />
+                <!--<page href="../module06/06_03_02.htm" title="06.03: Page 2" />-->
+            </section>
+            <section title="06.03 Assess">
+                <page href="../module06/06_03_assessment.htm" title="06.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="06.04" time="60" points="50">
+            <section title="06.04 Learn">
+                <page href="../module06/06_04_01.htm" title="06.04: Page 1" />
+            </section>
+            <section title="06.04 Assess">
+                <page href="../module06/06_04_assessment.htm" title="06.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Six Practice Test" num="06.05" time="45" points="1">
+            <section title="06.05 Assess">
+                <page href="../module06/06_05_assessment.htm" title="06.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Six Test" num="06.06" time="90" points="100">
+            <section title="06.06 Assess">
+                <page href="../module06/06_06_assessment.htm" title="06.06: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 7 -->
+    <module title="Differential Equations and More Riemann Sums" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Seven Checklist and Pretest" num="07.00" time="45" points="1">
+            <section title="07.00 Learn">
+                <page href="../module07/07_00_01.htm" title="07.00: Page 1" />
+            </section>
+            <section title="07.00 Assess">
+                <page href="../module07/07_00_assessment.htm" title="07.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Differential Equations&#8212;An Introduction" num="07.01" time="90" points="20">
+            <section title="07.01 Learn">
+                <page href="../module07/07_01_01.htm" title="07.01: Page 1" />
+                <!--<page href="../module07/07_01_02.htm" title="07.01: Page 2" />-->
+            </section>
+            <section title="07.01 Assess">
+                <page href="../module07/07_01_assessment.htm" title="07.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Initial Value Problems and Slope Fields " num="07.02" time="90" points="20">
+            <section title="07.02 Learn">
+                <page href="../module07/07_02_01.htm" title="07.02: Page 1" />
+                <!--<page href="../module07/07_02_02.htm" title="07.02: Page 2" />-->
+            </section>
+            <section title="07.02 Assess">
+                <page href="../module07/07_02_assessment.htm" title="07.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Numerical Approximation Methods with Integrals" num="07.03" time="90" points="20">
+            <section title="07.03 Learn">
+                <page href="../module07/07_03_01.htm" title="07.03: Page 1" />
+                <!--<page href="../module07/07_03_02.htm" title="07.03: Page 2" />-->
+            </section>
+            <section title="07.03 Assess">
+                <page href="../module07/07_03_assessment.htm" title="07.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="07.04" time="60" points="50">
+            <section title="07.04 Learn">
+                <page href="../module07/07_04_01.htm" title="07.04: Page 1" />
+            </section>
+            <section title="07.04 Assess">
+                <page href="../module07/07_04_assessment.htm" title="07.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Seven Practice Test" num="07.05" time="45" points="1">
+            <section title="07.05 Assess">
+                <page href="../module07/07_05_assessment.htm" title="07.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Seven Test" num="07.06" time="90" points="100">
+            <section title="07.06 Assess">
+                <page href="../module07/07_06_assessment.htm" title="07.06: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 8 -->
+    <module title="Supplemental Topics" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Eight Checklist and Pretest" num="08.00" time="45" points="1">
+            <section title="08.00 Learn">
+                <page href="../module08/08_00_01.htm" title="08.00: Page 1" />
+            </section>
+            <section title="08.00 Assess">
+                <page href="../module08/08_00_assessment.htm" title="08.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Exploring the Graphs of f, f Prime, and f Double Prime" num="08.01" time="90" points="20">
+            <section title="08.01 Learn">
+                <page href="../module08/08_01_01.htm" title="08.01: Page 1" />
+                <!--<page href="../module08/08_01_02.htm" title="08.01: Page 2" />-->
+            </section>
+            <section title="08.01 Assess">
+                <page href="../module08/08_01_assessment.htm" title="08.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Relative Rates of Growth" num="08.02" time="90" points="20">
+            <section title="08.02 Learn">
+                <page href="../module08/08_02_01.htm" title="08.02: Page 1" />
+                <!--<page href="../module08/08_02_02.htm" title="08.02: Page 2" />-->
+            </section>
+            <section title="08.02 Assess">
+                <page href="../module08/08_02_assessment.htm" title="08.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Using Calculus with Data in a Table" num="08.03" time="90" points="20">
+            <section title="08.03 Learn">
+                <page href="../module08/08_03_01.htm" title="08.03: Page 1" />
+                <!--<page href="../module08/08_03_02.htm" title="08.03: Page 2" />-->
+            </section>
+            <section title="08.03 Assess">
+                <page href="../module08/08_03_assessment.htm" title="08.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Functions Defined  by Integrals" num="08.04" time="90" points="20">
+            <section title="08.04 Learn">
+                <page href="../module08/08_04_01.htm" title="08.04: Page 1" />
+                <!--<page href="../module08/08_04_02.htm" title="08.04: Page 2" />-->
+            </section>
+            <section title="08.04 Assess">
+                <page href="../module08/08_04_assessment.htm" title="08.04: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Discussion-Based Assessment or Collaborative Lesson" num="08.05" time="60" points="50">
+            <section title="08.05 Learn">
+                <page href="../module08/08_05_01.htm" title="08.05: Page 1" />
+            </section>
+            <section title="08.05 Assess">
+                <page href="../module08/08_05_assessment.htm" title="08.05: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Eight Practice Test" num="08.06" time="45" points="1">
+            <section title="08.06 Assess">
+                <page href="../module08/08_06_assessment.htm" title="08.06: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Module Eight Test" num="08.07" time="90" points="100">
+            <section title="08.07 Assess">
+                <page href="../module08/08_07_assessment.htm" title="08.07: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Segment Two Practice Exam" num="08.08" time="45" points="1">
+            <section title="08.08 Assess">
+                <page href="../module08/08_08_assessment.htm" title="08.08: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Segment Two Exam" num="08.09" time="90" points="264">
+            <section title="08.09 Assess">
+                <page href="../module08/08_09_assessment.htm" title="08.09: Activity" />
+            </section>
+        </lesson>
+    </module>
+    
+    <!--: Module 9 -->
+    <module title="Exam Preparation" visible="true" icon="" bg="/images/home/module_bg.png" >
+        <lesson title="Module Nine Checklist" num="09.00" time="30" points="0">
+            <section title="09.00 Learn">
+                <page href="../module09/09_00_01.htm" title="09.00: Page 1" />
+            </section>
+            <section title="09.00 Assess">
+                <page href="../module09/09_00_assessment.htm" title="09.00: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Test Format&#8212;MC Part A" num="09.01" time="120" points="10">
+            <section title="09.01 Learn">
+                <page href="../module09/09_01_01.htm" title="09.01: Page 1" />
+            </section>
+            <section title="09.01 Assess">
+                <page href="../module09/09_01_assessment.htm" title="09.01: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Using a Calculator&#8212;MC Part B" num="09.02" time="120" points="10">
+            <section title="09.02 Learn">
+                <page href="../module09/09_02_01.htm" title="09.02: Page 1" />
+            </section>
+            <section title="09.02 Assess">
+                <page href="../module09/09_02_assessment.htm" title="09.02: Activity" />
+            </section>
+        </lesson>
+        <lesson title="The Free Response Section" num="09.03" time="120" points="10">
+            <section title="09.03 Learn">
+                <page href="../module09/09_03_01.htm" title="09.03: Page 1" />
+            </section>
+            <section title="09.03 Assess">
+                <page href="../module09/09_03_assessment.htm" title="09.03: Activity" />
+            </section>
+        </lesson>
+        <lesson title="Common Mistakes. How Is the Exam Scored?" num="09.04" time="120" points="10">
+            <section title="09.04 Learn">
+                <page href="../module09/09_04_01.htm" title="09.04: Page 1" />
+            </section>
+            <section title="09.04 Assess">
+                <page href="../module09/09_04_assessment.htm" title="09.04: Activity" />
+            </section>
+        </lesson>
+    </module>
+	
+
+</sitemap>

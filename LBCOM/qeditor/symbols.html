@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<!--[if IE]>
+<style type="text/css">
+*{
+font-family: Lucida Sans Unicode, Math1, Math2, Math3, Math4, Math5, MT Extra, CMSY10, Symbol,arial;
+}
+</style>
+<![endif]-->
+<style type="text/css">
+	
+	img {
+	cursor: pointer;
+	cursor: hand;
+	}
+</style>
+<title>Symbol/Expression Editor</title>
+<SCRIPT LANGUAGE="JavaScript" src="symbols/symbol.js">//onUnload="window.opener.SymWin=null;"</SCRIPT>
+</HEAD>
+<body onLoad="showhide(1);init()" onResize="showhide(1);init()" onUnload="window.opener.SymWin=null;">
+<center>
+<form name='f_ta'>
+			
+			<table id='tab' border=1  >
+			<tr>
+				<td align=center height=30>
+					<div id='butdiv' ALIGN=CENTER style="position:absolute;top:12px;" >
+						<img src="symbols/bon1.gif"  onclick='showhide(1)' name='on' style="position:absolute;left:0px;top:15px;"  width="100" height="21">
+						<img src="symbols/boff1.gif" onclick='showhide(1)' name='off'style="position:absolute;left:0px;top:15px;"  width="100" height="21">
+						<img src="symbols/bon2.gif"  onclick='showhide(2)' name='on' style="position:absolute;left:90px;top:15px;" width="100" height="21" >
+						<img src="symbols/boff2.gif" onclick='showhide(2)' name='off'style="position:absolute;left:90px;top:15px;" width="100" height="21">
+						<img src="symbols/bon3.gif"  onclick='showhide(3)' name='on' style="position:absolute;left:180px;top:15px;"width="100" height="21" >
+						<img src="symbols/boff3.gif" onclick='showhide(3)' name='off'style="position:absolute;left:180px;top:15px;"width="100" height="21">
+						<img src="symbols/bon4.gif"  onclick='showhide(4)' name='on' style="position:absolute;left:270px;top:15px;"width="100" height="21">
+						<img src="symbols/boff4.gif" onclick='showhide(4)' name='off'style="position:absolute;left:270px;top:15px;"width="100" height="21">
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td align=center>
+					<div id='sTable_id' style='height:300px;background-color:#d3d3d3; width:400px;z-index:1;overflow:auto;'></div>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table align='center' border='0'>
+					 <tr>
+					   <td align="center">
+						<input name="sup_b" id="sup_b" type="text" size="2" onClick="current='sup_b'">
+						<input name="sup" id="sup"type="text" size="2" onClick="current='sup'" style="position: relative;color: red; top: -5px;left:-7px">
+					   </td><td>
+						<input type="button" value="addSup"onClick="supsub(document.f_ta.sup_b.value+ '<sup>'+document.f_ta.sup.value+'</sup>' )";>
+					   </td>
+					   <td>&nbsp;&nbsp;</td>
+					   <td align="center">
+						<input name="sub_b" id="sub_b"type="text" size="2" onClick="current='sub_b'">
+						<input name="sub" id="sub"type="text" size="2" onClick="current='sub'" style="position: relative;color: red; top:5px;left:-7px">
+					   </td><td>
+						<input type="button" value="addSub" onClick="supsub(	document.f_ta.sub_b.value+'<sub>'+document.f_ta.sub.value+'</sub>',0)">
+					   </td>
+					 </tr>
+					</table>
+					
+				</td>			
+			</tr>
+			<td>
+			<textarea id='ta' name='ta' cols='63' rows='3' onClick="current='ta'"></textarea>
+
+			</td>
+
+</table>
+<form>
+</center>
+</BODY>
+<SCRIPT LANGUAGE="JavaScript">
+function init(){
+
+var kkk=document.getElementById("butdiv");
+var taa=document.getElementById("ta");
+kkk.style.left=document.body.clientWidth/2-190
+if(!document.all){
+	kkk.style.top=5
+	taa.cols=44;
+}
+
+
+}
+</SCRIPT>
+</HTML>
+

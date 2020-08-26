@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+var x=document.URL;
+alert(x);
+if(x.indexOf("/TALRT/")>1)
+	x="/TALRT";
+if(x.indexOf("/LBCOM/")>1)
+	x="/LBRT";
+if(x.indexOf("/PG/")>1)
+	x="/PG";
+var baseURL = x+"/schools/resource/im/";
+alert(baseURL);
+function validate(){
+     var k=document.getElementById("lfile").value;
+     if(!document.frm1.lfile.value) {  
+         alert("Please select a file.");
+         return false;
+    }
+    if(((k.indexOf("\\")==-1)|| (k.indexOf("/")==-1))&&(k.indexOf(".")==-1)){
+          alert("Please check the file/url path.");
+         return false;
+    }
+    if(k.indexOf("http:")!=-1){
+		parent.window.document.frm2.f_url.value=k;
+		parent.window.document.frm2.preview.disabled=false;
+		return false;
+    } else {
+        //document.getElementById('u_stat_id').style.visibility = "visible";
+		document.getElementById('div1').style.visibility = "hidden";
+        document.getElementById('div2').style.visibility = "visible";
+        document.frm1.submit();
+//          document.frm1.u_stat.style.visibility = "hidden";
+          
+        if (k.lastIndexOf("\\")!=-1)
+  			parent.window.document.frm2.f_url.value=baseURL+k.substring(k.lastIndexOf("\\")+1,k.length);
+          else
+            parent.window.document.frm2.f_url.value=baseURL+k.substring(k.lastIndexOf("/")+1,k.length);
+
+	  parent.window.document.frm2.preview.disabled = false;
+      }
+}
+</SCRIPT>
+</HEAD>
+<BODY >
+	<form name="frm1" 
+	enctype="multipart/form-data" method="post" >
+	<div id="div1" style="position:absolute;left:0;top:0;>
+	<table width="100%">
+	<SCRIPT LANGUAGE="JavaScript">
+	var frm=document.frm1
+	frm.action=x+"/exam.SaveResourceFile";
+	</SCRIPT>
+	<tr><td>
+	  <input type="radio" id="im_f_t"  style="visibility: hidden; name="f_t" checked>Image 
+	  <input type="radio" id="mm_f_t"  style="visibility: hidden; name="f_t"><!--Other -->
+      <input type=file name="lfile" id="lfile" size="20" 
+	  	onblur="javascript:document.frm1.B1.disabled=false">
+      <input type="Button" value="Upload" onclick=validate(); name="B1">
+	</form>
+
+	<div id="div2" name="div2" height="20px" width="100px"style="visibility: hidden;border: 0px solid gray;position:absolute;left:0;top:0;overflow: auto">
+		<img border="0" id="im_id" src="upload.gif">
+	</div>
+	</td></tr>
+	</table>
+	</div>
+	
+		
+</BODY>
+</HTML>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 12 Quiz Lessons 1 - 3">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+        
+         <item>
+		<type>Essay</type>
+		<label>Questions 1 to 4:Perform the indicated operations.&lt;br&gt;(3x - 9) + (2x + 7)</label>
+		<credit>2</credit>
+	</item>	
+
+
+         <item>
+		<type>Essay</type>
+		<label>(7x&lt;sup&gt;2&lt;/sup&gt;  + 10x + 2) - ( 2x&lt;sup&gt;2&lt;/sup&gt;  + 3x + 2)</label>
+		<credit>2</credit>
+	</item>	
+
+
+         <item>
+		<type>Essay</type>
+		<label>(7x&lt;sup&gt;2&lt;/sup&gt;  + 5) + (4x + 1)</label>
+		<credit>2</credit>
+	</item>	
+
+
+         <item>
+		<type>Essay</type>
+		<label>(12x + 7) - (4x - 5)</label>
+		<credit>2</credit>
+	</item>	
+
+	
+         <item>
+		<type>Essay</type>
+		<label>The perimeter of the triangle is represented by the expression 6x + 9. Find the expression of the missing length.&lt;br&gt;&lt;img src=/webdav/res011/int_math_1/pictures/img1.jpg&gt;</label>
+		<credit>2</credit>
+	</item>	
+
+	 <item>
+		<type>Essay</type>
+		<label>Find the expression that represents the perimeter of the rectangle.&lt;br&gt;&lt;img src=/webdav/res011/int_math_1/pictures/img2.jpg&gt;</label>
+		<credit>2</credit>
+	</item>	
+
+
+
+
+
+</assessment>
+

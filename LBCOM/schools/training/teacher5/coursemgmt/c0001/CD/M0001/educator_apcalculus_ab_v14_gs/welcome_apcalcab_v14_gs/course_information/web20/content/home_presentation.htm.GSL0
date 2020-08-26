@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Online Presentation Tools</title>
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function nav()
+   {
+   var w = document.myform.mylist.selectedIndex;
+   var url_add = document.myform.mylist.options[w].value;
+   window.location.href = url_add;
+   }
+//-->
+</script>
+
+</head>
+
+<body>
+<div class="wrapper">
+    <div id="blogs"></div>
+  <div id="conferencing"></div>
+  <div id="office"></div>
+    
+  <br class="clear" />
+
+<div id="history"></div>
+<div id="media"></div>
+
+<div id="contentBox">
+
+<div class="dropDown">
+	<form name="myform">
+	  <select name="mylist" onchange="nav()">
+        <option value="" selected="selected">Select...</option>
+        <option value="../index.htm">Introduction</option>
+        <option value="home_imaging.htm">Digital Imaging</option>
+        <option value="home_blogger.htm">Kingdom of Bloggers</option>
+        <option value="home_office.htm">Liberated Office Tools</option>
+        <option value="home_learning.htm">Collaborative Learning</option>
+        <option value="home_media.htm">Audio and Video</option>
+        <option value="home_networking.htm">Social Networking</option>
+        <option value="home_knowledge.htm">Knowledge Sharing</option>
+        <option value="home_presentation.htm" selected="selected">Online Presentation</option>
+                              </select>
+	</form>
+</div>
+    
+    <div class="segmentTitle">
+    	<h1>Online Presentation Tools</h1>
+    </div>
+    
+    <br class="clear"/>
+    
+    <hr />
+	<div class="mainText">
+        <p><strong>Online presentation tools are applications  that allow you to display information in a variety of ways.</strong></p>
+        <div align="center">
+          <table width="818" border="0" cellspacing="2" cellpadding="2">
+            <tr>
+              <td width="200" height="88"><div align="center"><a href="http://l.flvsgl.com/GSL018fcd59c2ce5809592961d7db5201fd3/" target="_blank"><img src="../images/jing.gif" alt="Jing" width="200" height="82" hspace="5" align="absmiddle" /></a></div></td>
+              <td width="535"><div align="left">Jing is free software that adds visuals to your conversations. With Jing, you can snap a picture of your screen or record a video, record audio over it and then send it to people via IM or email. View a short <a href="jing.htm">video</a> demonstration.</div></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="http://animoto.com/" target="_blank"><img src="../images/animoto.gif" alt="Animoto" width="200" height="66" hspace="5" align="top" /></a></div></td>
+              <td><div align="left">Combines images and music into a music video. View a short <a href="animoto.htm">video</a> demonstration.</div></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="http://l.flvsgl.com/GSL0fe7ef53aa3ce9073458899d0ab61ade5" target="_blank"><img src="../images/voicethread.jpg" alt="VoiceThread" width="200" height="66" hspace="5" align="top" /></a></div></td>
+              <td><div align="left">Use Voicethread to talk about and share your videos, images, or documents. </div></td>
+            </tr>
+            <tr>
+              <td height="89"><a href="http://l.flvsgl.com/GSL0f89722d2a585342181052a46154e596b/" target="_blank"><img src="../images/Prezi.jpg" width="200" height="70" alt="prezi" /></a></td>
+              <td><div align="left">Prezi is a fluid presentation creator that allows you to easily place all your   assets on the screen and pan, spin, zoom, and flow as needed. Prezi allows you to place text, hyperlinks and accepts the importing of videos, images, and PDFs.</div></td>
+            </tr>
+            <tr>
+              <td><div align="center"><a href="http://l.flvsgl.com/GSL0ec43962dbf809f5a3c4fe2a7bca7f04f/" target="_blank"><img src="../images/screenjelly.jpg" alt="SimplyBox" width="200" height="66" align="top" /></a></div></td>
+              <td><div align="left">Screenjelly is an online screen recorder.  Nothing to download. </div></td>
+            </tr>
+            </table>
+          <p>&nbsp;</p>
+      </div>
+	</div>
+</div>
+
+<br class="clear" />
+
+   <div class="push"></div>
+   </div>
+  <div class="footer">
+  <div id="social"></div>
+<div id="online"></div>
+<div id="knowledge"></div>
+</div>
+
+</body>
+</html>

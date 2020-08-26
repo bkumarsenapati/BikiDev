@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 9 Quiz Lessons 1 - 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+
+	
+	<item>
+		<type>Essay</type>
+		<label>Use the table to graph the quadratic equation.&lt;br&gt;y=x&lt;sup&gt;2&lt;/sup&gt;+1&lt;br&gt;&lt;img src=/webdav/res901/int_math_1/pictures/image1.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 2 - 5: Identify whether the equations and graphs are linear or quadratic..&lt;br&gt;&lt;img src=/webdav/res901/int_math_1/pictures/image2.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>&lt;img src=/webdav/res901/int_math_1/pictures/image3.gif&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = 4x&lt;sup&gt;2&lt;/sup&gt;  - 12</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = x + 7</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 6 - 7: Use the given graph and equation to explain what changes occur to the graphs after changes are made to the equations.&lt;br&gt;&lt;img src=/webdav/res901/int_math_1/pictures/image4.gif&gt;&lt;br&gt;y = x + 2</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y=&#189;x</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>Questions 8 - 9: Use the given graph and equation to explain what changes occur to the graphs after changes are made to the equations.&lt;br&gt;&lt;img src=/webdav/res901/int_math_1/pictures/image5.gif&gt;&lt;br&gt;y = 3x&lt;sup&gt;2&lt;/sup&gt;</label>
+		<credit>2</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<label>y = x&lt;sup&gt;2&lt;/sup&gt;+1</label>
+		<credit>2</credit>
+	</item>
+	
+	
+	
+</assessment>
+

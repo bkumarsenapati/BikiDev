@@ -1,0 +1,529 @@
+
+
+
+
+
+
+
+<html>
+<head>
+<title></title>
+<meta name="generator" content="Microsoft FrontPage 6.0">
+</head>
+<script language="javascript" src="../validationscripts.js"></script>
+<script language="JavaScript">
+
+  function changePassword()
+	  {
+	     // password_window = window.open("/LBCOM/ChangePassword.jsp","password_window","width=550,height=300");
+	      //password_window.moveTo(300,230);
+           }
+
+function checkdate(d,m,y)
+{
+  var frm=window.document.StudentReg
+  var k=1
+  var dinm = new Array(0,31,28,31,30,31,30,31,31,30,31,30,31);
+  tday=new Date();
+  
+  if(y <=1900 || y >= parseInt(tday.getFullYear()) ||isNaN(y))
+  {
+   alert("Enter valid year");
+   frm.yy.focus();
+   frm.yy.select();
+   return 0;
+  }
+else
+  if(y %4==0 &&(y%100!=0 ||y%400==0))
+   dinm[2]=29;
+
+if((m > 12 || m < 1)|| isNaN(m))
+{
+   alert("Enter valid month");
+   frm.mm.focus();
+   return 0;
+}
+
+if((d<1 || d >dinm[m])||isNaN(d) )
+{
+   alert("Enter valid Date");
+   frm.dd.focus();
+   frm.dd.select();
+   return 0;
+}
+
+}
+
+function show_key(field)
+{	var the_key=" abcdefghijklmnopqrstuvwxyz";
+	//alert("hai");
+	var the_value=(field.value).toLowerCase();
+	var the_char;
+	var len=the_value.length;
+	for(var i=0;i<len;i++){
+		the_char=the_value.charAt(i);
+		if(the_key.indexOf(the_char)==-1) {
+			return false;
+		}
+	}
+}
+
+function validate(frm)
+{
+	if(trim(frm.username.value)=="")
+	{
+		alert("User Name should have atleast six characters");
+		frm.username.focus();
+		return false;
+	}
+	
+	if(frm.studentgrade.value=="none")
+	{
+		alert("Select grade");
+		frm.studentgrade.focus();
+		return false;
+	}
+	
+	if(frm.dd.value!="" || frm.mm.value>0 || frm.yy.value!="")
+	{
+	if(checkdate(parseInt(frm.dd.value),parseInt(frm.mm.value),parseInt(frm.yy.value))==false)
+		  return false
+	}
+	if(frm.parentname.value=="")
+	{
+		alert("Enter Parent's Name");
+		frm.parentname.focus();
+		return false;
+	}
+	if(isValidEmail(frm.email.value)==false)
+	{
+		frm.email.focus();
+		return false;
+	}
+	if(isValidEmail(frm.email.value)==false)
+	{
+		frm.email.focus();
+		return false;
+	}
+	if (isNaN(trim(frm.stuzipcode.value))) {
+		alert("Enter only numbers");
+		frm.stuzipcode.focus();
+		return false;
+	}
+	if (show_key(frm.stustate)==false) {
+		alert("Enter only alphabets");
+		frm.stustate.focus();
+		return false;
+	}
+	if (isNaN(trim(frm.stuphone.value))) {
+		alert("Enter only numbers");
+		frm.stuphone.focus();
+		return false;
+	}
+  frm.schoolid.disabled = false;
+  frm.username.disabled = false;
+  frm.studentgrade.disabled = false;
+  replacequotes();
+}
+
+function getsubids(id) {
+		clear();
+		var j=1;
+		var i;
+		for (i=0;i<subsections.length;i++){
+			if(subsections[i][0]==id){
+				document.StudentReg.subsection[j]=new Option(subsections[i][2],subsections[i][1]);
+				j=j+1;
+			}
+		} 
+	}
+
+	function clear() {
+		var i;
+		var temp=document.StudentReg.subsection;
+		for (i=temp.length;i>0;i--){
+			if(temp.options[i]!=null){
+				temp.options[i]=null;
+			}
+		}
+	}
+</script>
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<form name="StudentReg" method="post" action="/LBCOM/studentAdmin.RegisterStudent" onsubmit="return validate(this);">
+&nbsp;<table border="0" align="center" cellpadding="3" cellspacing="3" width="616">
+
+    <tr>
+        <td width="604" colspan="3" valign="middle">
+            <p><font face="Arial"><b><span style="font-size: 12pt">Modify Profile</span></b></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="302" colspan="3">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="134">  
+							<p><span style="font-size:10pt;"><font face="Arial"><b>Your Personal&nbsp; Details :</b></font></span></p>
+                        </td>
+                        <td width="168">
+                            </td>
+                    </tr>
+                </table>
+        </td>
+	
+	 <td width="302">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                        <td width="154">            <p><span style="font-size:10pt;"><font face="Arial"><b>
+			<input type="button" name="cngpwd_button" value="Change Password" onclick="JavaScript : changePassword();" >
+			</b></font></span></p>
+                        </td>
+                        <td width="450">
+                            </td>
+                    </tr>
+                </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="604" colspan="3">
+                <table align="center" cellpadding="0" cellspacing="0" width="100%">
+
+<TR>
+<TD width="598"><TABLE cellSpacing="2" cellPadding="2" border=0 width="70%" align="center">
+<TBODY>
+<TR>
+<TD width=20 height=10 rowSpan="6"><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span></TD>
+<TD noWrap height=10></TD></TR>
+<TR>
+<TD class=medgray width=150><span style="font-size:10pt;"><font face="Arial">School 
+                                        ID</font></span></TD>
+<TD><span style="font-size:10pt;"><font face="Arial">
+<INPUT type="text" maxLength="50" size=25 name="Your school" lf="forms[0].USER_NAME" value="Your school" disabled></font></span></TD></TR>
+<TR>
+<TD class=medgray width=150><span style="font-size:10pt;"><font face="Arial">User ID</font></span></TD>
+<TD><span style="font-size:10pt;"><font face="Arial">
+<!--webbot bot="Validation" b-value-required="TRUE" i-minimum-length="3" i-maximum-length="50" --><INPUT maxLength="50" size=25 name=username 
+lf="forms[0].USER_NAME" value="student" disabled></font></span></TD></TR>
+
+<INPUT TYPE="hidden" value="student" name=password >
+<INPUT TYPE="hidden" value="student" name=cpassword>	
+
+<TR>
+<TD class=medgray>
+                                        <p>&nbsp;</p>
+</TD>
+<TD>
+                                        <p>&nbsp;</p>
+</TD></TR></TBODY></TABLE></TD>
+</TR>
+                </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">First Name</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="firstname" maxlength="25" size="20" value="student"  oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return NameOnly(this, event)"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Last Name</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="lastname" maxlength="25" size="20" value="student"  oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return NameOnly(this, event)"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Class ID</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+
+		<td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="studentgrade" maxlength="25" size="20" value='CLASS' disabled></p>
+        </td>
+	 </tr>
+		 
+    <tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Gender</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><select size="1" name="studentgender">
+		
+				<option value="none">Gender</option>
+				<option value="male" selected >Male</option>
+				<option value="female" >Female</option>
+		
+      </select></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Date of Birth</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;
+		<SELECT name="mm" size="1"><OPTION value=0>[Select
+              One]<OPTION value=1>January<OPTION value=2>February<OPTION value=3>March<OPTION 
+value=4>April<OPTION value=5>May<OPTION value=6>June<OPTION value=7>July
+		<OPTION 
+value=8 selected>August<OPTION value=9>September<OPTION value=10>October<OPTION 
+value=11>November<OPTION value=12>December</OPTION></SELECT>&nbsp;
+			<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="2" --> 
+
+			<INPUT maxLength=2 size=2 name="dd" value="15">
+			<INPUT maxLength=4 size=4 name="yy" value="1945"></font></span><FONT 
+class=content_help face="Times New Roman" color="red"><span style="font-size:10pt;"><i>(Month DD, YYYY)</i></span></FONT><span style="font-size:10pt;"><font face="Arial"> </font></span></p>
+
+        </td>
+    </tr>
+	<tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Parent's Name</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="parentname" maxlength="25" size="20" value="hgf"><font color="red"></font></p>
+        </td>
+    </tr>
+	<tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Parent's Occupation</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="25" --><input type="text" name="parentocc" maxlength="25" size="20" value=""><font color="red"></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" height="27" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Email 
+                </font></span></p>
+        </td>
+        <td width="8" height="27" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316" height="27">
+            <p><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="50" --><input type="text" name="email" maxlength="50" size="20" value="email@hotschools.net"> 
+                <span style="font-size:10pt;"><font face="Times New Roman" color="red"><i>(Valid 
+                email address) </i></font></span><font color="red">*</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="262" align="left" valign="middle">
+            <p><span style="font-size:10pt;"><font face="Arial">Address</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+            <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p><span style="font-size:10pt;"><font face="Arial"><b>&nbsp;</b></font></span><!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="50" --><input type="text" name="stuaddress" maxlength="50" size="20" value=""></p>
+        </td>
+    </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">City </font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="stucity" maxlength="30" size="20" value=""></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Zip Code</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="stuzipcode" maxlength="30" size="20" value=""  oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return NumbersOnly(this, event)"></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">State</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<!--webbot bot="Validation" b-value-required="TRUE" i-maximum-length="30" --><input type="text" name="stustate" maxlength="30" size="20" value=""></p>
+        </td>
+        </tr>
+        <tr>
+        <td align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Country</font></span></p>
+        </td>
+        <td align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td>
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;</font></span></b><SELECT size=1 name=country 
+lf="forms[0].ADMI_CONTACT_COUNTRY"><OPTION value=US selected>United States<OPTION value=AF>Afghanistan<OPTION value=AL>Albania<OPTION 
+value=DZ>Algeria<OPTION value=AS>American Samoa<OPTION value=AD>Andorra<OPTION 
+value=AO>Angola<OPTION value=AI>Anguilla<OPTION value=AQ>Antarctica<OPTION 
+value=AG>Antigua and Barbuda<OPTION value=AR>Argentina<OPTION 
+value=AM>Armenia<OPTION value=AW>Aruba<OPTION value=AU>Australia<OPTION 
+value=AT>Austria<OPTION value=AZ>Azerbaijan<OPTION value=BS>Bahamas<OPTION 
+value=BH>Bahrain<OPTION value=BD>Bangladesh<OPTION value=BB>Barbados<OPTION 
+value=BY>Belarus<OPTION value=BE>Belgium<OPTION value=BZ>Belize<OPTION 
+value=BJ>Benin<OPTION value=BM>Bermuda<OPTION value=BT>Bhutan<OPTION 
+value=BO>Bolivia<OPTION value=BA>Bosnia-Herzegovina<OPTION 
+value=BW>Botswana<OPTION value=BV>Bouvet Island<OPTION value=BR>Brazil<OPTION 
+value=IO>British Indian Ocean Territories<OPTION value=BN>Brunei Darussalam<OPTION value=BG>Bulgaria<OPTION value=BF>Burkina
+                  Faso<OPTION 
+value=BI>Burundi<OPTION value=KH>Cambodia<OPTION value=CM>Cameroon<OPTION 
+value=CA>Canada<OPTION value=CV>Cape Verde<OPTION value=KY>Cayman Islands<OPTION 
+value=CF>Central African Republic<OPTION value=TD>Chad<OPTION 
+value=CL>Chile<OPTION value=CN>China<OPTION value=CX>Christmas Island<OPTION 
+value=CC>Cocos (Keeling) Island<OPTION value=CO>Colombia<OPTION 
+value=KM>Comoros<OPTION value=CG>Congo<OPTION value=CD>Congo, Democratic
+                  republic of the (former Zaire)<OPTION value=CK>Cook Islands<OPTION 
+value=CR>Costa Rica<OPTION value=CI>Cote D'ivoire<OPTION value=HR>Croatia<OPTION 
+value=CY>Cyprus<OPTION value=CZ>Czech Republic<OPTION value=DK>Denmark<OPTION 
+value=DJ>Djibouti<OPTION value=DM>Dominica<OPTION value=DO>Dominican Republic<OPTION value=TP>East
+                  Timor<OPTION value=EC>Ecuador<OPTION 
+value=EG>Egypt<OPTION value=SV>El Salvador<OPTION value=GQ>Equatorial Guinea<OPTION value=ER>Eritrea<OPTION value=EE>Estonia<OPTION 
+value=ET>Ethiopia<OPTION value=FK>Falkland Islands (Malvinas)<OPTION 
+value=FO>Faroe Islands<OPTION value=FJ>Fiji<OPTION value=FI>Finland<OPTION 
+value=FR>France<OPTION value=FX>France (Metropolitan)<OPTION value=GF>French
+                  Guiana<OPTION value=PF>French Polynesia<OPTION value=TF>French
+                  Southern Territories<OPTION value=GA>Gabon<OPTION value=GM>Gambia<OPTION 
+value=GE>Georgia<OPTION value=DE>Germany<OPTION value=GH>Ghana<OPTION 
+value=GI>Gibraltar<OPTION value=GR>Greece<OPTION value=GL>Greenland<OPTION 
+value=GD>Grenada<OPTION value=GP>Guadeloupe (French)<OPTION value=GU>Guam
+                  (United States)<OPTION value=GT>Guatemala<OPTION value=GN>Guinea<OPTION 
+value=GW>Guinea-bissau<OPTION value=GY>Guyana<OPTION value=HT>Haiti<OPTION 
+value=HM>Heard &amp; McDonald Islands<OPTION value=VA>Holy See (Vatican City
+                  State)<OPTION value=HN>Honduras<OPTION value=HK>Hong Kong<OPTION 
+value=HU>Hungary<OPTION value=IS>Iceland<OPTION value=IN>India<OPTION 
+value=ID>Indonesia<OPTION value=IQ>Iraq<OPTION value=IE>Ireland<OPTION 
+value=IL>Israel<OPTION value=IT>Italy<OPTION value=JM>Jamaica<OPTION 
+value=JP>Japan<OPTION value=JO>Jordan<OPTION value=KZ>Kazakhstan<OPTION 
+value=KE>Kenya<OPTION value=KI>Kiribati<OPTION value=KR>Korea Republic of<OPTION 
+value=KW>Kuwait<OPTION value=KG>Kyrgyzstan<OPTION value=LA>Lao People's
+                  Democratic Republic<OPTION value=LV>Latvia<OPTION value=LB>Lebanon<OPTION 
+value=LS>Lesotho<OPTION value=LR>Liberia<OPTION value=LI>Liechtenstein<OPTION 
+value=LT>Lithuania<OPTION value=LU>Luxembourg<OPTION value=MO>Macau<OPTION 
+value=MK>Macedonia The Former Yugoslav Republic of<OPTION 
+value=MG>Madagascar<OPTION value=MW>Malawi<OPTION value=MY>Malaysia<OPTION 
+value=MV>Maldives<OPTION value=ML>Mali<OPTION value=MT>Malta<OPTION 
+value=MH>Marshall Islands<OPTION value=MQ>Martinique<OPTION 
+value=MR>Mauritania<OPTION value=MU>Mauritius<OPTION value=YT>Mayotte<OPTION 
+value=MX>Mexico<OPTION value=FM>Micronesia Federated States of<OPTION 
+value=MD>Moldavia Republic of<OPTION value=MC>Monaco<OPTION 
+value=MN>Mongolia<OPTION value=MS>Montserrat<OPTION value=MA>Morocco<OPTION 
+value=MZ>Mozambique<OPTION value=NA>Namibia<OPTION value=NR>Nauru<OPTION 
+value=NP>Nepal<OPTION value=NL>Netherlands<OPTION value=AN>Netherlands Antilles<OPTION value=NC>New
+                  Caledonia<OPTION value=NZ>New Zealand<OPTION 
+value=NI>Nicaragua<OPTION value=NE>Niger<OPTION value=NG>Nigeria<OPTION 
+value=NU>Niue<OPTION value=NF>Norfolk Island<OPTION value=MP>Northern Mariana
+                  Island<OPTION value=NO>Norway<OPTION value=OM>Oman<OPTION 
+value=PK>Pakistan<OPTION value=PW>Palau<OPTION value=PA>Panama<OPTION 
+value=PG>Papua New Guinea<OPTION value=PY>Paraguay<OPTION value=PE>Peru<OPTION 
+value=PH>Philippines<OPTION value=PN>Pitcairn<OPTION value=PL>Poland<OPTION 
+value=PT>Portugal<OPTION value=PR>Puerto Rico<OPTION value=QA>Qatar<OPTION 
+value=RE>Reunion<OPTION value=RO>Romania<OPTION value=RU>Russian Federation<OPTION value=RW>Rwanda<OPTION value=SH>Saint
+                  Helena<OPTION 
+value=KN>Saint Kitts and Nevis<OPTION value=LC>Saint Lucia<OPTION value=PM>Saint
+                  Pierre and Miquelon<OPTION value=VC>Saint Vincent and the
+                  Grenadines<OPTION 
+value=WS>Samoa<OPTION value=SM>San Marino<OPTION value=ST>Sao Tome and Principe<OPTION value=SA>Saudi
+                  Arabia<OPTION value=SN>Senegal<OPTION 
+value=SC>Seychelles<OPTION value=SL>Sierra Leone<OPTION 
+value=SG>Singapore<OPTION value=SK>Slovakia (Slovak Republic)<OPTION 
+value=SI>Slovenia<OPTION value=SB>Solomon Islands<OPTION value=SO>Somalia<OPTION 
+value=ZA>South Africa<OPTION value=GS>South Georgia and South Sandwich Islands<OPTION value=ES>Spain<OPTION value=LK>Sri
+                  Lanka<OPTION 
+value=SR>Suriname<OPTION value=SJ>Svalbard &amp; Jan Mayen Islands<OPTION 
+value=SZ>Swaziland<OPTION value=SE>Sweden<OPTION value=CH>Switzerland<OPTION 
+value=TW>Taiwan Province of China<OPTION value=TJ>Tajikistan<OPTION 
+value=TZ>Tanzania United Republic of<OPTION value=TH>Thailand<OPTION 
+value=TG>Togo<OPTION value=TK>Tokelau<OPTION value=TO>Tonga<OPTION 
+value=TT>Trinidad &amp; Tobago<OPTION value=TN>Tunisia<OPTION 
+value=TR>Turkey<OPTION value=TM>Turkmenistan<OPTION value=TC>Turks &amp; Caicos
+                  Islands<OPTION value=TV>Tuvalu<OPTION value=UG>Uganda<OPTION 
+value=UA>Ukraine<OPTION value=AE>United Arab Emirates<OPTION value=GB>United
+                  Kingdom<OPTION value=US selected>United States<OPTION value=UM>United States Minor Outlying Islands<OPTION 
+value=UY>Uruguay<OPTION value=UZ>Uzbekistan<OPTION value=VU>Vanuatu<OPTION 
+value=VE>Venezuela<OPTION value=VN>Viet Nam<OPTION value=VG>Virgin Islands
+                  (British)<OPTION value=VI>Virgin Islands (United States)<OPTION value=WF>Wallis
+                  &amp; Futuna Islands<OPTION value=EH>Western Sahara<OPTION value=YE>Yemen<OPTION 
+value=YU>Yugoslavia<OPTION value=ZM>Zambia</OPTION></SELECT></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Phone</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<input type="text" name="stuphone" maxlength="30" size="20" value=""  oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return PhoneOnly(this, event)"></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Fax</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<input type="text" name="stufax" maxlength="30" size="20" value=""  oncontextmenu="return false" onkeydown="restrictctrl(this,event)" onkeypress="return PhoneOnly(this, event)"></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="262" align="left" valign="middle">
+                <p><span style="font-size:10pt;"><font face="Arial">Personal 
+                Website</font></span></p>
+        </td>
+        <td width="8" align="center" valign="middle">
+                <p><b><span style="font-size:10pt;"><font face="Arial">&nbsp;:</font></span></b></p>
+        </td>
+        <td width="316">
+            <p>&nbsp;<input type="text" name="stuwebsite" maxlength="30" size="20" value=""></p>
+        </td>
+        </tr>
+        <tr>
+        <td width="604" colspan="3" align="left" valign="middle">
+                <p>&nbsp;</p>
+        </td>
+        </tr>
+		<script>
+				document.StudentReg.country.value = "US";
+				document.StudentReg.mm.value = "0";
+		</script>
+		
+		<input type="hidden" name="mode" value='modify'>
+				
+</table>
+</form>
+
+</body>
+</html>

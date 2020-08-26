@@ -1,0 +1,86 @@
+.ui-widget-content{
+	background-image:none;
+}
+.ui_interactive{
+	background-color:#463d52;
+	color:#ffffff;
+}
+
+.ui-navigation-header{
+	background-image:none !important;
+	background-color:transparent !important;
+	
+}
+
+.ui_interactive hr,.ui_interactive  hr.dashed{
+	margin-bottom:10px;
+}
+
+.ui-navigation-header.ui-widget-header{
+	background:none;
+	background-color:#ffffff;
+	color:#ffffff;
+}
+.ui-navigation-header .ui-navigation { /*added by Vaughn*/
+	margin-bottom: 0px;
+}
+.ui-navigation-header .ui-navigation .content ul { /*added by Vaughn*/
+	margin-top: 5px !important;
+}
+.ui-dialog-titlebar.ui-widget-header.ui-corner-all.ui-helper-clearfix { /*added by Vaughn*/
+	background-color: #228187;
+}
+.ui-slideshow-item { 
+	
+}
+
+.ui_pending .help{
+	display:none;	
+}
+
+.ui-icon{
+	display:inline;	
+}
+
+.ui-dialog{
+	
+}
+
+.ui_interactive h2 {
+	color:#ffffff !important;	
+}
+
+.ui_edge_buttons{
+	float:left;	
+}
+
+.ui_edge_buttons .ui-button .ui-button-text{
+	background-color:#ffffff;
+	border:none;
+	color:#e0376e;
+}
+
+.ui_edge_buttons .ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	border:none;	
+}
+
+
+.ui_interactive{
+	margin-bottom:0px !important;	
+}
+
+.ui_interactive h2{
+	color:#ffffff !important;	
+}
+
+.ui_results p { /*added by Vaughn*/
+	white-space: nowrap;
+}
+
+span.ui-button-text {
+	background-color: #b60b78;
+}
+
+span.ui-button-text:hover {
+	background-color: white;
+}

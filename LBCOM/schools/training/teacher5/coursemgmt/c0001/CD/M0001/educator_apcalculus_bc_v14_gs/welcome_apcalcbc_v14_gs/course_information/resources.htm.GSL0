@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Student Resources</title>
+
+<!-- Print CSS -->
+<link rel="stylesheet" href="../styles/print.css" type="text/css" media="print" />
+
+<!-- <![if !(IE 6)]> -->
+<link rel="stylesheet" type="text/css" href="../styles/main.css" />
+<!-- <![endif]> -->
+
+<!--[if IE 7]>
+	<link href="../styles/ie7.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+<!--[if IE]>
+<link href="../styles/ie.css" rel="stylesheet" type="text/css">
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id="fixedBox">
+<div id="insideBox">
+
+<div class="floatLeft">
+<h1>&nbsp;</h1>
+</div>
+
+<div class="floatRight"> 
+<a href="javascript: history.go(-1)" title="go to previous page"><img src="../styles/genimages/back_icon.gif" width="60" height="20" alt="" /></a><a href="javascript:window.print()" title="print page"><img src="../styles/genimages/print.gif" width="20" height="20" alt="" /></a>
+</div>
+
+</div>
+</div>
+
+<div id="content">
+
+<div id="inside_content">
+
+<h2>Student Resources</h2>
+
+  <table summary="student resource list" class="leftTH">
+  <caption>
+  Student Resource List
+  </caption>
+  
+  <thead>
+  <tr>
+    <th width="25%" scope="col">Resource</th>
+    <th width="50%" scope="col">Description</th>
+    <th width="25%" scope="col">Website Link</th>
+  </tr>
+  </thead>
+  
+  <tbody>
+  <tr>
+    <th scope="row">Art and History</th>
+    <td>You will find definitions for more than 3,600 terms used in discussing art and visual culture, along with thousands of supporting images, pronunciation notes, great quotations, and cross&ndash;references.</td>
+    <td><a href="http://l.flvsgl.com/GSL023c3e3237b99fa2f1d9e15fba3156001" target="_blank" title="website will open in a new browser window">Art Lex Art Dictionary </a></td>
+  </tr>
+  <tr>
+    <th scope="row">Ask a Librarian</th>
+    <td>Ask a Librarian provides live virtual reference services via local library customized web sites from 10 a.m. to midnight Sunday through Thursday (EST), and from 10 a.m. to 5 p.m. Friday and Saturday (EST).</td>
+    <td><a href="http://l.flvsgl.com/GSL0ad6126a86034089bd7abd9505659cbba" target="_blank" title="website will open in a new browser window">Ask a Librarian</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Calorie Control Tips</th>
+    <td>Information on cutting calories and fat in your diet, achieving and maintaining a healthy weight, and your favorite low&ndash;calorie, reduced fat&ndash;foods and beverages.</td>
+    <td><a href="http://l.flvsgl.com/GSL01d1cdca8cdadaee97f9bbcd811a3b8b7/" target="_blank" title="website will open in a new browser window">Calorie Control Council</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Citation Machine</th>
+    <td>The Definitive Guide to Writing Research Papers.</td>
+    <td><a href="http://l.flvsgl.com/GSL0dec5125096ffb60a17935db4e825fe02" target="_blank" title="website will open in a new browser window">MLA Citations/Works Cited</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Discovery Education</th>
+    <td>Discovery Education transforms classrooms and inspires teachers with engaging content and services that measure and improve student achievement.</td>
+    <td><a href="http://l.flvsgl.com/GSL0608888fcbfe2358c49afc20225269289" target="_blank" title="website will open in a new browser window">Discovery Education</a></td>
+  </tr>  
+  <tr>
+    <th scope="row">Graphing Resource</th>
+    <td>Here you will find different graphs and charts for you to consider creating.</td>
+    <td><a href="http://l.flvsgl.com/GSL0154d6ccd6387f3dfaf47ada57ceb83de/" target="_blank" title="website will open in a new browser window">Create a Graph </a></td>
+  </tr> 
+  <tr>
+    <th scope="row">Latin Links</th>
+    <td>The Latin Links cover grammer, culture, dictionary of terms, and much more.</td>
+    <td><a href="http://l.flvsgl.com/GSL05ff47aef7cf33e4bd59fe069812a4fcc" target="_blank" title="website will open in a new browser window">Latin Grammar</a><br/>
+    <a href="http://l.flvsgl.com/GSL00fab02b9945b8273c46d1f3da2bf6c94" target="_blank" title="website will open in a new browser window">Virtual Roma Classical Images</a><br/>
+    <a href="http://lysy2.archives.nd.edu/cgi-bin/words.exe" target="_blank" title="website will open in a new browser window">Latin Dictionary </a></td>
+  </tr> 
+  <tr>
+    <th scope="row">Math Links</th>
+    <td>Step&ndash;by&ndash;step math answers for Algebra, Geometry, and Calculus.</td>
+    <td><a href="http://l.flvsgl.com/GSL098976a3fd5fd263785c8e5b033441044" target="_blank" title="website will open in a new browser window">Hotmath Homework Help</a><br/>
+    <a href="http://l.flvsgl.com/GSL01a95055aba786b21fb5cd926ce88b0b1" target="_blank" title="website will open in a new browser window">Simultaneous Equations</a><br/>
+    <a href="http://l.flvsgl.com/GSL0c4b9a8088b46b4be8db943cdf58e443d" target="_blank" title="website will open in a new browser window">Equation Help</a></td>
+  </tr> 
+  <tr>
+    <th scope="row">Reference Desk: dictionary, thesaurus, calculators, links to major newspapers and more!</th>
+    <td>Reference desk is a free and family friendly web site that indexes and reviews quality, credible, and current web&ndash;based reference resources.</td>
+    <td><a href="http://l.flvsgl.com/GSL01cbe49cf90a4c3be43e3a6780312825c" target="_blank" title="website will open in a new browser window">Reference Desk</a></td>
+  </tr>
+  <tr>
+    <th scope="row">Spanish Links</th>
+    <td>Spanish online  tutorial with audio, cultural notes, grammar, vocabulary, verbs drills, and links to helpful sites.</td>
+    <td><a href="http://l.flvsgl.com/GSL0028320e28b41b9e905e7c401191ff311" target="_blank" title="website will open in a new browser window">Learn Spanish Tutorial </a></td>
+  </tr>   
+  <tr>
+    <th scope="row">Time Management</th>
+    <td>Find out how you can get the most out of high school and best prepare yourself for college.</td>
+    <td><a href="http://l.flvsgl.com/GSL0f3c95a32643a36119e9ffed040e9a74f" target="_blank" title="website will open in a new browser window">Time Management Tips</a></td>
+  </tr> 
+  <tr>
+    <th scope="row">Turnitin</th>
+    <td>Turnitin is the leading academic plagiarism detector, utilized by teachers and students to avoid plagiarism and ensure academic integrity.</td>
+    <td><a href="http://l.flvsgl.com/GSL0f45623e279ba35a1a7eb66843b1abc99" target="_blank" title="website will open in a new browser window">Turnitin</a></td>
+  </tr>            
+  </tbody>
+  
+</table>
+
+
+</div>
+
+
+</div>
+
+</body>
+</html>

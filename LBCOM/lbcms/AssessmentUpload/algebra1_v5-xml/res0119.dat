@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.03 Graphing">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Attach your document using the browse button or copy and paste your text into the box below.</label>
+		<credit>5.0</credit>
+	</item>
+</assessment>

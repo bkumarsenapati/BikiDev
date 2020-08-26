@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Collaborative Learning</title>
+<link href="../styles/site.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function nav()
+   {
+   var w = document.myform.mylist.selectedIndex;
+   var url_add = document.myform.mylist.options[w].value;
+   window.location.href = url_add;
+   }
+//-->
+</script>
+
+</head>
+
+<body>
+<div class="wrapper">
+    <div id="blogs"></div>
+  <div id="conferencing"></div>
+  <div id="office"></div>
+    
+  <br class="clear" />
+
+<div id="history"></div>
+<div id="media"></div>
+
+<div id="contentBox">
+
+<div class="dropDown">
+	<form name="myform">
+	  <select name="mylist" onchange="nav()">
+        <option value="">Select...</option>
+        <option value="../index.htm">Introduction</option>
+        <option value="home_imaging.htm">Digital Imaging</option>
+        <option value="home_blogger.htm">Kingdom of Bloggers</option>
+        <option value="home_office.htm">Liberated Office Tools</option>
+        <option value="home_learning.htm" selected="selected">Collaborative Learning</option>
+        <option value="home_media.htm">Audio and Video</option>
+        <option value="home_networking.htm">Social Networking</option>
+        <option value="home_knowledge.htm">Knowledge Sharing</option>
+        <option value="home_presentation.htm">Online Presentation</option>
+                              </select>
+	</form>
+</div>
+    
+    <div class="segmentTitle">
+    	<h1>Collaborative Learning</h1>
+    </div>
+    
+    <br class="clear"/>
+    
+    <hr />
+<div class="mainText">
+   		<p><strong>Collaborative learning occurs when students work together with one another on a common task or goal.</strong></p>
+   		<table width="928" border="0" align="center" cellpadding="2" cellspacing="2">
+   		  <tr>
+   		    <td width="206" height="123"><a href="http://l.flvsgl.com/GSL05523d7bd7981bd810dc7a990e77bc7ff" target="_blank"><img src="../images/scriblink.gif" alt="ScribLink" width="200" height="66" hspace="5" align="left" /></a></td>
+   		    <td width="708">Scriblink is a free digital whiteboard that users can share online in real-time. It is kind of like pen and paper, minus the dead trees, plastic, and the inconvenience of being at the same place at the same time. Scriblink is all about collaboration and brings you the power of free hand expression with anyone, at anytime, anywhere in the world. View a short <a href="scriblink.htm">video</a> demonstration.</td>
+	      </tr>
+   		  <tr>
+   		    <td><a href="http://l.flvsgl.com/GSL092f44111e9e537d6b5558d81313b0e56/" target="_blank"><img src="../images/drabbleboard.gif" alt="Dabbleboard" width="200" height="66" hspace="5" align="left" /></a></td>
+   		    <td>Dabbleboard is an online collaboration application that’s centered around the whiteboard. With a new type of drawing interface that's actually easy and fun to use, Dabbleboard gets out of your way and just lets you draw with flexible and smart tools. You can reuse previously-made drawings and edit them as you wish as easily as using a marker or a pencil. Dabbleboard also features chat, document sharing, and web conferencing. </td>
+	      </tr>
+   		  <tr>
+   		    <td><a href="http://l.flvsgl.com/GSL066981af7943328cffda18ab78c7d9d50/" target="_blank"><img src="../images/scribblar.gif" alt="Scribblar" width="200" height="66" hspace="5" align="left" /></a></td>
+   		    <td>Scribblar is great for simple, effective, online collaboration. It can be used for brainstorming about your next big project.</td>
+	      </tr>
+   		  <tr>
+   		    <td><a href="http://vyew.com/site/" target="_blank"><img src="../images/vyew.jpg" alt="Vyew" width="200" height="66" hspace="5" align="left" /></a></td>
+   		    <td>Vyew is an always-on collaboration tool for real-time interaction between people and content.</td>
+	      </tr>
+	  </table>
+   		<p>&nbsp;</p>
+</div>
+</div>
+
+<br class="clear" />
+
+   <div class="push"></div>
+   </div>
+  <div class="footer">
+  <div id="social"></div>
+<div id="online"></div>
+<div id="knowledge"></div>
+</div>
+
+</body>
+</html>

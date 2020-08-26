@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="06.05 Quiz 1">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the degree of this polynomial:&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0076/educator_algebra1/pictures/M6images/A1M6Q1_1.gif&gt;</label>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>What is the degree of this term:&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0076/educator_algebra1/pictures/M6images/A1M6Q1_2.gif&gt;</label>
+			<choice>
+				<choicelabel>1</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Classify this polynomial:&lt;br&gt;&lt;br&gt;&lt;img src=/webdav/res0076/educator_algebra1/pictures/M6images/A1M6Q1_3.gif&gt;</label>
+			<choice>
+				<choicelabel>monomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>binomial</choicelabel>
+				<credit>2.0</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>trinomial</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(3x&lt;sup&gt;2&lt;/sup&gt; - 3x + 9) + (x&lt;sup&gt;2&lt;/sup&gt; - 4x - 6)</label>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - 7x + 3</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3x&lt;sup&gt;2&lt;/sup&gt; - 7x + 3</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - 7x + 15</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(5x&lt;sup&gt;2&lt;/sup&gt; - 4x + 7) - (x&lt;sup&gt;2&lt;/sup&gt; - 2x - 5)</label>
+			<choice>
+				<choicelabel>5x&lt;sup&gt;2&lt;/sup&gt; - 2x + 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - 6x + 12</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - 2x + 2</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x&lt;sup&gt;2&lt;/sup&gt; - 2x + 12  </choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(6x&lt;sup&gt;2&lt;/sup&gt;)(-7x)</label>
+			<choice>
+				<choicelabel>-42x&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-42x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>-42x</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>42x&lt;sup&gt;3&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(3x&lt;sup&gt;2&lt;/sup&gt;)(2x&lt;sup&gt;2&lt;/sup&gt; - 7x +10)</label>
+			<choice>
+				<choicelabel>5x&lt;sup&gt;4&lt;/sup&gt; - 10x&lt;sup&gt;3&lt;/sup&gt; + 13x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;4&lt;/sup&gt; - 21x&lt;sup&gt;2&lt;/sup&gt; + 30x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;4&lt;/sup&gt; - 21x&lt;sup&gt;3&lt;/sup&gt; + 30x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;4&lt;/sup&gt; + 21x&lt;sup&gt;3&lt;/sup&gt; + 30x&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;4a&lt;sup&gt;2&lt;/sup&gt;b(3ab - 7a + b)</label>
+			<choice>
+				<choicelabel>12a&lt;sup&gt;3&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt; + 28a&lt;sup&gt;3&lt;/sup&gt;b + 4a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12a&lt;sup&gt;3&lt;/sup&gt;b - 21a&lt;sup&gt;3&lt;/sup&gt;b + 4a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12a&lt;sup&gt;3&lt;/sup&gt;b&lt;sup&gt;3&lt;/sup&gt; - 28a&lt;sup&gt;3&lt;/sup&gt;b + 4a&lt;sup&gt;2&lt;/sup&gt;b</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>12a&lt;sup&gt;3&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt; - 28a&lt;sup&gt;3&lt;/sup&gt;b + 4a&lt;sup&gt;2&lt;/sup&gt;b&lt;sup&gt;2&lt;/sup&gt;</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(3x-4)(6x&lt;sup&gt;2&lt;/sup&gt; - 3x - 7)</label>
+			<choice>
+				<choicelabel>18x&lt;sup&gt;3&lt;/sup&gt; + 33x&lt;sup&gt;2&lt;/sup&gt; - 9x + 28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18x&lt;sup&gt;3&lt;/sup&gt; - 33x&lt;sup&gt;2&lt;/sup&gt; + 9x + 28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18x&lt;sup&gt;3&lt;/sup&gt; - 33x&lt;sup&gt;2&lt;/sup&gt; - 9x + 28</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>18x&lt;sup&gt;3&lt;/sup&gt; - 33x&lt;sup&gt;2&lt;/sup&gt; - 9x - 28</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+			<label>Simplify the following. &lt;br&gt;&lt;br&gt;(3x - 7)(2x + 5)</label>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;2&lt;/sup&gt; + x + 35</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;2&lt;/sup&gt; + x - 35</choicelabel>
+				<credit>2</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>6x&lt;sup&gt;2&lt;/sup&gt; + 29x - 35</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5x&lt;sup&gt;2&lt;/sup&gt; + x - 35</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+</assessment>

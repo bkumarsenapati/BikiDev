@@ -1,0 +1,63 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Namo WebEditor v5.0"><meta name="author" content="Hotschools, Inc. ">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title><%=application.getInitParameter("title")%></title>
+</head>
+
+<body>
+<%@  page language="java"  import="java.sql.*,coursemgmt.ExceptionsFile" %>
+<%@ page errorPage="/LBCOM/ErrorPage.jsp" %>
+<jsp:useBean id="con1" class="sqlbean.DbBean" scope="session" />
+<%! 
+	String username,password;
+	Connection con;
+	Statement st;
+	ResultSet rs;
+%>
+<%
+		
+
+     username=request.getParameter("username");
+	 pwd=request.getParameter("password");
+     try
+    {
+		con = con1.getConnection();
+		st=con.createStatement();
+	rs=st.executeQuery("select password from contacts_admin where username='"+username+"'");
+    if(rs.next())
+    {
+     password=rs.getString(2);
+	 }
+	 else{}
+		
+
+    if(pwd.equals(password))
+		System.out.println("Login Success");
+	else
+		System.out.println("Login Failed");
+
+catch(Exception e)
+{
+	 ExceptionsFile.postException("acontacts.jsp","operations on database","Exception",e.getMessage());
+  out.println(e);
+}
+finally
+{
+	try{
+  rs.close();
+  st.close();
+  con.close();
+	}catch(Exception e){
+		ExceptionsFile.postException("acontacts.jsp","closing statement, connection and resultset objects","Exception",e.getMessage());
+		System.out.println("Connection close failed");
+	}
+}
+     
+%>
+
+  	 
+</body>
+</html>

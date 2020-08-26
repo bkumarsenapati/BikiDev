@@ -1,0 +1,299 @@
+<%@ page language="java" import="java.sql.*,java.io.*,coursemgmt.ExceptionsFile" %>
+<%@page import = "java.sql.*,java.util.Hashtable,java.util.Date,java.util.Calendar" %>
+<%@ page errorPage="/ErrorPage.jsp" %>
+<jsp:useBean id="con1" class="sqlbean.DbBean" scope="page" />
+<jsp:useBean id="report" class="markingpoints.ReportsBean" scope="page"/>
+
+<%
+	String schoolId="",classId="",teacherId="",courseId="",courseName="",crsId="",studentId="",fname="",lname="";
+	String query=null,ex="0",as="0",tmpusr="",smarks="",percentage2="";
+	float totalmarks=0.0f,securedmarks=0.0f,percentage1=0.0f;
+	ResultSet  rs=null,rs1=null,rs2=null;
+	Connection con=null;
+	Statement st=null,st1=null,st2=null;
+	boolean flag=false;
+   String atype=null;
+	try
+	{
+		session=request.getSession();
+		String sessid=(String)session.getAttribute("sessid");
+		if(sessid==null)
+		{
+			out.println("<html><script> top.location.href='/LBRT/NoSession.html'; \n </script></html>");
+			return;
+		}
+		classId=request.getParameter("classid");
+		String user_id=request.getParameter("user");
+		String marking_id=request.getParameter("m_id");
+	String act=request.getParameter("act");
+	String act_schoolId=(String)session.getAttribute("schoolid");
+		schoolId = (String)session.getAttribute("schoolid");
+		teacherId = (String)session.getAttribute("emailid");
+		courseId=request.getParameter("courseid");
+		courseName=request.getParameter("courseName");
+		atype=request.getParameter("asstype");
+		if(courseId == null)
+			courseId="selectcourse";     
+
+		studentId=request.getParameter("studentid");
+		if(studentId == null)
+			studentId="selectstudent";   
+
+		con=con1.getConnection();
+		st=con.createStatement();
+		st1=con.createStatement();
+		st2=con.createStatement();
+
+		rs=st.executeQuery("select * from coursewareinfo where teacher_id='"+teacherId+"' and school_id='"+schoolId+"' and status>0");	
+%>
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Main Student Score</title>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+function goCourse()
+{
+	var courseId=document.studentscores.courselist.value;
+	window.location="MainStudentScores.jsp?courseid="+courseId + "&classid=C000";
+	//parent.BodyFrame.location="about:blank";
+
+}
+function goStudent()
+{
+	var courseId=document.studentscores.courselist.value;
+	var studentId=document.studentscores.studentlist.value;
+	var asstype=document.studentscores.Type.value;
+
+	if((courseId.value!="")&&(studentId.value!=""))	
+		window.location="MainStudentScores.jsp?courseid="+courseId+"&studentid="+studentId +"&asstype="+asstype+"&classid=C000";
+	/*else
+		window.location="about:blank";*/
+   
+}
+//-->
+</SCRIPT>
+</head>
+
+<body>
+<form name="studentscores" method="POST" action="--WEBBOT-SELF--">
+<p align="right"><a href="#print">
+<img border="0" src="images/print.jpg" width="52" height="51"></a></p>
+
+<div align="center">
+  <center>
+<table border="0" width="90%" bgcolor="#429EDF" bordercolor="#111111" height="28">
+  <tr>
+    <td width="50%" height="24">&nbsp; <b>
+    <font face="Verdana" size="2" color="#FFFFFF">&nbsp;Student Scores</font></b></td>
+    <td width="50%" height="24" align="right">
+		<b><font face="Verdana" size="2" color="#FFFFFF">
+		<a href="" onclick="index.html">&lt;&lt;&nbsp;Back</a>&nbsp;</font></b>
+	</td>
+  </tr>
+</table>
+  </center>
+</div>
+<br>
+<div align="center">
+  <center>
+<table border="0" cellspacing="0" width="90%" id="AutoNumber1" bgcolor="#429EDF" height="26" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0">
+  <tr>
+    <td width="30%" height="23" colspan="2" bgcolor="#96C8ED">
+		<select id="courselist" name="courselist" onchange="goCourse(); return false;">
+			<option value="selectcourse" selected>Select A Course</option>
+<%
+				while(rs.next())
+				{
+					//courseName=rs.getString("course_name");
+				//	courseId=rs.getString("course_id");
+					out.println("<option value='"+rs.getString("course_id")+"'>"+rs.getString("course_name")+"</option>");
+				}
+				rs.close();
+%>
+		</select>
+		 <script>
+			document.studentscores.courselist.value="<%=courseId%>";	
+		</script> 
+	</td>
+  
+
+	<td width="46%" height="23" colspan="2" bgcolor="#96C8ED" align="center">
+		<select id="studentlist" name="studentlist">
+		<option value="selectstudent" selected>Select A Student</option>
+<%
+			rs=st.executeQuery("select student_id from coursewareinfo_det where school_id='"+schoolId+"' and course_id='"+courseId+"' order by student_id");
+
+		while(rs.next())
+			{
+				
+				//studentId=rs.getString(1);
+				out.println("<option value='"+rs.getString(1)+"'>"+rs.getString(1)+"</option>");
+			}
+			rs.close();
+%>
+		</select>
+
+		 <script>
+			document.studentscores.studentlist.value="<%=studentId%>";	
+		</script> 
+		</td>
+		<td width="14%" height="23" colspan="2" bgcolor="#96C8ED" align="right">
+    <select size="1" name="Type" onchange="goStudent(); return false;" id="Type">
+    <option selected>Select A Type</option>
+    <option value="asmt">Assessment</option>
+    <option value="asgn">Assignment</option>
+    </select>
+	<script>
+					document.studentscores.Type.value="<%=atype%>";	;
+					</script>
+   </tr>
+
+<%
+				if(courseId.equals("selectcourse") || studentId.equals("selectstudent"))
+				{		
+%>
+
+  <tr>
+    <td width="30%" height="23"><font color="#FFFFFF" face="Verdana" size="2"><b>&nbsp;FirstName 
+    LastName</b></font></td>
+    <td width="26%" height="23" colspan="2"><b>
+    <font color="#FFFFFF" face="Verdana" size="2"> studentId </font></b></td>
+    <td>
+    <p align="left"><font color="#FFFFFF" face="Verdana" size="2"><b>Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </b></font><b><font color="#FFFFFF" face="Verdana" size="2">" ?% "</font></b></td>
+  
+</table>
+  </center>
+</div>
+</tr>
+<tr>
+				<td width="100%" colspan="5">
+					<font face="Verdana" size="2"><center>-*****-Please select a course and a student.-*****-</center></font>
+				</td>
+			</tr>
+
+			
+<%
+				}	
+				else 
+				{		
+%>
+		
+	
+<%
+				rs1=st1.executeQuery("select  fname,lname from studentprofile where username='" +studentId +"'" );
+				while(rs1.next())
+					{
+					fname=rs1.getString("fname");
+					lname=rs1.getString("lname");
+					}
+%>
+<tr>
+    <td width="60%" height="23" colspan="4" bgcolor="#FFFFFF">
+    <hr color="#F16C0A"></td>
+  </tr>
+  <tr>
+    <td width="21%" height="23"><font color="#FFFFFF" face="Verdana" size="2"><b>&nbsp;<%=fname%>&nbsp;<%=lname%></b></font></td>
+    <td width="19%" height="23" colspan="2"><b>
+    <font color="#FFFFFF" face="Verdana" size="2"><%= studentId %></font></b></td>
+    <td width="20%" height="23">
+    <p align="left"><font color="#FFFFFF" face="Verdana" size="2"><b>Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </b></font><b><font color="#FFFFFF" face="Verdana" size="2">***</font></b></td>
+  </tr>
+ 
+  <%
+				if(!schoolId.equals(act_schoolId))
+						tmpusr=act_schoolId+"_"+studentId;
+					else
+						tmpusr=studentId;
+				String pretest="category_item_master.grading_system!=0 and ";
+
+				if(atype.equals("asmt")){	
+     query="SELECT act.activity_id,act.Activity_name, CASE WHEN category_item_master.grading_system=0 then '#A9A9A9' else 'Black' end as grading_system,CASE WHEN cescores.category_id='EC' THEN CONCAT('<strike>',cescores.total_marks,'</strike>') WHEN cescores.status=3 THEN CONCAT('<U>',cescores.total_marks,'</U>') else cescores.total_marks end as total_marks,CASE  WHEN cescores.status='1'  THEN CONCAT(cescores.marks_secured,'*') WHEN cescores.status='3'  THEN '*' WHEN DATE_FORMAT(cescores.submit_date,'%m/%d/%Y')= '00/00/0000'  THEN '---' ELSE cescores.marks_secured  END AS marks_secured,IFNULL(Case WHEN DATE_FORMAT( (Select  submitted_date from "+schoolId+"_"+classId+"_"+courseId+"_dropbox where  work_id=cescores.work_id and  student_id=cescores.user_id order by submit_count desc limit 1),'%m/%d/%Y')= '00/00/0000'  THEN 'Not Attempted' else (Select  submitted_date from "+schoolId+"_"+classId+"_"+courseId+"_dropbox where  work_id=cescores.work_id and  student_id=cescores.user_id order by submit_count desc limit 1) end,'Not Attempted') as s_date,DATE_FORMAT(act.t_date, '%m/%d/%Y') as t_date  FROM "+schoolId+"_cescores as cescores,"+schoolId+"_activities act ,category_item_master WHERE cescores.work_id=act.activity_id and category_item_master.item_id=cescores.category_id and  category_item_master.school_id=cescores.school_id  and category_item_master.course_id=cescores.course_id and "+pretest+"  cescores.course_id=act.course_id and cescores.user_id='"+tmpusr+"' and cescores.course_id='"+courseId+"' and cescores.report_status=1 and cescores.school_id='"+schoolId+"'  order by act.Activity_name,category_item_master.grading_system";
+			
+	 rs2=st2.executeQuery(query);	
+
+
+
+	//System.out.println(query);
+				}
+		
+	%>
+
+  
+  
+
+<div align="center">
+  <center>
+<table border="1" cellspacing="1" width="90%" id="AutoNumber2" height="100" bordercolorlight="#E6F2FF">
+  <tr>
+    <td width="25%" align="center" bgcolor="#96C8ED" height="20">
+    <p align="left"><b>
+    <font face="Verdana" size="2">&nbsp;Assignment/Assessment Name</font></b></td>
+    <td width="13%" align="center" bgcolor="#96C8ED" height="20"><b>
+    <font face="Verdana" size="2">Points Possible</font></b></td>
+    <td width="14%" align="center" bgcolor="#96C8ED" height="20"><b>
+    <font face="Verdana" size="2">Points Secured</font></b></td>
+    <td width="14%" align="center" bgcolor="#96C8ED" height="20"><b>
+    <font face="Verdana" size="2">Percentage</font></b></td>
+  </tr>
+ <%
+	while(rs2.next())
+					{
+totalmarks=Float.parseFloat(rs2.getString("total_marks"));
+
+
+	if(rs2.getString("marks_secured").equals("---"))
+						{
+							smarks=rs2.getString("marks_secured");
+							percentage2="N/A";
+						}
+						else
+						{
+							securedmarks=Float.parseFloat(rs2.getString("marks_secured"));
+							percentage1=(securedmarks*100)/totalmarks;
+
+							smarks=Float.toString(securedmarks);
+							percentage2=Float.toString(percentage1)+"%";
+						}
+	%>
+  <tr>
+    <td width="25%" height="19"><font face="Verdana" size="2">&nbsp;<%=rs2.getString("Activity_name")%></font></td>
+    <td width="13%" height="19" align="center"><font face="Verdana" size="2"><%=totalmarks%></font></td>
+    <td width="14%" height="19" align="center"><font face="Verdana" size="2"><%=smarks%></font></td>
+    <td width="14%" height="19" align="center"><font size="2" face="Verdana">	<%=percentage2%></font></td>
+  </tr>
+  <%
+					}
+	}    
+%>
+
+<%
+		}	
+		catch(SQLException se)
+		{
+			System.out.println("Error: SQL -" + se.getMessage());
+		}
+		catch(Exception e)
+		{
+			System.out.println("Error:  -" + e.getMessage());
+		}
+
+%>
+
+
+ 
+ </table>
+  </center>
+</div>
+<hr color="#F16C0A" width="90%" size="1">
+
+</form>
+</body>
+</html>

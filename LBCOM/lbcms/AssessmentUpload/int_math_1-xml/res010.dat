@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="IM Unit 10 Quiz Lessons 1 - 2">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+		
+	<item>
+		<type>Essay</type>
+		<label>Which of the following are equally likely to occur?&lt;br&gt;a.  Rolling a 1 or a 6 on a six-sided number cube.&lt;br&gt;b.  Pulling a black marble from a bag if there are 3 red, 2 blue and 5 black marbles. </label>
+		<credit>4</credit>
+	</item>
+
+
+         <item>
+		<type>Essay</type>
+		<label>State whether the following are experimental or theoretical probabilities. &lt;br&gt;a.  You toss a coin 100 times and keep track of whether it shows up heads or tails. You conclude from this that the probability of tossing it heads up is  47 out of 100. &lt;br&gt;&lt;br&gt;b. There are four choices in a multiple choice question. The probability that you will guess the correct answer is &#188; . </label>
+		<credit>4</credit>
+	</item>
+
+	 <item>
+		<type>Essay</type>
+		<label>You are looking to buy a new car. You can either buy a car with two doors or four doors. The color choices are red, blue, white or black. How many different cars can you choose from?</label>
+		<credit>2</credit>
+	</item>
+
+	<item>
+		<type>Essay</type>
+		<label>You have some money to buy new equipment for the playground. You can either buy a swing, a slide, or a bike. The colors to choose from are red, blue, or green. What is the probability that you buy the green swing?</label>
+		<credit>2</credit>
+	</item>
+
+</assessment>

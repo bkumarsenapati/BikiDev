@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.11 Oral Assessment">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>1. Make sure that you have completed the Oral Assessment as directed in the lesson.
+
+2. Please provide the date you completed the Oral Assessment with your teacher.</label>
+		<credit>20
+</credit>
+	</item>
+</assessment>

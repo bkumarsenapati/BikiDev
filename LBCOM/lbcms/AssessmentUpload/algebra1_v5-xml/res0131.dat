@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="10.03 Review Part 3">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Please refer to the review lessons.</label>
+		<credit>20.0</credit>
+	</item>
+</assessment>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<assessment title="09.09 Thinking Discussion">
+	<distribution>
+		<type>Uniform</type>
+	</distribution>
+	<item>
+		<type>Essay</type>
+		<label>Copy and paste your posting along with the information and date you posted for this discussion.</label>
+		<credit>10</credit>
+	</item>
+</assessment>

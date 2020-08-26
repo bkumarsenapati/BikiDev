@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>.:: Welcome to www.hotschools.net ::. [ for quality eLearning experience ]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body bgcolor="#E08443" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table id="Table_01" width="134" height="400" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+			<img src="images/stud_general.gif" width="134" height="28" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('profile');"><img src="images/stud_mprofile.gif" width="134" height="26" TITLE="Profile" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('organizer');"><img src="images/stud_org.gif" width="134" height="25" TITLE="Organizer" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('notice');"><img src="images/stud_nboard.gif" width="134" height="26" TITLE="Notice Board" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('personaldocs')"><img src="images/stud_perdocs.gif" width="134" height="25" TITLE="Private Docs" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/stud_lmgmt.gif" width="134" height="26" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('courseware');"><img src="images/stud_courseware.gif" width="134" height="25" TITLE="Courseware" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('gradebook');"><img src="images/stud_gbook.gif" width="134" height="25" TITLE="Grade Book" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<img src="images/stud_comm.gif" width="134" height="26" TITLE="" border='0'></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('chat');"><img src="images/stud_chat.gif" width="134" height="25" TITLE="Chat" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('mail');"><img src="images/stud_email.gif" width="134" height="26" TITLE="Email" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return handler('bboards');"><img src="images/stud_bboard.gif" width="134" height="25" TITLE="Forums" border='0'></a></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="javascript://" onclick="return netmeet();"><img src="images/stud_jeclass.gif" width="134" height="26" TITLE="eClassroom" border='0'></a></td>
+	</tr>
+	<tr>
+		<td height="24">
+			&nbsp;</td>
+	</tr>
+	<tr>
+		<td height="42">
+			&nbsp;</td>
+	</tr>
+</table>
+</body>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function handler(anc){
+	if(anc=="profile")
+		parent.main.location.href="/LBCOM/studentAdmin/modifyStudentReg.jsp?mode=modify";
+	else if(anc=="organizer")
+		parent.main.location.href="/LBCOM/studentAdmin.Mediator?mode=organizer";
+	else if(anc=='personaldocs')
+		parent.main.location.href="/LBCOM/studentAdmin.Mediator?mode=personaldocs";
+	else if(anc=='notice')
+		parent.main.location.href="/LBCOM/studentAdmin/PublicFrame.jsp";
+	else if(anc=='courseware')
+		parent.main.location.href="/LBCOM/coursemgmt/student/studentcmindex.jsp";
+	else if(anc=='gradebook')
+		parent.main.location.href="/LBCOM/coursemgmt/reports/GradesByCategory.jsp";
+	else if(anc=='chat')
+		window.open('ShowCourse.jsp' ,'nmwindow','status=0,resizable=no,toolbar=no,menubar=no,titlebar=no,scrollbars=yes,width=750,height=500');
+	else if(anc=='mail')
+		parent.main.location.href="/LBCOM/Commonmail/MailForm.jsp?r1=student";
+	else if(anc=='bboards')
+		parent.main.location.href="/LBCOM/studentAdmin/ShowDirTopics.jsp";
+	return false;
+}
+function netmeet(){
+   if(navigator.userAgent.indexOf('Linux') != -1){    
+        alert("Your Operating System is Linux \n   So, this application can't be launched for you");
+		return false;
+   }
+   else if(navigator.userAgent.indexOf('Mac') != -1){   
+        alert("Your Operating System is Macintosh \n   So, this application can't be launched for you");
+		return false;
+   }
+   else{
+		window.open('/LBCOM/nm/CheckStudentValidity.jsp' ,'nmwindow','status=0,resizable=no,toolbar=no,menubar=no,titlebar=no,scrollbars=yes,width=750,height=500');
+	}
+}
+//-->
+</SCRIPT>
+</html>

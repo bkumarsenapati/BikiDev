@@ -1,0 +1,408 @@
+<html>
+<head><title></title>
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body topmargin="0" leftmargin="0" link="blue" vlink="blue" alink="red">
+<%@  page language="java"  import="java.sql.*,java.util.*,java.lang.*,coursemgmt.ExceptionsFile" %>
+<%@ page errorPage="/ErrorPage.jsp" %>
+<%!
+	String month[]={" ","Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec"};
+%>
+<jsp:useBean id="con1" class="sqlbean.DbBean" scope="page" />
+
+<% 
+	String user=null,schoolid=null,sId=null,topiccount="",replycount="",replydate="",maxdate="",dir="",desc="",ruser="",rdate="",mode1=null,UAruser=null,accessCode="",accessCourse="";
+	String fStatusMsg="",fStatus="",fAltMsg="",forumid=null,crtby=null,utype=null,logtype=null,prvlg=null;
+	Connection con=null;
+	ResultSet rs=null,rs1=null,rs2=null,rs3=null,rs4=null,rs5=null,rs6=null;
+	Statement st=null,st1=null,st2=null,st3=null,st4=null,st5=null,st6=null;
+%>
+<%
+	String sessid=(String)session.getAttribute("sessid");
+	if(sessid==null)
+	{
+		out.println("<html><script> top.location.href='/LBCOM/NoSession.html'; \n </script></html>");
+		return;
+	}
+	String emailid =(String)session.getAttribute("emailid");
+	user = emailid;
+	schoolid =(String)session.getAttribute("schoolid");
+	logtype=(String)session.getAttribute("logintype");
+	mode1=request.getParameter("mode");
+	if(mode1==null)
+	{
+		mode1="";
+	}
+	
+	boolean flag=false;
+
+	try
+	{
+		con = con1.getConnection();
+		st=con.createStatement();
+		st1=con.createStatement();
+		st2=con.createStatement();
+		st3=con.createStatement();
+		st4=con.createStatement();
+		st5=con.createStatement();
+		st6=con.createStatement();
+		rs=st.executeQuery("select privilege from studentprofile where username='"+emailid+"' and schoolid='"+schoolid+"'");
+		if(rs.next())
+			prvlg=rs.getString(1);
+	}
+	catch(Exception ex)
+	{
+		ExceptionsFile.postException("ShowDirTopics.jsp","operations on database","Exception",ex.getMessage());
+		out.println(ex+" its first");
+		try
+		{
+			if(con!=null)
+				con.close();
+		}
+		catch(Exception e)
+		{
+			ExceptionsFile.postException("ShowDirTopics.jsp","closing resultset,statement and connection objects","Exception",e.getMessage());
+			System.out.println("Connection close failed");
+		}
+	}
+%>	
+<p><span style="font-size:10pt;"><font face="Arial" color="blue"><A href="ShowDirTopics.jsp?mode=sree">View unanswered posts</a><font  color="#7F7F7F"> / </font><span style="font-size:10pt;"><font face="Arial" color="blue"><A href="ShowDirTopics.jsp?mode=act">View active posts</A></font></span></p>
+
+	<b>
+		<font color="#660033" face="Verdana" size=1>Date:&nbsp;<%=new java.util.Date()%>
+<%
+	if(prvlg.equals("1"))
+	{
+%>
+		<a href="CreateForum.jsp?utype=student&tag=1">Create Forum</a></b>
+<%
+	}	
+	else
+	{
+%>
+		</b>
+<%
+	}
+%>
+<p><font face="Arial" color="#7F7F7F"><span style="font-size:10pt;"><a href="ShowDirTopics.jsp?mode=findex">Forum Index</a> &gt;</span></font></p>
+
+<table align="center" border="8" cellpadding="0" cellspacing="0" width="100%" bordercolor="#546878" bordercolordark="#546878" bordercolorlight="#546878">
+    <tr>
+        <td width="35%" bgcolor="#546878" height="24">
+            <p align="left"><font face="Arial" color="white"><span style="font-size:10pt;">
+			<%
+
+	if(mode1.equals("sree"))
+			{
+%>
+<b>Forum Name&nbsp;&nbsp;&nbsp;[UnAnswered Forums]</b>
+<%
+}
+else if(mode1.equals("findex"))
+{
+	%>
+	<b>Forum Name&nbsp;&nbsp;&nbsp;[All Forums]</b>
+	<%
+	}else if(mode1.equals("act"))
+{
+	%>
+	<b>Forum Name&nbsp;&nbsp;&nbsp;[Active Forums]</b>
+	<%
+	}
+	%>
+	</span></font></p>
+        </td>
+        <td width="15%" bgcolor="#546878" height="24">
+            <p align="center"><font face="Arial" color="white"><span style="font-size:10pt;"><b>Author</b></span></font></p>
+        </td>
+        <td width="10%" bgcolor="#546878" height="24">
+            <p align="center"><font face="Arial" color="white"><span style="font-size:10pt;"><b>Role</b></span></font></p>
+        </td>
+        <td width="10%" bgcolor="#546878" height="24">
+            <p align="center"><font face="Arial" color="white"><span style="font-size:10pt;"><b>Topics</b></span></font></p>
+        </td>
+        <td width="10%" bgcolor="#546878" height="24">
+            <p align="center"><font face="Arial" color="white"><span style="font-size:10pt;"><b>Replies</b></span></font></p>
+        </td>
+        <td width="20%" bgcolor="#546878" height="24">
+            <p align="center"><font face="Arial" color="white"><span style="font-size:10pt;"><b>Last Reply Posted</b></span></font></p>
+        </td>
+    </tr>
+
+<%
+	try
+	{
+		String queryStr="";
+		rs3=st3.executeQuery("select schoolid from studentprofile where username='"+schoolid+"_"+user+"'");
+		while(rs3.next())
+		{
+			queryStr+="or school_id='"+rs3.getString("schoolid")+"' ";
+		}
+
+		rs=st.executeQuery("select forum_name,forum_id,created_by,creator_type,school_id,forum_desc,status from forum_master where school_id='"+schoolid+"' "+queryStr+" order by forum_id");
+    
+		while(rs.next())
+		{
+			sId=rs.getString("school_id");
+			dir=(rs.getString(1)).trim();
+			forumid=(rs.getString(2)).trim();
+			crtby=(rs.getString(3)).trim();
+			utype=rs.getString(4);
+			fStatus=rs.getString("status");
+			if(fStatus.equals("1"))
+			{
+				fStatusMsg="#E2E2E2";
+				fAltMsg=dir;
+			}
+			else
+			{
+				fStatusMsg="#E2E2E2";
+				fAltMsg="Forum has been Inactivated";
+			}
+			desc=rs.getString(6);
+			if(desc==null)
+			{
+				desc="";
+			}
+			utype=(utype.substring(0,1)).toUpperCase() + utype.substring(1,utype.length());
+			flag=true;
+		
+			rs1=st1.executeQuery("select count(forum_id),max(trans_date) from forum_post_topic_reply where school_id='"+sId+"' and forum_id='"+forumid+"' and trans_type='1'");
+		    if(rs1.next())
+			{ 
+				topiccount=rs1.getString(1);
+				maxdate=rs1.getString(2);
+	        }
+        
+			rs2=st2.executeQuery("select count(*) from forum_post_topic_reply where school_id='"+sId+"' and forum_id='"+forumid+"' and trans_type='2'"); 
+			if(rs2.next())
+				replycount=rs2.getString(1);
+	
+			String lastdate="";
+	        String month[]={"Jan","Feb","Mar","Apr","May","June","July","Aug","Sep","Oct","Nov","Dec"};
+			if((maxdate==null)||(maxdate.equals("0")))
+			{
+				maxdate="  ";
+	            lastdate="No Postings";
+		    }
+			else
+			{
+				try
+				{
+					StringTokenizer stk1=new StringTokenizer(maxdate," ");
+					String str1=stk1.nextToken();
+			        StringTokenizer stk2=new StringTokenizer(str1,"-");
+			        String f1=stk2.nextToken();
+				    String f2=stk2.nextToken();
+					String f3=stk2.nextToken();
+			        int mn1=Integer.parseInt(f2);
+					lastdate=month[(mn1-1)]+" "+f3+","+f1;
+		        }
+				catch(Exception e)
+				{
+					ExceptionsFile.postException("ShowDirTopics.jsp","tokenizing the string","Exception",e.getMessage());
+					lastdate="No Postings";
+		        }
+			}
+
+			rs4=st4.executeQuery("select trans_date,user_id from forum_post_topic_reply where school_id='"+sId+"' and forum_id='"+forumid+"' and trans_type='2' ORDER BY sno DESC LIMIT 1");
+		    if(rs4.next())
+			{ 
+				ruser=rs4.getString("user_id");
+				rdate=rs4.getString("trans_date");
+
+			StringTokenizer stz1=new StringTokenizer(rdate," ");
+			String str1=stz1.nextToken();
+			StringTokenizer stz2=new StringTokenizer(str1,"-");
+			String f1=stz2.nextToken();
+			String f2=stz2.nextToken();
+			String f3=stz2.nextToken();
+			int mnr=Integer.parseInt(f2);
+			replydate=month[(mnr-1)]+" "+f3+","+f1;
+			
+			//replydate=month[(mnr)]+" "+f3+","+f1;
+	        }
+
+			rs5=st5.executeQuery("select user_id from forum_post_topic_reply where  forum_id='"+forumid+"' and school_id='"+schoolid+"' order by sno desc");
+
+			 if(rs5.next())
+			{ 
+				UAruser=rs5.getString("user_id");
+			}
+
+			rs6=st6.executeQuery("select access_code from forum_master where  forum_id='"+forumid+"' and school_id='"+schoolid+"'");
+
+			 if(rs6.next())
+			{ 
+				 				 accessCode=rs6.getString("access_code");
+				
+			}
+
+			rs6=st6.executeQuery("select c.course_id from coursewareinfo c inner join coursewareinfo_det d  on c.course_id=d.course_id and c.school_id=d.school_id where d.student_id='"+emailid+"' and c.status=1 and c.school_id='"+schoolid+"' order by c.course_id");
+
+			 while(rs6.next())
+			{ 
+				accessCourse=rs6.getString("course_id");
+				//out.println("accessCourse is........"+accessCourse);
+				int acode = 0;
+				 while(accessCode.indexOf("S:", acode)!=-1)
+					 {
+					   acode = accessCode.indexOf("S:", acode);
+					   acode+=2;    				
+					 // out.println("AccessCode is........"+accessCode);
+				      accessCode=accessCode.substring(acode,acode+5);
+				//	 out.println("AccessCode is........"+accessCode);
+				
+				if(accessCode.equals(accessCourse))
+				{
+					
+			
+%>	
+<%
+
+	if((mode1.equals("sree") && replycount.equals("0")) || (mode1.equals("sree") && !UAruser.equals(user)) || (mode1.equals("act") && fStatus.equals("1")))
+			{
+%>
+<tr>
+        <td colspan="6" align="center" valign="top" height="25">
+            <table align="center" cellspacing="0" width="100%" bordercolordark="#E3E3E3" bordercolorlight="#E3E3E3" style="border-collapse:collapse;" cellpadding="0">
+                <tr>
+                    <td width="35%" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27" align="left">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#546878" bordercolordark="#546878" bordercolorlight="#546878">
+                            <tr>
+                                <td width="14%">
+                                    <p><img src="images/folder_big.gif" width="46" height="25" border="0"></p>
+                                </td>
+                                <td width="86%">
+                                    <p align="left"><span style="font-size:10pt;"><b><a href="ShowTopics.jsp?sid=<%=sId%>&fid=<%=forumid%>&fname=<%=dir%>&crtby=<%=crtby%>&utype=<%=utype%>&desc=<%=desc%>&topiccount=<%=topiccount%>&replycount=<%=replycount%>&ruser=<%=ruser%>&replydate=<%=replydate%>&mode=sree1"><font face="Arial" color="black"><%=dir%></font></a></b></span><font face="Arial"><span style="font-size:10pt;"><br>
+</span></font><font face="Arial" color="#546878"><span style="font-size:9pt;"><%=desc%></span></font></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="15%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=crtby%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=utype%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=topiccount%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=replycount%></font></span></td>
+                    <td width="20%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27">
+<%
+						if((ruser)!="")
+				{
+%>
+                        <p align="center"><span style="font-size:10pt;"><font face="Arial" color="#546878">by</font></span><font face="Arial"><span style="font-size:10pt;"> </span></font><span style="font-size:10pt;"><font face="Arial" color="blue"><%=ruser%></font></span><font face="Arial"><span style="font-size:10pt;"><img src="images/icon_latest_reply.gif" width="18" height="9" border="0"><br></span></font><font face="Arial" color="#546878"><span style="font-size:9pt;">on&nbsp;<%=replydate%></span></font></p>
+<%
+				}else{
+%>
+                        <p align="center"><span style="font-size:10pt;"><font face="Arial" color="#546878">&nbsp;</font></span><font face="Arial"><span style="font-size:10pt;"> </span></font><span style="font-size:10pt;"><font face="Arial" color="blue">No Postings</font></span><font face="Arial"><span style="font-size:10pt;"><img src="images/icon_latest_reply.gif" width="18" height="9" border="0"><br></span></font><font face="Arial" color="#546878"><span style="font-size:9pt;">&nbsp;</span></font></p>
+<%
+				}
+%>
+                    </td>
+                </tr>
+
+<%
+ruser="";
+replydate="";
+}else if(mode1.equals("findex") && Integer.parseInt(replycount) >=0)
+			{
+%>
+	<tr>
+        <td colspan="6" align="center" valign="top" height="25">
+            <table align="center" cellspacing="0" width="100%" bordercolordark="#E3E3E3" bordercolorlight="#E3E3E3" style="border-collapse:collapse;" cellpadding="0">
+                <tr>
+                    <td width="35%" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27" align="left">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bordercolor="#546878" bordercolordark="#546878" bordercolorlight="#546878">
+                            <tr>
+                                <td width="14%">
+                                    <p><img src="images/folder_big.gif" width="46" height="25" border="0"></p>
+                                </td>
+                                <td width="86%">
+                                    <p align="left"><span style="font-size:10pt;"><b><a href="ShowTopics.jsp?sid=<%=sId%>&fid=<%=forumid%>&fname=<%=dir%>&crtby=<%=crtby%>&utype=<%=utype%>&desc=<%=desc%>&topiccount=<%=topiccount%>&replycount=<%=replycount%>&ruser=<%=ruser%>&replydate=<%=replydate%>&mode=tindex"><font face="Arial" color="black"><%=dir%></font></a></b></span><font face="Arial"><span style="font-size:10pt;"><br>
+</span></font><font face="Arial" color="#546878"><span style="font-size:9pt;"><%=desc%></span></font></p>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="15%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=crtby%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=utype%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=topiccount%></font></span></td>
+                    <td width="10%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27"><span style="font-size:10pt;"><font face="Arial" color="#546878"><%=replycount%></font></span></td>
+                    <td width="20%" align="center" valign="middle" bgcolor="white" style="border-width:1; border-color:rgb(227,227,227); border-style:double;" height="27">
+<%
+						if((ruser)!="")
+				{
+%>
+                        <p align="center"><span style="font-size:10pt;"><font face="Arial" color="#546878">by</font></span><font face="Arial"><span style="font-size:10pt;"> </span></font><span style="font-size:10pt;"><font face="Arial" color="blue"><%=ruser%></font></span><font face="Arial"><span style="font-size:10pt;"><img src="images/icon_latest_reply.gif" width="18" height="9" border="0"><br></span></font><font face="Arial" color="#546878"><span style="font-size:9pt;">on&nbsp;<%=replydate%></span></font></p>
+<%
+				}else{
+%>
+                        <p align="center"><span style="font-size:10pt;"><font face="Arial" color="#546878">&nbsp;</font></span><font face="Arial"><span style="font-size:10pt;"> </span></font><span style="font-size:10pt;"><font face="Arial" color="blue">No Postings</font></span><font face="Arial"><span style="font-size:10pt;"><img src="images/icon_latest_reply.gif" width="18" height="9" border="0"><br></span></font><font face="Arial" color="#546878"><span style="font-size:9pt;">&nbsp;</span></font></p>
+<%
+				}
+%>
+                    </td>
+                </tr>
+
+<%
+	ruser="";
+replydate="";
+			}
+				}
+					 }
+
+	}
+		}
+		if(flag==false)
+		{
+%>
+			<tr><td width="100%">
+            <span style="font-size:10pt;">&nbsp;</span></td></tr>
+			<tr><td width="100%">
+                                    <p align="center"><span style="font-size:10pt;"><-- No Forums Available --></span></td></tr>
+<%
+		}	
+%>
+			</table>
+        </td>
+    </tr>
+</table>
+<%
+	}
+	catch(Exception e)
+	{
+		ExceptionsFile.postException("ShowDirTopics.jsp","operations on database","Exception",e.getMessage());
+		out.println(e+" second");
+	}
+
+	finally
+	{
+		try
+		{
+			if(rs2!=null)
+				rs2.close();
+			if(rs!=null)
+				rs.close();
+			if(rs1!=null)
+				rs.close();
+			if(st2!=null)
+		        st2.close();
+			if(st1!=null)
+				st1.close();
+			if(st!=null)
+				st.close();
+			if(con!=null && !con.isClosed())
+				con.close();
+	    }
+		catch(Exception e)
+		{
+			ExceptionsFile.postException("ShowDirTopics.jsp","closing resultset,statement and connection objects","Exception",e.getMessage());
+			System.out.println("Connection close failed"+e);
+		}
+	}
+%>
+
+</body>
+</html>
+

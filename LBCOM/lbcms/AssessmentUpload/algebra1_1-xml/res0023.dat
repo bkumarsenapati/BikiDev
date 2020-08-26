@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<assessment title="03.12 Test">
+	<distribution>
+		<type>Scramble Grouped</type>
+		<give>24</give>
+		<group id="1">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="2">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="3">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="4">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="5">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="6">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="7">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="8">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="9">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="10">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="11">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="12">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="13">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="14">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="15">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="16">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="17">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="18">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="19">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="20">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="21">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="22">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="23">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+		<group id="24">
+			<groupDistribution>Scramble</groupDistribution>
+			<give>1</give>
+		</group>
+	</distribution>
+	<item>
+		<type>Multiple Choice</type>
+		<group>1</group>
+			<label>Select all the number systems below that describes the number &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_01.gif&gt;. You may make more than one choice.</label>
+			<choice>
+				<choicelabel>real number</choicelabel>
+				<credit>4</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>rational number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>irrational number</choicelabel>
+				<credit>4</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>integer</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>whole number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>counting number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>2</group>
+			<label> Select all the number systems below that describes the number -5. You may make more than one choice.</label>
+			<choice>
+				<choicelabel>real number</choicelabel>
+				<credit>4</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>rational number</choicelabel>
+				<credit>4</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>irrational number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>integer</choicelabel>
+				<credit>4</credit>
+				<elements>checkbox</elements>
+			</choice>
+			<choice>
+				<choicelabel>whole number</choicelabel>
+				<credit></credit>
+				<elements>checkbox</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>Evaluate the expression using the order of operations. 5 + 3(-6) - 4 = </label>
+			<blank>
+				<accepted>-17</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>Evaluate the expression using the order of operations. 5 + 3(-3) - 4 = </label>
+			<blank>
+				<accepted>-8</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>3</group>
+		<label>Evaluate the expression using the order of operations. 5 + 3(-2) - 4 = </label>
+			<blank>
+				<accepted>-5</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>Evaluate the expression using the order of operations. 7(5 - 10) + 2 =</label>
+			<blank>
+				<accepted>-33</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>Evaluate the expression using the order of operations. 7(5 - 9) + 2 =</label>
+			<blank>
+				<accepted>-26</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>4</group>
+		<label>Evaluate the expression using the order of operations. 7(5 - 8) + 2 =</label>
+			<blank>
+				<accepted>-19</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>Evaluate the expression using the order of operations. 4 - (-3 + 8) = </label>
+			<blank>
+				<accepted>-1</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>Evaluate the expression using the order of operations. 4 - (-2 + 8) = </label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>5</group>
+		<label>Evaluate the expression using the order of operations. 4 - (-1 + 8) = </label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>Evaluate the expression using the order of operations. 2(3 – 5) + 4&lt;sup&gt;2&lt;/sup&gt; =</label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>Evaluate the expression using the order of operations. 2(4 – 5) + 3&lt;sup&gt;2&lt;/sup&gt; =</label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>6</group>
+		<label>Evaluate the expression using the order of operations. &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_03.gif&gt;</label>
+			<blank>
+				<accepted>19</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>Evaluate the expression using the order of operations. 6 – (2 – 7) = </label>
+			<blank>
+				<accepted>11</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>Evaluate the expression using the order of operations.
+&lt;br&gt;6 – (3 – 7) = </label>
+			<blank>
+				<accepted>10</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>7</group>
+		<label>Evaluate the expression using the order of operations. 6 – (4 – 7) = </label>
+			<blank>
+				<accepted>9</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>Evaluate the expression using the order of operations.&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_04.gif&gt;</label>
+			<blank>
+				<accepted>3</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>Evaluate the expression using the order of operations.&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_06.gif&gt; </label>
+			<blank>
+				<accepted>12</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>8</group>
+		<label>Evaluate the expression using the order of operations. &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_08.gif&gt;</label>
+			<blank>
+				<accepted>15</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_11.gif&gt;</label>
+			<blank>
+				<accepted>9</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>9</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_13.gif&gt;</label>
+			<blank>
+				<accepted>16</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>10</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_15.gif&gt;</label>
+			<blank>
+				<accepted>-36</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>10</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_17.gif&gt;</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>11</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_19.gif&gt;</label>
+			<blank>
+				<accepted>1</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>12</group>
+		<label> &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_20.gif&gt; </label>
+			<blank>
+				<accepted>25</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>12</group>
+		<label> &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_22.gif&gt; </label>
+			<blank>
+				<accepted>36</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>12</group>
+		<label> &lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_24.gif&gt; </label>
+			<blank>
+				<accepted>16</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>13</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_26.gif&gt;</label>
+			<blank>
+				<accepted>2</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>13</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_27.gif&gt;</label>
+			<blank>
+				<accepted>4</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>13</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_28.gif&gt;</label>
+			<blank>
+				<accepted>6</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>For dinner, Tim paid $4 less than Sara at a local fast food restaurant. Together they spent $10.00. Write an equation for the total amount in terms of x (where x = Sara’s amount paid).</label>
+			<choice>
+				<choicelabel>s – 4t = 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + x – 4 = 10</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 4) =10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>4x - x =10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>14</group>
+			<label>For dinner, Tim paid $2 less than Sara at a local fast food restaurant. Together they spent $10.00. Write an equation for the total amount in terms of x (where x = Sara’s amount paid).</label>
+			<choice>
+				<choicelabel>s – 2t = 10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + x + 2 =10 </choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + x – 2 = 10</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>2x - x =10</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>15</group>
+			<label>Choose the equation that best represents the information below. Five more than twice a number is eight more than three times the number. </label>
+			<choice>
+				<choicelabel>8(3n) = 5(2n)</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>8 + 3n = 5 + n</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>5 + 2n = 8 + 3n</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>3n + 5 = 2n + 8</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Multiple Choice</type>
+		<group>16</group>
+			<label>Choose the equation that best represents the problem below. The sum of three consecutive even integers is 36.</label>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 2) = 36</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 1) + (x + 3) = 36</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + (x + 2) + (x +4) = 36</choicelabel>
+				<credit>4</credit>
+				<elements>radio</elements>
+			</choice>
+			<choice>
+				<choicelabel>x + 2x + 4x = 36</choicelabel>
+				<credit></credit>
+				<elements>radio</elements>
+			</choice>
+	</item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>17</group>
+		<label>8 – 20</label>
+			<blank>
+				<accepted>-12</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>17</group>
+		<label>6 – 20</label>
+			<blank>
+				<accepted>-14</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>18</group>
+		<label>-10 + 15</label>
+			<blank>
+				<accepted>5</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>18</group>
+		<label>-10 + 25 </label>
+			<blank>
+				<accepted>15</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>19</group>
+		<label>-7 - 3 </label>
+			<blank>
+				<accepted>-10</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>19</group>
+		<label>-7 - 2 </label>
+			<blank>
+				<accepted>-9</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>20</group>
+		<label>-5 - (-1) </label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>20</group>
+		<label>-5 - (-2) </label>
+			<blank>
+				<accepted>-3</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>21</group>
+		<label>-8(-2)</label>
+			<blank>
+				<accepted>16</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>21</group>
+		<label>-8(-3)</label>
+			<blank>
+				<accepted>24</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>22</group>
+		<label>-16 divided by 4</label>
+			<blank>
+				<accepted>-4</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>22</group>
+		<label>-16 divided by 8</label>
+			<blank>
+				<accepted>-2</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>23</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_29.gif&gt;</label>
+			<blank>
+				<accepted>8</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Fill In The Blank</type>
+		<group>23</group>
+		<label>&lt;img src=/webdav/res0023/educator_alg1_v5/pictures/mod3/03_10t_30.gif&gt; </label>
+			<blank>
+				<accepted>7</accepted>
+				<credit>4</credit>
+			</blank>
+ </item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>If you show your work, you may receive partial credit. Evaluate each problem when a = -5, b = 3 and c = -2.
+&lt;br&gt;
+&lt;br&gt;a) 2(b + c) 
+&lt;br&gt;
+&lt;br&gt;b) ab - c 
+&lt;br&gt;
+&lt;br&gt;c) 3b/c 
+&lt;br&gt;
+&lt;br&gt;d) (a+c) + (b+a) 
+&lt;br&gt;
+&lt;br&gt;e) 3(a)&lt;sup&gt;2&lt;/sup&gt;                 
+&lt;br&gt;</label>
+		<credit>8</credit>
+	</item>
+	<item>
+		<type>Essay</type>
+		<group>24</group>
+		<label>If you show your work, you may receive partial credit. Evaluate each problem when a = -4, b = 3 and c = -2.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;a) 2(b+c) 
+&lt;br&gt;
+&lt;br&gt;b) ab - c 
+&lt;br&gt;
+&lt;br&gt;c) 3b/c 
+&lt;br&gt;
+&lt;br&gt;d) (a+c) + (b+a) 
+&lt;br&gt;
+&lt;br&gt;e) 3(a)&lt;sup&gt;2&lt;/sup&gt;
+&lt;br&gt;</label>
+		<credit>8</credit>
+	</item>
+</assessment>
